@@ -5,11 +5,12 @@
 @import '@fontsource/nunito/latin-700.css';
 @import '@fontsource/nunito/latin-800.css';
 
+/* Visual aprovado: grafite total + amarelo (mocks/grafite-amarelo.html, variação B). */
 :root {
-  --tinta: #3b2f2a;
-  --creme: #fbf6ee;
-  --ambar: #e7a400;
-  --ambar-claro: #f3c969;
+  --bg1: #2f3340; --bg2: #171a22;
+  --card: #262a35; --bord: #3b4150;
+  --tx: #f5f5f7; --mut: #9aa1b2;
+  --ac: #ffd21f; --actx: #171a22; --sombra: #a88400;
   --titulo: 'Fredoka', 'Nunito', system-ui, sans-serif;
 }
 * { box-sizing: border-box; }
@@ -24,29 +25,192 @@ html, body { margin: 0; height: 100%; overflow: hidden; }
 }
 /* Fundo e #app FIXOS na tela inteira (não pinte o fundo no body nem use height: 100dvh no #app).
    A cor do html é a do fim do degradê, para qualquer sobra sumir. */
-html { background-color: #f6eee2; }
+html { background-color: #171a22; }
 body::before {
   content: ''; position: fixed; inset: 0; z-index: -1;
-  background: radial-gradient(circle at 50% 0%, #fffaf2, #f6eee2 70%);
+  background: radial-gradient(circle at 50% 0%, var(--bg1), var(--bg2) 75%);
 }
 body {
-  font-family: 'Nunito', -apple-system, system-ui, sans-serif; font-weight: 600;
-  color: var(--tinta);
+  font-family: 'Nunito', -apple-system, system-ui, sans-serif; font-weight: 700;
+  color: var(--tx);
   user-select: none; -webkit-user-select: none;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
 }
-/* iPhone: sem zoom de dois toques em lugar nenhum (a grade bloqueia tudo, ver main.ts) */
+/* iPhone: sem zoom de dois toques em lugar nenhum */
 * { touch-action: manipulation; }
 #app {
   position: fixed; inset: 0;
   display: flex; flex-direction: column; align-items: center;
-  padding: max(14px, env(safe-area-inset-top)) 12px max(12px, env(safe-area-inset-bottom));
-  gap: 10px;
+  padding: max(14px, env(safe-area-inset-top)) max(12px, env(safe-area-inset-right)) max(12px, env(safe-area-inset-bottom)) max(12px, env(safe-area-inset-left));
 }
 button { font: inherit; color: inherit; border: 0; background: none; cursor: pointer; padding: 0; }
+button:disabled { cursor: default; }
 svg.ic { fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+h1, h2, h3 { font-family: var(--titulo); font-weight: 700; margin: 0; }
+input {
+  font: inherit; font-weight: 700; color: var(--tx); background: var(--card); border: 2px solid var(--bord);
+  border-radius: 14px; padding: 13px 14px; width: 100%; outline: none; user-select: text; -webkit-user-select: text;
+}
+input:focus { border-color: var(--ac); }
+input::placeholder { color: var(--mut); font-weight: 600; }
 
+.vista { width: 100%; max-width: 560px; height: 100%; overflow-y: auto; overflow-x: hidden; display: flex; flex-direction: column; }
+.vista > main { flex: 1; display: flex; flex-direction: column; gap: 12px; min-height: 0; }
+.inicio, .lobby, .fim, .fimsala { justify-content: center; }
+.dica { margin: 0; text-align: center; color: var(--mut); font-size: 16px; font-weight: 600; }
+.dica b { color: var(--tx); }
+.err { margin: 0; text-align: center; color: var(--ac); font-size: 17px; }
+.lbl { color: var(--mut); font-size: 14px; letter-spacing: .04em; text-transform: uppercase; }
+.lbl.c { text-align: center; }
 
-/* Botões e demais telas do jogo: acrescente abaixo. Identidade: creme + tinta + âmbar (a mesma do Miaudoku). */
-h1 { font-family: var(--titulo); font-weight: 700; margin: 0; }
+/* ---------- Início ---------- */
+.logo { text-align: center; margin: 4px 0 6px; }
+.logo span { display: block; font-family: var(--titulo); font-size: clamp(38px, 11vw, 56px); line-height: 1; color: var(--ac); }
+.logo small { display: block; margin-top: 6px; font-size: 18px; color: var(--mut); font-weight: 600; }
+.logo.peq span { font-size: 34px; }
+.acc { display: flex; align-items: center; gap: 10px; background: var(--card); border: 2px solid var(--bord); border-radius: 16px; padding: 10px 12px; }
+.av { flex: none; width: 40px; height: 40px; border-radius: 50%; background: var(--ac); color: var(--actx); display: grid; place-items: center; font-family: var(--titulo); font-size: 20px; }
+.ai { flex: 1; min-width: 0; }
+.ai b { display: block; font-size: 17px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ai small { display: block; color: var(--mut); font-size: 13px; font-weight: 600; }
+.link { color: var(--mut); font-size: 15px; padding: 8px; text-decoration: underline; }
+.link.on { color: var(--ac); }
+.link.centro { align-self: center; }
+.voltar { align-self: flex-start; color: var(--ac); font-size: 20px; padding: 8px 4px; }
+.cta { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; width: 100%; min-height: 60px; padding: 12px; border-radius: 18px; background: var(--card); border: 2px solid var(--bord); box-shadow: 0 4px 0 var(--bord); font-family: var(--titulo); font-size: 21px; }
+.cta small { font-family: 'Nunito', sans-serif; font-size: 14px; color: var(--mut); font-weight: 600; }
+.cta.big { background: var(--ac); border-color: var(--ac); color: var(--actx); box-shadow: 0 4px 0 var(--sombra); min-height: 68px; font-size: 24px; }
+.cta.big small { color: #4a3d00; }
+.cta.sm { width: auto; min-height: 52px; padding: 10px 16px; font-size: 18px; flex: none; }
+.cta:active:not(:disabled) { transform: translateY(3px); box-shadow: 0 1px 0 var(--bord); }
+.cta.big:active:not(:disabled) { box-shadow: 0 1px 0 var(--sombra); }
+.cta:disabled { opacity: .45; }
+a.cta { text-decoration: none; color: inherit; }
+.entrar { display: flex; gap: 10px; }
+.entrar input { text-transform: uppercase; letter-spacing: .2em; text-align: center; flex: 1; min-width: 0; }
+.foot { margin: 4px 0 0; text-align: center; color: var(--mut); font-size: 14px; font-weight: 600; }
+
+/* ---------- Barra do topo ---------- */
+.bar { display: flex; align-items: center; gap: 12px; flex: none; }
+.ib { width: 44px; height: 44px; border-radius: 14px; background: var(--card); border: 2px solid var(--bord); font-size: 26px; line-height: 1; display: grid; place-items: center; }
+.prog { display: flex; flex-direction: column; }
+.prog small { color: var(--mut); font-size: 13px; font-weight: 600; }
+.prog b { font-family: var(--titulo); font-size: 22px; }
+.cod { letter-spacing: .25em; color: var(--ac); }
+
+/* ---------- Tela de jogo: pergunta em cima, teclado embaixo (deitado: lado a lado) ---------- */
+.jogo { display: grid !important; grid-template-rows: auto auto 1fr; gap: 10px; }
+.jogo .esq { display: flex; flex-direction: column; gap: 10px; min-height: 0; }
+.jogo .dir { display: flex; flex-direction: column; gap: 10px; min-height: 0; }
+.card { background: var(--card); border: 2px solid var(--bord); border-radius: 20px; padding: 14px 16px; text-align: center; }
+.card .cat { display: inline-block; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--ac); margin-bottom: 6px; }
+.card .q { font-family: var(--titulo); font-size: clamp(20px, 5.4vw, 27px); line-height: 1.2; font-weight: 600; }
+.card .un { margin-top: 8px; font-size: 15px; color: var(--mut); font-weight: 600; }
+.tempo { display: flex; align-items: center; gap: 10px; }
+.tempo span { font-family: var(--titulo); font-size: 22px; min-width: 52px; text-align: right; }
+.tempo span.low { color: #ff6b6b; }
+.trilho { flex: 1; height: 12px; border-radius: 8px; background: var(--card); border: 2px solid var(--bord); overflow: hidden; }
+.trilho i { display: block; height: 100%; width: 100%; background: var(--ac); transition: width .2s linear; }
+
+.chute { flex: 1; display: flex; flex-direction: column; gap: 10px; min-height: 0; }
+.visor { flex: none; background: var(--card); border: 3px solid var(--ac); border-radius: 16px; text-align: center; font-family: var(--titulo); font-size: clamp(32px, 9vw, 46px); line-height: 1.2; padding: 6px 10px; min-height: 64px; overflow: hidden; white-space: nowrap; }
+.visor .vazio { color: var(--mut); font-size: 22px; font-weight: 600; }
+.visor.trav { border-color: var(--bord); }
+.teclas { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 8px; }
+.k { background: var(--card); border: 2px solid var(--bord); border-radius: 16px; box-shadow: 0 3px 0 var(--bord); font-family: var(--titulo); font-size: clamp(28px, 8vw, 40px); display: grid; place-items: center; min-height: 52px; }
+.k:active:not(:disabled) { background: var(--bord); transform: translateY(2px); box-shadow: 0 1px 0 var(--bord); }
+.k:disabled { opacity: .4; }
+.k.ap { color: var(--mut); }
+
+.espera { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; text-align: center; }
+.espera b { font-family: var(--titulo); font-size: 28px; color: var(--ac); }
+.espera span { font-family: var(--titulo); font-size: 44px; }
+.espera small { color: var(--mut); font-size: 16px; font-weight: 600; }
+
+/* ---------- Resposta / resultado ---------- */
+.resp { text-align: center; }
+.resp small { display: block; color: var(--mut); font-size: 15px; font-weight: 600; }
+.resp b { display: block; font-family: var(--titulo); font-size: clamp(44px, 13vw, 64px); color: var(--ac); line-height: 1.1; }
+.resp span { color: var(--mut); font-size: 17px; font-weight: 600; }
+.veredito { background: var(--card); border: 2px solid var(--bord); border-radius: 16px; padding: 12px 14px; text-align: center; }
+.veredito strong { display: block; font-family: var(--titulo); font-size: 24px; }
+.veredito span { color: var(--mut); font-size: 17px; font-weight: 600; }
+.veredito.mosca { background: var(--ac); border-color: var(--ac); color: var(--actx); }
+.veredito.mosca span { color: #4a3d00; }
+.lista { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.lista li { display: flex; align-items: center; gap: 10px; background: var(--card); border: 2px solid var(--bord); border-radius: 14px; padding: 9px 12px; font-size: 18px; }
+.lista li.vence { background: var(--ac); border-color: var(--ac); color: var(--actx); }
+.lista li.mudo { opacity: .55; }
+.nm { flex: 1; min-width: 0; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+.nm em { font-style: normal; font-size: 12px; opacity: .7; margin-left: 4px; }
+.vl { text-align: right; line-height: 1.1; }
+.vl b { display: block; font-family: var(--titulo); font-size: 21px; }
+.vl small { font-size: 12px; font-weight: 600; opacity: .8; }
+.pt { font-style: normal; font-family: var(--titulo); font-size: 22px; min-width: 30px; text-align: right; }
+.pl { font-family: var(--titulo); min-width: 30px; }
+.dot { flex: none; width: 32px; height: 32px; border-radius: 50%; background: var(--c); color: #171a22; display: grid; place-items: center; font-style: normal; font-family: var(--titulo); font-size: 16px; }
+.prox { height: 6px; border-radius: 4px; background: var(--card); overflow: hidden; flex: none; }
+.prox i { display: block; height: 100%; width: 100%; background: var(--ac); }
+
+/* ---------- Sala: lobby e fim ---------- */
+.linkrow { display: flex; gap: 8px; }
+.linkrow input { min-width: 0; font-size: 14px; }
+.sec { display: flex; justify-content: space-between; font-size: 20px; margin-top: 4px; }
+.sec span { color: var(--mut); }
+.opc { display: flex; flex-direction: column; gap: 6px; }
+.opc small { color: var(--mut); font-size: 14px; font-weight: 600; }
+.opc div { display: flex; gap: 8px; }
+.opc button { flex: 1; min-height: 52px; border-radius: 14px; background: var(--card); border: 2px solid var(--bord); font-family: var(--titulo); font-size: 22px; }
+.opc button.on { background: var(--ac); border-color: var(--ac); color: var(--actx); }
+.winner { text-align: center; font-size: clamp(34px, 10vw, 48px); color: var(--ac); margin: 0; }
+.nota { text-align: center; }
+.nota b { font-family: var(--titulo); font-size: clamp(80px, 24vw, 120px); color: var(--ac); line-height: 1; }
+.nota small { display: block; color: var(--mut); font-size: 20px; font-weight: 600; }
+.novo { margin: 0; text-align: center; color: var(--ac); font-family: var(--titulo); font-size: 24px; }
+.ov { position: fixed; inset: 0; background: rgba(10, 12, 16, .8); display: grid; place-items: center; padding: 20px; z-index: 20; }
+.ovc { background: var(--card); border: 2px solid var(--bord); border-radius: 22px; padding: 20px; width: 100%; max-width: 380px; display: flex; flex-direction: column; gap: 12px; text-align: center; }
+.ovc p { margin: 0; color: var(--mut); font-size: 16px; font-weight: 600; }
+
+/* ---------- Telas largas ou deitadas: pergunta à esquerda, teclado à direita ---------- */
+@media (min-aspect-ratio: 5/4) {
+  .vista { max-width: 980px; }
+  .jogo { grid-template-columns: 1fr 1fr; grid-template-rows: auto 1fr; column-gap: 16px; }
+  .jogo .bar { grid-column: 1 / -1; }
+  .jogo .esq { justify-content: center; }
+  .k { min-height: 0; }
+}
+@media (max-height: 460px) {
+  #app { padding-top: max(6px, env(safe-area-inset-top)); padding-bottom: max(6px, env(safe-area-inset-bottom)); }
+  .card { padding: 8px 12px; }
+  .card .q { font-size: 18px; }
+  .card .un { margin-top: 4px; font-size: 13px; }
+  .visor { min-height: 44px; font-size: 28px; padding: 2px 8px; }
+  .teclas { gap: 5px; }
+  .k { font-size: 24px; border-radius: 12px; }
+  .cta.big { min-height: 48px; font-size: 20px; }
+  .ib { width: 38px; height: 38px; }
+  .prog b { font-size: 18px; }
+  .jogo { gap: 6px; }
+  .resp b { font-size: 40px; }
+  .vista > main { gap: 7px; }
+  .logo { margin: 0; }
+  .logo span { font-size: 30px; }
+  .logo small { font-size: 14px; margin-top: 2px; }
+  .cta { min-height: 46px; font-size: 18px; padding: 6px 10px; }
+  .cta small { display: none; }
+  .acc { padding: 6px 10px; }
+  .av { width: 32px; height: 32px; font-size: 16px; }
+  input { padding: 8px 12px; }
+  .foot, .dica { font-size: 13px; }
+  .nota b { font-size: 64px; }
+  .nota small { font-size: 15px; }
+  .lista li { padding: 5px 10px; font-size: 16px; }
+  .dot { width: 26px; height: 26px; font-size: 13px; }
+  .opc button { min-height: 40px; font-size: 18px; }
+  .winner { font-size: 30px; }
+  .foot, .sec, .lobby .dica { display: none; }
+  .opc { flex-direction: row; align-items: center; }
+  .opc small { flex: none; width: 90px; }
+  .linkrow input { padding: 6px 10px; }
+}
