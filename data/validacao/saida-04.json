@@ -1,0 +1,794 @@
+[
+ {
+  "id": "c0298",
+  "resposta": 46.5,
+  "fonte": "Guinness World Records / Ann Emerg Med 1982",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0299",
+  "resposta": 1967,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0300",
+  "resposta": 1928,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0301",
+  "resposta": 1796,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0302",
+  "resposta": 1895,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0303",
+  "resposta": 1980,
+  "fonte": "OMS (declaração em maio de 1980)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0304",
+  "resposta": 1978,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0305",
+  "resposta": 1953,
+  "fonte": "Nature 1953",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0306",
+  "resposta": 1921,
+  "fonte": "Wikipedia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Descoberta em 1921; purificação/primeiro uso clínico em 1922."
+ },
+ {
+  "id": "c0307",
+  "resposta": 1885,
+  "fonte": "Wikipedia (Joseph Meister)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0308",
+  "resposta": 2020,
+  "fonte": "Margaret Keenan, 8/12/2020",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0309",
+  "resposta": 2003,
+  "fonte": "NHGRI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0310",
+  "resposta": 20,
+  "fonte": "Referência médica geral",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0311",
+  "resposta": 20000,
+  "fonte": "Referência médica geral",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0312",
+  "resposta": 3,
+  "fonte": "Wikipedia (estribo ~2-3 mm)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Fontes dão 2,8 a 3 mm."
+ },
+ {
+  "id": "c0313",
+  "resposta": 6,
+  "fonte": "Referência fisiológica (TLC ~6 L)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Varia 5,5 a 6-7 L conforme fonte."
+ },
+ {
+  "id": "c0314",
+  "resposta": 1.25,
+  "fonte": "Referência dermatológica (~1,25 cm/mês)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Fontes dão 1 a 1,25 cm."
+ },
+ {
+  "id": "c0315",
+  "resposta": 3,
+  "fonte": "Referência dermatológica (~3 mm/mês)",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0316",
+  "resposta": 3,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0317",
+  "resposta": 120,
+  "fonte": "Fisiologia (fibras Aα)",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0318",
+  "resposta": 95,
+  "fonte": "Mayo Clinic: normal 95-100%",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Abaixo de 95% alterado; hipoxemia clara abaixo de 90%."
+ },
+ {
+  "id": "c0319",
+  "resposta": 0.8,
+  "fonte": "RDA/NIH",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0320",
+  "resposta": 64,
+  "fonte": "USDA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0321",
+  "resposta": 95,
+  "fonte": "USDA (maçã média ~95)",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0322",
+  "resposta": 75,
+  "fonte": "USDA (fatia ~67-80)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Varia de 66 a 80 kcal por marca/tamanho."
+ },
+ {
+  "id": "c0323",
+  "resposta": 535,
+  "fonte": "USDA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0324",
+  "resposta": 87,
+  "fonte": "USDA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0325",
+  "resposta": 387,
+  "fonte": "USDA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0326",
+  "resposta": 90,
+  "fonte": "NIH ODS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0327",
+  "resposta": 31,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0328",
+  "resposta": 5,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0329",
+  "resposta": 3,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0330",
+  "resposta": 4,
+  "fonte": "Atwater",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0331",
+  "resposta": 194,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0332",
+  "resposta": 175,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0333",
+  "resposta": 181,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0334",
+  "resposta": 195,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0335",
+  "resposta": 212,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0336",
+  "resposta": 201,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0337",
+  "resposta": 81,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0338",
+  "resposta": 88,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0339",
+  "resposta": 102,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0340",
+  "resposta": 130,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0341",
+  "resposta": 169,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0342",
+  "resposta": 152,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0343",
+  "resposta": 109,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0344",
+  "resposta": 142,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0345",
+  "resposta": 155,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0346",
+  "resposta": 124,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0347",
+  "resposta": 154,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0348",
+  "resposta": 178,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0349",
+  "resposta": 11,
+  "fonte": "Academy",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0350",
+  "resposta": 7,
+  "fonte": "Academy",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0351",
+  "resposta": 4,
+  "fonte": "Academy",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0352",
+  "resposta": 4,
+  "fonte": "Academy",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0353",
+  "resposta": 34.3,
+  "fonte": "Academy (13,5 pol)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0354",
+  "resposta": 14,
+  "fonte": "Academy",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0355",
+  "resposta": 3,
+  "fonte": "Academy / CNN Brasil",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0356",
+  "resposta": 236,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0357",
+  "resposta": 62,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0358",
+  "resposta": 73,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0359",
+  "resposta": 121,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0360",
+  "resposta": 180,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0361",
+  "resposta": 201,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0362",
+  "resposta": 208,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0363",
+  "resposta": 86,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0364",
+  "resposta": 96,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0365",
+  "resposta": 11,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0366",
+  "resposta": 179,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0367",
+  "resposta": 100,
+  "fonte": "Infopédia/Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0368",
+  "resposta": 221,
+  "fonte": "Wikipedia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Fontes variam (221 na maioria; reprises diferem)."
+ },
+ {
+  "id": "c0369",
+  "resposta": 204,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0370",
+  "resposta": 93,
+  "fonte": "Nasc. 12/12/1930, morte 17/8/2024",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0371",
+  "resposta": 82,
+  "fonte": "Nasc. 23/10/1940, morte 29/12/2022",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0372",
+  "resposta": 20,
+  "fonte": "Guinness/Billboard",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0373",
+  "resposta": 12,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0374",
+  "resposta": 13,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0375",
+  "resposta": 17,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0376",
+  "resposta": 30,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0377",
+  "resposta": 40,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0378",
+  "resposta": 8,
+  "fonte": "Grammy.com",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0379",
+  "resposta": 9,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0380",
+  "resposta": 7,
+  "fonte": "Billboard",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0381",
+  "resposta": 50,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0382",
+  "resposta": 355,
+  "fonte": "5min55s = 355",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0383",
+  "resposta": 9,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0384",
+  "resposta": 41,
+  "fonte": "Wikipedia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "41 numeradas (K.550/551); catálogo total ~47-68 conforme contagem."
+ },
+ {
+  "id": "c0385",
+  "resposta": 35,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0386",
+  "resposta": 42,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0387",
+  "resposta": 27,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0388",
+  "resposta": 36,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0389",
+  "resposta": 44,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0390",
+  "resposta": 10,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0391",
+  "resposta": 11,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0392",
+  "resposta": 8,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0393",
+  "resposta": 7,
+  "fonte": "Wikipedia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0394",
+  "resposta": 11,
+  "fonte": "Wikipedia (11 pol)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0395",
+  "resposta": 687,
+  "fonte": "Harry Potter Wiki",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0396",
+  "resposta": 14,
+  "fonte": "Harry Potter Wiki (7+7)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ }
+]

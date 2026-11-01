@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0496",
+  "q": "Qual é a velocidade da Terra em torno do Sol, em km/s?",
+  "unidade": "km/s"
+ },
+ {
+  "id": "c0497",
+  "q": "Qual é a velocidade necessária para escapar da gravidade da Terra, em km/s?",
+  "unidade": "km/s"
+ },
+ {
+  "id": "c0498",
+  "q": "Qual é o raio médio da Terra, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0499",
+  "q": "Qual é a circunferência da Terra na linha do Equador, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0500",
+  "q": "Qual a porcentagem da superfície da Terra coberta por água?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0501",
+  "q": "Qual é a temperatura máxima do dia na Lua, em °C?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0502",
+  "q": "Qual é a temperatura máxima do dia em Mercúrio, em °C?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0503",
+  "q": "Quantas constelações oficiais existem no céu?",
+  "unidade": "constelações"
+ },
+ {
+  "id": "c0504",
+  "q": "Quantas missões fez o programa do Ônibus Espacial (Space Shuttle) da NASA?",
+  "unidade": "missões"
+ },
+ {
+  "id": "c0505",
+  "q": "Quanto dura um dia em Marte, em horas (com uma casa decimal)?",
+  "unidade": "horas"
+ },
+ {
+  "id": "c0506",
+  "q": "Quanto dura um dia em Júpiter, em horas (com uma casa decimal)?",
+  "unidade": "horas"
+ },
+ {
+  "id": "c0507",
+  "q": "Qual é o diâmetro de Plutão, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0508",
+  "q": "Qual é o diâmetro da Lua, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0509",
+  "q": "Qual é o diâmetro de Ganimedes, maior lua do Sistema Solar, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0510",
+  "q": "Qual é a inclinação do eixo de Urano, em graus (arredondado)?",
+  "unidade": "graus"
+ },
+ {
+  "id": "c0511",
+  "q": "A que altitude orbita um satélite geoestacionário, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0512",
+  "q": "A que altitude fica a linha de Kármán, onde começa o espaço, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0513",
+  "q": "Quantas vezes a massa da Terra cabe na massa do Sol (arredondado)?",
+  "unidade": "vezes"
+ },
+ {
+  "id": "c0514",
+  "q": "Quanto vale o número e (de Euler), com três casas decimais?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0515",
+  "q": "Quanto vale a razão áurea (phi), com três casas decimais?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0516",
+  "q": "Quanto vale a raiz quadrada de 2, com três casas decimais?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0517",
+  "q": "Qual é a soma de todos os números de 1 a 100?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0518",
+  "q": "Quanto é 10 fatorial (10!)?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0519",
+  "q": "Quanto é 2 elevado a 20?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0520",
+  "q": "Quanto é 2 elevado a 32?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0521",
+  "q": "Quantos números primos existem abaixo de 100?",
+  "unidade": "primos"
+ },
+ {
+  "id": "c0522",
+  "q": "Quantos números primos existem abaixo de 1000?",
+  "unidade": "primos"
+ },
+ {
+  "id": "c0523",
+  "q": "Quantos zeros tem um googol (1 seguido de zeros)?",
+  "unidade": "zeros"
+ },
+ {
+  "id": "c0524",
+  "q": "Qual é o 20º número da sequência de Fibonacci (1, 1, 2, 3, 5...)?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0525",
+  "q": "Qual é o segundo número perfeito (soma dos seus divisores, sem ele, dá ele mesmo; o primeiro é 6)?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0526",
+  "q": "Qual é o terceiro número perfeito?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0527",
+  "q": "Quantas diagonais tem um decágono (10 lados)?",
+  "unidade": "diagonais"
+ },
+ {
+  "id": "c0528",
+  "q": "Quantas faces tem um icosaedro?",
+  "unidade": "faces"
+ },
+ {
+  "id": "c0529",
+  "q": "Qual é o menor número que é soma de dois cubos de duas maneiras diferentes (número de Ramanujan)?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0530",
+  "q": "Quanto vale a soma de todos os números de uma roleta (de 0 a 36)?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0531",
+  "q": "Quantos segundos tem um dia?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0532",
+  "q": "Quantos segundos tem um ano de 365 dias?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0533",
+  "q": "Qual é a pressão atmosférica ao nível do mar, em mmHg?",
+  "unidade": "mmHg"
+ },
+ {
+  "id": "c0534",
+  "q": "Qual é a densidade do ouro, em g/cm³ (arredondado a uma casa)?",
+  "unidade": "g/cm³"
+ },
+ {
+  "id": "c0535",
+  "q": "A que temperatura ferve o álcool etílico (etanol), em °C (arredondado)?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0536",
+  "q": "A que temperatura o chumbo derrete, em °C (arredondado)?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0537",
+  "q": "A que temperatura o alumínio derrete, em °C (arredondado)?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0538",
+  "q": "Qual a frequência de uma nota Lá de afinação padrão, em Hz?",
+  "unidade": "Hz"
+ },
+ {
+  "id": "c0539",
+  "q": "Qual é a maior frequência de som que o ouvido humano capta, em Hz (valor convencional)?",
+  "unidade": "Hz"
+ },
+ {
+  "id": "c0540",
+  "q": "Qual a porcentagem de nitrogênio no ar que respiramos?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0541",
+  "q": "Quantos trilhões de km tem um ano-luz (duas casas decimais)?",
+  "unidade": "trilhões de km"
+ },
+ {
+  "id": "c0542",
+  "q": "Quantos gols foram marcados em toda a Copa do Mundo de 2022, no Catar?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0543",
+  "q": "Quantos gols foram marcados em toda a Copa do Mundo de 2014, no Brasil?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0544",
+  "q": "Quantos gols foram marcados em toda a Copa do Mundo de 1954, na Suíça (a de maior média de gols por jogo)?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0545",
+  "q": "Quantos gols Miroslav Klose marcou em Copas do Mundo (recorde histórico)?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0546",
+  "q": "Quantos gols Ronaldo Fenômeno marcou em Copas do Mundo?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0547",
+  "q": "Quantos gols Pelé marcou em Copas do Mundo?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0548",
+  "q": "Quantos gols Just Fontaine marcou na Copa de 1958 (recorde de gols em uma só Copa)?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0549",
+  "q": "Com quantos anos Pelé disputou a final da Copa do Mundo de 1958?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0550",
+  "q": "Quantas seleções disputam a Copa do Mundo de 2026?",
+  "unidade": "seleções"
+ },
+ {
+  "id": "c0551",
+  "q": "Quantos jogos tem a Copa do Mundo de 2026, no formato com 48 seleções?",
+  "unidade": "jogos"
+ },
+ {
+  "id": "c0552",
+  "q": "Quantos jogos foram disputados na Copa do Mundo de 2022?",
+  "unidade": "jogos"
+ },
+ {
+  "id": "c0553",
+  "q": "Quantas Copas do Mundo masculinas o Brasil já ganhou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0554",
+  "q": "Quantas pessoas estavam no estádio na final da Copa de 2022, entre Argentina e França?",
+  "unidade": "pessoas"
+ },
+ {
+  "id": "c0555",
+  "q": "Quantos gols Messi marcou na Copa do Mundo de 2022?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0556",
+  "q": "Quantos gols Ronaldo Fenômeno marcou na Copa de 2002?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0557",
+  "q": "Quantas cidades-sede receberam jogos da Copa do Mundo de 2014 no Brasil?",
+  "unidade": "cidades"
+ },
+ {
+  "id": "c0558",
+  "q": "Quantos gols a craque Marta marcou em Copas do Mundo femininas (recorde histórico)?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0559",
+  "q": "Quantos ouros olímpicos Michael Phelps ganhou na carreira?",
+  "unidade": "medalhas de ouro"
+ },
+ {
+  "id": "c0560",
+  "q": "Quantas medalhas de ouro Michael Phelps ganhou só nos Jogos de Pequim 2008?",
+  "unidade": "medalhas de ouro"
+ },
+ {
+  "id": "c0561",
+  "q": "Quantas medalhas de ouro olímpicas Usain Bolt tem oficialmente?",
+  "unidade": "medalhas de ouro"
+ },
+ {
+  "id": "c0562",
+  "q": "Qual é o recorde mundial dos 100 metros rasos masculino, de Usain Bolt, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0563",
+  "q": "Qual é o recorde mundial dos 200 metros rasos masculino, de Usain Bolt, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0564",
+  "q": "Qual é a distância oficial de uma maratona, em quilômetros?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0565",
+  "q": "Qual é o recorde mundial de salto em altura masculino, do cubano Sotomayor, em metros (dado de 2025)?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0566",
+  "q": "Qual é o recorde mundial de salto em distância masculino, de Mike Powell, em metros (dado de 2025)?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0567",
+  "q": "Qual é o recorde mundial do arremesso de peso masculino, de Randy Barnes, em metros (dado de 2025)?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0568",
+  "q": "Qual é o recorde mundial de lançamento de martelo masculino, de Yuriy Sedykh, em metros (dado de 2025)?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0569",
+  "q": "Qual é o recorde mundial dos 400 metros rasos masculino, de Wayde van Niekerk, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0570",
+  "q": "Qual é o recorde mundial dos 800 metros masculino, de David Rudisha, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0571",
+  "q": "Qual é o recorde mundial dos 1500 metros masculino, de Hicham El Guerrouj, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0572",
+  "q": "Qual é o recorde mundial dos 100 metros rasos feminino, de Florence Griffith-Joyner, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0573",
+  "q": "Qual é o recorde mundial dos 50 metros livres masculino na piscina, do brasileiro Cesar Cielo, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0574",
+  "q": "Qual é o comprimento de uma piscina olímpica, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0575",
+  "q": "Quantos anéis tem o símbolo das Olimpíadas?",
+  "unidade": "anéis"
+ },
+ {
+  "id": "c0576",
+  "q": "Quantas medalhas o Brasil ganhou nos Jogos Olímpicos de Tóquio (2020, disputados em 2021)?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c0577",
+  "q": "Quantas medalhas o Brasil ganhou nos Jogos Olímpicos de Paris 2024?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c0578",
+  "q": "Quantas medalhas olímpicas Rebeca Andrade tem na carreira (dado de 2025)?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c0579",
+  "q": "Qual foi a marca da ouro olímpico de Maurren Maggi no salto em distância em Pequim 2008, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0580",
+  "q": "Qual foi a marca de Thiago Braz no salto com vara que lhe deu o ouro no Rio 2016 (recorde olímpico), em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0581",
+  "q": "Quantos pontos Oscar Schmidt fez ao todo em Jogos Olímpicos (recorde histórico)?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0582",
+  "q": "Quantos títulos mundiais de Fórmula 1 Michael Schumacher conquistou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0583",
+  "q": "Quantas vitórias Lewis Hamilton tem na Fórmula 1 (dado de 2025)?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c0584",
+  "q": "Quantas vitórias Michael Schumacher teve na Fórmula 1?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c0585",
+  "q": "Quantas vitórias Ayrton Senna teve na Fórmula 1?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c0586",
+  "q": "Quantos títulos mundiais de Fórmula 1 Nelson Piquet conquistou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0587",
+  "q": "Quantas voltas tem o Grande Prêmio de São Paulo de F1 em Interlagos?",
+  "unidade": "voltas"
+ },
+ {
+  "id": "c0588",
+  "q": "Qual é o comprimento do circuito de Spa-Francorchamps, na Bélgica, em quilômetros?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0589",
+  "q": "Qual é o tempo do pit stop mais rápido da história da F1, da McLaren no Catar em 2023, em segundos (dado de 2025)?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0590",
+  "q": "Quantas corridas Max Verstappen venceu na temporada de 2023 (de 22 provas)?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c0591",
+  "q": "Quantos pontos ganha o vencedor de um GP de Fórmula 1 hoje?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0592",
+  "q": "Com quantos anos Ayrton Senna morreu?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0593",
+  "q": "Quantas corridas teve a temporada de Fórmula 1 de 2024?",
+  "unidade": "corridas"
+ },
+ {
+  "id": "c0594",
+  "q": "Quantos títulos de Grand Slam Roger Federer ganhou?",
+  "unidade": "títulos"
+ }
+]

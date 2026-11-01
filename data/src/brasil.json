@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Quantos milhões de habitantes tinha o estado de São Paulo no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 44.41,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado de Minas Gerais no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 20.54,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Rio de Janeiro no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 16.06,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado de Bahia no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 14.14,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Paraná no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 11.44,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Rio Grande do Sul no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 10.88,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado de Pernambuco no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 9.06,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Ceará no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 8.79,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Pará no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 8.12,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado de Santa Catarina no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 7.61,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Maranhão no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 6.78,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Amazonas no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.94,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Mato Grosso no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.66,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o Distrito Federal no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.82,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado de Goiás no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 7.06,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado do Espírito Santo no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.83,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o estado de Paraíba no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.97,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o Brasil no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 203.08,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha o estado de Roraima no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 637,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha o estado do Amapá no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 734,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha o estado do Acre no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 830,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de São Paulo no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 11.45,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Rio de Janeiro no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 6.21,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Fortaleza no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.43,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Salvador no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.42,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Belo Horizonte no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.32,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Manaus no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.06,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Curitiba no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.77,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Recife no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.49,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Goiânia no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.44,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Porto Alegre no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.33,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Belém no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.3,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de São Luís no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.04,
+  "fonte": "Censo 2022 (IBGE)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Cuiabá no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 651,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Porto Velho no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 460,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Boa Vista no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 413,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Maceió no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 958,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Campo Grande no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 898,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Teresina no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 866,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de João Pessoa no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 834,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Natal no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 751,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Aracaju no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 603,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Florianópolis no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 537,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Macapá no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 443,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Rio Branco no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 365,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Vitória no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 323,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhares de habitantes tinha a cidade de Palmas no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta": 303,
+  "fonte": "Censo 2022 (IBGE) - Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Amazonas, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 1559,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a área do estado do Pará, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 1246,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Mato Grosso, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 903,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado de Minas Gerais, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 587,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado de Bahia, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 565,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado de São Paulo, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 248,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Paraná, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 199,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Acre, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 164,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Ceará, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 149,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado de Santa Catarina, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 96,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado de Goiás, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 340,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Piauí, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 252,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Mato Grosso do Sul, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 357,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do Brasil, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 8.51,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a área do Distrito Federal, em km²?",
+  "unidade": "km²",
+  "resposta": 5761,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado de Sergipe, o menor do Brasil, em km²?",
+  "unidade": "km²",
+  "resposta": 21938,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do estado do Rio de Janeiro, em km²?",
+  "unidade": "km²",
+  "resposta": 43750,
+  "fonte": "IBGE (áreas territoriais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Pedro Álvares Cabral chegou ao Brasil?",
+  "unidade": "ano",
+  "resposta": 1500,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o Brasil declarou sua Independência?",
+  "unidade": "ano",
+  "resposta": 1822,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi assinada a Lei Áurea, que aboliu a escravidão?",
+  "unidade": "ano",
+  "resposta": 1888,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi proclamada a República no Brasil?",
+  "unidade": "ano",
+  "resposta": 1889,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Brasília foi inaugurada?",
+  "unidade": "ano",
+  "resposta": 1960,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi promulgada a atual Constituição brasileira?",
+  "unidade": "ano",
+  "resposta": 1988,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano começou o Plano Real?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a família real portuguesa chegou ao Brasil?",
+  "unidade": "ano",
+  "resposta": 1808,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano aconteceu a Semana de Arte Moderna?",
+  "unidade": "ano",
+  "resposta": 1922,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Tiradentes foi executado?",
+  "unidade": "ano",
+  "resposta": 1792,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano começou a Guerra do Paraguai?",
+  "unidade": "ano",
+  "resposta": 1864,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi fundada a cidade de São Paulo?",
+  "unidade": "ano",
+  "resposta": 1554,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o Brasil sediou a Copa em que perdeu a final no Maracanã?",
+  "unidade": "ano",
+  "resposta": 1950,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano ocorreu o golpe militar que iniciou a ditadura?",
+  "unidade": "ano",
+  "resposta": 1964,
+  "fonte": "Wikipédia / história do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos estados tem o Brasil, sem contar o Distrito Federal?",
+  "unidade": "estados",
+  "resposta": 26,
+  "fonte": "Constituição Federal",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas estrelas tem a bandeira do Brasil?",
+  "unidade": "estrelas",
+  "resposta": 27,
+  "fonte": "Lei 5.700/1971",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos senadores tem o Brasil?",
+  "unidade": "senadores",
+  "resposta": 81,
+  "fonte": "Constituição Federal",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos deputados federais tem a Câmara dos Deputados?",
+  "unidade": "deputados",
+  "resposta": 513,
+  "fonte": "Câmara dos Deputados",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos países fazem fronteira com o Brasil?",
+  "unidade": "países",
+  "resposta": 10,
+  "fonte": "IBGE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos biomas continentais o IBGE reconhece no Brasil?",
+  "unidade": "biomas",
+  "resposta": 6,
+  "fonte": "IBGE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos fusos horários oficiais tem o Brasil, contando as ilhas oceânicas?",
+  "unidade": "fusos",
+  "resposta": 4,
+  "fonte": "Decreto 8.112/2013",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos municípios o Brasil tinha, segundo o IBGE, em 2022?",
+  "unidade": "municípios",
+  "resposta": 5570,
+  "fonte": "IBGE",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a idade mínima para ser presidente da República no Brasil?",
+  "unidade": "anos",
+  "resposta": 35,
+  "fonte": "Constituição Federal",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos dura um mandato de presidente da República?",
+  "unidade": "anos",
+  "resposta": 4,
+  "fonte": "Constituição Federal",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos artigos tem o corpo principal da Constituição de 1988?",
+  "unidade": "artigos",
+  "resposta": 250,
+  "fonte": "Constituição Federal",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados formam a Amazônia Legal?",
+  "unidade": "estados",
+  "resposta": 9,
+  "fonte": "Sudam / IBGE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas ilhas e ilhotas formam o arquipélago de Fernando de Noronha?",
+  "unidade": "ilhas",
+  "resposta": 21,
+  "fonte": "ICMBio",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas unidades geradoras tem a usina de Itaipu?",
+  "unidade": "unidades",
+  "resposta": 20,
+  "fonte": "Itaipu Binacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a potência instalada da usina de Itaipu, em megawatts?",
+  "unidade": "MW",
+  "resposta": 14000,
+  "fonte": "Itaipu Binacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a potência instalada da usina de Belo Monte, em megawatts?",
+  "unidade": "MW",
+  "resposta": 11233,
+  "fonte": "Norte Energia / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a potência instalada da usina de Tucuruí, em megawatts?",
+  "unidade": "MW",
+  "resposta": 8370,
+  "fonte": "Eletronorte / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da barragem de Itaipu, em metros?",
+  "unidade": "metros",
+  "resposta": 196,
+  "fonte": "Itaipu Binacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento da Ponte Rio-Niterói, em km?",
+  "unidade": "km",
+  "resposta": 13.3,
+  "fonte": "Wikipédia (13.290 m)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do Cristo Redentor, com o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 38,
+  "fonte": "Santuário Cristo Redentor",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altitude do Pão de Açúcar, no Rio de Janeiro, em metros?",
+  "unidade": "metros",
+  "resposta": 396,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Pico da Neblina, ponto mais alto do Brasil, em metros?",
+  "unidade": "metros",
+  "resposta": 2995,
+  "fonte": "IBGE (2.995,3 m)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas pernas tem o Saci-Pererê?",
+  "unidade": "pernas",
+  "resposta": 1,
+  "fonte": "Folclore brasileiro",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que dia de junho é comemorado o dia de São João?",
+  "unidade": "dia do mês",
+  "resposta": 24,
+  "fonte": "Calendário católico",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que dia de setembro se comemora a Independência do Brasil?",
+  "unidade": "dia do mês",
+  "resposta": 7,
+  "fonte": "Calendário nacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que dia de abril se comemora o feriado de Tiradentes?",
+  "unidade": "dia do mês",
+  "resposta": 21,
+  "fonte": "Calendário nacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que dia de outubro é o feriado de Nossa Senhora Aparecida?",
+  "unidade": "dia do mês",
+  "resposta": 12,
+  "fonte": "Calendário nacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que dia de novembro é o Dia da Consciência Negra?",
+  "unidade": "dia do mês",
+  "resposta": 20,
+  "fonte": "Lei 12.519/2011",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano começou a Oktoberfest de Blumenau?",
+  "unidade": "ano",
+  "resposta": 1984,
+  "fonte": "Prefeitura de Blumenau",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi inaugurado o Sambódromo da Marquês de Sapucaí?",
+  "unidade": "ano",
+  "resposta": 1984,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos títulos mundiais de futebol masculino o Brasil tem?",
+  "unidade": "títulos",
+  "resposta": 5,
+  "fonte": "FIFA",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos tinha Dom Pedro II quando foi coroado imperador, em 1841?",
+  "unidade": "anos",
+  "resposta": 15,
+  "fonte": "Wikipédia (nasceu em 1825)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

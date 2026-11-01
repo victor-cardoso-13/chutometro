@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0694",
+  "q": "Qual o comprimento da Cordilheira dos Andes, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0695",
+  "q": "Qual o comprimento do Canal do Panamá, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0696",
+  "q": "Qual o comprimento do Canal de Suez, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0697",
+  "q": "Qual a largura mínima do Estreito de Gibraltar, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0698",
+  "q": "Qual a largura mínima do Canal da Mancha, entre Dover e Calais, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0699",
+  "q": "Qual a distância do Equador até o Polo Norte, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0700",
+  "q": "Qual a circunferência da Terra na linha do Equador, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0701",
+  "q": "Qual o raio médio da Terra, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0702",
+  "q": "Quantos oceanos existem no mundo?",
+  "unidade": "oceanos"
+ },
+ {
+  "id": "c0703",
+  "q": "Quantos continentes existem (modelo mais usado no Brasil)?",
+  "unidade": "continentes"
+ },
+ {
+  "id": "c0704",
+  "q": "Quantos países eram membros da ONU em 2024, segundo a própria ONU?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0705",
+  "q": "Quantos países africanos eram membros da ONU em 2024, segundo a União Africana?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0706",
+  "q": "Quantos estados tem os Estados Unidos?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c0707",
+  "q": "Quantos países existem na América do Sul?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0708",
+  "q": "Quantos fusos horários a Rússia tem?",
+  "unidade": "fusos"
+ },
+ {
+  "id": "c0709",
+  "q": "Quantas ilhas tem as Filipinas?",
+  "unidade": "ilhas"
+ },
+ {
+  "id": "c0710",
+  "q": "Com quantos países a Rússia faz fronteira por terra?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0711",
+  "q": "Quantos países faziam parte da União Europeia em 2024, segundo a própria UE?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0712",
+  "q": "Quantos estados tem a Índia?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c0713",
+  "q": "Quantas províncias tem o Canadá (sem contar territórios)?",
+  "unidade": "províncias"
+ },
+ {
+  "id": "c0714",
+  "q": "Quantos cantões tem a Suíça?",
+  "unidade": "cantões"
+ },
+ {
+  "id": "c0715",
+  "q": "Quantos estados tem a Alemanha?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c0716",
+  "q": "Quantos estados (sem contar territórios) tem a Austrália?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c0717",
+  "q": "Quantos são os Grandes Lagos da América do Norte?",
+  "unidade": "lagos"
+ },
+ {
+  "id": "c0718",
+  "q": "Quantos fusos horários oficiais a China usa?",
+  "unidade": "fusos"
+ },
+ {
+  "id": "c0719",
+  "q": "Por quantos países em terra passa a linha do Equador?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0720",
+  "q": "Quantos países dividem a Floresta Amazônica?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0721",
+  "q": "Por quantos países passa o Rio Danúbio?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0722",
+  "q": "Quantos graus tem a escala Beaufort de força dos ventos (de 0 a ...)?",
+  "unidade": "graus"
+ },
+ {
+  "id": "c0723",
+  "q": "Quantas categorias tem a escala Saffir-Simpson de furacões?",
+  "unidade": "categorias"
+ },
+ {
+  "id": "c0724",
+  "q": "Quantas ilhas principais tem o Japão?",
+  "unidade": "ilhas"
+ },
+ {
+  "id": "c0725",
+  "q": "Que porcentagem da superfície da Terra é coberta por água?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0726",
+  "q": "Qual a maior temperatura do ar já registrada na Terra, em °C (Vale da Morte, 1913)?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0727",
+  "q": "Que porcentagem do ar é composta de nitrogênio?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0728",
+  "q": "Que porcentagem do ar é composta de oxigênio?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0729",
+  "q": "Que porcentagem de toda a água da Terra é doce, em %?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0730",
+  "q": "Qual a maior velocidade de vento já medida na superfície, em km/h (Austrália, 1996)?",
+  "unidade": "km/h"
+ },
+ {
+  "id": "c0731",
+  "q": "Qual a temperatura aproximada de um raio, em °C?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0732",
+  "q": "A que altitude, em km, fica a linha de Kármán, considerada a fronteira do espaço?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0733",
+  "q": "Qual a idade da Terra, em bilhões de anos?",
+  "unidade": "bilhões de anos"
+ },
+ {
+  "id": "c0734",
+  "q": "Quantas horas à frente do horário de Greenwich (UTC) fica a Índia?",
+  "unidade": "horas"
+ },
+ {
+  "id": "c0735",
+  "q": "Qual a inclinação do eixo da Terra, em graus (é a latitude dos trópicos)?",
+  "unidade": "graus"
+ },
+ {
+  "id": "c0736",
+  "q": "Qual a velocidade mínima dos ventos de um furacão categoria 5, em km/h?",
+  "unidade": "km/h"
+ },
+ {
+  "id": "c0737",
+  "q": "Qual a magnitude do terremoto de Valdivia, no Chile, o maior já registrado?",
+  "unidade": "magnitude"
+ },
+ {
+  "id": "c0738",
+  "q": "A que altitude fica a cidade de La Paz, na Bolívia, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0739",
+  "q": "Qual a altura da árvore mais alta do mundo, a sequoia Hyperion, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0740",
+  "q": "Quantos centímetros por dia pode crescer a espécie de bambu de crescimento mais rápido (recorde Guinness)?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0741",
+  "q": "Em que ano foi a grande erupção do vulcão Krakatoa?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0742",
+  "q": "Em que ano o Vesúvio soterrou Pompeia?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0743",
+  "q": "Em que ano ocorreu a erupção do vulcão Tambora, a maior dos tempos históricos?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0744",
+  "q": "Em que ano um terremoto e tsunami destruíram Lisboa?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0745",
+  "q": "Em que ano ocorreu o terremoto de Valdivia, no Chile, o mais forte já registrado?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0746",
+  "q": "Em que ano ocorreu o tsunami do Oceano Índico que atingiu a Indonésia e a Tailândia?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0747",
+  "q": "Em que ano o furacão Katrina atingiu Nova Orleans?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0748",
+  "q": "Em que ano o explorador Roald Amundsen chegou ao Polo Sul?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0749",
+  "q": "Em que ano Edmund Hillary e Tenzing Norgay chegaram ao topo do Everest?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0750",
+  "q": "Em que ano foi a última erupção do Monte Fuji?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0751",
+  "q": "Em que ano ocorreu o terremoto e tsunami de Tohoku, no Japão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0752",
+  "q": "Em que ano um grande terremoto destruiu São Francisco, nos EUA?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0753",
+  "q": "Em que ano a tulipomania, a bolha das tulipas, atingiu o auge na Holanda?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0754",
+  "q": "Em que ano o vulcão Pinatubo, nas Filipinas, entrou em erupção?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0755",
+  "q": "Em que ano o vulcão Monte St. Helens entrou em erupção nos EUA?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0756",
+  "q": "Qual era a população da Índia em 2024, em milhões de habitantes, segundo a ONU?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0757",
+  "q": "Qual era a população do Japão em 2024, em milhões de habitantes, segundo a ONU?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0758",
+  "q": "Qual era a população da Austrália em 2024, em milhões de habitantes (arredonde), segundo a ONU?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0759",
+  "q": "Qual era a população do Canadá em 2024, em milhões de habitantes (arredonde), segundo a ONU?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0760",
+  "q": "Quantos anos durou a Guerra dos Cem Anos (1337–1453) entre França e Inglaterra?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0761",
+  "q": "Quantos anos durou a Primeira Guerra Mundial, em números inteiros de anos (1914–1918)?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0762",
+  "q": "Quantos anos durou a Segunda Guerra Mundial (1939–1945)?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0763",
+  "q": "Quantos anos durou o reinado da rainha Vitória do Reino Unido?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0764",
+  "q": "Quantos anos durou o reinado de Elizabeth II?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0765",
+  "q": "Quantos anos durou o reinado de Luís XIV, o Rei Sol, da França?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0766",
+  "q": "Com quantos anos morreu Napoleão Bonaparte?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0767",
+  "q": "Com quantos anos morreu Alexandre, o Grande?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0768",
+  "q": "Com quantos anos Abraham Lincoln foi assassinado?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0769",
+  "q": "Com quantos anos John F. Kennedy foi assassinado?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0770",
+  "q": "Com quantos anos Mahatma Gandhi foi assassinado?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0771",
+  "q": "Com quantos anos Martin Luther King Jr. foi assassinado?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0772",
+  "q": "Com quantos anos morreu Winston Churchill?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0773",
+  "q": "Quantos anos Nelson Mandela passou preso?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0774",
+  "q": "Quantos anos o Muro de Berlim ficou de pé (1961–1989)?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0775",
+  "q": "Quantos minutos levou o Titanic para afundar após bater no iceberg (de cerca de 23h40 até 2h20)?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0776",
+  "q": "Quantos dias durou a Guerra dos Seis Dias, entre Israel e países árabes, em 1967?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0777",
+  "q": "Quantos navios compunham a primeira viagem de Cristóvão Colombo à América?",
+  "unidade": "navios"
+ },
+ {
+  "id": "c0778",
+  "q": "Quantos navios partiram na expedição de Fernão de Magalhães em 1519?",
+  "unidade": "navios"
+ },
+ {
+  "id": "c0779",
+  "q": "Quantos tripulantes voltaram à Espanha no único navio (Victoria) que concluiu a primeira volta ao mundo?",
+  "unidade": "homens"
+ },
+ {
+  "id": "c0780",
+  "q": "Quantos dias durou a Batalha de Verdun (1916)?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0781",
+  "q": "Quantos dias durou o cerco de Leningrado na Segunda Guerra?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0782",
+  "q": "Quantos dias durou o cerco otomano a Constantinopla em 1453?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0783",
+  "q": "Quantas praias foram alvo do desembarque aliado no Dia D (Normandia, 1944)?",
+  "unidade": "praias"
+ },
+ {
+  "id": "c0784",
+  "q": "Quantos anos tinha Neil Armstrong quando pisou na Lua?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0785",
+  "q": "Quantos minutos durou o voo de Yuri Gagarin, o primeiro homem no espaço?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0786",
+  "q": "Com quantos anos Yuri Gagarin fez seu voo espacial em 1961?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0787",
+  "q": "Com quantos anos morreu Vladimir Lenin?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0788",
+  "q": "Com quantos anos Adolf Hitler morreu?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0789",
+  "q": "Quantos anos durou o reinado do imperador romano Augusto (27 a.C. a 14 d.C.)?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0790",
+  "q": "Qual era a altura original, em metros, da Grande Pirâmide de Gizé (146,6 m arredondado)?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0791",
+  "q": "Quantos espartanos lutaram com Leônidas nas Termópilas, segundo a tradição?",
+  "unidade": "guerreiros"
+ },
+ {
+  "id": "c0792",
+  "q": "Quantas esposas teve o rei Henrique VIII da Inglaterra?",
+  "unidade": "esposas"
+ }
+]

@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Quantos ossos tem o corpo de um adulto?",
+  "unidade": "ossos",
+  "resposta": 206,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos dentes permanentes tem um adulto com a dentição completa (contando os sisos)?",
+  "unidade": "dentes",
+  "resposta": 32,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos dentes de leite tem uma criança com a dentição completa?",
+  "unidade": "dentes",
+  "resposta": 20,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas câmaras (cavidades) tem o coração humano?",
+  "unidade": "câmaras",
+  "resposta": 4,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos pares de costelas tem o ser humano?",
+  "unidade": "pares",
+  "resposta": 12,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vértebras cervicais (do pescoço) tem o ser humano?",
+  "unidade": "vértebras",
+  "resposta": 7,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pares de cromossomos tem uma célula humana comum?",
+  "unidade": "pares",
+  "resposta": 23,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos ossos tem o crânio humano adulto (cabeça, sem contar os ossículos do ouvido)?",
+  "unidade": "ossos",
+  "resposta": 22,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos ossos tem cada pé de um adulto?",
+  "unidade": "ossos",
+  "resposta": 26,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos ossos tem cada mão de um adulto (contando o punho)?",
+  "unidade": "ossos",
+  "resposta": 27,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos ossículos existem em cada ouvido (martelo, bigorna e estribo)?",
+  "unidade": "ossículos",
+  "resposta": 3,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pares de nervos cranianos saem do cérebro?",
+  "unidade": "pares",
+  "resposta": 12,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos lobos principais tem o cérebro em cada hemisfério (frontal, parietal, temporal e occipital)?",
+  "unidade": "lobos",
+  "resposta": 4,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos músculos externos movem cada olho humano?",
+  "unidade": "músculos",
+  "resposta": 6,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas camadas principais tem a pele (epiderme, derme e hipoderme)?",
+  "unidade": "camadas",
+  "resposta": 3,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos sabores básicos a língua reconhece (doce, salgado, azedo, amargo e umami)?",
+  "unidade": "sabores",
+  "resposta": 5,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos tipos de sangue principais existem no sistema ABO (A, B, AB e O), sem contar o fator Rh?",
+  "unidade": "tipos",
+  "resposta": 4,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos bilhões de neurônios tem o cérebro humano, segundo o estudo de Suzana Herculano-Houzel?",
+  "unidade": "bilhões de neurônios",
+  "resposta": 86,
+  "fonte": "Herculano-Houzel et al., Journal of Comparative Neurology, 2009",
+  "ano": 2009,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos bilhões de pares de bases tem o genoma humano (aproximadamente, arredondado para 1 casa)?",
+  "unidade": "bilhões de pares de bases",
+  "resposta": 3.1,
+  "fonte": "Projeto Genoma Humano / NIH",
+  "ano": 2003,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilos pesa, em média, o cérebro de um adulto?",
+  "unidade": "kg",
+  "resposta": 1.4,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos quilos pesa, em média, o fígado de um adulto?",
+  "unidade": "kg",
+  "resposta": 1.5,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gramas pesa, em média, o coração de um adulto?",
+  "unidade": "g",
+  "resposta": 300,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos litros de sangue tem, em média, um adulto?",
+  "unidade": "litros",
+  "resposta": 5,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Que percentual do corpo de um adulto é, em média, composto de água?",
+  "unidade": "%",
+  "resposta": 60,
+  "fonte": "USGS / consenso médico",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Que percentual da energia do corpo o cérebro consome, mesmo pesando só cerca de 2% do corpo?",
+  "unidade": "%",
+  "resposta": 20,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em média, quantos litros de sangue os rins de um adulto filtram por dia?",
+  "unidade": "litros",
+  "resposta": 180,
+  "fonte": "Fisiologia médica (Guyton)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias vive, em média, uma hemácia (glóbulo vermelho) no sangue?",
+  "unidade": "dias",
+  "resposta": 120,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos graus Celsius mede a temperatura corporal considerada normal, na referência mais usada?",
+  "unidade": "°C",
+  "resposta": 37,
+  "fonte": "Convenção médica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é o pH normal do sangue humano?",
+  "unidade": "pH",
+  "resposta": 7.4,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a pressão arterial sistólica (a \"máxima\") considerada ideal, em mmHg?",
+  "unidade": "mmHg",
+  "resposta": 120,
+  "fonte": "Sociedade Brasileira de Cardiologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a frequência máxima aproximada de batimentos por minuto de uma pessoa de 40 anos, pela regra \"220 menos a idade\"?",
+  "unidade": "batimentos por minuto",
+  "resposta": 180,
+  "fonte": "Regra de Fox (cardiologia)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes o coração de um adulto bate por dia, aproximadamente (arredonde para 100 mil)?",
+  "unidade": "batidas",
+  "resposta": 100000,
+  "fonte": "American Heart Association (cálculo: ~70 bpm)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o limite de glicose no sangue em jejum considerado normal, em mg/dL?",
+  "unidade": "mg/dL",
+  "resposta": 100,
+  "fonte": "Sociedade Brasileira de Diabetes",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A partir de qual valor de IMC (índice de massa corporal) a OMS considera sobrepeso?",
+  "unidade": "IMC",
+  "resposta": 25,
+  "fonte": "OMS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A partir de qual valor de IMC (índice de massa corporal) a OMS considera obesidade?",
+  "unidade": "IMC",
+  "resposta": 30,
+  "fonte": "OMS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos de atividade física moderada por semana a OMS recomenda para adultos?",
+  "unidade": "minutos",
+  "resposta": 150,
+  "fonte": "OMS",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a quantidade máxima de sal por dia que a OMS recomenda para um adulto, em gramas?",
+  "unidade": "g",
+  "resposta": 5,
+  "fonte": "OMS",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gramas de fibra por dia a OMS recomenda, no mínimo, para um adulto?",
+  "unidade": "g",
+  "resposta": 25,
+  "fonte": "OMS",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos meses de amamentação exclusiva a OMS recomenda para o bebê?",
+  "unidade": "meses",
+  "resposta": 6,
+  "fonte": "OMS",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) por dia usa a ANVISA como referência nos rótulos de alimentos?",
+  "unidade": "kcal",
+  "resposta": 2000,
+  "fonte": "ANVISA (RDC 429/2020)",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vitaminas essenciais o ser humano precisa obter da alimentação?",
+  "unidade": "vitaminas",
+  "resposta": 13,
+  "fonte": "NIH / consenso nutricional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos miligramas de cálcio por dia os adultos precisam, segundo a referência do NIH (19 a 50 anos)?",
+  "unidade": "mg",
+  "resposta": 1000,
+  "fonte": "NIH Office of Dietary Supplements",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o limite diário de cafeína considerado seguro para adultos saudáveis pela FDA, em miligramas?",
+  "unidade": "mg",
+  "resposta": 400,
+  "fonte": "FDA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gramas de proteína tem, aproximadamente, um ovo grande de galinha?",
+  "unidade": "g",
+  "resposta": 6,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 1 grama de gordura?",
+  "unidade": "kcal",
+  "resposta": 9,
+  "fonte": "Tabelas de nutrição (fator de Atwater)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 1 grama de carboidrato?",
+  "unidade": "kcal",
+  "resposta": 4,
+  "fonte": "Fator de Atwater",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 1 grama de álcool puro?",
+  "unidade": "kcal",
+  "resposta": 7,
+  "fonte": "Fator de Atwater",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de arroz branco cozido?",
+  "unidade": "kcal",
+  "resposta": 128,
+  "fonte": "Tabela TACO (Unicamp)",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de feijão-carioca cozido?",
+  "unidade": "kcal",
+  "resposta": 76,
+  "fonte": "Tabela TACO (Unicamp)",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de pão francês?",
+  "unidade": "kcal",
+  "resposta": 300,
+  "fonte": "Tabela TACO (Unicamp)",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de banana-prata?",
+  "unidade": "kcal",
+  "resposta": 98,
+  "fonte": "Tabela TACO (Unicamp)",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de maçã crua com casca?",
+  "unidade": "kcal",
+  "resposta": 52,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de cenoura crua?",
+  "unidade": "kcal",
+  "resposta": 41,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de abacate cru?",
+  "unidade": "kcal",
+  "resposta": 160,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de amendoim cru?",
+  "unidade": "kcal",
+  "resposta": 567,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de manteiga?",
+  "unidade": "kcal",
+  "resposta": 717,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de peito de frango cozido sem pele?",
+  "unidade": "kcal",
+  "resposta": 165,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 mililitros de leite integral?",
+  "unidade": "kcal",
+  "resposta": 61,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem uma colher de sopa de azeite de oliva?",
+  "unidade": "kcal",
+  "resposta": 119,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem um ovo grande de galinha cozido?",
+  "unidade": "kcal",
+  "resposta": 78,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas horas de sono por noite, no mínimo, os especialistas recomendam para um adulto?",
+  "unidade": "horas",
+  "resposta": 7,
+  "fonte": "American Academy of Sleep Medicine",
+  "ano": 2015,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos minutos dura, em média, um ciclo completo de sono?",
+  "unidade": "minutos",
+  "resposta": 90,
+  "fonte": "Medicina do sono",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Por quantos dias seguidos Randy Gardner ficou sem dormir em 1964, recorde famoso estudado por cientistas?",
+  "unidade": "dias",
+  "resposta": 11,
+  "fonte": "Stanford / literatura de medicina do sono",
+  "ano": 1964,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou o jejum supervisionado de Angus Barbieri, que se alimentou só de líquidos sem calorias?",
+  "unidade": "dias",
+  "resposta": 382,
+  "fonte": "Postgraduate Medical Journal, 1973",
+  "ano": 1973,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas semanas dura, em média, uma gestação humana completa?",
+  "unidade": "semanas",
+  "resposta": 40,
+  "fonte": "OMS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em qual semana de gestação os batimentos do coração do bebê já costumam ser detectados no ultrassom?",
+  "unidade": "semana",
+  "resposta": 6,
+  "fonte": "Obstetrícia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias dura, em média, o ciclo menstrual?",
+  "unidade": "dias",
+  "resposta": 28,
+  "fonte": "Obstetrícia / consenso médico",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Com quantos anos de idade, em média, as crianças começam a perder os dentes de leite?",
+  "unidade": "anos",
+  "resposta": 6,
+  "fonte": "Odontologia pediátrica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos viveu Jeanne Calment, a pessoa com idade comprovada mais longeva da história?",
+  "unidade": "anos",
+  "resposta": 122,
+  "fonte": "Guinness World Records",
+  "ano": 1997,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos viveu Jiroemon Kimura, o homem com idade comprovada mais longevo da história?",
+  "unidade": "anos",
+  "resposta": 116,
+  "fonte": "Guinness World Records",
+  "ano": 2013,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a expectativa de vida ao nascer do brasileiro em 2023, segundo o IBGE?",
+  "unidade": "anos",
+  "resposta": 76.4,
+  "fonte": "IBGE, Tábua de Mortalidade 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos centímetros media Robert Wadlow, o homem mais alto da história com altura comprovada?",
+  "unidade": "cm",
+  "resposta": 272,
+  "fonte": "Guinness World Records",
+  "ano": 1940,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos centímetros media Zeng Jinlian, a mulher mais alta da história com altura comprovada?",
+  "unidade": "cm",
+  "resposta": 246,
+  "fonte": "Guinness World Records",
+  "ano": 1982,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos centímetros media Chandra Bahadur Dangi, o homem adulto mais baixo já medido pelo Guinness?",
+  "unidade": "cm",
+  "resposta": 54.6,
+  "fonte": "Guinness World Records",
+  "ano": 2012,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilos chegou a pesar Jon Brower Minnoch, o homem mais pesado já registrado?",
+  "unidade": "kg",
+  "resposta": 635,
+  "fonte": "Guinness World Records",
+  "ano": 1978,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos filhos a russa Valentina Vassilyev teve, o maior número registrado de uma mulher?",
+  "unidade": "filhos",
+  "resposta": 69,
+  "fonte": "Guinness World Records",
+  "ano": 1782,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilos pesava o bebê mais pesado já registrado ao nascer, na Itália em 1955?",
+  "unidade": "kg",
+  "resposta": 10.2,
+  "fonte": "Guinness World Records",
+  "ano": 1955,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual foi a temperatura corporal mais alta (em °C) de um sobrevivente, registrada em Willie Jones em 1980?",
+  "unidade": "°C",
+  "resposta": 46.5,
+  "fonte": "Guinness World Records",
+  "ano": 1980,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi feito o primeiro transplante de coração em humanos, pelo cirurgião Christiaan Barnard?",
+  "unidade": "ano",
+  "resposta": 1967,
+  "fonte": "Registros médicos / Wikipédia",
+  "ano": 1967,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Alexander Fleming descobriu a penicilina?",
+  "unidade": "ano",
+  "resposta": 1928,
+  "fonte": "Wikipédia",
+  "ano": 1928,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Edward Jenner aplicou a primeira vacina, contra a varíola?",
+  "unidade": "ano",
+  "resposta": 1796,
+  "fonte": "Wikipédia",
+  "ano": 1796,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Wilhelm Röntgen descobriu os raios X?",
+  "unidade": "ano",
+  "resposta": 1895,
+  "fonte": "Wikipédia",
+  "ano": 1895,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a OMS declarou a varíola erradicada do mundo?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "OMS",
+  "ano": 1980,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano nasceu Louise Brown, o primeiro bebê de proveta do mundo?",
+  "unidade": "ano",
+  "resposta": 1978,
+  "fonte": "Wikipédia",
+  "ano": 1978,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Watson e Crick publicaram a estrutura em dupla hélice do DNA?",
+  "unidade": "ano",
+  "resposta": 1953,
+  "fonte": "Nature / Wikipédia",
+  "ano": 1953,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a insulina foi descoberta por Banting e Best?",
+  "unidade": "ano",
+  "resposta": 1921,
+  "fonte": "Wikipédia",
+  "ano": 1921,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Louis Pasteur aplicou com sucesso a primeira vacina contra a raiva em um humano?",
+  "unidade": "ano",
+  "resposta": 1885,
+  "fonte": "Wikipédia",
+  "ano": 1885,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi aplicada a primeira dose de vacina contra a covid-19 fora de ensaios clínicos?",
+  "unidade": "ano",
+  "resposta": 2020,
+  "fonte": "Wikipédia",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o Projeto Genoma Humano foi declarado completo?",
+  "unidade": "ano",
+  "resposta": 2003,
+  "fonte": "NIH",
+  "ano": 2003,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a menor frequência de som (em Hz) que o ouvido humano jovem consegue ouvir, em média?",
+  "unidade": "Hz",
+  "resposta": 20,
+  "fonte": "Acústica / fisiologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a maior frequência de som (em Hz) que o ouvido humano jovem consegue ouvir, em média?",
+  "unidade": "Hz",
+  "resposta": 20000,
+  "fonte": "Acústica / fisiologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milímetros mede o estribo, o menor osso do corpo humano (aproximadamente)?",
+  "unidade": "mm",
+  "resposta": 3,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos litros de ar cabem nos pulmões de um homem adulto quando estão totalmente cheios (capacidade pulmonar total)?",
+  "unidade": "litros",
+  "resposta": 6,
+  "fonte": "Fisiologia respiratória",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos centímetros o cabelo cresce, em média, por mês?",
+  "unidade": "cm",
+  "resposta": 1,
+  "fonte": "American Academy of Dermatology",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milímetros crescem as unhas das mãos, em média, por mês?",
+  "unidade": "mm",
+  "resposta": 3,
+  "fonte": "Dermatologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pares de glândulas salivares principais existem (parótidas, submandibulares e sublinguais)?",
+  "unidade": "pares",
+  "resposta": 3,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a velocidade, em metros por segundo, dos impulsos nervosos mais rápidos do corpo humano?",
+  "unidade": "m/s",
+  "resposta": 120,
+  "fonte": "Fisiologia (Guyton)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o nível de saturação de oxigênio no sangue (em %) abaixo do qual se considera alterado?",
+  "unidade": "%",
+  "resposta": 95,
+  "fonte": "Consenso clínico",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gramas de proteína por quilo de peso corporal por dia é a recomendação mínima para adultos (RDA)?",
+  "unidade": "g por kg",
+  "resposta": 0.8,
+  "fonte": "OMS / NIH",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem uma colher de sopa de mel?",
+  "unidade": "kcal",
+  "resposta": 64,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem uma maçã média?",
+  "unidade": "kcal",
+  "resposta": 95,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem uma fatia de pão de forma branco?",
+  "unidade": "kcal",
+  "resposta": 75,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de chocolate ao leite?",
+  "unidade": "kcal",
+  "resposta": 535,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de batata inglesa cozida sem casca?",
+  "unidade": "kcal",
+  "resposta": 86,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de açúcar refinado?",
+  "unidade": "kcal",
+  "resposta": 387,
+  "fonte": "USDA FoodData Central",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos miligramas de vitamina C por dia um homem adulto precisa, segundo a recomendação do NIH?",
+  "unidade": "mg",
+  "resposta": 90,
+  "fonte": "NIH Office of Dietary Supplements",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pares de nervos espinhais saem da medula espinhal?",
+  "unidade": "pares",
+  "resposta": 31,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vértebras lombares tem a coluna humana?",
+  "unidade": "vértebras",
+  "resposta": 5,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos lobos tem o pulmão direito?",
+  "unidade": "lobos",
+  "resposta": 3,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 1 grama de proteína?",
+  "unidade": "kcal",
+  "resposta": 4,
+  "fonte": "Fator de Atwater",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

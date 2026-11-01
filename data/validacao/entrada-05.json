@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0397",
+  "q": "Quantos filhos Molly e Arthur Weasley têm?",
+  "unidade": "filhos"
+ },
+ {
+  "id": "c0398",
+  "q": "Quantos anéis de poder foram forjados no total em O Senhor dos Anéis (3 + 7 + 9 + 1)?",
+  "unidade": "anéis"
+ },
+ {
+  "id": "c0399",
+  "q": "Quantos membros tem a Sociedade do Anel?",
+  "unidade": "membros"
+ },
+ {
+  "id": "c0400",
+  "q": "Quantos anos Bilbo Bolseiro faz na festa de aniversário que abre O Senhor dos Anéis?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0401",
+  "q": "Quantos anões acompanham Bilbo em O Hobbit?",
+  "unidade": "anões"
+ },
+ {
+  "id": "c0402",
+  "q": "Quantos cantos tem Os Lusíadas, de Camões?",
+  "unidade": "cantos"
+ },
+ {
+  "id": "c0403",
+  "q": "Quantos cantos tem A Divina Comédia, de Dante?",
+  "unidade": "cantos"
+ },
+ {
+  "id": "c0404",
+  "q": "Quantos cantos tem a Odisseia, de Homero?",
+  "unidade": "cantos"
+ },
+ {
+  "id": "c0405",
+  "q": "Fahrenheit 451 é a temperatura de combustão do papel. Qual é esse número, na história de Ray Bradbury?",
+  "unidade": "°F"
+ },
+ {
+  "id": "c0406",
+  "q": "Em quantos dias Phileas Fogg dá a volta ao mundo no livro de Júlio Verne?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0407",
+  "q": "Quantos romances policiais publicou Agatha Christie?",
+  "unidade": "romances"
+ },
+ {
+  "id": "c0408",
+  "q": "Quantos livros tem As Crônicas de Nárnia?",
+  "unidade": "livros"
+ },
+ {
+  "id": "c0409",
+  "q": "Quantos sonetos Shakespeare publicou em 1609?",
+  "unidade": "sonetos"
+ },
+ {
+  "id": "c0410",
+  "q": "Quantas cadeiras tem a Academia Brasileira de Letras?",
+  "unidade": "cadeiras"
+ },
+ {
+  "id": "c0411",
+  "q": "Qual é o número da casa de Sherlock Holmes na Baker Street (221B)?",
+  "unidade": "número"
+ },
+ {
+  "id": "c0412",
+  "q": "Com quantos anos morreu Machado de Assis?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0413",
+  "q": "Qual é a altura da Mona Lisa, em centímetros?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0414",
+  "q": "Com quantos anos morreu Vincent van Gogh?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0415",
+  "q": "Com quantos anos morreu Leonardo da Vinci?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0416",
+  "q": "Com quantos anos morreu Michelangelo?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0417",
+  "q": "Com quantos anos morreu Pablo Picasso?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0418",
+  "q": "Qual a largura do quadro Guernica, de Picasso, em centímetros?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0419",
+  "q": "Quantos profetas Aleijadinho esculpiu em Congonhas (MG)?",
+  "unidade": "profetas"
+ },
+ {
+  "id": "c0420",
+  "q": "Com quantos anos morreu Oscar Niemeyer?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0421",
+  "q": "Quantos anões aparecem em Branca de Neve?",
+  "unidade": "anões"
+ },
+ {
+  "id": "c0422",
+  "q": "Quantos fios de cabelo tem o Cebolinha?",
+  "unidade": "fios"
+ },
+ {
+  "id": "c0423",
+  "q": "Quantos filmes tem a saga Skywalker de Star Wars?",
+  "unidade": "filmes"
+ },
+ {
+  "id": "c0424",
+  "q": "Em que ano estreou Steamboat Willie, o primeiro desenho do Mickey?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0425",
+  "q": "Em que ano estreou O Cantor de Jazz, o primeiro filme falado de sucesso?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0426",
+  "q": "Em que ano foi publicada a primeira parte de Dom Quixote?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0427",
+  "q": "Em que ano estreou Branca de Neve e os Sete Anões?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0428",
+  "q": "Em que ano os Beatles se apresentaram no programa de Ed Sullivan nos EUA?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0429",
+  "q": "Em que ano foi lançado o álbum Thriller, de Michael Jackson?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0430",
+  "q": "Em que ano Tarsila do Amaral pintou o Abaporu?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0431",
+  "q": "Em que ano Picasso pintou Guernica?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0432",
+  "q": "Em que ano Edvard Munch pintou a primeira versão de O Grito?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0433",
+  "q": "Em que ano estreou o primeiro filme de Star Wars?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0434",
+  "q": "Em que ano foi ao ar a primeira transmissão de TV no Brasil (TV Tupi)?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0435",
+  "q": "Em que ano a Disneylândia foi inaugurada na Califórnia?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0436",
+  "q": "Em que ano foi lançada a música Bohemian Rhapsody, do Queen?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0437",
+  "q": "Em que ano foi inaugurado o Museu do Louvre como museu público?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0438",
+  "q": "Em que ano Machado de Assis publicou Dom Casmurro?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0439",
+  "q": "Quantos planetas tem o Sistema Solar (desde 2006, sem contar Plutão)?",
+  "unidade": "planetas"
+ },
+ {
+  "id": "c0440",
+  "q": "Qual é a distância média entre a Terra e o Sol, em milhões de km?",
+  "unidade": "milhões de km"
+ },
+ {
+  "id": "c0441",
+  "q": "Qual é a distância média entre a Terra e a Lua, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0442",
+  "q": "Qual é o diâmetro da Terra na linha do Equador, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0443",
+  "q": "Em que ano o homem pisou na Lua pela primeira vez?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0444",
+  "q": "Em que ano foi lançado o Sputnik 1, primeiro satélite artificial?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0445",
+  "q": "Em que ano Yuri Gagarin foi o primeiro humano a ir ao espaço?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0446",
+  "q": "Em que ano o Telescópio Espacial Hubble foi lançado?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0447",
+  "q": "Em que ano a sonda Voyager 1 foi lançada?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0448",
+  "q": "Em que ano Marcos Pontes foi ao espaço, primeiro brasileiro a fazê-lo?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0449",
+  "q": "Em que ano a sonda New Horizons passou por Plutão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0450",
+  "q": "Em que ano Einstein publicou a teoria da relatividade geral?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0451",
+  "q": "Qual é a velocidade da luz no vácuo, em km/s (valor arredondado)?",
+  "unidade": "km/s"
+ },
+ {
+  "id": "c0452",
+  "q": "Qual é a velocidade do som no ar a 20 °C, em metros por segundo?",
+  "unidade": "m/s"
+ },
+ {
+  "id": "c0453",
+  "q": "A que temperatura o ferro derrete, em °C (arredondado)?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0454",
+  "q": "A que temperatura o tungstênio derrete, em °C (arredondado)?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0455",
+  "q": "Qual é a temperatura média na superfície de Vênus, em °C?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0456",
+  "q": "Qual é o número atômico do ouro (quantos prótons tem)?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0457",
+  "q": "Qual é o número atômico do ferro?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0458",
+  "q": "Qual é o número atômico do urânio?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0459",
+  "q": "Qual é o número atômico da prata?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0460",
+  "q": "Qual é o número atômico do chumbo?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0461",
+  "q": "Qual é o número atômico do cobre?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0462",
+  "q": "Qual é o número atômico do sódio?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0463",
+  "q": "Qual é o número atômico do mercúrio?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0464",
+  "q": "Qual é o número atômico do estanho?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0465",
+  "q": "Qual é o número atômico do cálcio?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0466",
+  "q": "Qual é o número atômico do potássio?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0467",
+  "q": "Qual é o número atômico da platina?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0468",
+  "q": "Qual é o número atômico do zinco?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0469",
+  "q": "Qual é o número atômico do cloro?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c0470",
+  "q": "Quantos elementos químicos tem a tabela periódica atual?",
+  "unidade": "elementos"
+ },
+ {
+  "id": "c0471",
+  "q": "Qual é a aceleração da gravidade na superfície da Terra, em m/s²?",
+  "unidade": "m/s²"
+ },
+ {
+  "id": "c0472",
+  "q": "Qual é a aceleração da gravidade na Lua, em m/s²?",
+  "unidade": "m/s²"
+ },
+ {
+  "id": "c0473",
+  "q": "Qual é a aceleração da gravidade em Marte, em m/s²?",
+  "unidade": "m/s²"
+ },
+ {
+  "id": "c0474",
+  "q": "Quanto tempo Vênus leva para dar uma volta em torno de si mesmo, em dias terrestres?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0475",
+  "q": "Quanto dura um ano em Marte, em dias terrestres?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0476",
+  "q": "Quanto dura um ano em Mercúrio, em dias terrestres?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0477",
+  "q": "Quanto dura um ano em Netuno, em anos terrestres (arredondado)?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0478",
+  "q": "Quanto dura um ano em Plutão, em anos terrestres (arredondado)?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0479",
+  "q": "Qual é o diâmetro de Júpiter no Equador, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0480",
+  "q": "Qual é o diâmetro do Sol, em milhões de km?",
+  "unidade": "milhões de km"
+ },
+ {
+  "id": "c0481",
+  "q": "Quantas luas tem Marte?",
+  "unidade": "luas"
+ },
+ {
+  "id": "c0482",
+  "q": "Quantas luas tem Plutão?",
+  "unidade": "luas"
+ },
+ {
+  "id": "c0483",
+  "q": "Qual é a altura do Monte Olimpo, vulcão de Marte, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0484",
+  "q": "Quantos astronautas já caminharam na Lua?",
+  "unidade": "astronautas"
+ },
+ {
+  "id": "c0485",
+  "q": "Quantas missões Apollo pousaram na Lua?",
+  "unidade": "missões"
+ },
+ {
+  "id": "c0486",
+  "q": "Quantos minutos durou o voo de Yuri Gagarin ao redor da Terra?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0487",
+  "q": "Quantos dias seguidos ficou no espaço o recorde de Valeri Poliakov, na estação Mir?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0488",
+  "q": "Quantos minutos a luz do Sol leva para chegar à Terra (aprox., com uma casa decimal)?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0489",
+  "q": "A que distância fica Próxima Centauri, a estrela mais próxima do Sol, em anos-luz?",
+  "unidade": "anos-luz"
+ },
+ {
+  "id": "c0490",
+  "q": "Qual é a temperatura do núcleo do Sol, em milhões de °C?",
+  "unidade": "milhões de °C"
+ },
+ {
+  "id": "c0491",
+  "q": "Qual é a temperatura da superfície do Sol, em °C (arredondado)?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0492",
+  "q": "Qual é a idade do Universo, em bilhões de anos?",
+  "unidade": "bilhões de anos"
+ },
+ {
+  "id": "c0493",
+  "q": "Qual é a idade da Terra, em bilhões de anos?",
+  "unidade": "bilhões de anos"
+ },
+ {
+  "id": "c0494",
+  "q": "Quantos dias dura o ciclo completo das fases da Lua (arredondado a uma casa)?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0495",
+  "q": "Qual é a velocidade de rotação da Terra no Equador, em km/h?",
+  "unidade": "km/h"
+ }
+]

@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Em que ano Alexander Graham Bell patenteou o telefone?",
+  "unidade": "ano",
+  "resposta": 1876,
+  "fonte": "Wikipédia (patente de Bell)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Thomas Edison apresentou sua lâmpada incandescente prática?",
+  "unidade": "ano",
+  "resposta": 1879,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano os irmãos Wright fizeram o primeiro voo de avião motorizado?",
+  "unidade": "ano",
+  "resposta": 1903,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Santos Dumont voou com o 14-Bis em Paris, diante de testemunhas oficiais?",
+  "unidade": "ano",
+  "resposta": 1906,
+  "fonte": "Wikipédia (12/11/1906; voo de 220 m)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Tim Berners-Lee propôs a World Wide Web?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "CERN",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi fundada a Apple?",
+  "unidade": "ano",
+  "resposta": 1976,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi fundada a Microsoft?",
+  "unidade": "ano",
+  "resposta": 1975,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi fundado o Google?",
+  "unidade": "ano",
+  "resposta": 1998,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o primeiro iPhone foi lançado?",
+  "unidade": "ano",
+  "resposta": 2007,
+  "fonte": "Apple / Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano a União Soviética lançou o Sputnik 1, o primeiro satélite artificial?",
+  "unidade": "ano",
+  "resposta": 1957,
+  "fonte": "NASA",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a Ford lançou o Modelo T?",
+  "unidade": "ano",
+  "resposta": 1908,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi fundada a Nintendo, ainda como fabricante de cartas de baralho?",
+  "unidade": "ano",
+  "resposta": 1889,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o Titanic afundou?",
+  "unidade": "ano",
+  "resposta": 1912,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano a Wikipédia foi lançada?",
+  "unidade": "ano",
+  "resposta": 2001,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi minerado o primeiro bloco do Bitcoin (bloco gênese)?",
+  "unidade": "ano",
+  "resposta": 2009,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o computador Deep Blue, da IBM, venceu o campeão de xadrez Garry Kasparov num match?",
+  "unidade": "ano",
+  "resposta": 1997,
+  "fonte": "IBM / Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o comprimento do Titanic, em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta": 269,
+  "fonte": "Wikipédia (882 pés e 9 pol.)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas chaminés tinha o Titanic?",
+  "unidade": "chaminés",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos botes salva-vidas o Titanic tinha a bordo?",
+  "unidade": "botes",
+  "resposta": 20,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas caldeiras a vapor o Titanic tinha?",
+  "unidade": "caldeiras",
+  "resposta": 29,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos rebites (aproximadamente), em milhões, foram usados no casco do Titanic?",
+  "unidade": "milhões de rebites",
+  "resposta": 3,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto custou construir o Titanic, em milhões de dólares da época?",
+  "unidade": "milhões de dólares",
+  "resposta": 7.5,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a arqueação bruta do Titanic, em toneladas de registro bruto?",
+  "unidade": "toneladas de registro bruto",
+  "resposta": 46328,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto durou, em segundos, o primeiro voo dos irmãos Wright em 1903?",
+  "unidade": "segundos",
+  "resposta": 12,
+  "fonte": "Biblioteca do Congresso dos EUA",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos metros o 14-Bis de Santos Dumont voou no recorde de 12 de novembro de 1906?",
+  "unidade": "metros",
+  "resposta": 220,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto tempo durou, em horas, a travessia do Atlântico de Lindbergh em 1927 (Nova York a Paris)?",
+  "unidade": "horas",
+  "resposta": 33.5,
+  "fonte": "Wikipédia (33 h 30 min)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a envergadura (largura de ponta a ponta das asas) do Airbus A380, em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta": 80,
+  "fonte": "Airbus (79,75 m)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a capacidade máxima certificada de passageiros do Airbus A380?",
+  "unidade": "passageiros",
+  "resposta": 853,
+  "fonte": "Airbus / Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que velocidade (Mach, múltiplo da velocidade do som) o Concorde cruzava?",
+  "unidade": "Mach",
+  "resposta": 2,
+  "fonte": "Wikipédia (Mach 2,04)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos aviões Concorde foram construídos no total (incluindo protótipos)?",
+  "unidade": "aviões",
+  "resposta": 20,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do dirigível Hindenburg, em metros?",
+  "unidade": "metros",
+  "resposta": 245,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o recorde de velocidade em terra (carro Thrust SSC, 1997, ainda válido em 2026), em km/h (arredondado)?",
+  "unidade": "km/h",
+  "resposta": 1228,
+  "fonte": "Guinness / Wikipédia",
+  "ano": 2026,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o recorde de velocidade de um trem maglev japonês (2015, válido em 2026), em km/h?",
+  "unidade": "km/h",
+  "resposta": 603,
+  "fonte": "JR Central / Wikipédia",
+  "ano": 2026,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o recorde de velocidade de um trem convencional sobre trilhos (TGV francês, 2007, válido em 2026), em km/h (arredondado)?",
+  "unidade": "km/h",
+  "resposta": 575,
+  "fonte": "SNCF / Wikipédia (574,8)",
+  "ano": 2026,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o recorde de velocidade de uma locomotiva a vapor (Mallard, 1938), em milhas por hora?",
+  "unidade": "milhas por hora",
+  "resposta": 126,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento da Estrada de Ferro Transiberiana, em km?",
+  "unidade": "km",
+  "resposta": 9289,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do túnel ferroviário de São Gotardo, na Suíça, em km (arredondado)?",
+  "unidade": "km",
+  "resposta": 57,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento total do Eurotúnel, sob o Canal da Mancha, em km (arredondado)?",
+  "unidade": "km",
+  "resposta": 50,
+  "fonte": "Wikipédia (50,45 km)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento da Ponte Rio-Niterói, em km?",
+  "unidade": "km",
+  "resposta": 13.3,
+  "fonte": "Wikipédia (13,29 km)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a largura padrão da bitola dos trilhos de trem (bitola internacional), em milímetros?",
+  "unidade": "milímetros",
+  "resposta": 1435,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a velocidade máxima, em km/h, do Benz Patent-Motorwagen, considerado o primeiro automóvel?",
+  "unidade": "km/h",
+  "resposta": 16,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto custava o Ford Modelo T em 1908, em dólares?",
+  "unidade": "dólares",
+  "resposta": 825,
+  "fonte": "Ford / Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Ford Modelo T foram produzidos, em milhões?",
+  "unidade": "milhões de carros",
+  "resposta": 15,
+  "fonte": "Wikipédia (15,0 milhões)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Fuscas foram produzidos no mundo, em milhões (arredondado)?",
+  "unidade": "milhões de carros",
+  "resposta": 21.5,
+  "fonte": "Wikipédia (21,5 milhões)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas patentes nos EUA Thomas Edison obteve em vida?",
+  "unidade": "patentes",
+  "resposta": 1093,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas válvulas tinha o computador ENIAC (1945)?",
+  "unidade": "válvulas",
+  "resposta": 17468,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos transistores tinha o chip Intel 4004, de 1971?",
+  "unidade": "transistores",
+  "resposta": 2300,
+  "fonte": "Intel / Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas polegadas tinha a tela do primeiro iPhone?",
+  "unidade": "polegadas",
+  "resposta": 3.5,
+  "fonte": "Apple",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto custava o primeiro iPhone (modelo de 4 GB) em 2007, em dólares?",
+  "unidade": "dólares",
+  "resposta": 499,
+  "fonte": "Apple",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto custava o computador Apple I, em dólares, em 1976?",
+  "unidade": "dólares",
+  "resposta": 666.66,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos fundadores teve a Apple em 1976 (Jobs, Wozniak e mais um)?",
+  "unidade": "fundadores",
+  "resposta": 3,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos zeros tem o número googol, que inspirou o nome Google?",
+  "unidade": "zeros",
+  "resposta": 100,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o limite original de caracteres de uma mensagem SMS?",
+  "unidade": "caracteres",
+  "resposta": 160,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o limite original de caracteres de um tuíte do Twitter?",
+  "unidade": "caracteres",
+  "resposta": 140,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quanto custava, em dólares, o primeiro celular comercial, o Motorola DynaTAC (1983)?",
+  "unidade": "dólares",
+  "resposta": 3995,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos segundos tem o primeiro vídeo do YouTube, 'Me at the zoo'?",
+  "unidade": "segundos",
+  "resposta": 19,
+  "fonte": "YouTube",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a capacidade de um disquete de 3,5 polegadas de alta densidade, em MB?",
+  "unidade": "MB",
+  "resposta": 1.44,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos de música cabiam no CD original?",
+  "unidade": "minutos",
+  "resposta": 74,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a capacidade de um DVD de camada simples, em GB?",
+  "unidade": "GB",
+  "resposta": 4.7,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a capacidade de um disco Blu-ray de camada simples, em GB?",
+  "unidade": "GB",
+  "resposta": 25,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pixels de largura tem uma tela 4K (Ultra HD)?",
+  "unidade": "pixels",
+  "resposta": 3840,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A cada quantos anos, segundo a Lei de Moore, o número de transistores de um chip dobra?",
+  "unidade": "anos",
+  "resposta": 2,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas linhas por página tinha a Bíblia de Gutenberg?",
+  "unidade": "linhas",
+  "resposta": 42,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto pesava o Sputnik 1, em kg (arredondado)?",
+  "unidade": "kg",
+  "resposta": 84,
+  "fonte": "NASA (83,6 kg)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos durou o voo de Yuri Gagarin, o primeiro humano no espaço?",
+  "unidade": "minutos",
+  "resposta": 108,
+  "fonte": "NASA / Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o diâmetro do espelho principal do telescópio James Webb, em metros?",
+  "unidade": "metros",
+  "resposta": 6.5,
+  "fonte": "NASA",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos segmentos hexagonais tem o espelho principal do James Webb?",
+  "unidade": "segmentos",
+  "resposta": 18,
+  "fonte": "NASA",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a circunferência do Grande Colisor de Hádrons (LHC), em km (arredondado)?",
+  "unidade": "km",
+  "resposta": 27,
+  "fonte": "CERN",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a potência instalada da usina de Itaipu em 2026, em megawatts?",
+  "unidade": "megawatts",
+  "resposta": 14000,
+  "fonte": "Itaipu Binacional",
+  "ano": 2026,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do Burj Khalifa, em metros (prédio mais alto do mundo em 2026)?",
+  "unidade": "metros",
+  "resposta": 828,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos andares tem o Empire State Building?",
+  "unidade": "andares",
+  "resposta": 102,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o comprimento do vão central da ponte Golden Gate, em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta": 1280,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da torre do Big Ben (Torre Elizabeth), em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta": 96,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da roda-gigante London Eye, em metros?",
+  "unidade": "metros",
+  "resposta": 135,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos fantasmas perseguem o Pac-Man no jogo original?",
+  "unidade": "fantasmas",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos tipos de peças (tetraminós) existem no Tetris?",
+  "unidade": "peças diferentes",
+  "resposta": 7,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Pokémon existiam na primeira geração dos jogos (Red e Blue)?",
+  "unidade": "Pokémon",
+  "resposta": 151,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos mundos tem o jogo Super Mario Bros. original (1985)?",
+  "unidade": "mundos",
+  "resposta": 8,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas unidades do PlayStation 2 foram vendidas, em milhões (dado da Sony)?",
+  "unidade": "milhões de unidades",
+  "resposta": 155,
+  "fonte": "Sony / Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a tensão padrão da rede elétrica na Europa, em volts?",
+  "unidade": "volts",
+  "resposta": 230,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a tensão padrão da tomada nos Estados Unidos, em volts?",
+  "unidade": "volts",
+  "resposta": 120,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a tensão de uma pilha AA comum, em volts?",
+  "unidade": "volts",
+  "resposta": 1.5,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual a frequência clássica do Wi-Fi mais comum, em GHz?",
+  "unidade": "GHz",
+  "resposta": 2.4,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura da Torre CN, em Toronto, em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta": 553,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do foguete Saturn V, da missão Apollo, em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta": 111,
+  "fonte": "NASA (110,6 m)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o diâmetro do espelho principal do telescópio espacial Hubble, em metros?",
+  "unidade": "metros",
+  "resposta": 2.4,
+  "fonte": "NASA",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos KB de memória RAM tinha o Macintosh original, de 1984?",
+  "unidade": "KB",
+  "resposta": 128,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos bytes de RAM tinha o console Atari 2600?",
+  "unidade": "bytes",
+  "resposta": 128,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas letras tinha a primeira mensagem enviada pela ARPANET (a antecessora da internet), em 1969?",
+  "unidade": "letras",
+  "resposta": 2,
+  "fonte": "Wikipédia ('LO')",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos computadores (nós) formavam a ARPANET no fim de 1969?",
+  "unidade": "computadores",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos endereços IP existem no protocolo IPv4, em bilhões (arredondado)?",
+  "unidade": "bilhões de endereços",
+  "resposta": 4.29,
+  "fonte": "Wikipédia (2^32)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do transatlântico Queen Mary 2, em metros?",
+  "unidade": "metros",
+  "resposta": 345,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do Canal de Suez, em km (arredondado)?",
+  "unidade": "km",
+  "resposta": 193,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas músicas cabiam no bolso, segundo o slogan de lançamento do primeiro iPod?",
+  "unidade": "músicas",
+  "resposta": 1000,
+  "fonte": "Apple",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos megapixels tinha a câmera do primeiro iPhone?",
+  "unidade": "megapixels",
+  "resposta": 2,
+  "fonte": "Apple",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas polegadas tinha a tela do primeiro iPad?",
+  "unidade": "polegadas",
+  "resposta": 9.7,
+  "fonte": "Apple",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Por quantos bilhões de dólares o Facebook comprou o Instagram, em 2012?",
+  "unidade": "bilhões de dólares",
+  "resposta": 1,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Por quantos bilhões de dólares o Facebook comprou o WhatsApp, em 2014 (valor final)?",
+  "unidade": "bilhões de dólares",
+  "resposta": 19,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Por quantos bilhões de dólares o Google comprou o YouTube, em 2006?",
+  "unidade": "bilhões de dólares",
+  "resposta": 1.65,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Por quantos bilhões de dólares a Microsoft comprou o Minecraft, em 2014?",
+  "unidade": "bilhões de dólares",
+  "resposta": 2.5,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto custava, em dólares, uma ação do Google na oferta inicial (IPO) de 2004?",
+  "unidade": "dólares",
+  "resposta": 85,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto custava, em dólares, uma ação do Facebook na oferta inicial (IPO) de 2012?",
+  "unidade": "dólares",
+  "resposta": 38,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto custava, em dólares, uma ação da Amazon na oferta inicial (IPO) de 1997?",
+  "unidade": "dólares",
+  "resposta": 18,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto custava, em dólares, uma ação da Apple na oferta inicial (IPO) de 1980?",
+  "unidade": "dólares",
+  "resposta": 22,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pixels tinha, no total, a primeira câmera digital, criada na Kodak em 1975?",
+  "unidade": "pixels",
+  "resposta": 10000,
+  "fonte": "Wikipédia (100x100)",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o diâmetro do antigo radiotelescópio de Arecibo, em metros?",
+  "unidade": "metros",
+  "resposta": 305,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o diâmetro de um CD, em centímetros?",
+  "unidade": "centímetros",
+  "resposta": 12,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A quantas rotações por minuto girava um disco de vinil LP (arredondado, 33 e 1/3)?",
+  "unidade": "rotações por minuto",
+  "resposta": 33.33,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto Henry Ford passou a pagar por dia a seus operários em 1914, em dólares?",
+  "unidade": "dólares",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de pixels tem uma tela Full HD (1920x1080), em milhões (arredondado)?",
+  "unidade": "milhões de pixels",
+  "resposta": 2.07,
+  "fonte": "Wikipédia",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

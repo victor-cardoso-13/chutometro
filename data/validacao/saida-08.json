@@ -1,0 +1,794 @@
+[
+ {
+  "id": "c0694",
+  "resposta": 7000,
+  "fonte": "Britannica (~7.000 km; fontes 7.000-8.900)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Andes: 7.000 km (Britannica); algumas fontes 8.900 km"
+ },
+ {
+  "id": "c0695",
+  "resposta": 82,
+  "fonte": "Autoridade do Canal do Panamá (~82 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "80-82 km"
+ },
+ {
+  "id": "c0696",
+  "resposta": 193,
+  "fonte": "Suez Canal Authority (193,3 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0697",
+  "resposta": 14,
+  "fonte": "Wikipédia/Britannica (14,3 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "14,3 km no ponto mais estreito"
+ },
+ {
+  "id": "c0698",
+  "resposta": 33,
+  "fonte": "Wikipédia (33,3 km / 20,7 mi)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "33,3 km"
+ },
+ {
+  "id": "c0699",
+  "resposta": 10002,
+  "fonte": "Definição original do metro (10.000 km); geodésico 10.002 km",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "~10.002 km"
+ },
+ {
+  "id": "c0700",
+  "resposta": 40075,
+  "fonte": "NASA (40.075 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0701",
+  "resposta": 6371,
+  "fonte": "NASA/IUGG (6.371 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0702",
+  "resposta": 5,
+  "fonte": "NOAA (5 oceanos, incl. Austral)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "5 (Pacífico, Atlântico, Índico, Ártico, Austral) ou 4 no modelo tradicional"
+ },
+ {
+  "id": "c0703",
+  "resposta": 6,
+  "fonte": "Modelo escolar brasileiro (América única)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "6 no Brasil (América, África, Ásia, Europa, Oceania, Antártida); 7 no modelo anglófono"
+ },
+ {
+  "id": "c0704",
+  "resposta": 193,
+  "fonte": "ONU",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "193 Estados-membros"
+ },
+ {
+  "id": "c0705",
+  "resposta": 54,
+  "fonte": "ONU/União Africana",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "UA tem 55 membros (inclui Saara Ocidental, não membro da ONU); 54 são membros da ONU"
+ },
+ {
+  "id": "c0706",
+  "resposta": 50,
+  "fonte": "Oficial",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0707",
+  "resposta": 12,
+  "fonte": "Wikipédia (12 países soberanos)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "13 se contar Guiana Francesa"
+ },
+ {
+  "id": "c0708",
+  "resposta": 11,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "11 desde 2014"
+ },
+ {
+  "id": "c0709",
+  "resposta": 7641,
+  "fonte": "Wikipédia (NAMRIA)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "7.641 ilhas"
+ },
+ {
+  "id": "c0710",
+  "resposta": 14,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "14 (16 contando Abecásia e Ossétia do Sul)"
+ },
+ {
+  "id": "c0711",
+  "resposta": 27,
+  "fonte": "União Europeia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0712",
+  "resposta": 28,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "28 estados e 8 territórios da União"
+ },
+ {
+  "id": "c0713",
+  "resposta": 10,
+  "fonte": "Oficial",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0714",
+  "resposta": 26,
+  "fonte": "Oficial",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "26 cantões (6 meios-cantões)"
+ },
+ {
+  "id": "c0715",
+  "resposta": 16,
+  "fonte": "Oficial",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0716",
+  "resposta": 6,
+  "fonte": "Oficial",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0717",
+  "resposta": 5,
+  "fonte": "EPA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0718",
+  "resposta": 1,
+  "fonte": "Oficial (UTC+8)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Cinco fusos geográficos, um oficial"
+ },
+ {
+  "id": "c0719",
+  "resposta": 11,
+  "fonte": "Wikipédia (Equador: 11 em terra)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "11-13 conforme contagem (Quiribáti, Maldivas, São Tomé)"
+ },
+ {
+  "id": "c0720",
+  "resposta": 9,
+  "fonte": "Wikipédia/WWF",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "8 países + Guiana Francesa (território francês)"
+ },
+ {
+  "id": "c0721",
+  "resposta": 10,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "10 países (alguns citam 4 que fazem fronteira ou 19 na bacia)"
+ },
+ {
+  "id": "c0722",
+  "resposta": 12,
+  "fonte": "Met Office",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "escala 0 a 12"
+ },
+ {
+  "id": "c0723",
+  "resposta": 5,
+  "fonte": "NOAA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0724",
+  "resposta": 4,
+  "fonte": "Wikipédia (Honshu, Hokkaido, Kyushu, Shikoku)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "4 principais; algumas fontes incluem Okinawa (5)"
+ },
+ {
+  "id": "c0725",
+  "resposta": 71,
+  "fonte": "NOAA/USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "~71%"
+ },
+ {
+  "id": "c0726",
+  "resposta": 56.7,
+  "fonte": "OMM (134 °F)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0727",
+  "resposta": 78,
+  "fonte": "NASA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "78,08%"
+ },
+ {
+  "id": "c0728",
+  "resposta": 21,
+  "fonte": "NASA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "20,95%"
+ },
+ {
+  "id": "c0729",
+  "resposta": 2.5,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "~2,5-3%"
+ },
+ {
+  "id": "c0730",
+  "resposta": 408,
+  "fonte": "OMM (Barrow Island, 1996)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "408 km/h"
+ },
+ {
+  "id": "c0731",
+  "resposta": 30000,
+  "fonte": "NOAA/NWS (~30.000 °C)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "cerca de 5x a superfície do Sol"
+ },
+ {
+  "id": "c0732",
+  "resposta": 100,
+  "fonte": "FAI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0733",
+  "resposta": 4.54,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "4,54 bilhões"
+ },
+ {
+  "id": "c0734",
+  "resposta": 5.5,
+  "fonte": "Oficial (UTC+5:30)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0735",
+  "resposta": 23.4,
+  "fonte": "NASA (23,44°)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0736",
+  "resposta": 252,
+  "fonte": "NOAA (157 mph)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0737",
+  "resposta": 9.5,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "9,4-9,6"
+ },
+ {
+  "id": "c0738",
+  "resposta": 3640,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Varia 3.200-4.100 m; cidade em ~3.640 m (El Alto 4.150)"
+ },
+ {
+  "id": "c0739",
+  "resposta": 116,
+  "fonte": "Wikipédia (115,92 m)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "115,92 m"
+ },
+ {
+  "id": "c0740",
+  "resposta": 91,
+  "fonte": "Guinness World Records",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "91 cm em 24 h"
+ },
+ {
+  "id": "c0741",
+  "resposta": 1883,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0742",
+  "resposta": 79,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "79 d.C. (alguns cogitam outubro)"
+ },
+ {
+  "id": "c0743",
+  "resposta": 1815,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0744",
+  "resposta": 1755,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0745",
+  "resposta": 1960,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0746",
+  "resposta": 2004,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0747",
+  "resposta": 2005,
+  "fonte": "NOAA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0748",
+  "resposta": 1911,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "14 dez 1911"
+ },
+ {
+  "id": "c0749",
+  "resposta": 1953,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0750",
+  "resposta": 1707,
+  "fonte": "Smithsonian GVP",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Erupção Hoei"
+ },
+ {
+  "id": "c0751",
+  "resposta": 2011,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0752",
+  "resposta": 1906,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0753",
+  "resposta": 1637,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "auge em fev. 1637"
+ },
+ {
+  "id": "c0754",
+  "resposta": 1991,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0755",
+  "resposta": 1980,
+  "fonte": "USGS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0756",
+  "resposta": 1450,
+  "fonte": "ONU WPP 2024 (~1.450,6 mi)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0757",
+  "resposta": 124,
+  "fonte": "ONU WPP 2024 (~123,8 mi)",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": "WPP2022 dava 124,4 p/ 2023; WPP2024 ~123,8"
+ },
+ {
+  "id": "c0758",
+  "resposta": 27,
+  "fonte": "ONU WPP 2024 (~26,7 mi)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "~26,7 mi; arredondado 27"
+ },
+ {
+  "id": "c0759",
+  "resposta": 40,
+  "fonte": "ONU WPP 2024 (~39,7-40,1 mi)",
+  "confianca": "baixa",
+  "ambigua": true,
+  "obs": "Não confirmei o valor exato do WPP2024; ~40"
+ },
+ {
+  "id": "c0760",
+  "resposta": 116,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0761",
+  "resposta": 4,
+  "fonte": "Convenção",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "jul 1914 a nov 1918 = 4 anos e 3 meses"
+ },
+ {
+  "id": "c0762",
+  "resposta": 6,
+  "fonte": "Convenção",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "1939-1945; 6 anos"
+ },
+ {
+  "id": "c0763",
+  "resposta": 63,
+  "fonte": "Britannica (1837-1901)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "63 anos e 7 meses"
+ },
+ {
+  "id": "c0764",
+  "resposta": 70,
+  "fonte": "Britannica (1952-2022)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "70 anos e 214 dias"
+ },
+ {
+  "id": "c0765",
+  "resposta": 72,
+  "fonte": "Britannica (1643-1715)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "72 anos"
+ },
+ {
+  "id": "c0766",
+  "resposta": 51,
+  "fonte": "Britannica (1769-1821)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0767",
+  "resposta": 32,
+  "fonte": "Britannica (356-323 a.C.)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "quase 33"
+ },
+ {
+  "id": "c0768",
+  "resposta": 56,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0769",
+  "resposta": 46,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0770",
+  "resposta": 78,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0771",
+  "resposta": 39,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0772",
+  "resposta": 90,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0773",
+  "resposta": 27,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "27 anos (18 em Robben Island)"
+ },
+ {
+  "id": "c0774",
+  "resposta": 28,
+  "fonte": "Convenção",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "13/8/1961 a 9/11/1989"
+ },
+ {
+  "id": "c0775",
+  "resposta": 160,
+  "fonte": "Britannica (2h40)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "23h40 a 2h20 = 160 min"
+ },
+ {
+  "id": "c0776",
+  "resposta": 6,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0777",
+  "resposta": 3,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Santa Maria, Pinta e Niña"
+ },
+ {
+  "id": "c0778",
+  "resposta": 5,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0779",
+  "resposta": 18,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "18 europeus (e alguns outros)"
+ },
+ {
+  "id": "c0780",
+  "resposta": 302,
+  "fonte": "Britannica (21/2 a 18/12/1916)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "~300 dias"
+ },
+ {
+  "id": "c0781",
+  "resposta": 872,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "872 dias (900 comum)"
+ },
+ {
+  "id": "c0782",
+  "resposta": 53,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "6 abr-29 mai 1453"
+ },
+ {
+  "id": "c0783",
+  "resposta": 5,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Utah, Omaha, Gold, Juno, Sword"
+ },
+ {
+  "id": "c0784",
+  "resposta": 38,
+  "fonte": "NASA (nasc. 1930, Lua jul 1969)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0785",
+  "resposta": 108,
+  "fonte": "NASA/Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0786",
+  "resposta": 27,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0787",
+  "resposta": 53,
+  "fonte": "Britannica (1870-1924)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0788",
+  "resposta": 56,
+  "fonte": "Britannica (1889-1945)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0789",
+  "resposta": 41,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "~40-41"
+ },
+ {
+  "id": "c0790",
+  "resposta": 147,
+  "fonte": "Wikipédia (146,6 m)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "146,6 arredondado"
+ },
+ {
+  "id": "c0791",
+  "resposta": 300,
+  "fonte": "Heródoto",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "mais ~700 téspios e tebanos"
+ },
+ {
+  "id": "c0792",
+  "resposta": 6,
+  "fonte": "Britannica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ }
+]

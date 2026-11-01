@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Quantas teclas tem um piano padrão?",
+  "unidade": "teclas",
+  "resposta": 88,
+  "fonte": "Wikipédia: Piano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas dessas teclas do piano padrão são brancas?",
+  "unidade": "teclas",
+  "resposta": 52,
+  "fonte": "Wikipédia: Piano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas peças existem no tabuleiro de xadrez no início da partida (as duas cores)?",
+  "unidade": "peças",
+  "resposta": 32,
+  "fonte": "FIDE / regras do xadrez",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas casas tem o tabuleiro de xadrez?",
+  "unidade": "casas",
+  "resposta": 64,
+  "fonte": "FIDE / regras do xadrez",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "De quantas maneiras diferentes as brancas podem fazer o primeiro lance no xadrez?",
+  "unidade": "lances",
+  "resposta": 20,
+  "fonte": "Regras do xadrez (16 de peão + 4 de cavalo)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cartas tem um baralho comum, sem coringas?",
+  "unidade": "cartas",
+  "resposta": 52,
+  "fonte": "Baralho francês (Wikipédia)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas figuras (valete, dama e rei) tem um baralho comum de 52 cartas?",
+  "unidade": "cartas",
+  "resposta": 12,
+  "fonte": "Baralho francês (Wikipédia)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas peças tem um jogo de dominó tradicional (até o duplo-seis)?",
+  "unidade": "peças",
+  "resposta": 28,
+  "fonte": "Wikipédia: Dominó",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Somando todos os pontinhos de um jogo de dominó tradicional (duplo-seis), quantos pontos há?",
+  "unidade": "pontos",
+  "resposta": 168,
+  "fonte": "Wikipédia: Dominó",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Se você somar os pontos das 6 faces de um dado comum, quanto dá?",
+  "unidade": "pontos",
+  "resposta": 21,
+  "fonte": "Matemática (1+2+3+4+5+6)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Ao jogar dois dados, quantos resultados diferentes (combinações) são possíveis?",
+  "unidade": "combinações",
+  "resposta": 36,
+  "fonte": "Probabilidade básica (6×6)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cartas tem um baralho de Uno?",
+  "unidade": "cartas",
+  "resposta": 108,
+  "fonte": "Mattel / Wikipédia: Uno",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cartas tem o jogo Dobble?",
+  "unidade": "cartas",
+  "resposta": 55,
+  "fonte": "Asmodee / Wikipédia: Dobble",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cartas tem um baralho completo de tarô (arcanos maiores e menores)?",
+  "unidade": "cartas",
+  "resposta": 78,
+  "fonte": "Wikipédia: Tarô",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas peças tem o jogo Scrabble em inglês?",
+  "unidade": "peças",
+  "resposta": 100,
+  "fonte": "Hasbro / Wikipédia: Scrabble",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos blocos de madeira tem o jogo Jenga?",
+  "unidade": "blocos",
+  "resposta": 54,
+  "fonte": "Hasbro / Wikipédia: Jenga",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos adesivos coloridos (quadradinhos) aparecem nas faces de um Cubo Mágico 3x3?",
+  "unidade": "adesivos",
+  "resposta": 54,
+  "fonte": "Wikipédia: Cubo de Rubik (6×9)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas casas (quadradinhos) tem um tabuleiro de Sudoku?",
+  "unidade": "casas",
+  "resposta": 81,
+  "fonte": "Wikipédia: Sudoku",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas casas tem o tabuleiro do Monopoly original?",
+  "unidade": "casas",
+  "resposta": 40,
+  "fonte": "Hasbro / Wikipédia: Monopoly",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos territórios tem o tabuleiro do jogo Risk?",
+  "unidade": "territórios",
+  "resposta": 42,
+  "fonte": "Hasbro / Wikipédia: Risk",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos tipos de peças (tetraminós) diferentes existem no Tetris?",
+  "unidade": "peças",
+  "resposta": 7,
+  "fonte": "Wikipédia: Tetris",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Pokémon existem na primeira geração (Pokédex original)?",
+  "unidade": "Pokémon",
+  "resposta": 151,
+  "fonte": "Wikipédia: Pokémon (primeira geração)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos números há no volante da Lotofácil (de 1 até quanto)?",
+  "unidade": "números",
+  "resposta": 25,
+  "fonte": "Caixa Econômica Federal",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos números há no volante da Mega-Sena (de 1 até quanto)?",
+  "unidade": "números",
+  "resposta": 60,
+  "fonte": "Caixa Econômica Federal",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas peças (no total, das duas cores) tem no início uma partida de damas?",
+  "unidade": "peças",
+  "resposta": 24,
+  "fonte": "Regras do jogo de damas (12 por jogador)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas bolas (contando a branca) tem uma mesa de sinuca de 8 bolas (pool)?",
+  "unidade": "bolas",
+  "resposta": 16,
+  "fonte": "Wikipédia: Eight-ball",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pinos são derrubados no boliche tradicional?",
+  "unidade": "pinos",
+  "resposta": 10,
+  "fonte": "Wikipédia: Boliche",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos pontos de costura vermelhos tem uma bola de beisebol oficial?",
+  "unidade": "pontos",
+  "resposta": 108,
+  "fonte": "MLB / Wikipédia: Beisebol",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "De quantas maneiras diferentes dá para juntar 6 peças de Lego 2x4 da mesma cor?",
+  "unidade": "maneiras",
+  "resposta": 915103765,
+  "fonte": "LEGO / Søren Eilers (2005)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos fantasmas perseguem o Pac-Man no jogo clássico?",
+  "unidade": "fantasmas",
+  "resposta": 4,
+  "fonte": "Wikipédia: Pac-Man",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas peças tem o quebra-cabeça chinês Tangram?",
+  "unidade": "peças",
+  "resposta": 7,
+  "fonte": "Wikipédia: Tangram",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas teclas tem o teclado de um telefone tradicional (com números, asterisco e jogo da velha)?",
+  "unidade": "teclas",
+  "resposta": 12,
+  "fonte": "Wikipédia: Teclado numérico de telefone",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas letras tem o alfabeto da língua portuguesa?",
+  "unidade": "letras",
+  "resposta": 26,
+  "fonte": "Acordo Ortográfico de 1990",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano a boneca Barbie foi lançada?",
+  "unidade": "ano",
+  "resposta": 1959,
+  "fonte": "Mattel",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Ernő Rubik inventou o Cubo Mágico?",
+  "unidade": "ano",
+  "resposta": 1974,
+  "fonte": "Wikipédia: Cubo de Rubik",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a Coca-Cola foi criada?",
+  "unidade": "ano",
+  "resposta": 1886,
+  "fonte": "The Coca-Cola Company",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o Real passou a ser a moeda do Brasil?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Banco Central do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o Tetris foi criado?",
+  "unidade": "ano",
+  "resposta": 1984,
+  "fonte": "Wikipédia: Tetris",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi adotado o calendário gregoriano, que usamos hoje?",
+  "unidade": "ano",
+  "resposta": 1582,
+  "fonte": "Wikipédia: Calendário gregoriano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi fundada a fabricante de brinquedos Lego?",
+  "unidade": "ano",
+  "resposta": 1932,
+  "fonte": "LEGO Group",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano as notas e moedas de euro começaram a circular?",
+  "unidade": "ano",
+  "resposta": 2002,
+  "fonte": "Banco Central Europeu",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos valores diferentes de cédulas de real existem hoje (R$ 2, 5, 10…)?",
+  "unidade": "cédulas",
+  "resposta": 7,
+  "fonte": "Banco Central do Brasil",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos valores diferentes de moedas tem o euro?",
+  "unidade": "moedas",
+  "resposta": 8,
+  "fonte": "Banco Central Europeu",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos quilates tem o ouro puro?",
+  "unidade": "quilates",
+  "resposta": 24,
+  "fonte": "Joalheria (padrão)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dias tem um ano bissexto?",
+  "unidade": "dias",
+  "resposta": 366,
+  "fonte": "Calendário gregoriano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas semanas inteiras tem um ano normal de 365 dias?",
+  "unidade": "semanas",
+  "resposta": 52,
+  "fonte": "Calendário gregoriano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas horas tem uma semana?",
+  "unidade": "horas",
+  "resposta": 168,
+  "fonte": "Aritmética (7×24)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos tem um dia?",
+  "unidade": "minutos",
+  "resposta": 1440,
+  "fonte": "Aritmética (24×60)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos segundos tem uma hora?",
+  "unidade": "segundos",
+  "resposta": 3600,
+  "fonte": "Aritmética (60×60)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "A cada 400 anos, quantos anos bissextos existem no calendário gregoriano?",
+  "unidade": "anos",
+  "resposta": 97,
+  "fonte": "Calendário gregoriano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias dura, em média, um ciclo completo da Lua (de lua nova a lua nova)?",
+  "unidade": "dias",
+  "resposta": 29.5,
+  "fonte": "NASA (mês sinódico, 29,53 dias)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos de casamento completam as bodas de prata?",
+  "unidade": "anos",
+  "resposta": 25,
+  "fonte": "Tradição de bodas",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos meses do ano têm 31 dias?",
+  "unidade": "meses",
+  "resposta": 7,
+  "fonte": "Calendário gregoriano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos meses do ano têm exatamente 30 dias?",
+  "unidade": "meses",
+  "resposta": 4,
+  "fonte": "Calendário gregoriano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos milímetros tem uma polegada?",
+  "unidade": "mm",
+  "resposta": 25.4,
+  "fonte": "Sistema Internacional (definição exata)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos centímetros tem um pé (unidade inglesa)?",
+  "unidade": "cm",
+  "resposta": 30.48,
+  "fonte": "Definição internacional (exata)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos centímetros tem uma jarda?",
+  "unidade": "cm",
+  "resposta": 91.44,
+  "fonte": "Definição internacional (exata)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gramas tem uma libra (unidade inglesa)? Arredonde para o inteiro.",
+  "unidade": "g",
+  "resposta": 454,
+  "fonte": "Definição internacional (453,59 g)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos metros tem uma milha terrestre? Arredonde para o inteiro.",
+  "unidade": "m",
+  "resposta": 1609,
+  "fonte": "Definição internacional (1609,344 m)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos litros tem um galão americano?",
+  "unidade": "litros",
+  "resposta": 3.79,
+  "fonte": "Definição (3,785 L)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilos tem uma arroba?",
+  "unidade": "kg",
+  "resposta": 15,
+  "fonte": "Medida tradicional brasileira",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos metros tem uma milha náutica?",
+  "unidade": "m",
+  "resposta": 1852,
+  "fonte": "Definição internacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos metros quadrados tem um hectare?",
+  "unidade": "m²",
+  "resposta": 10000,
+  "fonte": "Sistema Internacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos metros tem uma maratona oficial?",
+  "unidade": "m",
+  "resposta": 42195,
+  "fonte": "World Athletics",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas unidades tem uma grosa?",
+  "unidade": "unidades",
+  "resposta": 144,
+  "fonte": "Medida tradicional (12 dúzias)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas folhas tem uma resma de papel?",
+  "unidade": "folhas",
+  "resposta": 500,
+  "fonte": "Padrão de papelaria",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura de uma folha de papel A4, em milímetros?",
+  "unidade": "mm",
+  "resposta": 297,
+  "fonte": "ISO 216 (210×297 mm)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gostos básicos a língua humana reconhece (doce, salgado, azedo, amargo e mais um)?",
+  "unidade": "gostos",
+  "resposta": 5,
+  "fonte": "Fisiologia (inclui umami)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas quilocalorias tem 1 grama de gordura?",
+  "unidade": "kcal",
+  "resposta": 9,
+  "fonte": "Tabela de Atwater (FAO)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas quilocalorias tem 1 grama de álcool (etanol)?",
+  "unidade": "kcal",
+  "resposta": 7,
+  "fonte": "Tabela de Atwater (FAO)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos mililitros cabem em uma colher de sopa (medida de receitas no Brasil)?",
+  "unidade": "mL",
+  "resposta": 15,
+  "fonte": "Medida culinária padrão",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos mililitros tem uma lata de refrigerante comum no Brasil?",
+  "unidade": "mL",
+  "resposta": 350,
+  "fonte": "Padrão de mercado brasileiro",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos mililitros tem uma garrafa de vinho padrão?",
+  "unidade": "mL",
+  "resposta": 750,
+  "fonte": "Padrão internacional",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "A água ferve a quantos graus Fahrenheit (ao nível do mar)?",
+  "unidade": "°F",
+  "resposta": 212,
+  "fonte": "Escala Fahrenheit",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A água congela a quantos graus Fahrenheit?",
+  "unidade": "°F",
+  "resposta": 32,
+  "fonte": "Escala Fahrenheit",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "O álcool etílico (etanol) ferve a quantos graus Celsius? Arredonde para o inteiro.",
+  "unidade": "°C",
+  "resposta": 78,
+  "fonte": "Química (78,4 °C)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cordas tem um violão tradicional?",
+  "unidade": "cordas",
+  "resposta": 6,
+  "fonte": "Wikipédia: Violão",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas cordas tem uma harpa de concerto?",
+  "unidade": "cordas",
+  "resposta": 47,
+  "fonte": "Wikipédia: Harpa",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas linhas tem uma pauta musical?",
+  "unidade": "linhas",
+  "resposta": 5,
+  "fonte": "Teoria musical",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas notas diferentes tem a escala musical (dó, ré, mi…), sem contar a repetida?",
+  "unidade": "notas",
+  "resposta": 7,
+  "fonte": "Teoria musical",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas cores o arco-íris tem, segundo a divisão clássica de Newton?",
+  "unidade": "cores",
+  "resposta": 7,
+  "fonte": "Óptica de Newton",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos ossos tem um pé humano adulto?",
+  "unidade": "ossos",
+  "resposta": 26,
+  "fonte": "Anatomia humana (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas pernas tem uma aranha?",
+  "unidade": "pernas",
+  "resposta": 8,
+  "fonte": "Zoologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas pernas tem um inseto adulto?",
+  "unidade": "pernas",
+  "resposta": 6,
+  "fonte": "Zoologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos braços tem um polvo?",
+  "unidade": "braços",
+  "resposta": 8,
+  "fonte": "Zoologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos corações tem um polvo?",
+  "unidade": "corações",
+  "resposta": 3,
+  "fonte": "Zoologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas patas (pernas e pinças) tem um caranguejo?",
+  "unidade": "patas",
+  "resposta": 10,
+  "fonte": "Zoologia (decápodes)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos olhos tem uma abelha (contando os simples e os compostos)?",
+  "unidade": "olhos",
+  "resposta": 5,
+  "fonte": "Entomologia (2 compostos + 3 ocelos)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas asas tem uma abelha?",
+  "unidade": "asas",
+  "resposta": 4,
+  "fonte": "Entomologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos compartimentos (estômagos) tem o estômago de uma vaca?",
+  "unidade": "compartimentos",
+  "resposta": 4,
+  "fonte": "Zoologia (ruminantes)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vértebras tem o pescoço de uma girafa?",
+  "unidade": "vértebras",
+  "resposta": 7,
+  "fonte": "Zoologia (igual aos humanos)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem uma célula humana?",
+  "unidade": "cromossomos",
+  "resposta": 46,
+  "fonte": "Genética humana",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos cromossomos tem um cachorro?",
+  "unidade": "cromossomos",
+  "resposta": 78,
+  "fonte": "Genética (Canis lupus familiaris)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem um gato doméstico?",
+  "unidade": "cromossomos",
+  "resposta": 38,
+  "fonte": "Genética (Felis catus)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem um chimpanzé?",
+  "unidade": "cromossomos",
+  "resposta": 48,
+  "fonte": "Genética (Pan troglodytes)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dentes tem um cachorro adulto?",
+  "unidade": "dentes",
+  "resposta": 42,
+  "fonte": "Veterinária (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dentes tem um gato adulto?",
+  "unidade": "dentes",
+  "resposta": 30,
+  "fonte": "Veterinária (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dedos tem um gato (somando as quatro patas)?",
+  "unidade": "dedos",
+  "resposta": 18,
+  "fonte": "Anatomia felina (5+5+4+4)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas corcovas tem o camelo bactriano?",
+  "unidade": "corcovas",
+  "resposta": 2,
+  "fonte": "Zoologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos dias leva para um ovo de galinha chocar?",
+  "unidade": "dias",
+  "resposta": 21,
+  "fonte": "Avicultura (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dias leva para um ovo de pato chocar?",
+  "unidade": "dias",
+  "resposta": 28,
+  "fonte": "Avicultura (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos meses dura a gestação de uma elefanta?",
+  "unidade": "meses",
+  "resposta": 22,
+  "fonte": "Zoologia (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas semanas dura, em média, a gestação humana?",
+  "unidade": "semanas",
+  "resposta": 40,
+  "fonte": "OMS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dias dura a gestação de uma cadela?",
+  "unidade": "dias",
+  "resposta": 63,
+  "fonte": "Veterinária (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias dura, em média, a gestação de uma vaca?",
+  "unidade": "dias",
+  "resposta": 283,
+  "fonte": "Zootecnia (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos meses dura, em média, a gestação de uma égua?",
+  "unidade": "meses",
+  "resposta": 11,
+  "fonte": "Veterinária (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias dura a gestação de uma porca ('3 meses, 3 semanas e 3 dias')?",
+  "unidade": "dias",
+  "resposta": 114,
+  "fonte": "Zootecnia (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dentes tem um coelho adulto?",
+  "unidade": "dentes",
+  "resposta": 28,
+  "fonte": "Veterinária (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem um cavalo?",
+  "unidade": "cromossomos",
+  "resposta": 64,
+  "fonte": "Genética equina",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem a mosca-da-fruta (Drosophila)?",
+  "unidade": "cromossomos",
+  "resposta": 8,
+  "fonte": "Genética (modelo clássico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

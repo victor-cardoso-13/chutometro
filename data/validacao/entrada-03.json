@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0199",
+  "q": "Quantos artigos tem o corpo principal da Constituição de 1988?",
+  "unidade": "artigos"
+ },
+ {
+  "id": "c0200",
+  "q": "Quantos estados formam a Amazônia Legal?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c0201",
+  "q": "Quantas ilhas e ilhotas formam o arquipélago de Fernando de Noronha?",
+  "unidade": "ilhas"
+ },
+ {
+  "id": "c0202",
+  "q": "Quantas unidades geradoras tem a usina de Itaipu?",
+  "unidade": "unidades"
+ },
+ {
+  "id": "c0203",
+  "q": "Qual a potência instalada da usina de Itaipu, em megawatts?",
+  "unidade": "MW"
+ },
+ {
+  "id": "c0204",
+  "q": "Qual a potência instalada da usina de Belo Monte, em megawatts?",
+  "unidade": "MW"
+ },
+ {
+  "id": "c0205",
+  "q": "Qual a potência instalada da usina de Tucuruí, em megawatts?",
+  "unidade": "MW"
+ },
+ {
+  "id": "c0206",
+  "q": "Qual a altura da barragem de Itaipu, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0207",
+  "q": "Qual o comprimento da Ponte Rio-Niterói, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0208",
+  "q": "Qual a altura do Cristo Redentor, com o pedestal, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0209",
+  "q": "Qual a altitude do Pão de Açúcar, no Rio de Janeiro, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0210",
+  "q": "Qual a altitude do Pico da Neblina, ponto mais alto do Brasil, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0211",
+  "q": "Quantas pernas tem o Saci-Pererê?",
+  "unidade": "pernas"
+ },
+ {
+  "id": "c0212",
+  "q": "Em que dia de junho é comemorado o dia de São João?",
+  "unidade": "dia do mês"
+ },
+ {
+  "id": "c0213",
+  "q": "Em que dia de setembro se comemora a Independência do Brasil?",
+  "unidade": "dia do mês"
+ },
+ {
+  "id": "c0214",
+  "q": "Em que dia de abril se comemora o feriado de Tiradentes?",
+  "unidade": "dia do mês"
+ },
+ {
+  "id": "c0215",
+  "q": "Em que dia de outubro é o feriado de Nossa Senhora Aparecida?",
+  "unidade": "dia do mês"
+ },
+ {
+  "id": "c0216",
+  "q": "Em que dia de novembro é o Dia da Consciência Negra?",
+  "unidade": "dia do mês"
+ },
+ {
+  "id": "c0217",
+  "q": "Em que ano começou a Oktoberfest de Blumenau?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0218",
+  "q": "Em que ano foi inaugurado o Sambódromo da Marquês de Sapucaí?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0219",
+  "q": "Quantos títulos mundiais de futebol masculino o Brasil tem?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0220",
+  "q": "Quantos anos tinha Dom Pedro II quando foi coroado imperador, em 1841?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0221",
+  "q": "Quantos ossos tem o corpo de um adulto?",
+  "unidade": "ossos"
+ },
+ {
+  "id": "c0222",
+  "q": "Quantos dentes permanentes tem um adulto com a dentição completa (contando os sisos)?",
+  "unidade": "dentes"
+ },
+ {
+  "id": "c0223",
+  "q": "Quantos dentes de leite tem uma criança com a dentição completa?",
+  "unidade": "dentes"
+ },
+ {
+  "id": "c0224",
+  "q": "Quantas câmaras (cavidades) tem o coração humano?",
+  "unidade": "câmaras"
+ },
+ {
+  "id": "c0225",
+  "q": "Quantos pares de costelas tem o ser humano?",
+  "unidade": "pares"
+ },
+ {
+  "id": "c0226",
+  "q": "Quantas vértebras cervicais (do pescoço) tem o ser humano?",
+  "unidade": "vértebras"
+ },
+ {
+  "id": "c0227",
+  "q": "Quantos pares de cromossomos tem uma célula humana comum?",
+  "unidade": "pares"
+ },
+ {
+  "id": "c0228",
+  "q": "Quantos ossos tem o crânio humano adulto (cabeça, sem contar os ossículos do ouvido)?",
+  "unidade": "ossos"
+ },
+ {
+  "id": "c0229",
+  "q": "Quantos ossos tem cada pé de um adulto?",
+  "unidade": "ossos"
+ },
+ {
+  "id": "c0230",
+  "q": "Quantos ossos tem cada mão de um adulto (contando o punho)?",
+  "unidade": "ossos"
+ },
+ {
+  "id": "c0231",
+  "q": "Quantos ossículos existem em cada ouvido (martelo, bigorna e estribo)?",
+  "unidade": "ossículos"
+ },
+ {
+  "id": "c0232",
+  "q": "Quantos pares de nervos cranianos saem do cérebro?",
+  "unidade": "pares"
+ },
+ {
+  "id": "c0233",
+  "q": "Quantos lobos principais tem o cérebro em cada hemisfério (frontal, parietal, temporal e occipital)?",
+  "unidade": "lobos"
+ },
+ {
+  "id": "c0234",
+  "q": "Quantos músculos externos movem cada olho humano?",
+  "unidade": "músculos"
+ },
+ {
+  "id": "c0235",
+  "q": "Quantas camadas principais tem a pele (epiderme, derme e hipoderme)?",
+  "unidade": "camadas"
+ },
+ {
+  "id": "c0236",
+  "q": "Quantos sabores básicos a língua reconhece (doce, salgado, azedo, amargo e umami)?",
+  "unidade": "sabores"
+ },
+ {
+  "id": "c0237",
+  "q": "Quantos tipos de sangue principais existem no sistema ABO (A, B, AB e O), sem contar o fator Rh?",
+  "unidade": "tipos"
+ },
+ {
+  "id": "c0238",
+  "q": "Quantos bilhões de neurônios tem o cérebro humano, segundo o estudo de Suzana Herculano-Houzel?",
+  "unidade": "bilhões de neurônios"
+ },
+ {
+  "id": "c0239",
+  "q": "Quantos bilhões de pares de bases tem o genoma humano (aproximadamente, arredondado para 1 casa)?",
+  "unidade": "bilhões de pares de bases"
+ },
+ {
+  "id": "c0240",
+  "q": "Quantos quilos pesa, em média, o cérebro de um adulto?",
+  "unidade": "kg"
+ },
+ {
+  "id": "c0241",
+  "q": "Quantos quilos pesa, em média, o fígado de um adulto?",
+  "unidade": "kg"
+ },
+ {
+  "id": "c0242",
+  "q": "Quantos gramas pesa, em média, o coração de um adulto?",
+  "unidade": "g"
+ },
+ {
+  "id": "c0243",
+  "q": "Quantos litros de sangue tem, em média, um adulto?",
+  "unidade": "litros"
+ },
+ {
+  "id": "c0244",
+  "q": "Que percentual do corpo de um adulto é, em média, composto de água?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0245",
+  "q": "Que percentual da energia do corpo o cérebro consome, mesmo pesando só cerca de 2% do corpo?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0246",
+  "q": "Em média, quantos litros de sangue os rins de um adulto filtram por dia?",
+  "unidade": "litros"
+ },
+ {
+  "id": "c0247",
+  "q": "Quantos dias vive, em média, uma hemácia (glóbulo vermelho) no sangue?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0248",
+  "q": "Quantos graus Celsius mede a temperatura corporal considerada normal, na referência mais usada?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0249",
+  "q": "Qual é o pH normal do sangue humano?",
+  "unidade": "pH"
+ },
+ {
+  "id": "c0250",
+  "q": "Qual é a pressão arterial sistólica (a \"máxima\") considerada ideal, em mmHg?",
+  "unidade": "mmHg"
+ },
+ {
+  "id": "c0251",
+  "q": "Qual é a frequência máxima aproximada de batimentos por minuto de uma pessoa de 40 anos, pela regra \"220 menos a idade\"?",
+  "unidade": "batimentos por minuto"
+ },
+ {
+  "id": "c0252",
+  "q": "Quantas vezes o coração de um adulto bate por dia, aproximadamente (arredonde para 100 mil)?",
+  "unidade": "batidas"
+ },
+ {
+  "id": "c0253",
+  "q": "Qual é o limite de glicose no sangue em jejum considerado normal, em mg/dL?",
+  "unidade": "mg/dL"
+ },
+ {
+  "id": "c0254",
+  "q": "A partir de qual valor de IMC (índice de massa corporal) a OMS considera sobrepeso?",
+  "unidade": "IMC"
+ },
+ {
+  "id": "c0255",
+  "q": "A partir de qual valor de IMC (índice de massa corporal) a OMS considera obesidade?",
+  "unidade": "IMC"
+ },
+ {
+  "id": "c0256",
+  "q": "Quantos minutos de atividade física moderada por semana a OMS recomenda para adultos?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0257",
+  "q": "Qual é a quantidade máxima de sal por dia que a OMS recomenda para um adulto, em gramas?",
+  "unidade": "g"
+ },
+ {
+  "id": "c0258",
+  "q": "Quantos gramas de fibra por dia a OMS recomenda, no mínimo, para um adulto?",
+  "unidade": "g"
+ },
+ {
+  "id": "c0259",
+  "q": "Quantos meses de amamentação exclusiva a OMS recomenda para o bebê?",
+  "unidade": "meses"
+ },
+ {
+  "id": "c0260",
+  "q": "Quantas calorias (kcal) por dia usa a ANVISA como referência nos rótulos de alimentos?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0261",
+  "q": "Quantas vitaminas essenciais o ser humano precisa obter da alimentação?",
+  "unidade": "vitaminas"
+ },
+ {
+  "id": "c0262",
+  "q": "Quantos miligramas de cálcio por dia os adultos precisam, segundo a referência do NIH (19 a 50 anos)?",
+  "unidade": "mg"
+ },
+ {
+  "id": "c0263",
+  "q": "Qual é o limite diário de cafeína considerado seguro para adultos saudáveis pela FDA, em miligramas?",
+  "unidade": "mg"
+ },
+ {
+  "id": "c0264",
+  "q": "Quantos gramas de proteína tem, aproximadamente, um ovo grande de galinha?",
+  "unidade": "g"
+ },
+ {
+  "id": "c0265",
+  "q": "Quantas calorias (kcal) tem 1 grama de gordura?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0266",
+  "q": "Quantas calorias (kcal) tem 1 grama de carboidrato?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0267",
+  "q": "Quantas calorias (kcal) tem 1 grama de álcool puro?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0268",
+  "q": "Quantas calorias (kcal) tem 100 gramas de arroz branco cozido?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0269",
+  "q": "Quantas calorias (kcal) tem 100 gramas de feijão-carioca cozido?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0270",
+  "q": "Quantas calorias (kcal) tem 100 gramas de pão francês?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0271",
+  "q": "Quantas calorias (kcal) tem 100 gramas de banana-prata?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0272",
+  "q": "Quantas calorias (kcal) tem 100 gramas de maçã crua com casca?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0273",
+  "q": "Quantas calorias (kcal) tem 100 gramas de cenoura crua?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0274",
+  "q": "Quantas calorias (kcal) tem 100 gramas de abacate cru?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0275",
+  "q": "Quantas calorias (kcal) tem 100 gramas de amendoim cru?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0276",
+  "q": "Quantas calorias (kcal) tem 100 gramas de manteiga?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0277",
+  "q": "Quantas calorias (kcal) tem 100 gramas de peito de frango cozido sem pele?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0278",
+  "q": "Quantas calorias (kcal) tem 100 mililitros de leite integral?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0279",
+  "q": "Quantas calorias (kcal) tem uma colher de sopa de azeite de oliva?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0280",
+  "q": "Quantas calorias (kcal) tem um ovo grande de galinha cozido?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0281",
+  "q": "Quantas horas de sono por noite, no mínimo, os especialistas recomendam para um adulto?",
+  "unidade": "horas"
+ },
+ {
+  "id": "c0282",
+  "q": "Quantos minutos dura, em média, um ciclo completo de sono?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0283",
+  "q": "Por quantos dias seguidos Randy Gardner ficou sem dormir em 1964, recorde famoso estudado por cientistas?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0284",
+  "q": "Quantos dias durou o jejum supervisionado de Angus Barbieri, que se alimentou só de líquidos sem calorias?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0285",
+  "q": "Quantas semanas dura, em média, uma gestação humana completa?",
+  "unidade": "semanas"
+ },
+ {
+  "id": "c0286",
+  "q": "Em qual semana de gestação os batimentos do coração do bebê já costumam ser detectados no ultrassom?",
+  "unidade": "semana"
+ },
+ {
+  "id": "c0287",
+  "q": "Quantos dias dura, em média, o ciclo menstrual?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0288",
+  "q": "Com quantos anos de idade, em média, as crianças começam a perder os dentes de leite?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0289",
+  "q": "Quantos anos viveu Jeanne Calment, a pessoa com idade comprovada mais longeva da história?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0290",
+  "q": "Quantos anos viveu Jiroemon Kimura, o homem com idade comprovada mais longevo da história?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0291",
+  "q": "Qual é a expectativa de vida ao nascer do brasileiro em 2023, segundo o IBGE?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0292",
+  "q": "Quantos centímetros media Robert Wadlow, o homem mais alto da história com altura comprovada?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0293",
+  "q": "Quantos centímetros media Zeng Jinlian, a mulher mais alta da história com altura comprovada?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0294",
+  "q": "Quantos centímetros media Chandra Bahadur Dangi, o homem adulto mais baixo já medido pelo Guinness?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0295",
+  "q": "Quantos quilos chegou a pesar Jon Brower Minnoch, o homem mais pesado já registrado?",
+  "unidade": "kg"
+ },
+ {
+  "id": "c0296",
+  "q": "Quantos filhos a russa Valentina Vassilyev teve, o maior número registrado de uma mulher?",
+  "unidade": "filhos"
+ },
+ {
+  "id": "c0297",
+  "q": "Quantos quilos pesava o bebê mais pesado já registrado ao nascer, na Itália em 1955?",
+  "unidade": "kg"
+ }
+]

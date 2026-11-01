@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0313",
+  "q": "Quantos litros de ar cabem nos pulmões de um homem adulto quando estão totalmente cheios (capacidade pulmonar total)?",
+  "unidade": "litros",
+  "resposta_autor": 6,
+  "resposta_validador": 6,
+  "obs_validador": "Varia 5,5 a 6-7 L conforme fonte.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0025",
+  "q": "Quantas peças (no total, das duas cores) tem no início uma partida de damas?",
+  "unidade": "peças",
+  "resposta_autor": 24,
+  "resposta_validador": 24,
+  "obs_validador": "Damas brasileiras/inglesas 8x8: 24; internacionais 10x10: 40",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0655",
+  "q": "Qual a altitude do Monte Fuji, no Japão, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 3776,
+  "resposta_validador": 3776,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0683",
+  "q": "Qual a área da Antártida, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta_autor": 14.2,
+  "resposta_validador": 14.2,
+  "obs_validador": "14,0 a 14,2 milhões km² conforme inclua plataformas de gelo.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0451",
+  "q": "Qual é a velocidade da luz no vácuo, em km/s (valor arredondado)?",
+  "unidade": "km/s",
+  "resposta_autor": 299792,
+  "resposta_validador": 299792,
+  "obs_validador": "299792 km/s exato; 300000 se arredondado grosso",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c1015",
+  "q": "Qual era a velocidade máxima, em km/h, do Benz Patent-Motorwagen, considerado o primeiro automóvel?",
+  "unidade": "km/h",
+  "resposta_autor": 16,
+  "resposta_validador": 16,
+  "obs_validador": "Wikipedia: 16 km/h; algumas fontes 13-18",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0039",
+  "q": "Em que ano foi adotado o calendário gregoriano, que usamos hoje?",
+  "unidade": "ano",
+  "resposta_autor": 1582,
+  "resposta_validador": 1582,
+  "obs_validador": "Adotado 1582 (Itália, Espanha, Portugal); Brasil/Inglaterra adotaram em datas diferentes",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0157",
+  "q": "Quantos milhares de habitantes tinha a cidade de Palmas no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta_autor": 303,
+  "resposta_validador": 302.7,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0109",
+  "q": "Quantos cromossomos tem um cavalo?",
+  "unidade": "cromossomos",
+  "resposta_autor": 64,
+  "resposta_validador": 64,
+  "obs_validador": "2n=64",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0106",
+  "q": "Quantos meses dura, em média, a gestação de uma égua?",
+  "unidade": "meses",
+  "resposta_autor": 11,
+  "resposta_validador": 11,
+  "obs_validador": "~340 dias (~11 meses)",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0407",
+  "q": "Quantos romances policiais publicou Agatha Christie?",
+  "unidade": "romances",
+  "resposta_autor": 66,
+  "resposta_validador": 66,
+  "obs_validador": "Christie: 66 romances policiais (mais citado); outras contagens 72-80 conforme critério",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0246",
+  "q": "Em média, quantos litros de sangue os rins de um adulto filtram por dia?",
+  "unidade": "litros",
+  "resposta_autor": 180,
+  "resposta_validador": 180,
+  "obs_validador": "~150-180 L/dia (~120 mL/min = 173 L)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0811",
+  "q": "Com quantos anos Luís XVI foi guilhotinado?",
+  "unidade": "anos",
+  "resposta_autor": 38,
+  "resposta_validador": 38,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0656",
+  "q": "Qual a altitude do Aconcágua, o pico mais alto das Américas, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 6961,
+  "resposta_validador": 6961,
+  "obs_validador": "6.960,8 m (valor atual); 6.962 em fontes antigas.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0925",
+  "q": "Qual era a população dos Estados Unidos em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 345,
+  "resposta_validador": 345,
+  "obs_validador": "ONU 345; Census ~340",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0886",
+  "q": "Qual é o comprimento da ferrovia Transiberiana (Moscou a Vladivostok), em km?",
+  "unidade": "km",
+  "resposta_autor": 9289,
+  "resposta_validador": 9289,
+  "obs_validador": "igual c0853",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0934",
+  "q": "Qual era a população da França em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 66,
+  "resposta_validador": 66,
+  "obs_validador": "ONU 66,5; INSEE 68,4 com territórios ultramarinos",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0199",
+  "q": "Quantos artigos tem o corpo principal da Constituição de 1988?",
+  "unidade": "artigos",
+  "resposta_autor": 250,
+  "resposta_validador": 250,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0206",
+  "q": "Qual a altura da barragem de Itaipu, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 196,
+  "resposta_validador": 196,
+  "obs_validador": "barragem principal 196 m",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0943",
+  "q": "Qual é a população de Singapura, em milhões de habitantes (2023)?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 5.9,
+  "resposta_validador": 5.92,
+  "obs_validador": "População total 5,92 M (residentes 4,16 M)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0306",
+  "q": "Em que ano a insulina foi descoberta por Banting e Best?",
+  "unidade": "ano",
+  "resposta_autor": 1921,
+  "resposta_validador": 1921,
+  "obs_validador": "Descoberta em 1921; purificação/primeiro uso clínico em 1922.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0702",
+  "q": "Quantos oceanos existem no mundo?",
+  "unidade": "oceanos",
+  "resposta_autor": 5,
+  "resposta_validador": 5,
+  "obs_validador": "5 (Pacífico, Atlântico, Índico, Ártico, Austral) ou 4 no modelo tradicional",
+  "motivo": "ambigua"
+ }
+]

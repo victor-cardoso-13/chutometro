@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Quantos anos durou a Guerra dos Cem Anos (1337–1453) entre França e Inglaterra?",
+  "unidade": "anos",
+  "resposta": 116,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos durou a Primeira Guerra Mundial, em números inteiros de anos (1914–1918)?",
+  "unidade": "anos",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos durou a Segunda Guerra Mundial (1939–1945)?",
+  "unidade": "anos",
+  "resposta": 6,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos durou o reinado da rainha Vitória do Reino Unido?",
+  "unidade": "anos",
+  "resposta": 63,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o reinado de Elizabeth II?",
+  "unidade": "anos",
+  "resposta": 70,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos durou o reinado de Luís XIV, o Rei Sol, da França?",
+  "unidade": "anos",
+  "resposta": 72,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Napoleão Bonaparte?",
+  "unidade": "anos",
+  "resposta": 51,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Alexandre, o Grande?",
+  "unidade": "anos",
+  "resposta": 32,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos Abraham Lincoln foi assassinado?",
+  "unidade": "anos",
+  "resposta": 56,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos John F. Kennedy foi assassinado?",
+  "unidade": "anos",
+  "resposta": 46,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos Mahatma Gandhi foi assassinado?",
+  "unidade": "anos",
+  "resposta": 78,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Martin Luther King Jr. foi assassinado?",
+  "unidade": "anos",
+  "resposta": 39,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Winston Churchill?",
+  "unidade": "anos",
+  "resposta": 90,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos Nelson Mandela passou preso?",
+  "unidade": "anos",
+  "resposta": 27,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos o Muro de Berlim ficou de pé (1961–1989)?",
+  "unidade": "anos",
+  "resposta": 28,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos levou o Titanic para afundar após bater no iceberg (de cerca de 23h40 até 2h20)?",
+  "unidade": "minutos",
+  "resposta": 160,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a Guerra dos Seis Dias, entre Israel e países árabes, em 1967?",
+  "unidade": "dias",
+  "resposta": 6,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos navios compunham a primeira viagem de Cristóvão Colombo à América?",
+  "unidade": "navios",
+  "resposta": 3,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos navios partiram na expedição de Fernão de Magalhães em 1519?",
+  "unidade": "navios",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos tripulantes voltaram à Espanha no único navio (Victoria) que concluiu a primeira volta ao mundo?",
+  "unidade": "homens",
+  "resposta": 18,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a Batalha de Verdun (1916)?",
+  "unidade": "dias",
+  "resposta": 302,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou o cerco de Leningrado na Segunda Guerra?",
+  "unidade": "dias",
+  "resposta": 872,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou o cerco otomano a Constantinopla em 1453?",
+  "unidade": "dias",
+  "resposta": 53,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas praias foram alvo do desembarque aliado no Dia D (Normandia, 1944)?",
+  "unidade": "praias",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos tinha Neil Armstrong quando pisou na Lua?",
+  "unidade": "anos",
+  "resposta": 38,
+  "fonte": "NASA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos durou o voo de Yuri Gagarin, o primeiro homem no espaço?",
+  "unidade": "minutos",
+  "resposta": 108,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Yuri Gagarin fez seu voo espacial em 1961?",
+  "unidade": "anos",
+  "resposta": 27,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Vladimir Lenin?",
+  "unidade": "anos",
+  "resposta": 53,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Adolf Hitler morreu?",
+  "unidade": "anos",
+  "resposta": 56,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o reinado do imperador romano Augusto (27 a.C. a 14 d.C.)?",
+  "unidade": "anos",
+  "resposta": 41,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a altura original, em metros, da Grande Pirâmide de Gizé (146,6 m arredondado)?",
+  "unidade": "metros",
+  "resposta": 147,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos espartanos lutaram com Leônidas nas Termópilas, segundo a tradição?",
+  "unidade": "guerreiros",
+  "resposta": 300,
+  "fonte": "Heródoto / tradição",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas esposas teve o rei Henrique VIII da Inglaterra?",
+  "unidade": "esposas",
+  "resposta": 6,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos durou o reinado de Henrique VIII da Inglaterra?",
+  "unidade": "anos",
+  "resposta": 37,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o reinado de Elizabeth I da Inglaterra?",
+  "unidade": "anos",
+  "resposta": 44,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos signatários assinaram a Declaração de Independência dos EUA?",
+  "unidade": "pessoas",
+  "resposta": 56,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas colônias britânicas originais formaram os Estados Unidos?",
+  "unidade": "colônias",
+  "resposta": 13,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos passageiros viajavam no Mayflower em 1620?",
+  "unidade": "pessoas",
+  "resposta": 102,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos George Washington tomou posse como primeiro presidente dos EUA?",
+  "unidade": "anos",
+  "resposta": 57,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou a Guerra Civil Americana (1861–1865)?",
+  "unidade": "anos",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de dólares os EUA pagaram à França pela Louisiana, em 1803?",
+  "unidade": "milhões de dólares",
+  "resposta": 15,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de dólares os EUA pagaram à Rússia pelo Alasca, em 1867?",
+  "unidade": "milhões de dólares",
+  "resposta": 7.2,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos Marco Polo ficou fora de Veneza em suas viagens (1271–1295)?",
+  "unidade": "anos",
+  "resposta": 24,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de judeus foram mortos no Holocausto?",
+  "unidade": "milhões",
+  "resposta": 6,
+  "fonte": "USHMM / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos mil soldados aliados foram evacuados de Dunquerque em 1940?",
+  "unidade": "mil soldados",
+  "resposta": 338,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Por quantas noites seguidas Londres foi bombardeada no início da Blitz (1940)?",
+  "unidade": "noites",
+  "resposta": 57,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a Crise dos Mísseis de Cuba, em 1962?",
+  "unidade": "dias",
+  "resposta": 13,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos durou a Guerra dos Trinta Anos na Europa?",
+  "unidade": "anos",
+  "resposta": 30,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos durou a Guerra do Peloponeso entre Atenas e Esparta?",
+  "unidade": "anos",
+  "resposta": 27,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas Guerras Púnicas Roma e Cartago travaram?",
+  "unidade": "guerras",
+  "resposta": 3,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos prisioneiros havia na Bastilha quando foi tomada em 1789?",
+  "unidade": "prisioneiros",
+  "resposta": 7,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Luís XVI foi guilhotinado?",
+  "unidade": "anos",
+  "resposta": 38,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Maria Antonieta foi guilhotinada?",
+  "unidade": "anos",
+  "resposta": 37,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos Napoleão ficou exilado em Santa Helena até morrer?",
+  "unidade": "anos",
+  "resposta": 6,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou a viagem de Charles Darwin no navio Beagle (1831–1836)?",
+  "unidade": "anos",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos segundos durou o primeiro voo dos irmãos Wright, em 1903?",
+  "unidade": "segundos",
+  "resposta": 12,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas horas durou a travessia do Atlântico de Charles Lindbergh em 1927 (com meia hora)?",
+  "unidade": "horas",
+  "resposta": 33.5,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos botes salva-vidas tinha o Titanic?",
+  "unidade": "botes",
+  "resposta": 20,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o comprimento do Titanic, em metros?",
+  "unidade": "metros",
+  "resposta": 269,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas horas durou a guerra terrestre da Guerra do Golfo, em 1991?",
+  "unidade": "horas",
+  "resposta": 100,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos durou a Guerra Anglo-Zanzibari de 1896, considerada a mais curta da história?",
+  "unidade": "minutos",
+  "resposta": 38,
+  "fonte": "Guinness / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o papado de João Paulo II (1978–2005)?",
+  "unidade": "anos",
+  "resposta": 26,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas teses Martinho Lutero afixou em 1517, dando início à Reforma Protestante?",
+  "unidade": "teses",
+  "resposta": 95,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos o arquiduque Francisco Ferdinando foi assassinado em Sarajevo?",
+  "unidade": "anos",
+  "resposta": 50,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a Marcha do Sal de Gandhi em 1930?",
+  "unidade": "dias",
+  "resposta": 24,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas pessoas já caminharam na Lua?",
+  "unidade": "pessoas",
+  "resposta": 12,
+  "fonte": "NASA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos a rainha Vitória subiu ao trono?",
+  "unidade": "anos",
+  "resposta": 18,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Luís XIV se tornou rei da França?",
+  "unidade": "anos",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Nelson Mandela tomou posse como presidente da África do Sul?",
+  "unidade": "anos",
+  "resposta": 75,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou o Grande Incêndio de Londres, em 1666?",
+  "unidade": "dias",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos durou o reinado do último czar russo, Nicolau II?",
+  "unidade": "anos",
+  "resposta": 22,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou a dinastia Romanov na Rússia (1613–1917)?",
+  "unidade": "anos",
+  "resposta": 304,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o regime nazista no poder na Alemanha (1933–1945)?",
+  "unidade": "anos",
+  "resposta": 12,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos durou o reinado do imperador japonês Hirohito (1926–1989)?",
+  "unidade": "anos",
+  "resposta": 62,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos aviões japoneses atacaram Pearl Harbor em 1941?",
+  "unidade": "aviões",
+  "resposta": 353,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos americanos morreram no ataque a Pearl Harbor em 1941?",
+  "unidade": "pessoas",
+  "resposta": 2403,
+  "fonte": "Serviço Nacional de Parques dos EUA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas pessoas morreram nos ataques de 11 de setembro de 2001 (sem contar os terroristas)?",
+  "unidade": "pessoas",
+  "resposta": 2977,
+  "fonte": "Memorial do 11/9",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas facadas Júlio César levou ao ser assassinado, segundo Suetônio?",
+  "unidade": "facadas",
+  "resposta": 23,
+  "fonte": "Suetônio / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias foram 'pulados' do calendário quando o papa Gregório XIII criou o calendário gregoriano, em 1582?",
+  "unidade": "dias",
+  "resposta": 10,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas leis tem o Código de Hamurabi?",
+  "unidade": "leis",
+  "resposta": 282,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da Estátua da Liberdade, do chão ao alto da tocha, incluindo o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 93,
+  "fonte": "Serviço Nacional de Parques dos EUA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos levou para construir a Torre Eiffel (1887–1889)?",
+  "unidade": "anos",
+  "resposta": 2,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a extensão do Muro de Berlim em volta de Berlim Ocidental, em km?",
+  "unidade": "km",
+  "resposta": 155,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de unidades do Ford Modelo T foram produzidas?",
+  "unidade": "milhões",
+  "resposta": 15,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou a Guerra da Coreia (1950–1953)?",
+  "unidade": "anos",
+  "resposta": 3,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos homens havia na expedição Endurance de Shackleton (1914–1916)?",
+  "unidade": "homens",
+  "resposta": 28,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos artigos tem a Declaração dos Direitos do Homem e do Cidadão (França, 1789)?",
+  "unidade": "artigos",
+  "resposta": 17,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas tábuas tinha a Lei das Doze Tábuas de Roma?",
+  "unidade": "tábuas",
+  "resposta": 12,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A quantas léguas a oeste de Cabo Verde ficava a linha do Tratado de Tordesilhas?",
+  "unidade": "léguas",
+  "resposta": 370,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas caixas de chá foram jogadas no mar na Festa do Chá de Boston, em 1773?",
+  "unidade": "caixas",
+  "resposta": 342,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do dirigível Hindenburg, em metros?",
+  "unidade": "metros",
+  "resposta": 245,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes Franklin Roosevelt foi eleito presidente dos EUA?",
+  "unidade": "vezes",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos Elizabeth II se tornou rainha em 1952?",
+  "unidade": "anos",
+  "resposta": 25,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilômetros tem a ferrovia Transiberiana, de Moscou a Vladivostok?",
+  "unidade": "km",
+  "resposta": 9289,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilômetros tem o Canal de Suez?",
+  "unidade": "km",
+  "resposta": 193,
+  "fonte": "Autoridade do Canal de Suez",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas missões Apollo pousaram na Lua?",
+  "unidade": "missões",
+  "resposta": 6,
+  "fonte": "NASA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas bombas atômicas já foram usadas em uma guerra?",
+  "unidade": "bombas",
+  "resposta": 2,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos astronautas viajaram na Apollo 11 até a Lua (contando quem ficou em órbita)?",
+  "unidade": "astronautas",
+  "resposta": 3,
+  "fonte": "NASA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Colombo chegou à América?",
+  "unidade": "ano",
+  "resposta": 1492,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano começou a Revolução Francesa?",
+  "unidade": "ano",
+  "resposta": 1789,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano começou a Primeira Guerra Mundial?",
+  "unidade": "ano",
+  "resposta": 1914,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano os humanos pisaram na Lua pela primeira vez?",
+  "unidade": "ano",
+  "resposta": 1969,
+  "fonte": "NASA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi a Batalha de Hastings e a conquista normanda da Inglaterra?",
+  "unidade": "ano",
+  "resposta": 1066,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano caiu o Império Romano do Ocidente (data convencional)?",
+  "unidade": "ano",
+  "resposta": 476,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o Vesúvio destruiu Pompeia?",
+  "unidade": "ano",
+  "resposta": 79,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a União Soviética deixou de existir?",
+  "unidade": "ano",
+  "resposta": 1991,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o arqueólogo Howard Carter encontrou a tumba de Tutancâmon?",
+  "unidade": "ano",
+  "resposta": 1922,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Alexander Fleming descobriu a penicilina?",
+  "unidade": "ano",
+  "resposta": 1928,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a Revolução Russa derrubou o czar e levou os bolcheviques ao poder?",
+  "unidade": "ano",
+  "resposta": 1917,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a OMS declarou a varíola erradicada?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "OMS",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

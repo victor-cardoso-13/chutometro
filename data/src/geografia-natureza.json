@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Qual a altitude do Monte Everest, em metros?",
+  "unidade": "metros",
+  "resposta": 8849,
+  "fonte": "Medição Nepal/China 2020 (8.848,86 m); Wikipédia",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual a altitude do K2, a segunda montanha mais alta do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 8611,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altitude do Monte Kilimanjaro, na Tanzânia, em metros?",
+  "unidade": "metros",
+  "resposta": 5895,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altitude do Monte Fuji, no Japão, em metros?",
+  "unidade": "metros",
+  "resposta": 3776,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altitude do Aconcágua, o pico mais alto das Américas, em metros?",
+  "unidade": "metros",
+  "resposta": 6961,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Monte Elbrus, o ponto mais alto da Europa, em metros?",
+  "unidade": "metros",
+  "resposta": 5642,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Denali, o pico mais alto da América do Norte, em metros?",
+  "unidade": "metros",
+  "resposta": 6190,
+  "fonte": "Wikipédia (6.190,5 m, USGS 2015)",
+  "ano": 2015,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Matterhorn, nos Alpes, em metros?",
+  "unidade": "metros",
+  "resposta": 4478,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Monte Olimpo, o mais alto da Grécia, em metros?",
+  "unidade": "metros",
+  "resposta": 2917,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Monte Kosciuszko, o ponto mais alto da Austrália, em metros?",
+  "unidade": "metros",
+  "resposta": 2228,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Monte Vinson, o ponto mais alto da Antártida, em metros?",
+  "unidade": "metros",
+  "resposta": 4892,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Chimborazo, vulcão do Equador, em metros?",
+  "unidade": "metros",
+  "resposta": 6263,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Mauna Kea, no Havaí, em metros?",
+  "unidade": "metros",
+  "resposta": 4207,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Vesúvio, na Itália, em metros?",
+  "unidade": "metros",
+  "resposta": 1281,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Monte Roraima, na fronteira com a Venezuela e a Guiana, em metros?",
+  "unidade": "metros",
+  "resposta": 2810,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do monólito Uluru, na Austrália, acima da planície em volta, em metros?",
+  "unidade": "metros",
+  "resposta": 348,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Puncak Jaya, o ponto mais alto da Oceania, em metros?",
+  "unidade": "metros",
+  "resposta": 4884,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da maior queda d'água do mundo, o Salto Ángel, na Venezuela, em metros?",
+  "unidade": "metros",
+  "resposta": 979,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a profundidade máxima do Lago Baikal, o mais profundo do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 1642,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura das Cataratas Vitória, na África, em metros?",
+  "unidade": "metros",
+  "resposta": 108,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a profundidade máxima do Grand Canyon, nos EUA, em metros?",
+  "unidade": "metros",
+  "resposta": 1857,
+  "fonte": "Serviço de Parques Nacionais dos EUA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude fica o Lago Titicaca, o lago navegável mais alto do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 3812,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a profundidade do Grande Buraco Azul de Belize, em metros?",
+  "unidade": "metros",
+  "resposta": 124,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura máxima das Falésias de Moher, na Irlanda, em metros?",
+  "unidade": "metros",
+  "resposta": 214,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Lago Superior, o maior dos Grandes Lagos, em milhares de km²?",
+  "unidade": "mil km²",
+  "resposta": 82,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Mar Cáspio, o maior lago do mundo, em milhares de km²?",
+  "unidade": "mil km²",
+  "resposta": 371,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude, abaixo do nível do mar, fica o Vale da Morte (Death Valley), nos EUA? Responda em metros, como número negativo.",
+  "unidade": "metros",
+  "resposta": -86,
+  "fonte": "Serviço de Parques Nacionais dos EUA (-86 m)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a salinidade do Mar Morto, em porcentagem de sal na água?",
+  "unidade": "%",
+  "resposta": 34,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gramas de sal, em média, há em um litro de água do mar?",
+  "unidade": "gramas",
+  "resposta": 35,
+  "fonte": "NOAA/USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área da Rússia, o maior país do mundo, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 17.1,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área do Canadá, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 9.98,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área da Austrália, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 7.69,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área da Antártida, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 14.2,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área do deserto do Saara, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 9.2,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área do Oceano Pacífico, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 165,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Groenlândia, a maior ilha do mundo, em milhares de km²?",
+  "unidade": "mil km²",
+  "resposta": 2166,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Islândia, em milhares de km²?",
+  "unidade": "mil km²",
+  "resposta": 103,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área de Madagascar, em milhares de km²?",
+  "unidade": "mil km²",
+  "resposta": 587,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da ilha de Bornéu, em milhares de km²?",
+  "unidade": "mil km²",
+  "resposta": 743,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área de Mônaco, em km²?",
+  "unidade": "km²",
+  "resposta": 2.02,
+  "fonte": "Wikipédia (2,02 km²)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área de Nauru, um dos menores países do mundo, em km²?",
+  "unidade": "km²",
+  "resposta": 21,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Salar de Uyuni, na Bolívia, em km²?",
+  "unidade": "km²",
+  "resposta": 10582,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento da Grande Barreira de Corais, na Austrália, em km?",
+  "unidade": "km",
+  "resposta": 2300,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o comprimento da Cordilheira dos Andes, em km?",
+  "unidade": "km",
+  "resposta": 7000,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o comprimento do Canal do Panamá, em km?",
+  "unidade": "km",
+  "resposta": 82,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do Canal de Suez, em km?",
+  "unidade": "km",
+  "resposta": 193,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a largura mínima do Estreito de Gibraltar, em km?",
+  "unidade": "km",
+  "resposta": 14,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a largura mínima do Canal da Mancha, entre Dover e Calais, em km?",
+  "unidade": "km",
+  "resposta": 33,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a distância do Equador até o Polo Norte, em km?",
+  "unidade": "km",
+  "resposta": 10002,
+  "fonte": "Wikipédia (definição original do metro)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a circunferência da Terra na linha do Equador, em km?",
+  "unidade": "km",
+  "resposta": 40075,
+  "fonte": "NASA / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o raio médio da Terra, em km?",
+  "unidade": "km",
+  "resposta": 6371,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos oceanos existem no mundo?",
+  "unidade": "oceanos",
+  "resposta": 5,
+  "fonte": "National Geographic / NOAA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos continentes existem (modelo mais usado no Brasil)?",
+  "unidade": "continentes",
+  "resposta": 7,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos países eram membros da ONU em 2024, segundo a própria ONU?",
+  "unidade": "países",
+  "resposta": 193,
+  "fonte": "ONU",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos países africanos eram membros da ONU em 2024, segundo a União Africana?",
+  "unidade": "países",
+  "resposta": 54,
+  "fonte": "ONU / União Africana",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos estados tem os Estados Unidos?",
+  "unidade": "estados",
+  "resposta": 50,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos países existem na América do Sul?",
+  "unidade": "países",
+  "resposta": 12,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos fusos horários a Rússia tem?",
+  "unidade": "fusos",
+  "resposta": 11,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas ilhas tem as Filipinas?",
+  "unidade": "ilhas",
+  "resposta": 7641,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos países a Rússia faz fronteira por terra?",
+  "unidade": "países",
+  "resposta": 14,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos países faziam parte da União Europeia em 2024, segundo a própria UE?",
+  "unidade": "países",
+  "resposta": 27,
+  "fonte": "União Europeia",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos estados tem a Índia?",
+  "unidade": "estados",
+  "resposta": 28,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas províncias tem o Canadá (sem contar territórios)?",
+  "unidade": "províncias",
+  "resposta": 10,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos cantões tem a Suíça?",
+  "unidade": "cantões",
+  "resposta": 26,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados tem a Alemanha?",
+  "unidade": "estados",
+  "resposta": 16,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados (sem contar territórios) tem a Austrália?",
+  "unidade": "estados",
+  "resposta": 6,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos são os Grandes Lagos da América do Norte?",
+  "unidade": "lagos",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos fusos horários oficiais a China usa?",
+  "unidade": "fusos",
+  "resposta": 1,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Por quantos países em terra passa a linha do Equador?",
+  "unidade": "países",
+  "resposta": 13,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos países dividem a Floresta Amazônica?",
+  "unidade": "países",
+  "resposta": 9,
+  "fonte": "WWF (contando a Guiana Francesa)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Por quantos países passa o Rio Danúbio?",
+  "unidade": "países",
+  "resposta": 10,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos graus tem a escala Beaufort de força dos ventos (de 0 a ...)?",
+  "unidade": "graus",
+  "resposta": 12,
+  "fonte": "Organização Meteorológica Mundial",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas categorias tem a escala Saffir-Simpson de furacões?",
+  "unidade": "categorias",
+  "resposta": 5,
+  "fonte": "NOAA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas ilhas principais tem o Japão?",
+  "unidade": "ilhas",
+  "resposta": 4,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Que porcentagem da superfície da Terra é coberta por água?",
+  "unidade": "%",
+  "resposta": 71,
+  "fonte": "NASA / USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual a menor temperatura já registrada na Terra, em °C (Vostok, Antártida, 1983)?",
+  "unidade": "°C",
+  "resposta": -89.2,
+  "fonte": "Organização Meteorológica Mundial",
+  "ano": 1983,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a maior temperatura do ar já registrada na Terra, em °C (Vale da Morte, 1913)?",
+  "unidade": "°C",
+  "resposta": 56.7,
+  "fonte": "Organização Meteorológica Mundial",
+  "ano": 1913,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Que porcentagem do ar é composta de nitrogênio?",
+  "unidade": "%",
+  "resposta": 78,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Que porcentagem do ar é composta de oxigênio?",
+  "unidade": "%",
+  "resposta": 21,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Que porcentagem de toda a água da Terra é doce, em %?",
+  "unidade": "%",
+  "resposta": 2.5,
+  "fonte": "USGS (cerca de 2,5%)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a maior velocidade de vento já medida na superfície, em km/h (Austrália, 1996)?",
+  "unidade": "km/h",
+  "resposta": 408,
+  "fonte": "Organização Meteorológica Mundial",
+  "ano": 1996,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a temperatura aproximada de um raio, em °C?",
+  "unidade": "°C",
+  "resposta": 30000,
+  "fonte": "NOAA (cerca de 30.000 °C)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude, em km, fica a linha de Kármán, considerada a fronteira do espaço?",
+  "unidade": "km",
+  "resposta": 100,
+  "fonte": "FAI / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a idade da Terra, em bilhões de anos?",
+  "unidade": "bilhões de anos",
+  "resposta": 4.54,
+  "fonte": "USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas horas à frente do horário de Greenwich (UTC) fica a Índia?",
+  "unidade": "horas",
+  "resposta": 5.5,
+  "fonte": "Wikipédia (UTC+5:30)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a inclinação do eixo da Terra, em graus (é a latitude dos trópicos)?",
+  "unidade": "graus",
+  "resposta": 23.4,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a velocidade mínima dos ventos de um furacão categoria 5, em km/h?",
+  "unidade": "km/h",
+  "resposta": 252,
+  "fonte": "NOAA (157 mph)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a magnitude do terremoto de Valdivia, no Chile, o maior já registrado?",
+  "unidade": "magnitude",
+  "resposta": 9.5,
+  "fonte": "USGS",
+  "ano": 1960,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude fica a cidade de La Paz, na Bolívia, em metros?",
+  "unidade": "metros",
+  "resposta": 3640,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da árvore mais alta do mundo, a sequoia Hyperion, em metros?",
+  "unidade": "metros",
+  "resposta": 116,
+  "fonte": "Wikipédia (115,9 m medidos em 2019)",
+  "ano": 2019,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos centímetros por dia pode crescer a espécie de bambu de crescimento mais rápido (recorde Guinness)?",
+  "unidade": "cm",
+  "resposta": 91,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi a grande erupção do vulcão Krakatoa?",
+  "unidade": "ano",
+  "resposta": 1883,
+  "fonte": "Wikipédia",
+  "ano": 1883,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o Vesúvio soterrou Pompeia?",
+  "unidade": "ano",
+  "resposta": 79,
+  "fonte": "Wikipédia",
+  "ano": 79,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano ocorreu a erupção do vulcão Tambora, a maior dos tempos históricos?",
+  "unidade": "ano",
+  "resposta": 1815,
+  "fonte": "Wikipédia",
+  "ano": 1815,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano um terremoto e tsunami destruíram Lisboa?",
+  "unidade": "ano",
+  "resposta": 1755,
+  "fonte": "Wikipédia",
+  "ano": 1755,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano ocorreu o terremoto de Valdivia, no Chile, o mais forte já registrado?",
+  "unidade": "ano",
+  "resposta": 1960,
+  "fonte": "USGS",
+  "ano": 1960,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano ocorreu o tsunami do Oceano Índico que atingiu a Indonésia e a Tailândia?",
+  "unidade": "ano",
+  "resposta": 2004,
+  "fonte": "Wikipédia",
+  "ano": 2004,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o furacão Katrina atingiu Nova Orleans?",
+  "unidade": "ano",
+  "resposta": 2005,
+  "fonte": "NOAA",
+  "ano": 2005,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o explorador Roald Amundsen chegou ao Polo Sul?",
+  "unidade": "ano",
+  "resposta": 1911,
+  "fonte": "Wikipédia",
+  "ano": 1911,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Edmund Hillary e Tenzing Norgay chegaram ao topo do Everest?",
+  "unidade": "ano",
+  "resposta": 1953,
+  "fonte": "Wikipédia",
+  "ano": 1953,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi a última erupção do Monte Fuji?",
+  "unidade": "ano",
+  "resposta": 1707,
+  "fonte": "Wikipédia",
+  "ano": 1707,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano ocorreu o terremoto e tsunami de Tohoku, no Japão?",
+  "unidade": "ano",
+  "resposta": 2011,
+  "fonte": "Wikipédia",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano um grande terremoto destruiu São Francisco, nos EUA?",
+  "unidade": "ano",
+  "resposta": 1906,
+  "fonte": "Wikipédia",
+  "ano": 1906,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a tulipomania, a bolha das tulipas, atingiu o auge na Holanda?",
+  "unidade": "ano",
+  "resposta": 1637,
+  "fonte": "Wikipédia",
+  "ano": 1637,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o vulcão Pinatubo, nas Filipinas, entrou em erupção?",
+  "unidade": "ano",
+  "resposta": 1991,
+  "fonte": "USGS",
+  "ano": 1991,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o vulcão Monte St. Helens entrou em erupção nos EUA?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "USGS",
+  "ano": 1980,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população da Índia em 2024, em milhões de habitantes, segundo a ONU?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1450,
+  "fonte": "ONU (2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a população do Japão em 2024, em milhões de habitantes, segundo a ONU?",
+  "unidade": "milhões de habitantes",
+  "resposta": 124,
+  "fonte": "ONU (2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a população da Austrália em 2024, em milhões de habitantes (arredonde), segundo a ONU?",
+  "unidade": "milhões de habitantes",
+  "resposta": 27,
+  "fonte": "ONU (2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população do Canadá em 2024, em milhões de habitantes (arredonde), segundo a ONU?",
+  "unidade": "milhões de habitantes",
+  "resposta": 41,
+  "fonte": "ONU (2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ }
+]

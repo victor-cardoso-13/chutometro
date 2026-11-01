@@ -13,7 +13,7 @@ Fluxo: perguntas de jogo com exemplos para marcar → mock HTML aprovado → mot
 ## Regra central (dita pelo Victor)
 - Vence quem **chega mais perto** da resposta. **Empate de distância: vence quem chutou para baixo** (resposta 10, chutes 8 e 12 → ganha o 8).
 - Perguntas sempre envolvem números de qualquer natureza (medidas, anos, quantidades, dinheiro, contagens).
-- Respostas têm **fonte e data** no banco de perguntas; as que mudam com o tempo (ex.: patrimônio do 10º mais rico) ficam marcadas como "atualizável".
+- Respostas têm **fonte e data** no banco de perguntas; as que mudam com o tempo (ex.: patrimônio do 10º mais rico), trazem **data e fonte dentro do texto da pergunta** (ex.: "…em dezembro de 2025, segundo a Forbes?"), então nunca envelhecem; o jogador não vê marca de "atualizável".
 - **Sala (decidido):** só o mais perto ganha **1 ponto**; **cravar o número exato vale 3**. O anfitrião escolhe o tempo para chutar (15/30/60 s) ao criar a sala. Sem palpite = não pontua.
 - **Solo (decidido):** 10 perguntas e uma **nota** no fim (erro médio em %), com recorde.
 - Banco: `data/src/*.json` (ver `data/ESPECIFICACAO.md`), 1000 perguntas validadas por agentes às cegas (`data/validacao/`). Perguntas já vistas não repetem (como `vistas` do QI).

@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0892",
+  "q": "Qual é a altitude da cidadela de Machu Picchu, no Peru, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0893",
+  "q": "Quantos cômodos tem o Istana Nurul Iman, palácio do sultão de Brunei, o maior palácio residencial do mundo?",
+  "unidade": "cômodos"
+ },
+ {
+  "id": "c0894",
+  "q": "Qual é a altura do pilar mais alto do Viaduto de Millau, na França, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0895",
+  "q": "Qual era a altura original da Grande Pirâmide de Gizé, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0896",
+  "q": "Em que ano foi inaugurada a Torre Eiffel?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0897",
+  "q": "Em que ano a Estátua da Liberdade foi inaugurada em Nova York?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0898",
+  "q": "Em que ano foi inaugurada a Ópera de Sydney?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0899",
+  "q": "Em que ano foi inaugurado o Burj Khalifa?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0900",
+  "q": "Em que ano foi inaugurado o Canal de Suez?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0901",
+  "q": "Em que ano foi inaugurado o Canal do Panamá?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0902",
+  "q": "Em que ano foi inaugurada a Ponte do Brooklyn?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0903",
+  "q": "Em que ano começou a construção da Sagrada Família, em Barcelona?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0904",
+  "q": "Em que ano foi fundada a ONU (Organização das Nações Unidas)?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0905",
+  "q": "Em que ano aconteceram os primeiros Jogos Olímpicos da era moderna, em Atenas?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0906",
+  "q": "Em que ano foi concluído o Empire State Building?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0907",
+  "q": "Em que ano a população mundial chegou a 8 bilhões de pessoas, segundo a ONU?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0908",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Bernard Arnault) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0909",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do segundo mais rico do mundo (Elon Musk) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0910",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do terceiro mais rico do mundo (Jeff Bezos) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0911",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do quarto mais rico do mundo (Larry Ellison) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0912",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do nono mais rico do mundo (Mukesh Ambani) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0913",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2021?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0914",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do terceiro mais rico do mundo (Bernard Arnault) na lista Forbes de 2021?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0915",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2020?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0916",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do quinto mais rico do mundo (Larry Ellison) na lista Forbes de 2020?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0917",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do segundo mais rico do mundo (Bill Gates) na lista Forbes de 2020?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0918",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Elon Musk) na lista Forbes de 2022?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0919",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do segundo mais rico do mundo (Jeff Bezos) na lista Forbes de 2022?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0920",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2019?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0921",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2018?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0922",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Bernard Arnault) na lista Forbes de 2024?",
+  "unidade": "bilhões de dólares"
+ },
+ {
+  "id": "c0923",
+  "q": "Qual era a população da Índia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0924",
+  "q": "Qual era a população da China em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0925",
+  "q": "Qual era a população dos Estados Unidos em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0926",
+  "q": "Qual era a população da Indonésia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0927",
+  "q": "Qual era a população do Paquistão em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0928",
+  "q": "Qual era a população da Nigéria em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0929",
+  "q": "Qual era a população da Rússia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0930",
+  "q": "Qual era a população do México em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0931",
+  "q": "Qual era a população do Japão em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0932",
+  "q": "Qual era a população da Alemanha em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0933",
+  "q": "Qual era a população do Reino Unido em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0934",
+  "q": "Qual era a população da França em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0935",
+  "q": "Qual era a população mundial em 2024, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas"
+ },
+ {
+  "id": "c0936",
+  "q": "Qual é a população da cidade de Istambul, em milhões de habitantes (2023)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0937",
+  "q": "Qual é a população da cidade de Moscou, em milhões de habitantes (censo 2021)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0938",
+  "q": "Qual é a população da cidade de Nova York, em milhões de habitantes (censo 2020)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0939",
+  "q": "Qual é a população da cidade de Londres, em milhões de habitantes (censo 2021)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0940",
+  "q": "Qual é a população da cidade de Paris, em milhões de habitantes (sem a região metropolitana, 2021)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0941",
+  "q": "Qual é a população da cidade de Xangai, em milhões de habitantes (censo 2020)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0942",
+  "q": "Qual é a população da cidade de Pequim, em milhões de habitantes (censo 2020)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0943",
+  "q": "Qual é a população de Singapura, em milhões de habitantes (2023)?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0944",
+  "q": "Qual é a área do Vaticano, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0945",
+  "q": "Qual é a área de Mônaco, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0946",
+  "q": "Qual é a área da Rússia, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0947",
+  "q": "Qual é a área do Canadá, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0948",
+  "q": "Qual é a área da Austrália, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0949",
+  "q": "Quantos países são membros da ONU?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0950",
+  "q": "Quantos países há no continente africano (reconhecidos pela ONU)?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0951",
+  "q": "Quantos países soberanos há na América do Sul?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0952",
+  "q": "Quantos países fazem parte da União Europeia?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0953",
+  "q": "Quantas estrelas tem a bandeira dos Estados Unidos?",
+  "unidade": "estrelas"
+ },
+ {
+  "id": "c0954",
+  "q": "Quantas listras tem a bandeira dos Estados Unidos?",
+  "unidade": "listras"
+ },
+ {
+  "id": "c0955",
+  "q": "Quantas estrelas tem a bandeira da União Europeia?",
+  "unidade": "estrelas"
+ },
+ {
+  "id": "c0956",
+  "q": "Quantas estrelas tem a bandeira da China?",
+  "unidade": "estrelas"
+ },
+ {
+  "id": "c0957",
+  "q": "Quantos membros tem o Conselho de Segurança da ONU (permanentes e rotativos)?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0958",
+  "q": "Quantos idiomas oficiais tem a ONU?",
+  "unidade": "idiomas"
+ },
+ {
+  "id": "c0959",
+  "q": "Quantas letras tem o alfabeto havaiano?",
+  "unidade": "letras"
+ },
+ {
+  "id": "c0960",
+  "q": "Quantas letras tem o alfabeto rotokas, de Papua-Nova Guiné, o mais curto do mundo?",
+  "unidade": "letras"
+ },
+ {
+  "id": "c0961",
+  "q": "Quantas letras tem o alfabeto khmer (cambojano), o mais longo do mundo?",
+  "unidade": "letras"
+ },
+ {
+  "id": "c0962",
+  "q": "Quantas categorias de cédulas de euro existem (valores diferentes)?",
+  "unidade": "valores"
+ },
+ {
+  "id": "c0963",
+  "q": "Quantas moedas de euro com valores diferentes existem?",
+  "unidade": "valores"
+ },
+ {
+  "id": "c0964",
+  "q": "Quantos eventos (disputas com medalha) teve a Olimpíada de Paris 2024?",
+  "unidade": "eventos"
+ },
+ {
+  "id": "c0965",
+  "q": "Qual era o PIB dos Estados Unidos em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares"
+ },
+ {
+  "id": "c0966",
+  "q": "Qual era o PIB da China em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares"
+ },
+ {
+  "id": "c0967",
+  "q": "Qual era o PIB da Alemanha em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares"
+ },
+ {
+  "id": "c0968",
+  "q": "Qual era o PIB do Japão em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares"
+ },
+ {
+  "id": "c0969",
+  "q": "Quantos cristãos havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas"
+ },
+ {
+  "id": "c0970",
+  "q": "Quantos muçulmanos havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas"
+ },
+ {
+  "id": "c0971",
+  "q": "Quantos hindus havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas"
+ },
+ {
+  "id": "c0972",
+  "q": "Quantos falantes nativos de espanhol havia no mundo em 2023, em milhões?",
+  "unidade": "milhões de pessoas"
+ },
+ {
+  "id": "c0973",
+  "q": "Quantos falantes nativos de mandarim havia no mundo em 2023, em milhões?",
+  "unidade": "milhões de pessoas"
+ },
+ {
+  "id": "c0974",
+  "q": "Quantas línguas são faladas em Papua-Nova Guiné, país com mais idiomas do mundo?",
+  "unidade": "idiomas"
+ },
+ {
+  "id": "c0975",
+  "q": "Quantos visitantes teve o Museu do Louvre em 2024, em milhões?",
+  "unidade": "milhões de visitantes"
+ },
+ {
+  "id": "c0976",
+  "q": "Quantos raios tem a coroa da Estátua da Liberdade?",
+  "unidade": "raios"
+ },
+ {
+  "id": "c0977",
+  "q": "Em que ano Alexander Graham Bell patenteou o telefone?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0978",
+  "q": "Em que ano Thomas Edison apresentou sua lâmpada incandescente prática?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0979",
+  "q": "Em que ano os irmãos Wright fizeram o primeiro voo de avião motorizado?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0980",
+  "q": "Em que ano Santos Dumont voou com o 14-Bis em Paris, diante de testemunhas oficiais?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0981",
+  "q": "Em que ano Tim Berners-Lee propôs a World Wide Web?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0982",
+  "q": "Em que ano foi fundada a Apple?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0983",
+  "q": "Em que ano foi fundada a Microsoft?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0984",
+  "q": "Em que ano foi fundado o Google?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0985",
+  "q": "Em que ano o primeiro iPhone foi lançado?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0986",
+  "q": "Em que ano a União Soviética lançou o Sputnik 1, o primeiro satélite artificial?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0987",
+  "q": "Em que ano a Ford lançou o Modelo T?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0988",
+  "q": "Em que ano foi fundada a Nintendo, ainda como fabricante de cartas de baralho?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0989",
+  "q": "Em que ano o Titanic afundou?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0990",
+  "q": "Em que ano a Wikipédia foi lançada?",
+  "unidade": "ano"
+ }
+]

@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0249",
+  "q": "Qual é o pH normal do sangue humano?",
+  "unidade": "pH",
+  "resposta_autor": 7.4,
+  "resposta_validador": 7.4,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0959",
+  "q": "Quantas letras tem o alfabeto havaiano?",
+  "unidade": "letras",
+  "resposta_autor": 13,
+  "resposta_validador": 13,
+  "obs_validador": "12 letras + ʻokina conforme contagem; 13 é a usual (5 vogais+8 consoantes incl. ʻokina)",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0071",
+  "q": "Quantos mililitros cabem em uma colher de sopa (medida de receitas no Brasil)?",
+  "unidade": "mL",
+  "resposta_autor": 15,
+  "resposta_validador": 15,
+  "obs_validador": "15 mL (outras fontes 12 a 15 mL)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0936",
+  "q": "Qual é a população da cidade de Istambul, em milhões de habitantes (2023)?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 15.5,
+  "resposta_validador": 15.66,
+  "obs_validador": "TUIK 15.655.924",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0164",
+  "q": "Qual é a área do estado do Paraná, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta_autor": 199,
+  "resposta_validador": 199.3,
+  "obs_validador": "IBGE 2025: 199293.571 km2; revisões anteriores diferem pouco",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0651",
+  "q": "Quantas vezes a seleção brasileira masculina de vôlei foi campeã mundial?",
+  "unidade": "títulos",
+  "resposta_autor": 3,
+  "resposta_validador": 5,
+  "obs_validador": "",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0814",
+  "q": "Quantos anos durou a viagem de Charles Darwin no navio Beagle (1831–1836)?",
+  "unidade": "anos",
+  "resposta_autor": 5,
+  "resposta_validador": 5,
+  "obs_validador": "dez/1831 a out/1836: ~4,8 anos; 'cinco anos' comum",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0275",
+  "q": "Quantas calorias (kcal) tem 100 gramas de amendoim cru?",
+  "unidade": "kcal",
+  "resposta_autor": 567,
+  "resposta_validador": 544,
+  "obs_validador": "TACO 544; USDA 567",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0501",
+  "q": "Qual é a temperatura máxima do dia na Lua, em °C?",
+  "unidade": "°C",
+  "resposta_autor": 127,
+  "resposta_validador": 127,
+  "obs_validador": "Max diurno ~127C (NASA); outras fontes ~120-123C",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0631",
+  "q": "Em que ano o Brasil ganhou sua primeira Copa do Mundo?",
+  "unidade": "ano",
+  "resposta_autor": 1958,
+  "resposta_validador": 1958,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0513",
+  "q": "Quantas vezes a massa da Terra cabe na massa do Sol (arredondado)?",
+  "unidade": "vezes",
+  "resposta_autor": 333000,
+  "resposta_validador": 333000,
+  "obs_validador": "332.946 arredondado 333000",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0694",
+  "q": "Qual o comprimento da Cordilheira dos Andes, em km?",
+  "unidade": "km",
+  "resposta_autor": 7000,
+  "resposta_validador": 7000,
+  "obs_validador": "Andes: 7.000 km (Britannica); algumas fontes 8.900 km",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0274",
+  "q": "Quantas calorias (kcal) tem 100 gramas de abacate cru?",
+  "unidade": "kcal",
+  "resposta_autor": 160,
+  "resposta_validador": 96,
+  "obs_validador": "TACO 96; USDA 160 (Hass)",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0531",
+  "q": "Quantos segundos tem um dia?",
+  "unidade": "segundos",
+  "resposta_autor": 86400,
+  "resposta_validador": 86400,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0289",
+  "q": "Quantos anos viveu Jeanne Calment, a pessoa com idade comprovada mais longeva da história?",
+  "unidade": "anos",
+  "resposta_autor": 122,
+  "resposta_validador": 122,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0940",
+  "q": "Qual é a população da cidade de Paris, em milhões de habitantes (sem a região metropolitana, 2021)?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 2.1,
+  "resposta_validador": 2.13,
+  "obs_validador": "INSEE 2021 ~2,133 milhões",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0673",
+  "q": "A que altitude fica o Lago Titicaca, o lago navegável mais alto do mundo, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 3812,
+  "resposta_validador": 3812,
+  "obs_validador": "3.810-3.812 m.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0452",
+  "q": "Qual é a velocidade do som no ar a 20 °C, em metros por segundo?",
+  "unidade": "m/s",
+  "resposta_autor": 343,
+  "resposta_validador": 343,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0678",
+  "q": "Qual a salinidade do Mar Morto, em porcentagem de sal na água?",
+  "unidade": "%",
+  "resposta_autor": 34,
+  "resposta_validador": 34,
+  "obs_validador": "~33,7%; varia 30-34%.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0722",
+  "q": "Quantos graus tem a escala Beaufort de força dos ventos (de 0 a ...)?",
+  "unidade": "graus",
+  "resposta_autor": 12,
+  "resposta_validador": 12,
+  "obs_validador": "escala 0 a 12",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0174",
+  "q": "Qual é a área do estado do Rio de Janeiro, em km²?",
+  "unidade": "km²",
+  "resposta_autor": 43750,
+  "resposta_validador": 43750,
+  "obs_validador": "IBGE 2025: 43.750,4; versão antiga 43.780/43.696",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0562",
+  "q": "Qual é o recorde mundial dos 100 metros rasos masculino, de Usain Bolt, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta_autor": 9.58,
+  "resposta_validador": 9.58,
+  "obs_validador": "",
+  "motivo": "ok"
+ }
+]

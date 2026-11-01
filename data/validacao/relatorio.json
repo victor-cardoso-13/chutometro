@@ -1,0 +1,6500 @@
+{
+ "c0001": {
+  "status": "ok",
+  "autor": 88,
+  "validador": 88,
+  "obs": ""
+ },
+ "c0002": {
+  "status": "ok",
+  "autor": 52,
+  "validador": 52,
+  "obs": ""
+ },
+ "c0003": {
+  "status": "ok",
+  "autor": 32,
+  "validador": 32,
+  "obs": ""
+ },
+ "c0004": {
+  "status": "ok",
+  "autor": 64,
+  "validador": 64,
+  "obs": ""
+ },
+ "c0005": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": "20 (16 de peões + 4 de cavalos)"
+ },
+ "c0006": {
+  "status": "ok",
+  "autor": 52,
+  "validador": 52,
+  "obs": ""
+ },
+ "c0007": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0008": {
+  "status": "ok",
+  "autor": 28,
+  "validador": 28,
+  "obs": ""
+ },
+ "c0009": {
+  "status": "ok",
+  "autor": 168,
+  "validador": 168,
+  "obs": "168 pontos"
+ },
+ "c0010": {
+  "status": "ok",
+  "autor": 21,
+  "validador": 21,
+  "obs": ""
+ },
+ "c0011": {
+  "status": "ambigua",
+  "autor": 36,
+  "validador": 36,
+  "obs": "36 se ordenados (dado A,B distintos); 21 se não ordenados"
+ },
+ "c0012": {
+  "status": "ok",
+  "autor": 108,
+  "validador": 108,
+  "obs": ""
+ },
+ "c0013": {
+  "status": "ok",
+  "autor": 55,
+  "validador": 55,
+  "obs": "Dobble clássico 55 cartas"
+ },
+ "c0014": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0015": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c0016": {
+  "status": "ok",
+  "autor": 54,
+  "validador": 54,
+  "obs": "54 blocos"
+ },
+ "c0017": {
+  "status": "ok",
+  "autor": 54,
+  "validador": 54,
+  "obs": ""
+ },
+ "c0018": {
+  "status": "ok",
+  "autor": 81,
+  "validador": 81,
+  "obs": ""
+ },
+ "c0019": {
+  "status": "ok",
+  "autor": 40,
+  "validador": 40,
+  "obs": ""
+ },
+ "c0020": {
+  "status": "ok",
+  "autor": 42,
+  "validador": 42,
+  "obs": ""
+ },
+ "c0021": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0022": {
+  "status": "ok",
+  "autor": 151,
+  "validador": 151,
+  "obs": ""
+ },
+ "c0023": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c0024": {
+  "status": "ok",
+  "autor": 60,
+  "validador": 60,
+  "obs": ""
+ },
+ "c0025": {
+  "status": "ambigua",
+  "autor": 24,
+  "validador": 24,
+  "obs": "Damas brasileiras/inglesas 8x8: 24; internacionais 10x10: 40"
+ },
+ "c0026": {
+  "status": "ok",
+  "autor": 16,
+  "validador": 16,
+  "obs": "Pool 8-ball: 15 + branca =16"
+ },
+ "c0027": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": ""
+ },
+ "c0028": {
+  "status": "ok",
+  "autor": 108,
+  "validador": 108,
+  "obs": "108 pontos de costura"
+ },
+ "c0029": {
+  "status": "ok",
+  "autor": 915103765,
+  "validador": 915103765,
+  "obs": "Eilers: 915.103.765"
+ },
+ "c0030": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0031": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0032": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0033": {
+  "status": "ambigua",
+  "autor": 26,
+  "validador": 26,
+  "obs": "26 desde o Acordo Ortográfico (2009); antes 23"
+ },
+ "c0034": {
+  "status": "ok",
+  "autor": 1959,
+  "validador": 1959,
+  "obs": "Lançada em 9/3/1959"
+ },
+ "c0035": {
+  "status": "ok",
+  "autor": 1974,
+  "validador": 1974,
+  "obs": ""
+ },
+ "c0036": {
+  "status": "ok",
+  "autor": 1886,
+  "validador": 1886,
+  "obs": "Criada em 1886 (Pemberton)"
+ },
+ "c0037": {
+  "status": "ok",
+  "autor": 1994,
+  "validador": 1994,
+  "obs": ""
+ },
+ "c0038": {
+  "status": "ok",
+  "autor": 1984,
+  "validador": 1984,
+  "obs": "Criado em junho de 1984 (lançado 1985 no ocidente)"
+ },
+ "c0039": {
+  "status": "ambigua",
+  "autor": 1582,
+  "validador": 1582,
+  "obs": "Adotado 1582 (Itália, Espanha, Portugal); Brasil/Inglaterra adotaram em datas diferentes"
+ },
+ "c0040": {
+  "status": "ok",
+  "autor": 1932,
+  "validador": 1932,
+  "obs": ""
+ },
+ "c0041": {
+  "status": "ok",
+  "autor": 2002,
+  "validador": 2002,
+  "obs": ""
+ },
+ "c0042": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0043": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0044": {
+  "status": "ok",
+  "autor": 24,
+  "validador": 24,
+  "obs": ""
+ },
+ "c0045": {
+  "status": "ok",
+  "autor": 366,
+  "validador": 366,
+  "obs": ""
+ },
+ "c0046": {
+  "status": "ok",
+  "autor": 52,
+  "validador": 52,
+  "obs": ""
+ },
+ "c0047": {
+  "status": "ok",
+  "autor": 168,
+  "validador": 168,
+  "obs": ""
+ },
+ "c0048": {
+  "status": "ok",
+  "autor": 1440,
+  "validador": 1440,
+  "obs": ""
+ },
+ "c0049": {
+  "status": "ok",
+  "autor": 3600,
+  "validador": 3600,
+  "obs": ""
+ },
+ "c0050": {
+  "status": "ok",
+  "autor": 97,
+  "validador": 97,
+  "obs": ""
+ },
+ "c0051": {
+  "status": "ok",
+  "autor": 29.5,
+  "validador": 29.53,
+  "obs": "mês sinódico 29,53 dias"
+ },
+ "c0052": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c0053": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0054": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0055": {
+  "status": "ok",
+  "autor": 25.4,
+  "validador": 25.4,
+  "obs": ""
+ },
+ "c0056": {
+  "status": "ok",
+  "autor": 30.48,
+  "validador": 30.48,
+  "obs": ""
+ },
+ "c0057": {
+  "status": "ok",
+  "autor": 91.44,
+  "validador": 91.44,
+  "obs": ""
+ },
+ "c0058": {
+  "status": "ok",
+  "autor": 454,
+  "validador": 454,
+  "obs": ""
+ },
+ "c0059": {
+  "status": "ok",
+  "autor": 1609,
+  "validador": 1609,
+  "obs": ""
+ },
+ "c0060": {
+  "status": "ok",
+  "autor": 3.79,
+  "validador": 3.785,
+  "obs": ""
+ },
+ "c0061": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": ""
+ },
+ "c0062": {
+  "status": "ok",
+  "autor": 1852,
+  "validador": 1852,
+  "obs": ""
+ },
+ "c0063": {
+  "status": "ok",
+  "autor": 10000,
+  "validador": 10000,
+  "obs": ""
+ },
+ "c0064": {
+  "status": "ok",
+  "autor": 42195,
+  "validador": 42195,
+  "obs": ""
+ },
+ "c0065": {
+  "status": "ok",
+  "autor": 144,
+  "validador": 144,
+  "obs": ""
+ },
+ "c0066": {
+  "status": "ok",
+  "autor": 500,
+  "validador": 500,
+  "obs": ""
+ },
+ "c0067": {
+  "status": "ok",
+  "autor": 297,
+  "validador": 297,
+  "obs": ""
+ },
+ "c0068": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0069": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": ""
+ },
+ "c0070": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0071": {
+  "status": "ambigua",
+  "autor": 15,
+  "validador": 15,
+  "obs": "15 mL (outras fontes 12 a 15 mL)"
+ },
+ "c0072": {
+  "status": "ok",
+  "autor": 350,
+  "validador": 350,
+  "obs": ""
+ },
+ "c0073": {
+  "status": "ok",
+  "autor": 750,
+  "validador": 750,
+  "obs": ""
+ },
+ "c0074": {
+  "status": "ok",
+  "autor": 212,
+  "validador": 212,
+  "obs": ""
+ },
+ "c0075": {
+  "status": "ok",
+  "autor": 32,
+  "validador": 32,
+  "obs": ""
+ },
+ "c0076": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": "78,37 °C"
+ },
+ "c0077": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0078": {
+  "status": "ok",
+  "autor": 47,
+  "validador": 47,
+  "obs": ""
+ },
+ "c0079": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0080": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0081": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0082": {
+  "status": "ok",
+  "autor": 26,
+  "validador": 26,
+  "obs": "26 ossos por pé"
+ },
+ "c0083": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0084": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0085": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0086": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0087": {
+  "status": "ambigua",
+  "autor": 10,
+  "validador": 10,
+  "obs": "Caranguejo: 10 patas incl. 2 pinças"
+ },
+ "c0088": {
+  "status": "ambigua",
+  "autor": 5,
+  "validador": 5,
+  "obs": "5: 2 compostos + 3 ocelos"
+ },
+ "c0089": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0090": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0091": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0092": {
+  "status": "ok",
+  "autor": 46,
+  "validador": 46,
+  "obs": ""
+ },
+ "c0093": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0094": {
+  "status": "ok",
+  "autor": 38,
+  "validador": 38,
+  "obs": ""
+ },
+ "c0095": {
+  "status": "ok",
+  "autor": 48,
+  "validador": 48,
+  "obs": ""
+ },
+ "c0096": {
+  "status": "ok",
+  "autor": 42,
+  "validador": 42,
+  "obs": ""
+ },
+ "c0097": {
+  "status": "ok",
+  "autor": 30,
+  "validador": 30,
+  "obs": ""
+ },
+ "c0098": {
+  "status": "ok",
+  "autor": 18,
+  "validador": 18,
+  "obs": ""
+ },
+ "c0099": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": ""
+ },
+ "c0100": {
+  "status": "ok",
+  "autor": 21,
+  "validador": 21,
+  "obs": ""
+ },
+ "c0101": {
+  "status": "ok",
+  "autor": 28,
+  "validador": 28,
+  "obs": "Pato doméstico 28 dias; pato-mudo (Muscovy) 35"
+ },
+ "c0102": {
+  "status": "ok",
+  "autor": 22,
+  "validador": 22,
+  "obs": "Gestação ~22 meses (African 22, Asian 18-22)"
+ },
+ "c0103": {
+  "status": "ambigua",
+  "autor": 40,
+  "validador": 40,
+  "obs": "40 semanas contadas da última menstruação; 38 desde a concepção"
+ },
+ "c0104": {
+  "status": "ambigua",
+  "autor": 63,
+  "validador": 63,
+  "obs": "58-68 dias, média 63 (~9 semanas)"
+ },
+ "c0105": {
+  "status": "ok",
+  "autor": 283,
+  "validador": 283,
+  "obs": "Média 280-285 dias"
+ },
+ "c0106": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": "~340 dias (~11 meses)"
+ },
+ "c0107": {
+  "status": "ok",
+  "autor": 114,
+  "validador": 114,
+  "obs": "114 dias (3m3s3d = 114)"
+ },
+ "c0108": {
+  "status": "ok",
+  "autor": 28,
+  "validador": 28,
+  "obs": ""
+ },
+ "c0109": {
+  "status": "ok",
+  "autor": 64,
+  "validador": 64,
+  "obs": "2n=64"
+ },
+ "c0110": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": "2n=8"
+ },
+ "c0111": {
+  "status": "ok",
+  "autor": 44.41,
+  "validador": 44.41,
+  "obs": ""
+ },
+ "c0112": {
+  "status": "ok",
+  "autor": 20.54,
+  "validador": 20.54,
+  "obs": ""
+ },
+ "c0113": {
+  "status": "ok",
+  "autor": 16.06,
+  "validador": 16.06,
+  "obs": ""
+ },
+ "c0114": {
+  "status": "ok",
+  "autor": 14.14,
+  "validador": 14.14,
+  "obs": ""
+ },
+ "c0115": {
+  "status": "ok",
+  "autor": 11.44,
+  "validador": 11.44,
+  "obs": ""
+ },
+ "c0116": {
+  "status": "ok",
+  "autor": 10.88,
+  "validador": 10.88,
+  "obs": ""
+ },
+ "c0117": {
+  "status": "ok",
+  "autor": 9.06,
+  "validador": 9.06,
+  "obs": ""
+ },
+ "c0118": {
+  "status": "ok",
+  "autor": 8.79,
+  "validador": 8.79,
+  "obs": ""
+ },
+ "c0119": {
+  "status": "ok",
+  "autor": 8.12,
+  "validador": 8.12,
+  "obs": ""
+ },
+ "c0120": {
+  "status": "ok",
+  "autor": 7.61,
+  "validador": 7.61,
+  "obs": ""
+ },
+ "c0121": {
+  "status": "ok",
+  "autor": 6.78,
+  "validador": 6.78,
+  "obs": ""
+ },
+ "c0122": {
+  "status": "ok",
+  "autor": 3.94,
+  "validador": 3.94,
+  "obs": ""
+ },
+ "c0123": {
+  "status": "ok",
+  "autor": 3.66,
+  "validador": 3.66,
+  "obs": ""
+ },
+ "c0124": {
+  "status": "ok",
+  "autor": 2.82,
+  "validador": 2.82,
+  "obs": ""
+ },
+ "c0125": {
+  "status": "ok",
+  "autor": 7.06,
+  "validador": 7.06,
+  "obs": ""
+ },
+ "c0126": {
+  "status": "ok",
+  "autor": 3.83,
+  "validador": 3.83,
+  "obs": ""
+ },
+ "c0127": {
+  "status": "ok",
+  "autor": 3.97,
+  "validador": 3.97,
+  "obs": ""
+ },
+ "c0128": {
+  "status": "ok",
+  "autor": 203.08,
+  "validador": 203.08,
+  "obs": ""
+ },
+ "c0129": {
+  "status": "ok",
+  "autor": 637,
+  "validador": 636.7,
+  "obs": ""
+ },
+ "c0130": {
+  "status": "ok",
+  "autor": 734,
+  "validador": 733.8,
+  "obs": ""
+ },
+ "c0131": {
+  "status": "ok",
+  "autor": 830,
+  "validador": 830.0,
+  "obs": ""
+ },
+ "c0132": {
+  "status": "ok",
+  "autor": 11.45,
+  "validador": 11.45,
+  "obs": ""
+ },
+ "c0133": {
+  "status": "ok",
+  "autor": 6.21,
+  "validador": 6.21,
+  "obs": ""
+ },
+ "c0134": {
+  "status": "ok",
+  "autor": 2.43,
+  "validador": 2.43,
+  "obs": ""
+ },
+ "c0135": {
+  "status": "ok",
+  "autor": 2.42,
+  "validador": 2.42,
+  "obs": ""
+ },
+ "c0136": {
+  "status": "ok",
+  "autor": 2.32,
+  "validador": 2.32,
+  "obs": ""
+ },
+ "c0137": {
+  "status": "ok",
+  "autor": 2.06,
+  "validador": 2.06,
+  "obs": ""
+ },
+ "c0138": {
+  "status": "ok",
+  "autor": 1.77,
+  "validador": 1.77,
+  "obs": ""
+ },
+ "c0139": {
+  "status": "ok",
+  "autor": 1.49,
+  "validador": 1.49,
+  "obs": ""
+ },
+ "c0140": {
+  "status": "ok",
+  "autor": 1.44,
+  "validador": 1.44,
+  "obs": ""
+ },
+ "c0141": {
+  "status": "ok",
+  "autor": 1.33,
+  "validador": 1.33,
+  "obs": ""
+ },
+ "c0142": {
+  "status": "ok",
+  "autor": 1.3,
+  "validador": 1.3,
+  "obs": ""
+ },
+ "c0143": {
+  "status": "ok",
+  "autor": 1.04,
+  "validador": 1.04,
+  "obs": ""
+ },
+ "c0144": {
+  "status": "ok",
+  "autor": 651,
+  "validador": 650.9,
+  "obs": ""
+ },
+ "c0145": {
+  "status": "ok",
+  "autor": 460,
+  "validador": 460.4,
+  "obs": ""
+ },
+ "c0146": {
+  "status": "ok",
+  "autor": 413,
+  "validador": 413.5,
+  "obs": ""
+ },
+ "c0147": {
+  "status": "ok",
+  "autor": 958,
+  "validador": 957.9,
+  "obs": ""
+ },
+ "c0148": {
+  "status": "ok",
+  "autor": 898,
+  "validador": 898.1,
+  "obs": ""
+ },
+ "c0149": {
+  "status": "ok",
+  "autor": 866,
+  "validador": 866.3,
+  "obs": ""
+ },
+ "c0150": {
+  "status": "ok",
+  "autor": 834,
+  "validador": 833.9,
+  "obs": ""
+ },
+ "c0151": {
+  "status": "ok",
+  "autor": 751,
+  "validador": 751.3,
+  "obs": ""
+ },
+ "c0152": {
+  "status": "ok",
+  "autor": 603,
+  "validador": 602.8,
+  "obs": ""
+ },
+ "c0153": {
+  "status": "ok",
+  "autor": 537,
+  "validador": 537.2,
+  "obs": ""
+ },
+ "c0154": {
+  "status": "ok",
+  "autor": 443,
+  "validador": 442.9,
+  "obs": ""
+ },
+ "c0155": {
+  "status": "ok",
+  "autor": 365,
+  "validador": 364.8,
+  "obs": ""
+ },
+ "c0156": {
+  "status": "ok",
+  "autor": 323,
+  "validador": 322.9,
+  "obs": ""
+ },
+ "c0157": {
+  "status": "ok",
+  "autor": 303,
+  "validador": 302.7,
+  "obs": ""
+ },
+ "c0158": {
+  "status": "ok",
+  "autor": 1559,
+  "validador": 1558.7,
+  "obs": "IBGE 2025: 1558704.331 km2; revisões anteriores diferem pouco"
+ },
+ "c0159": {
+  "status": "ok",
+  "autor": 1246,
+  "validador": 1245.8,
+  "obs": "IBGE 2025: 1245831.512 km2; revisões anteriores diferem pouco"
+ },
+ "c0160": {
+  "status": "ok",
+  "autor": 903,
+  "validador": 903.2,
+  "obs": "IBGE 2025: 903208.027 km2; revisões anteriores diferem pouco"
+ },
+ "c0161": {
+  "status": "ok",
+  "autor": 587,
+  "validador": 586.5,
+  "obs": "IBGE 2025: 586514.008 km2; revisões anteriores diferem pouco"
+ },
+ "c0162": {
+  "status": "ok",
+  "autor": 565,
+  "validador": 564.8,
+  "obs": "IBGE 2025: 564763.876 km2; revisões anteriores diferem pouco"
+ },
+ "c0163": {
+  "status": "ok",
+  "autor": 248,
+  "validador": 248.2,
+  "obs": "IBGE 2025: 248219.485 km2; revisões anteriores diferem pouco"
+ },
+ "c0164": {
+  "status": "ok",
+  "autor": 199,
+  "validador": 199.3,
+  "obs": "IBGE 2025: 199293.571 km2; revisões anteriores diferem pouco"
+ },
+ "c0165": {
+  "status": "ok",
+  "autor": 164,
+  "validador": 164.1,
+  "obs": "IBGE 2025: 164064.761 km2; revisões anteriores diferem pouco"
+ },
+ "c0166": {
+  "status": "ok",
+  "autor": 149,
+  "validador": 148.9,
+  "obs": "IBGE 2025: 148894.440 km2; revisões anteriores diferem pouco"
+ },
+ "c0167": {
+  "status": "ok",
+  "autor": 96,
+  "validador": 95.7,
+  "obs": "IBGE 2025: 95736.100 km2; revisões anteriores diferem pouco"
+ },
+ "c0168": {
+  "status": "ok",
+  "autor": 340,
+  "validador": 340.2,
+  "obs": "IBGE 2025: 340242.859 km2; revisões anteriores diferem pouco"
+ },
+ "c0169": {
+  "status": "ok",
+  "autor": 252,
+  "validador": 251.8,
+  "obs": "IBGE 2025: 251755.499 km2; revisões anteriores diferem pouco"
+ },
+ "c0170": {
+  "status": "ok",
+  "autor": 357,
+  "validador": 357.1,
+  "obs": "IBGE 2025: 357142.010 km2; revisões anteriores diferem pouco"
+ },
+ "c0171": {
+  "status": "ok",
+  "autor": 8.51,
+  "validador": 8.51,
+  "obs": "8.509.360 km2"
+ },
+ "c0172": {
+  "status": "ambigua",
+  "autor": 5761,
+  "validador": 5760.8,
+  "obs": "IBGE 2025: 5.760,785; versões antigas 5.779/5.802"
+ },
+ "c0173": {
+  "status": "ambigua",
+  "autor": 21938,
+  "validador": 21938,
+  "obs": "IBGE 2025: 21.938,188; versão antiga 21.915"
+ },
+ "c0174": {
+  "status": "ambigua",
+  "autor": 43750,
+  "validador": 43750,
+  "obs": "IBGE 2025: 43.750,4; versão antiga 43.780/43.696"
+ },
+ "c0175": {
+  "status": "ok",
+  "autor": 1500,
+  "validador": 1500,
+  "obs": ""
+ },
+ "c0176": {
+  "status": "ok",
+  "autor": 1822,
+  "validador": 1822,
+  "obs": ""
+ },
+ "c0177": {
+  "status": "ok",
+  "autor": 1888,
+  "validador": 1888,
+  "obs": ""
+ },
+ "c0178": {
+  "status": "ok",
+  "autor": 1889,
+  "validador": 1889,
+  "obs": ""
+ },
+ "c0179": {
+  "status": "ok",
+  "autor": 1960,
+  "validador": 1960,
+  "obs": ""
+ },
+ "c0180": {
+  "status": "ok",
+  "autor": 1988,
+  "validador": 1988,
+  "obs": ""
+ },
+ "c0181": {
+  "status": "ok",
+  "autor": 1994,
+  "validador": 1994,
+  "obs": "URV em fev/1994, real em jul/1994"
+ },
+ "c0182": {
+  "status": "ok",
+  "autor": 1808,
+  "validador": 1808,
+  "obs": ""
+ },
+ "c0183": {
+  "status": "ok",
+  "autor": 1922,
+  "validador": 1922,
+  "obs": ""
+ },
+ "c0184": {
+  "status": "ok",
+  "autor": 1792,
+  "validador": 1792,
+  "obs": ""
+ },
+ "c0185": {
+  "status": "ok",
+  "autor": 1864,
+  "validador": 1864,
+  "obs": "Início em dez/1864"
+ },
+ "c0186": {
+  "status": "ok",
+  "autor": 1554,
+  "validador": 1554,
+  "obs": ""
+ },
+ "c0187": {
+  "status": "ok",
+  "autor": 1950,
+  "validador": 1950,
+  "obs": ""
+ },
+ "c0188": {
+  "status": "ok",
+  "autor": 1964,
+  "validador": 1964,
+  "obs": ""
+ },
+ "c0189": {
+  "status": "ok",
+  "autor": 26,
+  "validador": 26,
+  "obs": ""
+ },
+ "c0190": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": ""
+ },
+ "c0191": {
+  "status": "ok",
+  "autor": 81,
+  "validador": 81,
+  "obs": ""
+ },
+ "c0192": {
+  "status": "ok",
+  "autor": 513,
+  "validador": 513,
+  "obs": ""
+ },
+ "c0193": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": ""
+ },
+ "c0194": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": "Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa, Pantanal"
+ },
+ "c0195": {
+  "status": "ambigua",
+  "autor": 4,
+  "validador": 4,
+  "obs": "Considerando Fernando de Noronha (UTC-2); sem ilhas seriam 3"
+ },
+ "c0196": {
+  "status": "ok",
+  "autor": 5570,
+  "validador": 5570,
+  "obs": "IBGE 2022"
+ },
+ "c0197": {
+  "status": "ok",
+  "autor": 35,
+  "validador": 35,
+  "obs": "Constituição art. 14"
+ },
+ "c0198": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0199": {
+  "status": "ok",
+  "autor": 250,
+  "validador": 250,
+  "obs": ""
+ },
+ "c0200": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": ""
+ },
+ "c0201": {
+  "status": "ok",
+  "autor": 21,
+  "validador": 21,
+  "obs": ""
+ },
+ "c0202": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0203": {
+  "status": "ok",
+  "autor": 14000,
+  "validador": 14000,
+  "obs": ""
+ },
+ "c0204": {
+  "status": "ok",
+  "autor": 11233,
+  "validador": 11233,
+  "obs": ""
+ },
+ "c0205": {
+  "status": "ok",
+  "autor": 8370,
+  "validador": 8370,
+  "obs": ""
+ },
+ "c0206": {
+  "status": "ok",
+  "autor": 196,
+  "validador": 196,
+  "obs": "barragem principal 196 m"
+ },
+ "c0207": {
+  "status": "ok",
+  "autor": 13.3,
+  "validador": 13.3,
+  "obs": ""
+ },
+ "c0208": {
+  "status": "ok",
+  "autor": 38,
+  "validador": 38,
+  "obs": ""
+ },
+ "c0209": {
+  "status": "ok",
+  "autor": 396,
+  "validador": 396,
+  "obs": ""
+ },
+ "c0210": {
+  "status": "ambigua",
+  "autor": 2995,
+  "validador": 2995,
+  "obs": "IBGE revisou em 2016 de 2993,78 para 2995,30; algumas fontes 2994"
+ },
+ "c0211": {
+  "status": "ok",
+  "autor": 1,
+  "validador": 1,
+  "obs": ""
+ },
+ "c0212": {
+  "status": "ok",
+  "autor": 24,
+  "validador": 24,
+  "obs": ""
+ },
+ "c0213": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0214": {
+  "status": "ok",
+  "autor": 21,
+  "validador": 21,
+  "obs": ""
+ },
+ "c0215": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0216": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0217": {
+  "status": "ok",
+  "autor": 1984,
+  "validador": 1984,
+  "obs": ""
+ },
+ "c0218": {
+  "status": "ok",
+  "autor": 1984,
+  "validador": 1984,
+  "obs": ""
+ },
+ "c0219": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0220": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": ""
+ },
+ "c0221": {
+  "status": "ok",
+  "autor": 206,
+  "validador": 206,
+  "obs": ""
+ },
+ "c0222": {
+  "status": "ok",
+  "autor": 32,
+  "validador": 32,
+  "obs": ""
+ },
+ "c0223": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0224": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0225": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0226": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0227": {
+  "status": "ok",
+  "autor": 23,
+  "validador": 23,
+  "obs": ""
+ },
+ "c0228": {
+  "status": "ambigua",
+  "autor": 22,
+  "validador": 22,
+  "obs": "22 sem ossículos; alguns contam 28 com ossículos e hioide"
+ },
+ "c0229": {
+  "status": "ok",
+  "autor": 26,
+  "validador": 26,
+  "obs": ""
+ },
+ "c0230": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": ""
+ },
+ "c0231": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0232": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0233": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0234": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0235": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0236": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0237": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0238": {
+  "status": "ok",
+  "autor": 86,
+  "validador": 86,
+  "obs": ""
+ },
+ "c0239": {
+  "status": "ambigua",
+  "autor": 3.1,
+  "validador": 3.1,
+  "obs": "Genoma de referência antigo ~3,2-3,1; T2T 3,055 -> 3,1"
+ },
+ "c0240": {
+  "status": "ambigua",
+  "autor": 1.4,
+  "validador": 1.4,
+  "obs": "1,3 a 1,4 kg"
+ },
+ "c0241": {
+  "status": "ambigua",
+  "autor": 1.5,
+  "validador": 1.5,
+  "obs": "1,4 a 1,6 kg"
+ },
+ "c0242": {
+  "status": "ambigua",
+  "autor": 300,
+  "validador": 300,
+  "obs": "250-350 g"
+ },
+ "c0243": {
+  "status": "ambigua",
+  "autor": 5,
+  "validador": 5,
+  "obs": "4,5-5,5 L"
+ },
+ "c0244": {
+  "status": "ambigua",
+  "autor": 60,
+  "validador": 60,
+  "obs": "50-65% conforme sexo/idade; 60% o mais citado"
+ },
+ "c0245": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0246": {
+  "status": "ambigua",
+  "autor": 180,
+  "validador": 180,
+  "obs": "~150-180 L/dia (~120 mL/min = 173 L)"
+ },
+ "c0247": {
+  "status": "ok",
+  "autor": 120,
+  "validador": 120,
+  "obs": ""
+ },
+ "c0248": {
+  "status": "ok",
+  "autor": 37,
+  "validador": 37,
+  "obs": "referência mais usada 37 C"
+ },
+ "c0249": {
+  "status": "ok",
+  "autor": 7.4,
+  "validador": 7.4,
+  "obs": ""
+ },
+ "c0250": {
+  "status": "ok",
+  "autor": 120,
+  "validador": 120,
+  "obs": ""
+ },
+ "c0251": {
+  "status": "ok",
+  "autor": 180,
+  "validador": 180,
+  "obs": ""
+ },
+ "c0252": {
+  "status": "ambigua",
+  "autor": 100000,
+  "validador": 100000,
+  "obs": "~100 mil batidas/dia (70 bpm = 100.800)"
+ },
+ "c0253": {
+  "status": "divergente",
+  "autor": 100,
+  "validador": 99,
+  "obs": "Normal é <100 (até 99); 100 inicia pré-diabetes"
+ },
+ "c0254": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c0255": {
+  "status": "ok",
+  "autor": 30,
+  "validador": 30,
+  "obs": ""
+ },
+ "c0256": {
+  "status": "ok",
+  "autor": 150,
+  "validador": 150,
+  "obs": ""
+ },
+ "c0257": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0258": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c0259": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0260": {
+  "status": "ok",
+  "autor": 2000,
+  "validador": 2000,
+  "obs": ""
+ },
+ "c0261": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": ""
+ },
+ "c0262": {
+  "status": "ok",
+  "autor": 1000,
+  "validador": 1000,
+  "obs": ""
+ },
+ "c0263": {
+  "status": "ok",
+  "autor": 400,
+  "validador": 400,
+  "obs": ""
+ },
+ "c0264": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0265": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": ""
+ },
+ "c0266": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0267": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0268": {
+  "status": "ambigua",
+  "autor": 128,
+  "validador": 128,
+  "obs": "TACO arroz tipo 1 128, tipo 2 130"
+ },
+ "c0269": {
+  "status": "ok",
+  "autor": 76,
+  "validador": 76,
+  "obs": ""
+ },
+ "c0270": {
+  "status": "ok",
+  "autor": 300,
+  "validador": 300,
+  "obs": ""
+ },
+ "c0271": {
+  "status": "ok",
+  "autor": 98,
+  "validador": 98,
+  "obs": ""
+ },
+ "c0272": {
+  "status": "divergente",
+  "autor": 52,
+  "validador": 56,
+  "obs": "USDA 52 kcal"
+ },
+ "c0273": {
+  "status": "divergente",
+  "autor": 41,
+  "validador": 34,
+  "obs": "USDA 41"
+ },
+ "c0274": {
+  "status": "divergente",
+  "autor": 160,
+  "validador": 96,
+  "obs": "TACO 96; USDA 160 (Hass)"
+ },
+ "c0275": {
+  "status": "divergente",
+  "autor": 567,
+  "validador": 544,
+  "obs": "TACO 544; USDA 567"
+ },
+ "c0276": {
+  "status": "divergente",
+  "autor": 717,
+  "validador": 726,
+  "obs": "TACO 726; USDA 717"
+ },
+ "c0277": {
+  "status": "divergente",
+  "autor": 165,
+  "validador": 163,
+  "obs": "TACO ~163; USDA 165"
+ },
+ "c0278": {
+  "status": "ok",
+  "autor": 61,
+  "validador": 61,
+  "obs": ""
+ },
+ "c0279": {
+  "status": "ambigua",
+  "autor": 119,
+  "validador": 119,
+  "obs": "depende do peso da colher; ~108-119"
+ },
+ "c0280": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0281": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0282": {
+  "status": "ok",
+  "autor": 90,
+  "validador": 90,
+  "obs": ""
+ },
+ "c0283": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0284": {
+  "status": "ok",
+  "autor": 382,
+  "validador": 382,
+  "obs": ""
+ },
+ "c0285": {
+  "status": "ok",
+  "autor": 40,
+  "validador": 40,
+  "obs": ""
+ },
+ "c0286": {
+  "status": "ambigua",
+  "autor": 6,
+  "validador": 6,
+  "obs": "detectado de 5,5 a 6 semanas"
+ },
+ "c0287": {
+  "status": "ambigua",
+  "autor": 28,
+  "validador": 28,
+  "obs": "21-35 normal, média 28"
+ },
+ "c0288": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0289": {
+  "status": "ok",
+  "autor": 122,
+  "validador": 122,
+  "obs": ""
+ },
+ "c0290": {
+  "status": "ok",
+  "autor": 116,
+  "validador": 116,
+  "obs": ""
+ },
+ "c0291": {
+  "status": "ok",
+  "autor": 76.4,
+  "validador": 76.4,
+  "obs": ""
+ },
+ "c0292": {
+  "status": "ok",
+  "autor": 272,
+  "validador": 272,
+  "obs": ""
+ },
+ "c0293": {
+  "status": "divergente",
+  "autor": 246,
+  "validador": 248.3,
+  "obs": ""
+ },
+ "c0294": {
+  "status": "ok",
+  "autor": 54.6,
+  "validador": 54.6,
+  "obs": ""
+ },
+ "c0295": {
+  "status": "ok",
+  "autor": 635,
+  "validador": 635,
+  "obs": ""
+ },
+ "c0296": {
+  "status": "ok",
+  "autor": 69,
+  "validador": 69,
+  "obs": ""
+ },
+ "c0297": {
+  "status": "ok",
+  "autor": 10.2,
+  "validador": 10.2,
+  "obs": ""
+ },
+ "c0298": {
+  "status": "ok",
+  "autor": 46.5,
+  "validador": 46.5,
+  "obs": ""
+ },
+ "c0299": {
+  "status": "ok",
+  "autor": 1967,
+  "validador": 1967,
+  "obs": ""
+ },
+ "c0300": {
+  "status": "ok",
+  "autor": 1928,
+  "validador": 1928,
+  "obs": ""
+ },
+ "c0301": {
+  "status": "ok",
+  "autor": 1796,
+  "validador": 1796,
+  "obs": ""
+ },
+ "c0302": {
+  "status": "ok",
+  "autor": 1895,
+  "validador": 1895,
+  "obs": ""
+ },
+ "c0303": {
+  "status": "ok",
+  "autor": 1980,
+  "validador": 1980,
+  "obs": ""
+ },
+ "c0304": {
+  "status": "ok",
+  "autor": 1978,
+  "validador": 1978,
+  "obs": ""
+ },
+ "c0305": {
+  "status": "ok",
+  "autor": 1953,
+  "validador": 1953,
+  "obs": ""
+ },
+ "c0306": {
+  "status": "ambigua",
+  "autor": 1921,
+  "validador": 1921,
+  "obs": "Descoberta em 1921; purificação/primeiro uso clínico em 1922."
+ },
+ "c0307": {
+  "status": "ok",
+  "autor": 1885,
+  "validador": 1885,
+  "obs": ""
+ },
+ "c0308": {
+  "status": "ok",
+  "autor": 2020,
+  "validador": 2020,
+  "obs": ""
+ },
+ "c0309": {
+  "status": "ok",
+  "autor": 2003,
+  "validador": 2003,
+  "obs": ""
+ },
+ "c0310": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0311": {
+  "status": "ok",
+  "autor": 20000,
+  "validador": 20000,
+  "obs": ""
+ },
+ "c0312": {
+  "status": "ambigua",
+  "autor": 3,
+  "validador": 3,
+  "obs": "Fontes dão 2,8 a 3 mm."
+ },
+ "c0313": {
+  "status": "ambigua",
+  "autor": 6,
+  "validador": 6,
+  "obs": "Varia 5,5 a 6-7 L conforme fonte."
+ },
+ "c0314": {
+  "status": "divergente",
+  "autor": 1,
+  "validador": 1.25,
+  "obs": "Fontes dão 1 a 1,25 cm."
+ },
+ "c0315": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0316": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0317": {
+  "status": "ok",
+  "autor": 120,
+  "validador": 120,
+  "obs": ""
+ },
+ "c0318": {
+  "status": "ambigua",
+  "autor": 95,
+  "validador": 95,
+  "obs": "Abaixo de 95% alterado; hipoxemia clara abaixo de 90%."
+ },
+ "c0319": {
+  "status": "ok",
+  "autor": 0.8,
+  "validador": 0.8,
+  "obs": ""
+ },
+ "c0320": {
+  "status": "ok",
+  "autor": 64,
+  "validador": 64,
+  "obs": ""
+ },
+ "c0321": {
+  "status": "ok",
+  "autor": 95,
+  "validador": 95,
+  "obs": ""
+ },
+ "c0322": {
+  "status": "ambigua",
+  "autor": 75,
+  "validador": 75,
+  "obs": "Varia de 66 a 80 kcal por marca/tamanho."
+ },
+ "c0323": {
+  "status": "ok",
+  "autor": 535,
+  "validador": 535,
+  "obs": ""
+ },
+ "c0324": {
+  "status": "divergente",
+  "autor": 86,
+  "validador": 87,
+  "obs": ""
+ },
+ "c0325": {
+  "status": "ok",
+  "autor": 387,
+  "validador": 387,
+  "obs": ""
+ },
+ "c0326": {
+  "status": "ok",
+  "autor": 90,
+  "validador": 90,
+  "obs": ""
+ },
+ "c0327": {
+  "status": "ok",
+  "autor": 31,
+  "validador": 31,
+  "obs": ""
+ },
+ "c0328": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0329": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0330": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0331": {
+  "status": "ok",
+  "autor": 194,
+  "validador": 194,
+  "obs": ""
+ },
+ "c0332": {
+  "status": "ok",
+  "autor": 175,
+  "validador": 175,
+  "obs": ""
+ },
+ "c0333": {
+  "status": "ok",
+  "autor": 181,
+  "validador": 181,
+  "obs": ""
+ },
+ "c0334": {
+  "status": "ok",
+  "autor": 195,
+  "validador": 195,
+  "obs": ""
+ },
+ "c0335": {
+  "status": "ok",
+  "autor": 212,
+  "validador": 212,
+  "obs": ""
+ },
+ "c0336": {
+  "status": "ok",
+  "autor": 201,
+  "validador": 201,
+  "obs": ""
+ },
+ "c0337": {
+  "status": "ok",
+  "autor": 81,
+  "validador": 81,
+  "obs": ""
+ },
+ "c0338": {
+  "status": "ok",
+  "autor": 88,
+  "validador": 88,
+  "obs": ""
+ },
+ "c0339": {
+  "status": "ok",
+  "autor": 102,
+  "validador": 102,
+  "obs": ""
+ },
+ "c0340": {
+  "status": "ok",
+  "autor": 130,
+  "validador": 130,
+  "obs": ""
+ },
+ "c0341": {
+  "status": "ok",
+  "autor": 169,
+  "validador": 169,
+  "obs": ""
+ },
+ "c0342": {
+  "status": "ok",
+  "autor": 152,
+  "validador": 152,
+  "obs": ""
+ },
+ "c0343": {
+  "status": "ok",
+  "autor": 109,
+  "validador": 109,
+  "obs": ""
+ },
+ "c0344": {
+  "status": "ok",
+  "autor": 142,
+  "validador": 142,
+  "obs": ""
+ },
+ "c0345": {
+  "status": "ok",
+  "autor": 155,
+  "validador": 155,
+  "obs": ""
+ },
+ "c0346": {
+  "status": "ok",
+  "autor": 124,
+  "validador": 124,
+  "obs": ""
+ },
+ "c0347": {
+  "status": "ok",
+  "autor": 154,
+  "validador": 154,
+  "obs": ""
+ },
+ "c0348": {
+  "status": "ok",
+  "autor": 178,
+  "validador": 178,
+  "obs": ""
+ },
+ "c0349": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0350": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0351": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0352": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0353": {
+  "status": "divergente",
+  "autor": 34,
+  "validador": 34.3,
+  "obs": ""
+ },
+ "c0354": {
+  "status": "ok",
+  "autor": 14,
+  "validador": 14,
+  "obs": ""
+ },
+ "c0355": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0356": {
+  "status": "ok",
+  "autor": 236,
+  "validador": 236,
+  "obs": ""
+ },
+ "c0357": {
+  "status": "ok",
+  "autor": 62,
+  "validador": 62,
+  "obs": ""
+ },
+ "c0358": {
+  "status": "ok",
+  "autor": 73,
+  "validador": 73,
+  "obs": ""
+ },
+ "c0359": {
+  "status": "ok",
+  "autor": 121,
+  "validador": 121,
+  "obs": ""
+ },
+ "c0360": {
+  "status": "ok",
+  "autor": 180,
+  "validador": 180,
+  "obs": ""
+ },
+ "c0361": {
+  "status": "ok",
+  "autor": 201,
+  "validador": 201,
+  "obs": ""
+ },
+ "c0362": {
+  "status": "ok",
+  "autor": 208,
+  "validador": 208,
+  "obs": ""
+ },
+ "c0363": {
+  "status": "ok",
+  "autor": 86,
+  "validador": 86,
+  "obs": ""
+ },
+ "c0364": {
+  "status": "ok",
+  "autor": 96,
+  "validador": 96,
+  "obs": ""
+ },
+ "c0365": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0366": {
+  "status": "ok",
+  "autor": 179,
+  "validador": 179,
+  "obs": ""
+ },
+ "c0367": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c0368": {
+  "status": "ambigua",
+  "autor": 221,
+  "validador": 221,
+  "obs": "Fontes variam (221 na maioria; reprises diferem)."
+ },
+ "c0369": {
+  "status": "ok",
+  "autor": 204,
+  "validador": 204,
+  "obs": ""
+ },
+ "c0370": {
+  "status": "ok",
+  "autor": 93,
+  "validador": 93,
+  "obs": ""
+ },
+ "c0371": {
+  "status": "ok",
+  "autor": 82,
+  "validador": 82,
+  "obs": ""
+ },
+ "c0372": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0373": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0374": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": ""
+ },
+ "c0375": {
+  "status": "ok",
+  "autor": 17,
+  "validador": 17,
+  "obs": ""
+ },
+ "c0376": {
+  "status": "ok",
+  "autor": 30,
+  "validador": 30,
+  "obs": ""
+ },
+ "c0377": {
+  "status": "ok",
+  "autor": 40,
+  "validador": 40,
+  "obs": ""
+ },
+ "c0378": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0379": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": ""
+ },
+ "c0380": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0381": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": ""
+ },
+ "c0382": {
+  "status": "ok",
+  "autor": 355,
+  "validador": 355,
+  "obs": ""
+ },
+ "c0383": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": ""
+ },
+ "c0384": {
+  "status": "ambigua",
+  "autor": 41,
+  "validador": 41,
+  "obs": "41 numeradas (K.550/551); catálogo total ~47-68 conforme contagem."
+ },
+ "c0385": {
+  "status": "ok",
+  "autor": 35,
+  "validador": 35,
+  "obs": ""
+ },
+ "c0386": {
+  "status": "ok",
+  "autor": 42,
+  "validador": 42,
+  "obs": ""
+ },
+ "c0387": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": ""
+ },
+ "c0388": {
+  "status": "ok",
+  "autor": 36,
+  "validador": 36,
+  "obs": ""
+ },
+ "c0389": {
+  "status": "ok",
+  "autor": 44,
+  "validador": 44,
+  "obs": ""
+ },
+ "c0390": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": ""
+ },
+ "c0391": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0392": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0393": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0394": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0395": {
+  "status": "ok",
+  "autor": 687,
+  "validador": 687,
+  "obs": ""
+ },
+ "c0396": {
+  "status": "ok",
+  "autor": 14,
+  "validador": 14,
+  "obs": ""
+ },
+ "c0397": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0398": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0399": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": ""
+ },
+ "c0400": {
+  "status": "ok",
+  "autor": 111,
+  "validador": 111,
+  "obs": ""
+ },
+ "c0401": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": ""
+ },
+ "c0402": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": ""
+ },
+ "c0403": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c0404": {
+  "status": "ok",
+  "autor": 24,
+  "validador": 24,
+  "obs": ""
+ },
+ "c0405": {
+  "status": "ok",
+  "autor": 451,
+  "validador": 451,
+  "obs": ""
+ },
+ "c0406": {
+  "status": "ok",
+  "autor": 80,
+  "validador": 80,
+  "obs": ""
+ },
+ "c0407": {
+  "status": "ambigua",
+  "autor": 66,
+  "validador": 66,
+  "obs": "Christie: 66 romances policiais (mais citado); outras contagens 72-80 conforme critério"
+ },
+ "c0408": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0409": {
+  "status": "ok",
+  "autor": 154,
+  "validador": 154,
+  "obs": ""
+ },
+ "c0410": {
+  "status": "ok",
+  "autor": 40,
+  "validador": 40,
+  "obs": ""
+ },
+ "c0411": {
+  "status": "ok",
+  "autor": 221,
+  "validador": 221,
+  "obs": ""
+ },
+ "c0412": {
+  "status": "ok",
+  "autor": 69,
+  "validador": 69,
+  "obs": ""
+ },
+ "c0413": {
+  "status": "ok",
+  "autor": 77,
+  "validador": 77,
+  "obs": "77 cm (Louvre); alguns citam 79"
+ },
+ "c0414": {
+  "status": "ok",
+  "autor": 37,
+  "validador": 37,
+  "obs": ""
+ },
+ "c0415": {
+  "status": "ok",
+  "autor": 67,
+  "validador": 67,
+  "obs": ""
+ },
+ "c0416": {
+  "status": "ok",
+  "autor": 88,
+  "validador": 88,
+  "obs": ""
+ },
+ "c0417": {
+  "status": "ok",
+  "autor": 91,
+  "validador": 91,
+  "obs": ""
+ },
+ "c0418": {
+  "status": "ok",
+  "autor": 776,
+  "validador": 776,
+  "obs": "776,6 cm; ~777"
+ },
+ "c0419": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0420": {
+  "status": "ok",
+  "autor": 104,
+  "validador": 104,
+  "obs": ""
+ },
+ "c0421": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0422": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": "Cebolinha tem 5 fios na versão clássica"
+ },
+ "c0423": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": ""
+ },
+ "c0424": {
+  "status": "ok",
+  "autor": 1928,
+  "validador": 1928,
+  "obs": ""
+ },
+ "c0425": {
+  "status": "ok",
+  "autor": 1927,
+  "validador": 1927,
+  "obs": ""
+ },
+ "c0426": {
+  "status": "ok",
+  "autor": 1605,
+  "validador": 1605,
+  "obs": ""
+ },
+ "c0427": {
+  "status": "ok",
+  "autor": 1937,
+  "validador": 1937,
+  "obs": ""
+ },
+ "c0428": {
+  "status": "ok",
+  "autor": 1964,
+  "validador": 1964,
+  "obs": ""
+ },
+ "c0429": {
+  "status": "ok",
+  "autor": 1982,
+  "validador": 1982,
+  "obs": ""
+ },
+ "c0430": {
+  "status": "ok",
+  "autor": 1928,
+  "validador": 1928,
+  "obs": ""
+ },
+ "c0431": {
+  "status": "ok",
+  "autor": 1937,
+  "validador": 1937,
+  "obs": ""
+ },
+ "c0432": {
+  "status": "ok",
+  "autor": 1893,
+  "validador": 1893,
+  "obs": ""
+ },
+ "c0433": {
+  "status": "ok",
+  "autor": 1977,
+  "validador": 1977,
+  "obs": ""
+ },
+ "c0434": {
+  "status": "ok",
+  "autor": 1950,
+  "validador": 1950,
+  "obs": ""
+ },
+ "c0435": {
+  "status": "ok",
+  "autor": 1955,
+  "validador": 1955,
+  "obs": ""
+ },
+ "c0436": {
+  "status": "ok",
+  "autor": 1975,
+  "validador": 1975,
+  "obs": ""
+ },
+ "c0437": {
+  "status": "ok",
+  "autor": 1793,
+  "validador": 1793,
+  "obs": ""
+ },
+ "c0438": {
+  "status": "ok",
+  "autor": 1899,
+  "validador": 1899,
+  "obs": ""
+ },
+ "c0439": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0440": {
+  "status": "ok",
+  "autor": 149.6,
+  "validador": 149.6,
+  "obs": ""
+ },
+ "c0441": {
+  "status": "ok",
+  "autor": 384400,
+  "validador": 384400,
+  "obs": ""
+ },
+ "c0442": {
+  "status": "ok",
+  "autor": 12756,
+  "validador": 12756,
+  "obs": ""
+ },
+ "c0443": {
+  "status": "ok",
+  "autor": 1969,
+  "validador": 1969,
+  "obs": ""
+ },
+ "c0444": {
+  "status": "ok",
+  "autor": 1957,
+  "validador": 1957,
+  "obs": ""
+ },
+ "c0445": {
+  "status": "ok",
+  "autor": 1961,
+  "validador": 1961,
+  "obs": ""
+ },
+ "c0446": {
+  "status": "ok",
+  "autor": 1990,
+  "validador": 1990,
+  "obs": ""
+ },
+ "c0447": {
+  "status": "ok",
+  "autor": 1977,
+  "validador": 1977,
+  "obs": ""
+ },
+ "c0448": {
+  "status": "ok",
+  "autor": 2006,
+  "validador": 2006,
+  "obs": ""
+ },
+ "c0449": {
+  "status": "ok",
+  "autor": 2015,
+  "validador": 2015,
+  "obs": ""
+ },
+ "c0450": {
+  "status": "ok",
+  "autor": 1915,
+  "validador": 1915,
+  "obs": ""
+ },
+ "c0451": {
+  "status": "ambigua",
+  "autor": 299792,
+  "validador": 299792,
+  "obs": "299792 km/s exato; 300000 se arredondado grosso"
+ },
+ "c0452": {
+  "status": "ok",
+  "autor": 343,
+  "validador": 343,
+  "obs": ""
+ },
+ "c0453": {
+  "status": "ok",
+  "autor": 1538,
+  "validador": 1538,
+  "obs": ""
+ },
+ "c0454": {
+  "status": "ok",
+  "autor": 3422,
+  "validador": 3422,
+  "obs": ""
+ },
+ "c0455": {
+  "status": "ambigua",
+  "autor": 464,
+  "validador": 464,
+  "obs": "Valores 464-467 °C"
+ },
+ "c0456": {
+  "status": "ok",
+  "autor": 79,
+  "validador": 79,
+  "obs": ""
+ },
+ "c0457": {
+  "status": "ok",
+  "autor": 26,
+  "validador": 26,
+  "obs": ""
+ },
+ "c0458": {
+  "status": "ok",
+  "autor": 92,
+  "validador": 92,
+  "obs": ""
+ },
+ "c0459": {
+  "status": "ok",
+  "autor": 47,
+  "validador": 47,
+  "obs": ""
+ },
+ "c0460": {
+  "status": "ok",
+  "autor": 82,
+  "validador": 82,
+  "obs": ""
+ },
+ "c0461": {
+  "status": "ok",
+  "autor": 29,
+  "validador": 29,
+  "obs": ""
+ },
+ "c0462": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0463": {
+  "status": "ok",
+  "autor": 80,
+  "validador": 80,
+  "obs": ""
+ },
+ "c0464": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": ""
+ },
+ "c0465": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0466": {
+  "status": "ok",
+  "autor": 19,
+  "validador": 19,
+  "obs": ""
+ },
+ "c0467": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0468": {
+  "status": "ok",
+  "autor": 30,
+  "validador": 30,
+  "obs": ""
+ },
+ "c0469": {
+  "status": "ok",
+  "autor": 17,
+  "validador": 17,
+  "obs": ""
+ },
+ "c0470": {
+  "status": "ok",
+  "autor": 118,
+  "validador": 118,
+  "obs": ""
+ },
+ "c0471": {
+  "status": "ok",
+  "autor": 9.81,
+  "validador": 9.8,
+  "obs": ""
+ },
+ "c0472": {
+  "status": "ok",
+  "autor": 1.62,
+  "validador": 1.62,
+  "obs": ""
+ },
+ "c0473": {
+  "status": "ok",
+  "autor": 3.71,
+  "validador": 3.71,
+  "obs": ""
+ },
+ "c0474": {
+  "status": "ok",
+  "autor": 243,
+  "validador": 243,
+  "obs": ""
+ },
+ "c0475": {
+  "status": "ok",
+  "autor": 687,
+  "validador": 687,
+  "obs": ""
+ },
+ "c0476": {
+  "status": "ok",
+  "autor": 88,
+  "validador": 88,
+  "obs": ""
+ },
+ "c0477": {
+  "status": "ok",
+  "autor": 165,
+  "validador": 165,
+  "obs": ""
+ },
+ "c0478": {
+  "status": "ok",
+  "autor": 248,
+  "validador": 248,
+  "obs": ""
+ },
+ "c0479": {
+  "status": "ok",
+  "autor": 142984,
+  "validador": 142984,
+  "obs": ""
+ },
+ "c0480": {
+  "status": "ok",
+  "autor": 1.39,
+  "validador": 1.39,
+  "obs": "1,3927 milhões km"
+ },
+ "c0481": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": ""
+ },
+ "c0482": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0483": {
+  "status": "ambigua",
+  "autor": 21.9,
+  "validador": 22,
+  "obs": "21,9 km (22), alguns citam 25"
+ },
+ "c0484": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0485": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0486": {
+  "status": "ok",
+  "autor": 108,
+  "validador": 108,
+  "obs": ""
+ },
+ "c0487": {
+  "status": "ambigua",
+  "autor": 437,
+  "validador": 437.75,
+  "obs": "437 d 18 h = 437,75 (~438)"
+ },
+ "c0488": {
+  "status": "ok",
+  "autor": 8.3,
+  "validador": 8.3,
+  "obs": ""
+ },
+ "c0489": {
+  "status": "ok",
+  "autor": 4.24,
+  "validador": 4.24,
+  "obs": ""
+ },
+ "c0490": {
+  "status": "ambigua",
+  "autor": 15,
+  "validador": 15,
+  "obs": "15 a 15,7 milhões"
+ },
+ "c0491": {
+  "status": "ok",
+  "autor": 5500,
+  "validador": 5500,
+  "obs": ""
+ },
+ "c0492": {
+  "status": "ok",
+  "autor": 13.8,
+  "validador": 13.8,
+  "obs": ""
+ },
+ "c0493": {
+  "status": "ok",
+  "autor": 4.54,
+  "validador": 4.54,
+  "obs": ""
+ },
+ "c0494": {
+  "status": "ok",
+  "autor": 29.5,
+  "validador": 29.5,
+  "obs": ""
+ },
+ "c0495": {
+  "status": "ambigua",
+  "autor": 1674,
+  "validador": 1670,
+  "obs": "1670-1674 km/h"
+ },
+ "c0496": {
+  "status": "ok",
+  "autor": 29.8,
+  "validador": 29.78,
+  "obs": ""
+ },
+ "c0497": {
+  "status": "ok",
+  "autor": 11.2,
+  "validador": 11.19,
+  "obs": ""
+ },
+ "c0498": {
+  "status": "ok",
+  "autor": 6371,
+  "validador": 6371,
+  "obs": ""
+ },
+ "c0499": {
+  "status": "ok",
+  "autor": 40075,
+  "validador": 40075,
+  "obs": ""
+ },
+ "c0500": {
+  "status": "ok",
+  "autor": 71,
+  "validador": 71,
+  "obs": ""
+ },
+ "c0501": {
+  "status": "ambigua",
+  "autor": 127,
+  "validador": 127,
+  "obs": "Max diurno ~127C (NASA); outras fontes ~120-123C"
+ },
+ "c0502": {
+  "status": "ok",
+  "autor": 430,
+  "validador": 430,
+  "obs": "~430C (NASA); 427-430"
+ },
+ "c0503": {
+  "status": "ok",
+  "autor": 88,
+  "validador": 88,
+  "obs": ""
+ },
+ "c0504": {
+  "status": "ok",
+  "autor": 135,
+  "validador": 135,
+  "obs": ""
+ },
+ "c0505": {
+  "status": "ok",
+  "autor": 24.6,
+  "validador": 24.6,
+  "obs": "24h37min = 24.6"
+ },
+ "c0506": {
+  "status": "ok",
+  "autor": 9.9,
+  "validador": 9.9,
+  "obs": ""
+ },
+ "c0507": {
+  "status": "ok",
+  "autor": 2377,
+  "validador": 2376,
+  "obs": ""
+ },
+ "c0508": {
+  "status": "ok",
+  "autor": 3475,
+  "validador": 3475,
+  "obs": ""
+ },
+ "c0509": {
+  "status": "ok",
+  "autor": 5268,
+  "validador": 5268,
+  "obs": ""
+ },
+ "c0510": {
+  "status": "ok",
+  "autor": 98,
+  "validador": 98,
+  "obs": "97.77 arredondado 98"
+ },
+ "c0511": {
+  "status": "ok",
+  "autor": 35786,
+  "validador": 35786,
+  "obs": ""
+ },
+ "c0512": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c0513": {
+  "status": "ambigua",
+  "autor": 333000,
+  "validador": 333000,
+  "obs": "332.946 arredondado 333000"
+ },
+ "c0514": {
+  "status": "ok",
+  "autor": 2.718,
+  "validador": 2.718,
+  "obs": ""
+ },
+ "c0515": {
+  "status": "ok",
+  "autor": 1.618,
+  "validador": 1.618,
+  "obs": ""
+ },
+ "c0516": {
+  "status": "ok",
+  "autor": 1.414,
+  "validador": 1.414,
+  "obs": ""
+ },
+ "c0517": {
+  "status": "ok",
+  "autor": 5050,
+  "validador": 5050,
+  "obs": ""
+ },
+ "c0518": {
+  "status": "ok",
+  "autor": 3628800,
+  "validador": 3628800,
+  "obs": ""
+ },
+ "c0519": {
+  "status": "ok",
+  "autor": 1048576,
+  "validador": 1048576,
+  "obs": ""
+ },
+ "c0520": {
+  "status": "ok",
+  "autor": 4294967296,
+  "validador": 4294967296,
+  "obs": ""
+ },
+ "c0521": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c0522": {
+  "status": "ok",
+  "autor": 168,
+  "validador": 168,
+  "obs": ""
+ },
+ "c0523": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c0524": {
+  "status": "ok",
+  "autor": 6765,
+  "validador": 6765,
+  "obs": ""
+ },
+ "c0525": {
+  "status": "ok",
+  "autor": 28,
+  "validador": 28,
+  "obs": ""
+ },
+ "c0526": {
+  "status": "ok",
+  "autor": 496,
+  "validador": 496,
+  "obs": ""
+ },
+ "c0527": {
+  "status": "ok",
+  "autor": 35,
+  "validador": 35,
+  "obs": ""
+ },
+ "c0528": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0529": {
+  "status": "ok",
+  "autor": 1729,
+  "validador": 1729,
+  "obs": ""
+ },
+ "c0530": {
+  "status": "ok",
+  "autor": 666,
+  "validador": 666,
+  "obs": ""
+ },
+ "c0531": {
+  "status": "ok",
+  "autor": 86400,
+  "validador": 86400,
+  "obs": ""
+ },
+ "c0532": {
+  "status": "ok",
+  "autor": 31536000,
+  "validador": 31536000,
+  "obs": ""
+ },
+ "c0533": {
+  "status": "ok",
+  "autor": 760,
+  "validador": 760,
+  "obs": ""
+ },
+ "c0534": {
+  "status": "ok",
+  "autor": 19.3,
+  "validador": 19.3,
+  "obs": ""
+ },
+ "c0535": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0536": {
+  "status": "ok",
+  "autor": 327,
+  "validador": 327,
+  "obs": "327.46C"
+ },
+ "c0537": {
+  "status": "ok",
+  "autor": 660,
+  "validador": 660,
+  "obs": ""
+ },
+ "c0538": {
+  "status": "ok",
+  "autor": 440,
+  "validador": 440,
+  "obs": ""
+ },
+ "c0539": {
+  "status": "ok",
+  "autor": 20000,
+  "validador": 20000,
+  "obs": ""
+ },
+ "c0540": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0541": {
+  "status": "ok",
+  "autor": 9.46,
+  "validador": 9.46,
+  "obs": ""
+ },
+ "c0542": {
+  "status": "ok",
+  "autor": 172,
+  "validador": 172,
+  "obs": ""
+ },
+ "c0543": {
+  "status": "ok",
+  "autor": 171,
+  "validador": 171,
+  "obs": ""
+ },
+ "c0544": {
+  "status": "ok",
+  "autor": 140,
+  "validador": 140,
+  "obs": ""
+ },
+ "c0545": {
+  "status": "ok",
+  "autor": 16,
+  "validador": 16,
+  "obs": ""
+ },
+ "c0546": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": ""
+ },
+ "c0547": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0548": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": ""
+ },
+ "c0549": {
+  "status": "ok",
+  "autor": 17,
+  "validador": 17,
+  "obs": "17 anos e 249 dias"
+ },
+ "c0550": {
+  "status": "ok",
+  "autor": 48,
+  "validador": 48,
+  "obs": ""
+ },
+ "c0551": {
+  "status": "ok",
+  "autor": 104,
+  "validador": 104,
+  "obs": ""
+ },
+ "c0552": {
+  "status": "ok",
+  "autor": 64,
+  "validador": 64,
+  "obs": ""
+ },
+ "c0553": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0554": {
+  "status": "ok",
+  "autor": 88966,
+  "validador": 88966,
+  "obs": ""
+ },
+ "c0555": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0556": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0557": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0558": {
+  "status": "ok",
+  "autor": 17,
+  "validador": 17,
+  "obs": ""
+ },
+ "c0559": {
+  "status": "ok",
+  "autor": 23,
+  "validador": 23,
+  "obs": ""
+ },
+ "c0560": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0561": {
+  "status": "ambigua",
+  "autor": 8,
+  "validador": 8,
+  "obs": "9 originalmente, 8 após perda de ouro em 2017"
+ },
+ "c0562": {
+  "status": "ok",
+  "autor": 9.58,
+  "validador": 9.58,
+  "obs": ""
+ },
+ "c0563": {
+  "status": "ok",
+  "autor": 19.19,
+  "validador": 19.19,
+  "obs": ""
+ },
+ "c0564": {
+  "status": "ok",
+  "autor": 42.195,
+  "validador": 42.195,
+  "obs": ""
+ },
+ "c0565": {
+  "status": "ok",
+  "autor": 2.45,
+  "validador": 2.45,
+  "obs": ""
+ },
+ "c0566": {
+  "status": "ok",
+  "autor": 8.95,
+  "validador": 8.95,
+  "obs": ""
+ },
+ "c0567": {
+  "status": "ok",
+  "autor": 23.12,
+  "validador": 23.12,
+  "obs": ""
+ },
+ "c0568": {
+  "status": "ok",
+  "autor": 86.74,
+  "validador": 86.74,
+  "obs": ""
+ },
+ "c0569": {
+  "status": "ok",
+  "autor": 43.03,
+  "validador": 43.03,
+  "obs": ""
+ },
+ "c0570": {
+  "status": "ok",
+  "autor": 100.91,
+  "validador": 100.91,
+  "obs": ""
+ },
+ "c0571": {
+  "status": "ok",
+  "autor": 206,
+  "validador": 206,
+  "obs": ""
+ },
+ "c0572": {
+  "status": "ok",
+  "autor": 10.49,
+  "validador": 10.49,
+  "obs": ""
+ },
+ "c0573": {
+  "status": "ok",
+  "autor": 20.91,
+  "validador": 20.91,
+  "obs": ""
+ },
+ "c0574": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": ""
+ },
+ "c0575": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0576": {
+  "status": "ok",
+  "autor": 21,
+  "validador": 21,
+  "obs": ""
+ },
+ "c0577": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0578": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0579": {
+  "status": "ok",
+  "autor": 7.04,
+  "validador": 7.04,
+  "obs": ""
+ },
+ "c0580": {
+  "status": "ok",
+  "autor": 6.03,
+  "validador": 6.03,
+  "obs": ""
+ },
+ "c0581": {
+  "status": "ok",
+  "autor": 1093,
+  "validador": 1093,
+  "obs": ""
+ },
+ "c0582": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0583": {
+  "status": "ok",
+  "autor": 105,
+  "validador": 105,
+  "obs": ""
+ },
+ "c0584": {
+  "status": "ok",
+  "autor": 91,
+  "validador": 91,
+  "obs": ""
+ },
+ "c0585": {
+  "status": "ok",
+  "autor": 41,
+  "validador": 41,
+  "obs": ""
+ },
+ "c0586": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0587": {
+  "status": "ok",
+  "autor": 71,
+  "validador": 71,
+  "obs": ""
+ },
+ "c0588": {
+  "status": "ok",
+  "autor": 7.004,
+  "validador": 7.004,
+  "obs": ""
+ },
+ "c0589": {
+  "status": "ok",
+  "autor": 1.8,
+  "validador": 1.8,
+  "obs": "1.80s McLaren Catar 2023"
+ },
+ "c0590": {
+  "status": "ok",
+  "autor": 19,
+  "validador": 19,
+  "obs": ""
+ },
+ "c0591": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c0592": {
+  "status": "ok",
+  "autor": 34,
+  "validador": 34,
+  "obs": ""
+ },
+ "c0593": {
+  "status": "ok",
+  "autor": 24,
+  "validador": 24,
+  "obs": ""
+ },
+ "c0594": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0595": {
+  "status": "ok",
+  "autor": 22,
+  "validador": 22,
+  "obs": ""
+ },
+ "c0596": {
+  "status": "ok",
+  "autor": 23,
+  "validador": 23,
+  "obs": ""
+ },
+ "c0597": {
+  "status": "ok",
+  "autor": 24,
+  "validador": 24,
+  "obs": ""
+ },
+ "c0598": {
+  "status": "ok",
+  "autor": 665,
+  "validador": 665,
+  "obs": ""
+ },
+ "c0599": {
+  "status": "ok",
+  "autor": 183,
+  "validador": 183,
+  "obs": ""
+ },
+ "c0600": {
+  "status": "ok",
+  "autor": 23.77,
+  "validador": 23.77,
+  "obs": ""
+ },
+ "c0601": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c0602": {
+  "status": "ok",
+  "autor": 81,
+  "validador": 81,
+  "obs": ""
+ },
+ "c0603": {
+  "status": "ok",
+  "autor": 38387,
+  "validador": 38387,
+  "obs": ""
+ },
+ "c0604": {
+  "status": "ok",
+  "autor": 3.05,
+  "validador": 3.05,
+  "obs": ""
+ },
+ "c0605": {
+  "status": "ok",
+  "autor": 82,
+  "validador": 82,
+  "obs": ""
+ },
+ "c0606": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0607": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0608": {
+  "status": "ok",
+  "autor": 402,
+  "validador": 402,
+  "obs": ""
+ },
+ "c0609": {
+  "status": "ok",
+  "autor": 2.16,
+  "validador": 2.16,
+  "obs": ""
+ },
+ "c0610": {
+  "status": "ok",
+  "autor": 2.43,
+  "validador": 2.43,
+  "obs": ""
+ },
+ "c0611": {
+  "status": "ok",
+  "autor": 18,
+  "validador": 18,
+  "obs": ""
+ },
+ "c0612": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0613": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0614": {
+  "status": "ok",
+  "autor": 7.32,
+  "validador": 7.32,
+  "obs": ""
+ },
+ "c0615": {
+  "status": "ok",
+  "autor": 2.44,
+  "validador": 2.44,
+  "obs": ""
+ },
+ "c0616": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": ""
+ },
+ "c0617": {
+  "status": "ambigua",
+  "autor": 105,
+  "validador": 105,
+  "obs": "Regras: 100-110 m em jogos internacionais; 105 m é o padrão recomendado FIFA."
+ },
+ "c0618": {
+  "status": "ambigua",
+  "autor": 643,
+  "validador": 643,
+  "obs": "643 gols oficiais pelo Santos (recorde Guinness por um clube); contagens com amistosos dão ~1.091."
+ },
+ "c0619": {
+  "status": "ok",
+  "autor": 131,
+  "validador": 131,
+  "obs": ""
+ },
+ "c0620": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0621": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": ""
+ },
+ "c0622": {
+  "status": "ok",
+  "autor": 82,
+  "validador": 82,
+  "obs": ""
+ },
+ "c0623": {
+  "status": "ok",
+  "autor": 10.8,
+  "validador": 10.8,
+  "obs": ""
+ },
+ "c0624": {
+  "status": "ok",
+  "autor": 180,
+  "validador": 180,
+  "obs": ""
+ },
+ "c0625": {
+  "status": "ok",
+  "autor": 2632,
+  "validador": 2632,
+  "obs": ""
+ },
+ "c0626": {
+  "status": "ok",
+  "autor": 73,
+  "validador": 73,
+  "obs": ""
+ },
+ "c0627": {
+  "status": "ok",
+  "autor": 894,
+  "validador": 894,
+  "obs": ""
+ },
+ "c0628": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": ""
+ },
+ "c0629": {
+  "status": "ok",
+  "autor": 1930,
+  "validador": 1930,
+  "obs": ""
+ },
+ "c0630": {
+  "status": "ok",
+  "autor": 1950,
+  "validador": 1950,
+  "obs": ""
+ },
+ "c0631": {
+  "status": "ok",
+  "autor": 1958,
+  "validador": 1958,
+  "obs": ""
+ },
+ "c0632": {
+  "status": "ok",
+  "autor": 1970,
+  "validador": 1970,
+  "obs": ""
+ },
+ "c0633": {
+  "status": "ok",
+  "autor": 1994,
+  "validador": 1994,
+  "obs": ""
+ },
+ "c0634": {
+  "status": "ok",
+  "autor": 1896,
+  "validador": 1896,
+  "obs": ""
+ },
+ "c0635": {
+  "status": "ok",
+  "autor": 1920,
+  "validador": 1920,
+  "obs": ""
+ },
+ "c0636": {
+  "status": "ok",
+  "autor": 1954,
+  "validador": 1954,
+  "obs": ""
+ },
+ "c0637": {
+  "status": "ok",
+  "autor": 1950,
+  "validador": 1950,
+  "obs": ""
+ },
+ "c0638": {
+  "status": "ok",
+  "autor": 1976,
+  "validador": 1976,
+  "obs": ""
+ },
+ "c0639": {
+  "status": "ok",
+  "autor": 1992,
+  "validador": 1992,
+  "obs": ""
+ },
+ "c0640": {
+  "status": "ok",
+  "autor": 1968,
+  "validador": 1968,
+  "obs": ""
+ },
+ "c0641": {
+  "status": "ok",
+  "autor": 2002,
+  "validador": 2002,
+  "obs": ""
+ },
+ "c0642": {
+  "status": "ok",
+  "autor": 2016,
+  "validador": 2016,
+  "obs": ""
+ },
+ "c0643": {
+  "status": "ok",
+  "autor": 1969,
+  "validador": 1969,
+  "obs": ""
+ },
+ "c0644": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": ""
+ },
+ "c0645": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0646": {
+  "status": "ok",
+  "autor": 14,
+  "validador": 14,
+  "obs": ""
+ },
+ "c0647": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0648": {
+  "status": "ok",
+  "autor": 24,
+  "validador": 24,
+  "obs": ""
+ },
+ "c0649": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0650": {
+  "status": "ok",
+  "autor": 2.24,
+  "validador": 2.24,
+  "obs": ""
+ },
+ "c0651": {
+  "status": "divergente",
+  "autor": 3,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0652": {
+  "status": "ambigua",
+  "autor": 8849,
+  "validador": 8849,
+  "obs": "8.848 m (valor tradicional/China 2005 rocha) vs 8.848,86 (2020) vs 8.849."
+ },
+ "c0653": {
+  "status": "ok",
+  "autor": 8611,
+  "validador": 8611,
+  "obs": ""
+ },
+ "c0654": {
+  "status": "ok",
+  "autor": 5895,
+  "validador": 5895,
+  "obs": ""
+ },
+ "c0655": {
+  "status": "ok",
+  "autor": 3776,
+  "validador": 3776,
+  "obs": ""
+ },
+ "c0656": {
+  "status": "ambigua",
+  "autor": 6961,
+  "validador": 6961,
+  "obs": "6.960,8 m (valor atual); 6.962 em fontes antigas."
+ },
+ "c0657": {
+  "status": "ok",
+  "autor": 5642,
+  "validador": 5642,
+  "obs": ""
+ },
+ "c0658": {
+  "status": "ok",
+  "autor": 6190,
+  "validador": 6190,
+  "obs": ""
+ },
+ "c0659": {
+  "status": "ok",
+  "autor": 4478,
+  "validador": 4478,
+  "obs": ""
+ },
+ "c0660": {
+  "status": "ambigua",
+  "autor": 2917,
+  "validador": 2918,
+  "obs": "2.917-2.918 m."
+ },
+ "c0661": {
+  "status": "ok",
+  "autor": 2228,
+  "validador": 2228,
+  "obs": ""
+ },
+ "c0662": {
+  "status": "ok",
+  "autor": 4892,
+  "validador": 4892,
+  "obs": ""
+ },
+ "c0663": {
+  "status": "ambigua",
+  "autor": 6263,
+  "validador": 6263,
+  "obs": "6.263 m (algumas fontes 6.268)."
+ },
+ "c0664": {
+  "status": "ambigua",
+  "autor": 4207,
+  "validador": 4207,
+  "obs": "4.205-4.207 m."
+ },
+ "c0665": {
+  "status": "ok",
+  "autor": 1281,
+  "validador": 1281,
+  "obs": ""
+ },
+ "c0666": {
+  "status": "ok",
+  "autor": 2810,
+  "validador": 2810,
+  "obs": ""
+ },
+ "c0667": {
+  "status": "ok",
+  "autor": 348,
+  "validador": 348,
+  "obs": ""
+ },
+ "c0668": {
+  "status": "ambigua",
+  "autor": 4884,
+  "validador": 4884,
+  "obs": "4.884 m (4.886 em fontes antigas)."
+ },
+ "c0669": {
+  "status": "ok",
+  "autor": 979,
+  "validador": 979,
+  "obs": ""
+ },
+ "c0670": {
+  "status": "ok",
+  "autor": 1642,
+  "validador": 1642,
+  "obs": ""
+ },
+ "c0671": {
+  "status": "ok",
+  "autor": 108,
+  "validador": 108,
+  "obs": ""
+ },
+ "c0672": {
+  "status": "ambigua",
+  "autor": 1857,
+  "validador": 1857,
+  "obs": "1.857 m (6.093 pés) vs 1.829 m (6.000 pés)."
+ },
+ "c0673": {
+  "status": "ambigua",
+  "autor": 3812,
+  "validador": 3812,
+  "obs": "3.810-3.812 m."
+ },
+ "c0674": {
+  "status": "ok",
+  "autor": 124,
+  "validador": 124,
+  "obs": ""
+ },
+ "c0675": {
+  "status": "ok",
+  "autor": 214,
+  "validador": 214,
+  "obs": ""
+ },
+ "c0676": {
+  "status": "ok",
+  "autor": 82,
+  "validador": 82.1,
+  "obs": ""
+ },
+ "c0677": {
+  "status": "ok",
+  "autor": 371,
+  "validador": 371,
+  "obs": ""
+ },
+ "c0678": {
+  "status": "ambigua",
+  "autor": 34,
+  "validador": 34,
+  "obs": "~33,7%; varia 30-34%."
+ },
+ "c0679": {
+  "status": "ok",
+  "autor": 35,
+  "validador": 35,
+  "obs": ""
+ },
+ "c0680": {
+  "status": "ok",
+  "autor": 17.1,
+  "validador": 17.1,
+  "obs": ""
+ },
+ "c0681": {
+  "status": "ok",
+  "autor": 9.98,
+  "validador": 9.98,
+  "obs": ""
+ },
+ "c0682": {
+  "status": "ok",
+  "autor": 7.69,
+  "validador": 7.69,
+  "obs": ""
+ },
+ "c0683": {
+  "status": "ambigua",
+  "autor": 14.2,
+  "validador": 14.2,
+  "obs": "14,0 a 14,2 milhões km² conforme inclua plataformas de gelo."
+ },
+ "c0684": {
+  "status": "ok",
+  "autor": 9.2,
+  "validador": 9.2,
+  "obs": ""
+ },
+ "c0685": {
+  "status": "ambigua",
+  "autor": 165,
+  "validador": 165,
+  "obs": "165,25 (comum) a 168 milhões km² conforme fonte."
+ },
+ "c0686": {
+  "status": "ok",
+  "autor": 2166,
+  "validador": 2166,
+  "obs": ""
+ },
+ "c0687": {
+  "status": "ok",
+  "autor": 103,
+  "validador": 103,
+  "obs": ""
+ },
+ "c0688": {
+  "status": "ok",
+  "autor": 587,
+  "validador": 587,
+  "obs": ""
+ },
+ "c0689": {
+  "status": "ok",
+  "autor": 743,
+  "validador": 743,
+  "obs": ""
+ },
+ "c0690": {
+  "status": "ok",
+  "autor": 2.02,
+  "validador": 2.02,
+  "obs": ""
+ },
+ "c0691": {
+  "status": "ok",
+  "autor": 21,
+  "validador": 21,
+  "obs": ""
+ },
+ "c0692": {
+  "status": "ok",
+  "autor": 10582,
+  "validador": 10582,
+  "obs": ""
+ },
+ "c0693": {
+  "status": "ambigua",
+  "autor": 2300,
+  "validador": 2300,
+  "obs": "2.300 km (GBRMPA); algumas fontes 2.400 km."
+ },
+ "c0694": {
+  "status": "ambigua",
+  "autor": 7000,
+  "validador": 7000,
+  "obs": "Andes: 7.000 km (Britannica); algumas fontes 8.900 km"
+ },
+ "c0695": {
+  "status": "ok",
+  "autor": 82,
+  "validador": 82,
+  "obs": "80-82 km"
+ },
+ "c0696": {
+  "status": "ok",
+  "autor": 193,
+  "validador": 193,
+  "obs": ""
+ },
+ "c0697": {
+  "status": "ok",
+  "autor": 14,
+  "validador": 14,
+  "obs": "14,3 km no ponto mais estreito"
+ },
+ "c0698": {
+  "status": "ok",
+  "autor": 33,
+  "validador": 33,
+  "obs": "33,3 km"
+ },
+ "c0699": {
+  "status": "ok",
+  "autor": 10002,
+  "validador": 10002,
+  "obs": "~10.002 km"
+ },
+ "c0700": {
+  "status": "ok",
+  "autor": 40075,
+  "validador": 40075,
+  "obs": ""
+ },
+ "c0701": {
+  "status": "ok",
+  "autor": 6371,
+  "validador": 6371,
+  "obs": ""
+ },
+ "c0702": {
+  "status": "ambigua",
+  "autor": 5,
+  "validador": 5,
+  "obs": "5 (Pacífico, Atlântico, Índico, Ártico, Austral) ou 4 no modelo tradicional"
+ },
+ "c0703": {
+  "status": "divergente",
+  "autor": 7,
+  "validador": 6,
+  "obs": "6 no Brasil (América, África, Ásia, Europa, Oceania, Antártida); 7 no modelo anglófono"
+ },
+ "c0704": {
+  "status": "ok",
+  "autor": 193,
+  "validador": 193,
+  "obs": "193 Estados-membros"
+ },
+ "c0705": {
+  "status": "ambigua",
+  "autor": 54,
+  "validador": 54,
+  "obs": "UA tem 55 membros (inclui Saara Ocidental, não membro da ONU); 54 são membros da ONU"
+ },
+ "c0706": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": ""
+ },
+ "c0707": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": "13 se contar Guiana Francesa"
+ },
+ "c0708": {
+  "status": "ok",
+  "autor": 11,
+  "validador": 11,
+  "obs": "11 desde 2014"
+ },
+ "c0709": {
+  "status": "ok",
+  "autor": 7641,
+  "validador": 7641,
+  "obs": "7.641 ilhas"
+ },
+ "c0710": {
+  "status": "ambigua",
+  "autor": 14,
+  "validador": 14,
+  "obs": "14 (16 contando Abecásia e Ossétia do Sul)"
+ },
+ "c0711": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": ""
+ },
+ "c0712": {
+  "status": "ok",
+  "autor": 28,
+  "validador": 28,
+  "obs": "28 estados e 8 territórios da União"
+ },
+ "c0713": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": ""
+ },
+ "c0714": {
+  "status": "ok",
+  "autor": 26,
+  "validador": 26,
+  "obs": "26 cantões (6 meios-cantões)"
+ },
+ "c0715": {
+  "status": "ok",
+  "autor": 16,
+  "validador": 16,
+  "obs": ""
+ },
+ "c0716": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0717": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0718": {
+  "status": "ok",
+  "autor": 1,
+  "validador": 1,
+  "obs": "Cinco fusos geográficos, um oficial"
+ },
+ "c0719": {
+  "status": "divergente",
+  "autor": 13,
+  "validador": 11,
+  "obs": "11-13 conforme contagem (Quiribáti, Maldivas, São Tomé)"
+ },
+ "c0720": {
+  "status": "ok",
+  "autor": 9,
+  "validador": 9,
+  "obs": "8 países + Guiana Francesa (território francês)"
+ },
+ "c0721": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": "10 países (alguns citam 4 que fazem fronteira ou 19 na bacia)"
+ },
+ "c0722": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": "escala 0 a 12"
+ },
+ "c0723": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0724": {
+  "status": "ambigua",
+  "autor": 4,
+  "validador": 4,
+  "obs": "4 principais; algumas fontes incluem Okinawa (5)"
+ },
+ "c0725": {
+  "status": "ok",
+  "autor": 71,
+  "validador": 71,
+  "obs": "~71%"
+ },
+ "c0726": {
+  "status": "ok",
+  "autor": 56.7,
+  "validador": 56.7,
+  "obs": ""
+ },
+ "c0727": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": "78,08%"
+ },
+ "c0728": {
+  "status": "ok",
+  "autor": 21,
+  "validador": 21,
+  "obs": "20,95%"
+ },
+ "c0729": {
+  "status": "ok",
+  "autor": 2.5,
+  "validador": 2.5,
+  "obs": "~2,5-3%"
+ },
+ "c0730": {
+  "status": "ok",
+  "autor": 408,
+  "validador": 408,
+  "obs": "408 km/h"
+ },
+ "c0731": {
+  "status": "ok",
+  "autor": 30000,
+  "validador": 30000,
+  "obs": "cerca de 5x a superfície do Sol"
+ },
+ "c0732": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c0733": {
+  "status": "ok",
+  "autor": 4.54,
+  "validador": 4.54,
+  "obs": "4,54 bilhões"
+ },
+ "c0734": {
+  "status": "ok",
+  "autor": 5.5,
+  "validador": 5.5,
+  "obs": ""
+ },
+ "c0735": {
+  "status": "ok",
+  "autor": 23.4,
+  "validador": 23.4,
+  "obs": ""
+ },
+ "c0736": {
+  "status": "ok",
+  "autor": 252,
+  "validador": 252,
+  "obs": ""
+ },
+ "c0737": {
+  "status": "ok",
+  "autor": 9.5,
+  "validador": 9.5,
+  "obs": "9,4-9,6"
+ },
+ "c0738": {
+  "status": "ambigua",
+  "autor": 3640,
+  "validador": 3640,
+  "obs": "Varia 3.200-4.100 m; cidade em ~3.640 m (El Alto 4.150)"
+ },
+ "c0739": {
+  "status": "ok",
+  "autor": 116,
+  "validador": 116,
+  "obs": "115,92 m"
+ },
+ "c0740": {
+  "status": "ok",
+  "autor": 91,
+  "validador": 91,
+  "obs": "91 cm em 24 h"
+ },
+ "c0741": {
+  "status": "ok",
+  "autor": 1883,
+  "validador": 1883,
+  "obs": ""
+ },
+ "c0742": {
+  "status": "ok",
+  "autor": 79,
+  "validador": 79,
+  "obs": "79 d.C. (alguns cogitam outubro)"
+ },
+ "c0743": {
+  "status": "ok",
+  "autor": 1815,
+  "validador": 1815,
+  "obs": ""
+ },
+ "c0744": {
+  "status": "ok",
+  "autor": 1755,
+  "validador": 1755,
+  "obs": ""
+ },
+ "c0745": {
+  "status": "ok",
+  "autor": 1960,
+  "validador": 1960,
+  "obs": ""
+ },
+ "c0746": {
+  "status": "ok",
+  "autor": 2004,
+  "validador": 2004,
+  "obs": ""
+ },
+ "c0747": {
+  "status": "ok",
+  "autor": 2005,
+  "validador": 2005,
+  "obs": ""
+ },
+ "c0748": {
+  "status": "ok",
+  "autor": 1911,
+  "validador": 1911,
+  "obs": "14 dez 1911"
+ },
+ "c0749": {
+  "status": "ok",
+  "autor": 1953,
+  "validador": 1953,
+  "obs": ""
+ },
+ "c0750": {
+  "status": "ok",
+  "autor": 1707,
+  "validador": 1707,
+  "obs": "Erupção Hoei"
+ },
+ "c0751": {
+  "status": "ok",
+  "autor": 2011,
+  "validador": 2011,
+  "obs": ""
+ },
+ "c0752": {
+  "status": "ok",
+  "autor": 1906,
+  "validador": 1906,
+  "obs": ""
+ },
+ "c0753": {
+  "status": "ok",
+  "autor": 1637,
+  "validador": 1637,
+  "obs": "auge em fev. 1637"
+ },
+ "c0754": {
+  "status": "ok",
+  "autor": 1991,
+  "validador": 1991,
+  "obs": ""
+ },
+ "c0755": {
+  "status": "ok",
+  "autor": 1980,
+  "validador": 1980,
+  "obs": ""
+ },
+ "c0756": {
+  "status": "ok",
+  "autor": 1450,
+  "validador": 1450,
+  "obs": ""
+ },
+ "c0757": {
+  "status": "ok",
+  "autor": 124,
+  "validador": 124,
+  "obs": "WPP2022 dava 124,4 p/ 2023; WPP2024 ~123,8"
+ },
+ "c0758": {
+  "status": "ambigua",
+  "autor": 27,
+  "validador": 27,
+  "obs": "~26,7 mi; arredondado 27"
+ },
+ "c0759": {
+  "status": "divergente",
+  "autor": 41,
+  "validador": 40,
+  "obs": "Não confirmei o valor exato do WPP2024; ~40"
+ },
+ "c0760": {
+  "status": "ok",
+  "autor": 116,
+  "validador": 116,
+  "obs": ""
+ },
+ "c0761": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": "jul 1914 a nov 1918 = 4 anos e 3 meses"
+ },
+ "c0762": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": "1939-1945; 6 anos"
+ },
+ "c0763": {
+  "status": "ok",
+  "autor": 63,
+  "validador": 63,
+  "obs": "63 anos e 7 meses"
+ },
+ "c0764": {
+  "status": "ok",
+  "autor": 70,
+  "validador": 70,
+  "obs": "70 anos e 214 dias"
+ },
+ "c0765": {
+  "status": "ok",
+  "autor": 72,
+  "validador": 72,
+  "obs": "72 anos"
+ },
+ "c0766": {
+  "status": "ok",
+  "autor": 51,
+  "validador": 51,
+  "obs": ""
+ },
+ "c0767": {
+  "status": "ok",
+  "autor": 32,
+  "validador": 32,
+  "obs": "quase 33"
+ },
+ "c0768": {
+  "status": "ok",
+  "autor": 56,
+  "validador": 56,
+  "obs": ""
+ },
+ "c0769": {
+  "status": "ok",
+  "autor": 46,
+  "validador": 46,
+  "obs": ""
+ },
+ "c0770": {
+  "status": "ok",
+  "autor": 78,
+  "validador": 78,
+  "obs": ""
+ },
+ "c0771": {
+  "status": "ok",
+  "autor": 39,
+  "validador": 39,
+  "obs": ""
+ },
+ "c0772": {
+  "status": "ok",
+  "autor": 90,
+  "validador": 90,
+  "obs": ""
+ },
+ "c0773": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": "27 anos (18 em Robben Island)"
+ },
+ "c0774": {
+  "status": "ok",
+  "autor": 28,
+  "validador": 28,
+  "obs": "13/8/1961 a 9/11/1989"
+ },
+ "c0775": {
+  "status": "ok",
+  "autor": 160,
+  "validador": 160,
+  "obs": "23h40 a 2h20 = 160 min"
+ },
+ "c0776": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0777": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": "Santa Maria, Pinta e Niña"
+ },
+ "c0778": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0779": {
+  "status": "ok",
+  "autor": 18,
+  "validador": 18,
+  "obs": "18 europeus (e alguns outros)"
+ },
+ "c0780": {
+  "status": "ok",
+  "autor": 302,
+  "validador": 302,
+  "obs": "~300 dias"
+ },
+ "c0781": {
+  "status": "ok",
+  "autor": 872,
+  "validador": 872,
+  "obs": "872 dias (900 comum)"
+ },
+ "c0782": {
+  "status": "ok",
+  "autor": 53,
+  "validador": 53,
+  "obs": "6 abr-29 mai 1453"
+ },
+ "c0783": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": "Utah, Omaha, Gold, Juno, Sword"
+ },
+ "c0784": {
+  "status": "ok",
+  "autor": 38,
+  "validador": 38,
+  "obs": ""
+ },
+ "c0785": {
+  "status": "ok",
+  "autor": 108,
+  "validador": 108,
+  "obs": ""
+ },
+ "c0786": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": ""
+ },
+ "c0787": {
+  "status": "ok",
+  "autor": 53,
+  "validador": 53,
+  "obs": ""
+ },
+ "c0788": {
+  "status": "ok",
+  "autor": 56,
+  "validador": 56,
+  "obs": ""
+ },
+ "c0789": {
+  "status": "ok",
+  "autor": 41,
+  "validador": 41,
+  "obs": "~40-41"
+ },
+ "c0790": {
+  "status": "ok",
+  "autor": 147,
+  "validador": 147,
+  "obs": "146,6 arredondado"
+ },
+ "c0791": {
+  "status": "ok",
+  "autor": 300,
+  "validador": 300,
+  "obs": "mais ~700 téspios e tebanos"
+ },
+ "c0792": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0793": {
+  "status": "divergente",
+  "autor": 37,
+  "validador": 38,
+  "obs": "Reinado 21/04/1509-28/01/1547 = 37 anos e 9 meses (37,8); fontes dizem 37 ou 38"
+ },
+ "c0794": {
+  "status": "ok",
+  "autor": 44,
+  "validador": 44,
+  "obs": "17/11/1558-24/03/1603 = 44 anos e 4 meses"
+ },
+ "c0795": {
+  "status": "ok",
+  "autor": 56,
+  "validador": 56,
+  "obs": ""
+ },
+ "c0796": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": ""
+ },
+ "c0797": {
+  "status": "ok",
+  "autor": 102,
+  "validador": 102,
+  "obs": "102 passageiros (mais tripulacao ~30)"
+ },
+ "c0798": {
+  "status": "ok",
+  "autor": 57,
+  "validador": 57,
+  "obs": "nasceu 22/02/1732, posse 30/04/1789"
+ },
+ "c0799": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0800": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": ""
+ },
+ "c0801": {
+  "status": "ok",
+  "autor": 7.2,
+  "validador": 7.2,
+  "obs": "7,2 milhoes"
+ },
+ "c0802": {
+  "status": "ok",
+  "autor": 24,
+  "validador": 24,
+  "obs": ""
+ },
+ "c0803": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0804": {
+  "status": "ok",
+  "autor": 338,
+  "validador": 338,
+  "obs": "338.226 evacuados"
+ },
+ "c0805": {
+  "status": "ok",
+  "autor": 57,
+  "validador": 57,
+  "obs": "57 noites seguidas (7/9 a 2/11/1940)"
+ },
+ "c0806": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": "16-28/out/1962 (13 dias)"
+ },
+ "c0807": {
+  "status": "ok",
+  "autor": 30,
+  "validador": 30,
+  "obs": ""
+ },
+ "c0808": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": "431-404 a.C."
+ },
+ "c0809": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0810": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0811": {
+  "status": "ok",
+  "autor": 38,
+  "validador": 38,
+  "obs": ""
+ },
+ "c0812": {
+  "status": "ok",
+  "autor": 37,
+  "validador": 37,
+  "obs": ""
+ },
+ "c0813": {
+  "status": "ambigua",
+  "autor": 6,
+  "validador": 6,
+  "obs": "Santa Helena out/1815 a mai/1821: ~5,6 anos; 5 ou 6"
+ },
+ "c0814": {
+  "status": "ambigua",
+  "autor": 5,
+  "validador": 5,
+  "obs": "dez/1831 a out/1836: ~4,8 anos; 'cinco anos' comum"
+ },
+ "c0815": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": "primeiro voo 12 s (59 s o quarto voo)"
+ },
+ "c0816": {
+  "status": "ok",
+  "autor": 33.5,
+  "validador": 33.5,
+  "obs": "33h30"
+ },
+ "c0817": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0818": {
+  "status": "ok",
+  "autor": 269,
+  "validador": 269,
+  "obs": "269,1 m (882 ft 9 in)"
+ },
+ "c0819": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": "100 horas"
+ },
+ "c0820": {
+  "status": "ambigua",
+  "autor": 38,
+  "validador": 38,
+  "obs": "38 min (Wikipedia: 38 a 45 min)"
+ },
+ "c0821": {
+  "status": "ok",
+  "autor": 26,
+  "validador": 26,
+  "obs": "16/10/1978-02/04/2005"
+ },
+ "c0822": {
+  "status": "ok",
+  "autor": 95,
+  "validador": 95,
+  "obs": ""
+ },
+ "c0823": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": "18/12/1863-28/06/1914"
+ },
+ "c0824": {
+  "status": "ambigua",
+  "autor": 24,
+  "validador": 24,
+  "obs": "12/mar a 6/abr/1930; Wikipedia diz 24 dias (alguns contam 25)"
+ },
+ "c0825": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0826": {
+  "status": "ok",
+  "autor": 18,
+  "validador": 18,
+  "obs": ""
+ },
+ "c0827": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": "nasceu 5/9/1638, rei 14/5/1643 (4 anos, quase 5)"
+ },
+ "c0828": {
+  "status": "ok",
+  "autor": 75,
+  "validador": 75,
+  "obs": ""
+ },
+ "c0829": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": "2-6 set 1666 (alguns dizem 5 dias)"
+ },
+ "c0830": {
+  "status": "ok",
+  "autor": 22,
+  "validador": 22,
+  "obs": "1894-1917"
+ },
+ "c0831": {
+  "status": "ok",
+  "autor": 304,
+  "validador": 304,
+  "obs": ""
+ },
+ "c0832": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0833": {
+  "status": "ok",
+  "autor": 62,
+  "validador": 62,
+  "obs": "25/12/1926-07/01/1989"
+ },
+ "c0834": {
+  "status": "ok",
+  "autor": 353,
+  "validador": 353,
+  "obs": "353 avioes na 2a onda total"
+ },
+ "c0835": {
+  "status": "ok",
+  "autor": 2403,
+  "validador": 2403,
+  "obs": "2.403 americanos mortos"
+ },
+ "c0836": {
+  "status": "ok",
+  "autor": 2977,
+  "validador": 2977,
+  "obs": ""
+ },
+ "c0837": {
+  "status": "ok",
+  "autor": 23,
+  "validador": 23,
+  "obs": ""
+ },
+ "c0838": {
+  "status": "ok",
+  "autor": 10,
+  "validador": 10,
+  "obs": ""
+ },
+ "c0839": {
+  "status": "ok",
+  "autor": 282,
+  "validador": 282,
+  "obs": ""
+ },
+ "c0840": {
+  "status": "ambigua",
+  "autor": 93,
+  "validador": 93,
+  "obs": "93 m do chao do pedestal a tocha (305 ft 6 in); estatua em si 46 m"
+ },
+ "c0841": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": "2 anos, 2 meses, 5 dias"
+ },
+ "c0842": {
+  "status": "ambigua",
+  "autor": 155,
+  "validador": 155,
+  "obs": "155 km em volta de Berlim Ocidental (43 km dentro da cidade)"
+ },
+ "c0843": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": "15 milhoes (15.007.034)"
+ },
+ "c0844": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0845": {
+  "status": "ok",
+  "autor": 28,
+  "validador": 28,
+  "obs": ""
+ },
+ "c0846": {
+  "status": "ok",
+  "autor": 17,
+  "validador": 17,
+  "obs": ""
+ },
+ "c0847": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0848": {
+  "status": "ok",
+  "autor": 370,
+  "validador": 370,
+  "obs": ""
+ },
+ "c0849": {
+  "status": "ok",
+  "autor": 342,
+  "validador": 342,
+  "obs": ""
+ },
+ "c0850": {
+  "status": "ok",
+  "autor": 245,
+  "validador": 245,
+  "obs": "245 m (803 ft)"
+ },
+ "c0851": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0852": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c0853": {
+  "status": "ambigua",
+  "autor": 9289,
+  "validador": 9289,
+  "obs": "9.289 km; algumas fontes 9.259 ou ~9.300"
+ },
+ "c0854": {
+  "status": "ok",
+  "autor": 193,
+  "validador": 193,
+  "obs": "193,3 km"
+ },
+ "c0855": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": ""
+ },
+ "c0856": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0857": {
+  "status": "ok",
+  "autor": 1492,
+  "validador": 1492,
+  "obs": ""
+ },
+ "c0858": {
+  "status": "ok",
+  "autor": 1789,
+  "validador": 1789,
+  "obs": ""
+ },
+ "c0859": {
+  "status": "ok",
+  "autor": 1914,
+  "validador": 1914,
+  "obs": ""
+ },
+ "c0860": {
+  "status": "ok",
+  "autor": 1969,
+  "validador": 1969,
+  "obs": ""
+ },
+ "c0861": {
+  "status": "ok",
+  "autor": 1066,
+  "validador": 1066,
+  "obs": ""
+ },
+ "c0862": {
+  "status": "ok",
+  "autor": 476,
+  "validador": 476,
+  "obs": ""
+ },
+ "c0863": {
+  "status": "ok",
+  "autor": 79,
+  "validador": 79,
+  "obs": ""
+ },
+ "c0864": {
+  "status": "ok",
+  "autor": 1991,
+  "validador": 1991,
+  "obs": ""
+ },
+ "c0865": {
+  "status": "ok",
+  "autor": 1922,
+  "validador": 1922,
+  "obs": ""
+ },
+ "c0866": {
+  "status": "ok",
+  "autor": 1917,
+  "validador": 1917,
+  "obs": "Revolucao de Outubro; fevereiro derrubou o czar (ambas 1917)"
+ },
+ "c0867": {
+  "status": "ok",
+  "autor": 1980,
+  "validador": 1980,
+  "obs": "declarada em maio/1980 (certificada dez/1979)"
+ },
+ "c0868": {
+  "status": "ok",
+  "autor": 828,
+  "validador": 828,
+  "obs": ""
+ },
+ "c0869": {
+  "status": "ambigua",
+  "autor": 330,
+  "validador": 330,
+  "obs": "330 m desde a antena de 2022 (324 m antes; 300 m sem antenas)"
+ },
+ "c0870": {
+  "status": "ambigua",
+  "autor": 93,
+  "validador": 93,
+  "obs": "igual c0840"
+ },
+ "c0871": {
+  "status": "ok",
+  "autor": 443,
+  "validador": 443,
+  "obs": "443,2 m com antena (381 m ate o telhado)"
+ },
+ "c0872": {
+  "status": "ok",
+  "autor": 508,
+  "validador": 508,
+  "obs": ""
+ },
+ "c0873": {
+  "status": "ok",
+  "autor": 632,
+  "validador": 632,
+  "obs": ""
+ },
+ "c0874": {
+  "status": "ok",
+  "autor": 452,
+  "validador": 452,
+  "obs": "451,9 m"
+ },
+ "c0875": {
+  "status": "ok",
+  "autor": 96,
+  "validador": 96,
+  "obs": "96 m"
+ },
+ "c0876": {
+  "status": "ambigua",
+  "autor": 56,
+  "validador": 56,
+  "obs": "55,9 m no lado mais baixo, 56,7 no mais alto"
+ },
+ "c0877": {
+  "status": "ok",
+  "autor": 553,
+  "validador": 553,
+  "obs": "553,3 m"
+ },
+ "c0878": {
+  "status": "ok",
+  "autor": 634,
+  "validador": 634,
+  "obs": ""
+ },
+ "c0879": {
+  "status": "ok",
+  "autor": 182,
+  "validador": 182,
+  "obs": ""
+ },
+ "c0880": {
+  "status": "ok",
+  "autor": 250,
+  "validador": 250,
+  "obs": ""
+ },
+ "c0881": {
+  "status": "ok",
+  "autor": 1280,
+  "validador": 1280,
+  "obs": ""
+ },
+ "c0882": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": "50,45 km"
+ },
+ "c0883": {
+  "status": "ok",
+  "autor": 57,
+  "validador": 57,
+  "obs": "57,09 km"
+ },
+ "c0884": {
+  "status": "ok",
+  "autor": 24.5,
+  "validador": 24.5,
+  "obs": "24,51 km"
+ },
+ "c0885": {
+  "status": "ok",
+  "autor": 165,
+  "validador": 164.8,
+  "obs": "Guinness 164,8 km"
+ },
+ "c0886": {
+  "status": "ambigua",
+  "autor": 9289,
+  "validador": 9289,
+  "obs": "igual c0853"
+ },
+ "c0887": {
+  "status": "ambigua",
+  "autor": 82,
+  "validador": 82,
+  "obs": "~82 km (Autoridade do Canal); 77-82 conforme definicao"
+ },
+ "c0888": {
+  "status": "ok",
+  "autor": 193,
+  "validador": 193,
+  "obs": ""
+ },
+ "c0889": {
+  "status": "ambigua",
+  "autor": 1665,
+  "validador": 1665,
+  "obs": "1.665 degraus ate o topo (fontes 1.710 ou 1.665)"
+ },
+ "c0890": {
+  "status": "ok",
+  "autor": 163,
+  "validador": 163,
+  "obs": ""
+ },
+ "c0891": {
+  "status": "ok",
+  "autor": 102,
+  "validador": 102,
+  "obs": ""
+ },
+ "c0892": {
+  "status": "ok",
+  "autor": 2430,
+  "validador": 2430,
+  "obs": "Wikipedia 2430 m (alguns citam 2400/2450)"
+ },
+ "c0893": {
+  "status": "ok",
+  "autor": 1788,
+  "validador": 1788,
+  "obs": ""
+ },
+ "c0894": {
+  "status": "divergente",
+  "autor": 343,
+  "validador": 245,
+  "obs": "Pilar P2 245 m; mastro mais alto 343 m; tabuleiro 270 m acima do vale"
+ },
+ "c0895": {
+  "status": "ok",
+  "autor": 147,
+  "validador": 146.6,
+  "obs": "146,6 m (146,5 também citado)"
+ },
+ "c0896": {
+  "status": "ok",
+  "autor": 1889,
+  "validador": 1889,
+  "obs": ""
+ },
+ "c0897": {
+  "status": "ok",
+  "autor": 1886,
+  "validador": 1886,
+  "obs": ""
+ },
+ "c0898": {
+  "status": "ok",
+  "autor": 1973,
+  "validador": 1973,
+  "obs": ""
+ },
+ "c0899": {
+  "status": "ok",
+  "autor": 2010,
+  "validador": 2010,
+  "obs": ""
+ },
+ "c0900": {
+  "status": "ok",
+  "autor": 1869,
+  "validador": 1869,
+  "obs": ""
+ },
+ "c0901": {
+  "status": "ok",
+  "autor": 1914,
+  "validador": 1914,
+  "obs": "Aberto ao tráfego em 1914; obra concluída/ inauguração oficial 1920"
+ },
+ "c0902": {
+  "status": "ok",
+  "autor": 1883,
+  "validador": 1883,
+  "obs": ""
+ },
+ "c0903": {
+  "status": "ok",
+  "autor": 1882,
+  "validador": 1882,
+  "obs": ""
+ },
+ "c0904": {
+  "status": "ok",
+  "autor": 1945,
+  "validador": 1945,
+  "obs": ""
+ },
+ "c0905": {
+  "status": "ok",
+  "autor": 1896,
+  "validador": 1896,
+  "obs": ""
+ },
+ "c0906": {
+  "status": "ok",
+  "autor": 1931,
+  "validador": 1931,
+  "obs": ""
+ },
+ "c0907": {
+  "status": "ok",
+  "autor": 2022,
+  "validador": 2022,
+  "obs": "15 nov 2022"
+ },
+ "c0908": {
+  "status": "ok",
+  "autor": 211,
+  "validador": 211,
+  "obs": ""
+ },
+ "c0909": {
+  "status": "ok",
+  "autor": 180,
+  "validador": 180,
+  "obs": ""
+ },
+ "c0910": {
+  "status": "ok",
+  "autor": 114,
+  "validador": 114,
+  "obs": ""
+ },
+ "c0911": {
+  "status": "ok",
+  "autor": 107,
+  "validador": 107,
+  "obs": ""
+ },
+ "c0912": {
+  "status": "ok",
+  "autor": 83.4,
+  "validador": 83.4,
+  "obs": ""
+ },
+ "c0913": {
+  "status": "ok",
+  "autor": 177,
+  "validador": 177,
+  "obs": ""
+ },
+ "c0914": {
+  "status": "ok",
+  "autor": 150,
+  "validador": 150,
+  "obs": "Arnault 150 (3º) lista 2021"
+ },
+ "c0915": {
+  "status": "ok",
+  "autor": 113,
+  "validador": 113,
+  "obs": ""
+ },
+ "c0916": {
+  "status": "ok",
+  "autor": 59,
+  "validador": 59,
+  "obs": ""
+ },
+ "c0917": {
+  "status": "ok",
+  "autor": 98,
+  "validador": 98,
+  "obs": ""
+ },
+ "c0918": {
+  "status": "ok",
+  "autor": 219,
+  "validador": 219,
+  "obs": ""
+ },
+ "c0919": {
+  "status": "ok",
+  "autor": 171,
+  "validador": 171,
+  "obs": ""
+ },
+ "c0920": {
+  "status": "ok",
+  "autor": 131,
+  "validador": 131,
+  "obs": ""
+ },
+ "c0921": {
+  "status": "ok",
+  "autor": 112,
+  "validador": 112,
+  "obs": ""
+ },
+ "c0922": {
+  "status": "ok",
+  "autor": 233,
+  "validador": 233,
+  "obs": ""
+ },
+ "c0923": {
+  "status": "ambigua",
+  "autor": 1450,
+  "validador": 1450,
+  "obs": "ONU WPP2024: 1450; Banco Mundial ~1441"
+ },
+ "c0924": {
+  "status": "ambigua",
+  "autor": 1419,
+  "validador": 1419,
+  "obs": "ONU 1419; Banco Mundial ~1410"
+ },
+ "c0925": {
+  "status": "ambigua",
+  "autor": 345,
+  "validador": 345,
+  "obs": "ONU 345; Census ~340"
+ },
+ "c0926": {
+  "status": "ambigua",
+  "autor": 283,
+  "validador": 283,
+  "obs": "ONU 283; BPS ~281"
+ },
+ "c0927": {
+  "status": "ambigua",
+  "autor": 251,
+  "validador": 251,
+  "obs": "ONU 251"
+ },
+ "c0928": {
+  "status": "ambigua",
+  "autor": 233,
+  "validador": 233,
+  "obs": "ONU 233"
+ },
+ "c0929": {
+  "status": "ambigua",
+  "autor": 144,
+  "validador": 144,
+  "obs": "ONU 144; Rosstat 146"
+ },
+ "c0930": {
+  "status": "divergente",
+  "autor": 130,
+  "validador": 131,
+  "obs": "ONU 130,9"
+ },
+ "c0931": {
+  "status": "ambigua",
+  "autor": 124,
+  "validador": 124,
+  "obs": "ONU 123,8"
+ },
+ "c0932": {
+  "status": "ambigua",
+  "autor": 84,
+  "validador": 84,
+  "obs": "ONU 84,5; Destatis 83,5"
+ },
+ "c0933": {
+  "status": "ambigua",
+  "autor": 69,
+  "validador": 69,
+  "obs": "ONU 68,5"
+ },
+ "c0934": {
+  "status": "ambigua",
+  "autor": 66,
+  "validador": 66,
+  "obs": "ONU 66,5; INSEE 68,4 com territórios ultramarinos"
+ },
+ "c0935": {
+  "status": "ambigua",
+  "autor": 8.2,
+  "validador": 8.2,
+  "obs": "ONU 8,16 (meados 2024)"
+ },
+ "c0936": {
+  "status": "divergente",
+  "autor": 15.5,
+  "validador": 15.66,
+  "obs": "TUIK 15.655.924"
+ },
+ "c0937": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13.01,
+  "obs": "Censo 2021: 13.010.112"
+ },
+ "c0938": {
+  "status": "ok",
+  "autor": 8.8,
+  "validador": 8.8,
+  "obs": "8.804.190"
+ },
+ "c0939": {
+  "status": "ok",
+  "autor": 8.8,
+  "validador": 8.8,
+  "obs": "Censo 2021 Londres 8.799.800"
+ },
+ "c0940": {
+  "status": "divergente",
+  "autor": 2.1,
+  "validador": 2.13,
+  "obs": "INSEE 2021 ~2,133 milhões"
+ },
+ "c0941": {
+  "status": "ok",
+  "autor": 24.9,
+  "validador": 24.87,
+  "obs": "24.870.895"
+ },
+ "c0942": {
+  "status": "ok",
+  "autor": 21.9,
+  "validador": 21.89,
+  "obs": "21.893.095"
+ },
+ "c0943": {
+  "status": "ambigua",
+  "autor": 5.9,
+  "validador": 5.92,
+  "obs": "População total 5,92 M (residentes 4,16 M)"
+ },
+ "c0944": {
+  "status": "ok",
+  "autor": 0.44,
+  "validador": 0.44,
+  "obs": "0,44 km² (0,49 em algumas fontes)"
+ },
+ "c0945": {
+  "status": "divergente",
+  "autor": 2,
+  "validador": 2.02,
+  "obs": "2,02 km²"
+ },
+ "c0946": {
+  "status": "ok",
+  "autor": 17.1,
+  "validador": 17.1,
+  "obs": "17,098 M km²"
+ },
+ "c0947": {
+  "status": "ok",
+  "autor": 9.98,
+  "validador": 9.98,
+  "obs": "9,985 M km²"
+ },
+ "c0948": {
+  "status": "ok",
+  "autor": 7.69,
+  "validador": 7.69,
+  "obs": "7,692 M km²"
+ },
+ "c0949": {
+  "status": "ok",
+  "autor": 193,
+  "validador": 193,
+  "obs": ""
+ },
+ "c0950": {
+  "status": "ok",
+  "autor": 54,
+  "validador": 54,
+  "obs": ""
+ },
+ "c0951": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0952": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": ""
+ },
+ "c0953": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": ""
+ },
+ "c0954": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": ""
+ },
+ "c0955": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0956": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c0957": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": ""
+ },
+ "c0958": {
+  "status": "ok",
+  "autor": 6,
+  "validador": 6,
+  "obs": ""
+ },
+ "c0959": {
+  "status": "ok",
+  "autor": 13,
+  "validador": 13,
+  "obs": "12 letras + ʻokina conforme contagem; 13 é a usual (5 vogais+8 consoantes incl. ʻokina)"
+ },
+ "c0960": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c0961": {
+  "status": "ambigua",
+  "autor": 74,
+  "validador": 74,
+  "obs": "Guinness 74; fontes antigas 72; Khmer é abugida"
+ },
+ "c0962": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": "5,10,20,50,100,200,500"
+ },
+ "c0963": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c0964": {
+  "status": "ok",
+  "autor": 329,
+  "validador": 329,
+  "obs": ""
+ },
+ "c0965": {
+  "status": "ambigua",
+  "autor": 27.4,
+  "validador": 27.4,
+  "obs": "Banco Mundial 27,36; FMI 27,72"
+ },
+ "c0966": {
+  "status": "ambigua",
+  "autor": 17.8,
+  "validador": 17.8,
+  "obs": "Banco Mundial 17,79; FMI 17,66"
+ },
+ "c0967": {
+  "status": "divergente",
+  "autor": 4.5,
+  "validador": 4.46,
+  "obs": "Banco Mundial 4,46; FMI 4,53"
+ },
+ "c0968": {
+  "status": "ambigua",
+  "autor": 4.2,
+  "validador": 4.21,
+  "obs": "Banco Mundial 4,21; FMI 4,21"
+ },
+ "c0969": {
+  "status": "divergente",
+  "autor": 2.3,
+  "validador": 2.38,
+  "obs": "Pew 2,38 bi"
+ },
+ "c0970": {
+  "status": "divergente",
+  "autor": 2.0,
+  "validador": 1.99,
+  "obs": "Pew 1,99 bi"
+ },
+ "c0971": {
+  "status": "ambigua",
+  "autor": 1.2,
+  "validador": 1.2,
+  "obs": "Pew 1,16-1,2 bi"
+ },
+ "c0972": {
+  "status": "ambigua",
+  "autor": 485,
+  "validador": 485,
+  "obs": "Ethnologue ~485 M"
+ },
+ "c0973": {
+  "status": "ambigua",
+  "autor": 939,
+  "validador": 941,
+  "obs": "Ethnologue ~941 M"
+ },
+ "c0974": {
+  "status": "ambigua",
+  "autor": 840,
+  "validador": 840,
+  "obs": "Ethnologue 839-840"
+ },
+ "c0975": {
+  "status": "ok",
+  "autor": 8.7,
+  "validador": 8.7,
+  "obs": "8,7 M"
+ },
+ "c0976": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c0977": {
+  "status": "ok",
+  "autor": 1876,
+  "validador": 1876,
+  "obs": ""
+ },
+ "c0978": {
+  "status": "ok",
+  "autor": 1879,
+  "validador": 1879,
+  "obs": ""
+ },
+ "c0979": {
+  "status": "ok",
+  "autor": 1903,
+  "validador": 1903,
+  "obs": ""
+ },
+ "c0980": {
+  "status": "ok",
+  "autor": 1906,
+  "validador": 1906,
+  "obs": "Voo oficial 12 nov 1906; 23 out 1906 primeiro"
+ },
+ "c0981": {
+  "status": "ok",
+  "autor": 1989,
+  "validador": 1989,
+  "obs": ""
+ },
+ "c0982": {
+  "status": "ok",
+  "autor": 1976,
+  "validador": 1976,
+  "obs": ""
+ },
+ "c0983": {
+  "status": "ok",
+  "autor": 1975,
+  "validador": 1975,
+  "obs": ""
+ },
+ "c0984": {
+  "status": "ok",
+  "autor": 1998,
+  "validador": 1998,
+  "obs": ""
+ },
+ "c0985": {
+  "status": "ok",
+  "autor": 2007,
+  "validador": 2007,
+  "obs": ""
+ },
+ "c0986": {
+  "status": "ok",
+  "autor": 1957,
+  "validador": 1957,
+  "obs": ""
+ },
+ "c0987": {
+  "status": "ok",
+  "autor": 1908,
+  "validador": 1908,
+  "obs": ""
+ },
+ "c0988": {
+  "status": "ok",
+  "autor": 1889,
+  "validador": 1889,
+  "obs": ""
+ },
+ "c0989": {
+  "status": "ok",
+  "autor": 1912,
+  "validador": 1912,
+  "obs": ""
+ },
+ "c0990": {
+  "status": "ok",
+  "autor": 2001,
+  "validador": 2001,
+  "obs": ""
+ },
+ "c0991": {
+  "status": "ok",
+  "autor": 2009,
+  "validador": 2009,
+  "obs": ""
+ },
+ "c0992": {
+  "status": "ok",
+  "autor": 1997,
+  "validador": 1997,
+  "obs": ""
+ },
+ "c0993": {
+  "status": "ok",
+  "autor": 269,
+  "validador": 269,
+  "obs": ""
+ },
+ "c0994": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c0995": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c0996": {
+  "status": "ok",
+  "autor": 29,
+  "validador": 29,
+  "obs": ""
+ },
+ "c0997": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c0998": {
+  "status": "ok",
+  "autor": 7.5,
+  "validador": 7.5,
+  "obs": ""
+ },
+ "c0999": {
+  "status": "ok",
+  "autor": 46328,
+  "validador": 46328,
+  "obs": ""
+ },
+ "c1000": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c1001": {
+  "status": "ok",
+  "autor": 220,
+  "validador": 220,
+  "obs": ""
+ },
+ "c1002": {
+  "status": "ok",
+  "autor": 33.5,
+  "validador": 33.5,
+  "obs": "33h30min"
+ },
+ "c1003": {
+  "status": "ok",
+  "autor": 80,
+  "validador": 80,
+  "obs": ""
+ },
+ "c1004": {
+  "status": "ok",
+  "autor": 853,
+  "validador": 853,
+  "obs": ""
+ },
+ "c1005": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": ""
+ },
+ "c1006": {
+  "status": "ok",
+  "autor": 20,
+  "validador": 20,
+  "obs": ""
+ },
+ "c1007": {
+  "status": "ok",
+  "autor": 1228,
+  "validador": 1228,
+  "obs": ""
+ },
+ "c1008": {
+  "status": "ok",
+  "autor": 603,
+  "validador": 603,
+  "obs": ""
+ },
+ "c1009": {
+  "status": "ok",
+  "autor": 575,
+  "validador": 575,
+  "obs": ""
+ },
+ "c1010": {
+  "status": "ok",
+  "autor": 126,
+  "validador": 126,
+  "obs": ""
+ },
+ "c1011": {
+  "status": "ok",
+  "autor": 9289,
+  "validador": 9289,
+  "obs": ""
+ },
+ "c1012": {
+  "status": "ambigua",
+  "autor": 57,
+  "validador": 57,
+  "obs": "Tunel de Base de Sao Gotardo = 57,1 km; o tunel ferroviario antigo (1882) tem 15 km"
+ },
+ "c1013": {
+  "status": "ok",
+  "autor": 50,
+  "validador": 50,
+  "obs": ""
+ },
+ "c1014": {
+  "status": "ok",
+  "autor": 1435,
+  "validador": 1435,
+  "obs": ""
+ },
+ "c1015": {
+  "status": "ambigua",
+  "autor": 16,
+  "validador": 16,
+  "obs": "Wikipedia: 16 km/h; algumas fontes 13-18"
+ },
+ "c1016": {
+  "status": "ok",
+  "autor": 825,
+  "validador": 825,
+  "obs": ""
+ },
+ "c1017": {
+  "status": "ok",
+  "autor": 15,
+  "validador": 15,
+  "obs": ""
+ },
+ "c1018": {
+  "status": "ambigua",
+  "autor": 21.5,
+  "validador": 21.5,
+  "obs": "Fusca: 21,5 milhoes; 'arredondado' pode dar 21 ou 22"
+ },
+ "c1019": {
+  "status": "ok",
+  "autor": 1093,
+  "validador": 1093,
+  "obs": ""
+ },
+ "c1020": {
+  "status": "ok",
+  "autor": 17468,
+  "validador": 17468,
+  "obs": "17.468 valvulas (Wikipedia); fontes populares dizem 18.000"
+ },
+ "c1021": {
+  "status": "ok",
+  "autor": 2300,
+  "validador": 2300,
+  "obs": ""
+ },
+ "c1022": {
+  "status": "ok",
+  "autor": 3.5,
+  "validador": 3.5,
+  "obs": ""
+ },
+ "c1023": {
+  "status": "ok",
+  "autor": 499,
+  "validador": 499,
+  "obs": ""
+ },
+ "c1024": {
+  "status": "ok",
+  "autor": 666.66,
+  "validador": 666.66,
+  "obs": ""
+ },
+ "c1025": {
+  "status": "ok",
+  "autor": 3,
+  "validador": 3,
+  "obs": ""
+ },
+ "c1026": {
+  "status": "ok",
+  "autor": 100,
+  "validador": 100,
+  "obs": ""
+ },
+ "c1027": {
+  "status": "ok",
+  "autor": 160,
+  "validador": 160,
+  "obs": ""
+ },
+ "c1028": {
+  "status": "ok",
+  "autor": 140,
+  "validador": 140,
+  "obs": ""
+ },
+ "c1029": {
+  "status": "ok",
+  "autor": 3995,
+  "validador": 3995,
+  "obs": ""
+ },
+ "c1030": {
+  "status": "ok",
+  "autor": 19,
+  "validador": 19,
+  "obs": ""
+ },
+ "c1031": {
+  "status": "ok",
+  "autor": 1.44,
+  "validador": 1.44,
+  "obs": ""
+ },
+ "c1032": {
+  "status": "ok",
+  "autor": 74,
+  "validador": 74,
+  "obs": ""
+ },
+ "c1033": {
+  "status": "ok",
+  "autor": 4.7,
+  "validador": 4.7,
+  "obs": ""
+ },
+ "c1034": {
+  "status": "ok",
+  "autor": 25,
+  "validador": 25,
+  "obs": ""
+ },
+ "c1035": {
+  "status": "ok",
+  "autor": 3840,
+  "validador": 3840,
+  "obs": ""
+ },
+ "c1036": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": ""
+ },
+ "c1037": {
+  "status": "ok",
+  "autor": 42,
+  "validador": 42,
+  "obs": ""
+ },
+ "c1038": {
+  "status": "ok",
+  "autor": 84,
+  "validador": 84,
+  "obs": ""
+ },
+ "c1039": {
+  "status": "ok",
+  "autor": 108,
+  "validador": 108,
+  "obs": ""
+ },
+ "c1040": {
+  "status": "ok",
+  "autor": 6.5,
+  "validador": 6.5,
+  "obs": ""
+ },
+ "c1041": {
+  "status": "ok",
+  "autor": 18,
+  "validador": 18,
+  "obs": ""
+ },
+ "c1042": {
+  "status": "ok",
+  "autor": 27,
+  "validador": 27,
+  "obs": ""
+ },
+ "c1043": {
+  "status": "ok",
+  "autor": 14000,
+  "validador": 14000,
+  "obs": ""
+ },
+ "c1044": {
+  "status": "ok",
+  "autor": 828,
+  "validador": 828,
+  "obs": ""
+ },
+ "c1045": {
+  "status": "ok",
+  "autor": 1280,
+  "validador": 1280,
+  "obs": ""
+ },
+ "c1046": {
+  "status": "ok",
+  "autor": 96,
+  "validador": 96,
+  "obs": ""
+ },
+ "c1047": {
+  "status": "ok",
+  "autor": 135,
+  "validador": 135,
+  "obs": ""
+ },
+ "c1048": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c1049": {
+  "status": "ok",
+  "autor": 7,
+  "validador": 7,
+  "obs": ""
+ },
+ "c1050": {
+  "status": "ok",
+  "autor": 151,
+  "validador": 151,
+  "obs": ""
+ },
+ "c1051": {
+  "status": "ok",
+  "autor": 8,
+  "validador": 8,
+  "obs": ""
+ },
+ "c1052": {
+  "status": "divergente",
+  "autor": 155,
+  "validador": 160,
+  "obs": "Sony: 'mais de 160 milhoes' (2024); estimativa antiga 155 milhoes (2012)"
+ },
+ "c1053": {
+  "status": "ok",
+  "autor": 230,
+  "validador": 230,
+  "obs": ""
+ },
+ "c1054": {
+  "status": "ok",
+  "autor": 120,
+  "validador": 120,
+  "obs": ""
+ },
+ "c1055": {
+  "status": "ok",
+  "autor": 1.5,
+  "validador": 1.5,
+  "obs": ""
+ },
+ "c1056": {
+  "status": "ok",
+  "autor": 2.4,
+  "validador": 2.4,
+  "obs": ""
+ },
+ "c1057": {
+  "status": "ok",
+  "autor": 553,
+  "validador": 553,
+  "obs": ""
+ },
+ "c1058": {
+  "status": "ok",
+  "autor": 111,
+  "validador": 111,
+  "obs": ""
+ },
+ "c1059": {
+  "status": "ok",
+  "autor": 2.4,
+  "validador": 2.4,
+  "obs": ""
+ },
+ "c1060": {
+  "status": "ok",
+  "autor": 128,
+  "validador": 128,
+  "obs": ""
+ },
+ "c1061": {
+  "status": "ok",
+  "autor": 128,
+  "validador": 128,
+  "obs": ""
+ },
+ "c1062": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": ""
+ },
+ "c1063": {
+  "status": "ok",
+  "autor": 4,
+  "validador": 4,
+  "obs": ""
+ },
+ "c1064": {
+  "status": "ok",
+  "autor": 4.29,
+  "validador": 4.3,
+  "obs": ""
+ },
+ "c1065": {
+  "status": "ok",
+  "autor": 345,
+  "validador": 345,
+  "obs": ""
+ },
+ "c1066": {
+  "status": "ok",
+  "autor": 193,
+  "validador": 193,
+  "obs": ""
+ },
+ "c1067": {
+  "status": "ok",
+  "autor": 1000,
+  "validador": 1000,
+  "obs": ""
+ },
+ "c1068": {
+  "status": "ok",
+  "autor": 2,
+  "validador": 2,
+  "obs": ""
+ },
+ "c1069": {
+  "status": "ok",
+  "autor": 9.7,
+  "validador": 9.7,
+  "obs": ""
+ },
+ "c1070": {
+  "status": "ok",
+  "autor": 1,
+  "validador": 1,
+  "obs": ""
+ },
+ "c1071": {
+  "status": "ambigua",
+  "autor": 19,
+  "validador": 19,
+  "obs": "Anunciado 19 bi; valor no fechamento 21,8 bi"
+ },
+ "c1072": {
+  "status": "ok",
+  "autor": 1.65,
+  "validador": 1.65,
+  "obs": ""
+ },
+ "c1073": {
+  "status": "ok",
+  "autor": 2.5,
+  "validador": 2.5,
+  "obs": ""
+ },
+ "c1074": {
+  "status": "ok",
+  "autor": 85,
+  "validador": 85,
+  "obs": ""
+ },
+ "c1075": {
+  "status": "ok",
+  "autor": 38,
+  "validador": 38,
+  "obs": ""
+ },
+ "c1076": {
+  "status": "ok",
+  "autor": 18,
+  "validador": 18,
+  "obs": ""
+ },
+ "c1077": {
+  "status": "ok",
+  "autor": 22,
+  "validador": 22,
+  "obs": ""
+ },
+ "c1078": {
+  "status": "ok",
+  "autor": 10000,
+  "validador": 10000,
+  "obs": ""
+ },
+ "c1079": {
+  "status": "ok",
+  "autor": 305,
+  "validador": 305,
+  "obs": ""
+ },
+ "c1080": {
+  "status": "ok",
+  "autor": 12,
+  "validador": 12,
+  "obs": ""
+ },
+ "c1081": {
+  "status": "divergente",
+  "autor": 33.33,
+  "validador": 33,
+  "obs": ""
+ },
+ "c1082": {
+  "status": "ok",
+  "autor": 5,
+  "validador": 5,
+  "obs": ""
+ },
+ "c1083": {
+  "status": "divergente",
+  "autor": 2.07,
+  "validador": 2,
+  "obs": "2,07 milhoes; arredondado 2 (ou 2,1)"
+ }
+}

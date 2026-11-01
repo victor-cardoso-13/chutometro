@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0890",
+  "q": "Quantos andares (pisos) tem o Burj Khalifa?",
+  "unidade": "andares",
+  "resposta_autor": 163,
+  "resposta_validador": 163,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0793",
+  "q": "Quantos anos durou o reinado de Henrique VIII da Inglaterra?",
+  "unidade": "anos",
+  "resposta_autor": 37,
+  "resposta_validador": 38,
+  "obs_validador": "Reinado 21/04/1509-28/01/1547 = 37 anos e 9 meses (37,8); fontes dizem 37 ou 38",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0115",
+  "q": "Quantos milhões de habitantes tinha o estado do Paraná no Censo 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 11.44,
+  "resposta_validador": 11.44,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0096",
+  "q": "Quantos dentes tem um cachorro adulto?",
+  "unidade": "dentes",
+  "resposta_autor": 42,
+  "resposta_validador": 42,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0646",
+  "q": "Quantos títulos de Roland Garros Rafael Nadal ganhou?",
+  "unidade": "títulos",
+  "resposta_autor": 14,
+  "resposta_validador": 14,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0243",
+  "q": "Quantos litros de sangue tem, em média, um adulto?",
+  "unidade": "litros",
+  "resposta_autor": 5,
+  "resposta_validador": 5,
+  "obs_validador": "4,5-5,5 L",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0428",
+  "q": "Em que ano os Beatles se apresentaram no programa de Ed Sullivan nos EUA?",
+  "unidade": "ano",
+  "resposta_autor": 1964,
+  "resposta_validador": 1964,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0173",
+  "q": "Qual é a área do estado de Sergipe, o menor do Brasil, em km²?",
+  "unidade": "km²",
+  "resposta_autor": 21938,
+  "resposta_validador": 21938,
+  "obs_validador": "IBGE 2025: 21.938,188; versão antiga 21.915",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0948",
+  "q": "Qual é a área da Austrália, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta_autor": 7.69,
+  "resposta_validador": 7.69,
+  "obs_validador": "7,692 M km²",
+  "motivo": "ok"
+ },
+ {
+  "id": "c1018",
+  "q": "Quantos Fuscas foram produzidos no mundo, em milhões (arredondado)?",
+  "unidade": "milhões de carros",
+  "resposta_autor": 21.5,
+  "resposta_validador": 21.5,
+  "obs_validador": "Fusca: 21,5 milhoes; 'arredondado' pode dar 21 ou 22",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0314",
+  "q": "Quantos centímetros o cabelo cresce, em média, por mês?",
+  "unidade": "cm",
+  "resposta_autor": 1,
+  "resposta_validador": 1.25,
+  "obs_validador": "Fontes dão 1 a 1,25 cm.",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0853",
+  "q": "Quantos quilômetros tem a ferrovia Transiberiana, de Moscou a Vladivostok?",
+  "unidade": "km",
+  "resposta_autor": 9289,
+  "resposta_validador": 9289,
+  "obs_validador": "9.289 km; algumas fontes 9.259 ou ~9.300",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0637",
+  "q": "Em que ano foi disputada a primeira corrida do Campeonato Mundial de Fórmula 1?",
+  "unidade": "ano",
+  "resposta_autor": 1950,
+  "resposta_validador": 1950,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0353",
+  "q": "Qual é a altura da estatueta do Oscar, em centímetros?",
+  "unidade": "cm",
+  "resposta_autor": 34,
+  "resposta_validador": 34.3,
+  "obs_validador": "",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0935",
+  "q": "Qual era a população mundial em 2024, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta_autor": 8.2,
+  "resposta_validador": 8.2,
+  "obs_validador": "ONU 8,16 (meados 2024)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0052",
+  "q": "Quantos anos de casamento completam as bodas de prata?",
+  "unidade": "anos",
+  "resposta_autor": 25,
+  "resposta_validador": 25,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0277",
+  "q": "Quantas calorias (kcal) tem 100 gramas de peito de frango cozido sem pele?",
+  "unidade": "kcal",
+  "resposta_autor": 165,
+  "resposta_validador": 163,
+  "obs_validador": "TACO ~163; USDA 165",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0242",
+  "q": "Quantos gramas pesa, em média, o coração de um adulto?",
+  "unidade": "g",
+  "resposta_autor": 300,
+  "resposta_validador": 300,
+  "obs_validador": "250-350 g",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0225",
+  "q": "Quantos pares de costelas tem o ser humano?",
+  "unidade": "pares",
+  "resposta_autor": 12,
+  "resposta_validador": 12,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0705",
+  "q": "Quantos países africanos eram membros da ONU em 2024, segundo a União Africana?",
+  "unidade": "países",
+  "resposta_autor": 54,
+  "resposta_validador": 54,
+  "obs_validador": "UA tem 55 membros (inclui Saara Ocidental, não membro da ONU); 54 são membros da ONU",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0966",
+  "q": "Qual era o PIB da China em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares",
+  "resposta_autor": 17.8,
+  "resposta_validador": 17.8,
+  "obs_validador": "Banco Mundial 17,79; FMI 17,66",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0604",
+  "q": "Qual é a altura do aro de basquete, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 3.05,
+  "resposta_validador": 3.05,
+  "obs_validador": "",
+  "motivo": "ok"
+ }
+]

@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0622",
+  "q": "Quantas vitórias Tiger Woods tem no PGA Tour?",
+  "unidade": "vitórias",
+  "resposta_autor": 82,
+  "resposta_validador": 82,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0282",
+  "q": "Quantos minutos dura, em média, um ciclo completo de sono?",
+  "unidade": "minutos",
+  "resposta_autor": 90,
+  "resposta_validador": 90,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0672",
+  "q": "Qual a profundidade máxima do Grand Canyon, nos EUA, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 1857,
+  "resposta_validador": 1857,
+  "obs_validador": "1.857 m (6.093 pés) vs 1.829 m (6.000 pés).",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0054",
+  "q": "Quantos meses do ano têm exatamente 30 dias?",
+  "unidade": "meses",
+  "resposta_autor": 4,
+  "resposta_validador": 4,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0953",
+  "q": "Quantas estrelas tem a bandeira dos Estados Unidos?",
+  "unidade": "estrelas",
+  "resposta_autor": 50,
+  "resposta_validador": 50,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0312",
+  "q": "Quantos milímetros mede o estribo, o menor osso do corpo humano (aproximadamente)?",
+  "unidade": "mm",
+  "resposta_autor": 3,
+  "resposta_validador": 3,
+  "obs_validador": "Fontes dão 2,8 a 3 mm.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0397",
+  "q": "Quantos filhos Molly e Arthur Weasley têm?",
+  "unidade": "filhos",
+  "resposta_autor": 7,
+  "resposta_validador": 7,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0484",
+  "q": "Quantos astronautas já caminharam na Lua?",
+  "unidade": "astronautas",
+  "resposta_autor": 12,
+  "resposta_validador": 12,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0487",
+  "q": "Quantos dias seguidos ficou no espaço o recorde de Valeri Poliakov, na estação Mir?",
+  "unidade": "dias",
+  "resposta_autor": 437,
+  "resposta_validador": 437.75,
+  "obs_validador": "437 d 18 h = 437,75 (~438)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0455",
+  "q": "Qual é a temperatura média na superfície de Vênus, em °C?",
+  "unidade": "°C",
+  "resposta_autor": 464,
+  "resposta_validador": 464,
+  "obs_validador": "Valores 464-467 °C",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0279",
+  "q": "Quantas calorias (kcal) tem uma colher de sopa de azeite de oliva?",
+  "unidade": "kcal",
+  "resposta_autor": 119,
+  "resposta_validador": 119,
+  "obs_validador": "depende do peso da colher; ~108-119",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0417",
+  "q": "Com quantos anos morreu Pablo Picasso?",
+  "unidade": "anos",
+  "resposta_autor": 91,
+  "resposta_validador": 91,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0091",
+  "q": "Quantas vértebras tem o pescoço de uma girafa?",
+  "unidade": "vértebras",
+  "resposta_autor": 7,
+  "resposta_validador": 7,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0561",
+  "q": "Quantas medalhas de ouro olímpicas Usain Bolt tem oficialmente?",
+  "unidade": "medalhas de ouro",
+  "resposta_autor": 8,
+  "resposta_validador": 8,
+  "obs_validador": "9 originalmente, 8 após perda de ouro em 2017",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0272",
+  "q": "Quantas calorias (kcal) tem 100 gramas de maçã crua com casca?",
+  "unidade": "kcal",
+  "resposta_autor": 52,
+  "resposta_validador": 56,
+  "obs_validador": "USDA 52 kcal",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0564",
+  "q": "Qual é a distância oficial de uma maratona, em quilômetros?",
+  "unidade": "km",
+  "resposta_autor": 42.195,
+  "resposta_validador": 42.195,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0043",
+  "q": "Quantos valores diferentes de moedas tem o euro?",
+  "unidade": "moedas",
+  "resposta_autor": 8,
+  "resposta_validador": 8,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0350",
+  "q": "Quantos Oscars ganhou o filme Oppenheimer?",
+  "unidade": "Oscars",
+  "resposta_autor": 7,
+  "resposta_validador": 7,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0339",
+  "q": "Quantos minutos dura o filme O Mágico de Oz (1939) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta_autor": 102,
+  "resposta_validador": 102,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0322",
+  "q": "Quantas calorias (kcal) tem uma fatia de pão de forma branco?",
+  "unidade": "kcal",
+  "resposta_autor": 75,
+  "resposta_validador": 75,
+  "obs_validador": "Varia de 66 a 80 kcal por marca/tamanho.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0100",
+  "q": "Quantos dias leva para um ovo de galinha chocar?",
+  "unidade": "dias",
+  "resposta_autor": 21,
+  "resposta_validador": 21,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0824",
+  "q": "Quantos dias durou a Marcha do Sal de Gandhi em 1930?",
+  "unidade": "dias",
+  "resposta_autor": 24,
+  "resposta_validador": 24,
+  "obs_validador": "12/mar a 6/abr/1930; Wikipedia diz 24 dias (alguns contam 25)",
+  "motivo": "ambigua"
+ }
+]

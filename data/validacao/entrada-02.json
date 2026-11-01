@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0100",
+  "q": "Quantos dias leva para um ovo de galinha chocar?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0101",
+  "q": "Quantos dias leva para um ovo de pato chocar?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0102",
+  "q": "Quantos meses dura a gestação de uma elefanta?",
+  "unidade": "meses"
+ },
+ {
+  "id": "c0103",
+  "q": "Quantas semanas dura, em média, a gestação humana?",
+  "unidade": "semanas"
+ },
+ {
+  "id": "c0104",
+  "q": "Quantos dias dura a gestação de uma cadela?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0105",
+  "q": "Quantos dias dura, em média, a gestação de uma vaca?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0106",
+  "q": "Quantos meses dura, em média, a gestação de uma égua?",
+  "unidade": "meses"
+ },
+ {
+  "id": "c0107",
+  "q": "Quantos dias dura a gestação de uma porca ('3 meses, 3 semanas e 3 dias')?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0108",
+  "q": "Quantos dentes tem um coelho adulto?",
+  "unidade": "dentes"
+ },
+ {
+  "id": "c0109",
+  "q": "Quantos cromossomos tem um cavalo?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c0110",
+  "q": "Quantos cromossomos tem a mosca-da-fruta (Drosophila)?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c0111",
+  "q": "Quantos milhões de habitantes tinha o estado de São Paulo no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0112",
+  "q": "Quantos milhões de habitantes tinha o estado de Minas Gerais no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0113",
+  "q": "Quantos milhões de habitantes tinha o estado do Rio de Janeiro no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0114",
+  "q": "Quantos milhões de habitantes tinha o estado de Bahia no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0115",
+  "q": "Quantos milhões de habitantes tinha o estado do Paraná no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0116",
+  "q": "Quantos milhões de habitantes tinha o estado do Rio Grande do Sul no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0117",
+  "q": "Quantos milhões de habitantes tinha o estado de Pernambuco no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0118",
+  "q": "Quantos milhões de habitantes tinha o estado do Ceará no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0119",
+  "q": "Quantos milhões de habitantes tinha o estado do Pará no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0120",
+  "q": "Quantos milhões de habitantes tinha o estado de Santa Catarina no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0121",
+  "q": "Quantos milhões de habitantes tinha o estado do Maranhão no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0122",
+  "q": "Quantos milhões de habitantes tinha o estado do Amazonas no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0123",
+  "q": "Quantos milhões de habitantes tinha o estado do Mato Grosso no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0124",
+  "q": "Quantos milhões de habitantes tinha o Distrito Federal no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0125",
+  "q": "Quantos milhões de habitantes tinha o estado de Goiás no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0126",
+  "q": "Quantos milhões de habitantes tinha o estado do Espírito Santo no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0127",
+  "q": "Quantos milhões de habitantes tinha o estado de Paraíba no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0128",
+  "q": "Quantos milhões de habitantes tinha o Brasil no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0129",
+  "q": "Quantos milhares de habitantes tinha o estado de Roraima no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0130",
+  "q": "Quantos milhares de habitantes tinha o estado do Amapá no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0131",
+  "q": "Quantos milhares de habitantes tinha o estado do Acre no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0132",
+  "q": "Quantos milhões de habitantes tinha a cidade de São Paulo no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0133",
+  "q": "Quantos milhões de habitantes tinha a cidade de Rio de Janeiro no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0134",
+  "q": "Quantos milhões de habitantes tinha a cidade de Fortaleza no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0135",
+  "q": "Quantos milhões de habitantes tinha a cidade de Salvador no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0136",
+  "q": "Quantos milhões de habitantes tinha a cidade de Belo Horizonte no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0137",
+  "q": "Quantos milhões de habitantes tinha a cidade de Manaus no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0138",
+  "q": "Quantos milhões de habitantes tinha a cidade de Curitiba no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0139",
+  "q": "Quantos milhões de habitantes tinha a cidade de Recife no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0140",
+  "q": "Quantos milhões de habitantes tinha a cidade de Goiânia no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0141",
+  "q": "Quantos milhões de habitantes tinha a cidade de Porto Alegre no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0142",
+  "q": "Quantos milhões de habitantes tinha a cidade de Belém no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0143",
+  "q": "Quantos milhões de habitantes tinha a cidade de São Luís no Censo 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c0144",
+  "q": "Quantos milhares de habitantes tinha a cidade de Cuiabá no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0145",
+  "q": "Quantos milhares de habitantes tinha a cidade de Porto Velho no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0146",
+  "q": "Quantos milhares de habitantes tinha a cidade de Boa Vista no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0147",
+  "q": "Quantos milhares de habitantes tinha a cidade de Maceió no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0148",
+  "q": "Quantos milhares de habitantes tinha a cidade de Campo Grande no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0149",
+  "q": "Quantos milhares de habitantes tinha a cidade de Teresina no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0150",
+  "q": "Quantos milhares de habitantes tinha a cidade de João Pessoa no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0151",
+  "q": "Quantos milhares de habitantes tinha a cidade de Natal no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0152",
+  "q": "Quantos milhares de habitantes tinha a cidade de Aracaju no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0153",
+  "q": "Quantos milhares de habitantes tinha a cidade de Florianópolis no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0154",
+  "q": "Quantos milhares de habitantes tinha a cidade de Macapá no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0155",
+  "q": "Quantos milhares de habitantes tinha a cidade de Rio Branco no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0156",
+  "q": "Quantos milhares de habitantes tinha a cidade de Vitória no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0157",
+  "q": "Quantos milhares de habitantes tinha a cidade de Palmas no Censo 2022?",
+  "unidade": "milhares de habitantes"
+ },
+ {
+  "id": "c0158",
+  "q": "Qual é a área do estado do Amazonas, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0159",
+  "q": "Qual é a área do estado do Pará, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0160",
+  "q": "Qual é a área do estado do Mato Grosso, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0161",
+  "q": "Qual é a área do estado de Minas Gerais, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0162",
+  "q": "Qual é a área do estado de Bahia, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0163",
+  "q": "Qual é a área do estado de São Paulo, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0164",
+  "q": "Qual é a área do estado do Paraná, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0165",
+  "q": "Qual é a área do estado do Acre, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0166",
+  "q": "Qual é a área do estado do Ceará, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0167",
+  "q": "Qual é a área do estado de Santa Catarina, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0168",
+  "q": "Qual é a área do estado de Goiás, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0169",
+  "q": "Qual é a área do estado do Piauí, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0170",
+  "q": "Qual é a área do estado do Mato Grosso do Sul, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c0171",
+  "q": "Qual é a área do Brasil, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0172",
+  "q": "Qual é a área do Distrito Federal, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0173",
+  "q": "Qual é a área do estado de Sergipe, o menor do Brasil, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0174",
+  "q": "Qual é a área do estado do Rio de Janeiro, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0175",
+  "q": "Em que ano Pedro Álvares Cabral chegou ao Brasil?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0176",
+  "q": "Em que ano o Brasil declarou sua Independência?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0177",
+  "q": "Em que ano foi assinada a Lei Áurea, que aboliu a escravidão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0178",
+  "q": "Em que ano foi proclamada a República no Brasil?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0179",
+  "q": "Em que ano Brasília foi inaugurada?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0180",
+  "q": "Em que ano foi promulgada a atual Constituição brasileira?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0181",
+  "q": "Em que ano começou o Plano Real?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0182",
+  "q": "Em que ano a família real portuguesa chegou ao Brasil?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0183",
+  "q": "Em que ano aconteceu a Semana de Arte Moderna?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0184",
+  "q": "Em que ano Tiradentes foi executado?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0185",
+  "q": "Em que ano começou a Guerra do Paraguai?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0186",
+  "q": "Em que ano foi fundada a cidade de São Paulo?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0187",
+  "q": "Em que ano o Brasil sediou a Copa em que perdeu a final no Maracanã?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0188",
+  "q": "Em que ano ocorreu o golpe militar que iniciou a ditadura?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0189",
+  "q": "Quantos estados tem o Brasil, sem contar o Distrito Federal?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c0190",
+  "q": "Quantas estrelas tem a bandeira do Brasil?",
+  "unidade": "estrelas"
+ },
+ {
+  "id": "c0191",
+  "q": "Quantos senadores tem o Brasil?",
+  "unidade": "senadores"
+ },
+ {
+  "id": "c0192",
+  "q": "Quantos deputados federais tem a Câmara dos Deputados?",
+  "unidade": "deputados"
+ },
+ {
+  "id": "c0193",
+  "q": "Quantos países fazem fronteira com o Brasil?",
+  "unidade": "países"
+ },
+ {
+  "id": "c0194",
+  "q": "Quantos biomas continentais o IBGE reconhece no Brasil?",
+  "unidade": "biomas"
+ },
+ {
+  "id": "c0195",
+  "q": "Quantos fusos horários oficiais tem o Brasil, contando as ilhas oceânicas?",
+  "unidade": "fusos"
+ },
+ {
+  "id": "c0196",
+  "q": "Quantos municípios o Brasil tinha, segundo o IBGE, em 2022?",
+  "unidade": "municípios"
+ },
+ {
+  "id": "c0197",
+  "q": "Qual é a idade mínima para ser presidente da República no Brasil?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0198",
+  "q": "Quantos anos dura um mandato de presidente da República?",
+  "unidade": "anos"
+ }
+]

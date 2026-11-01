@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Qual é a altura do Burj Khalifa, em Dubai, em metros?",
+  "unidade": "metros",
+  "resposta": 828,
+  "fonte": "Wikipédia / Emaar",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a altura da Torre Eiffel (com antenas), em metros?",
+  "unidade": "metros",
+  "resposta": 330,
+  "fonte": "Site oficial da Torre Eiffel (2022)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a altura da Estátua da Liberdade, do chão do pedestal até a ponta da tocha, em metros?",
+  "unidade": "metros",
+  "resposta": 93,
+  "fonte": "National Park Service",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altura do Empire State Building, com a antena, em metros?",
+  "unidade": "metros",
+  "resposta": 443,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altura do Taipei 101, em Taiwan, em metros?",
+  "unidade": "metros",
+  "resposta": 508,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da Shanghai Tower, em metros?",
+  "unidade": "metros",
+  "resposta": 632,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura das Torres Petronas, em Kuala Lumpur, em metros?",
+  "unidade": "metros",
+  "resposta": 452,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da torre do Big Ben (Elizabeth Tower), em Londres, em metros?",
+  "unidade": "metros",
+  "resposta": 96,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da Torre de Pisa, em metros?",
+  "unidade": "metros",
+  "resposta": 56,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altura da CN Tower, em Toronto, em metros?",
+  "unidade": "metros",
+  "resposta": 553,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altura da Tokyo Skytree, em metros?",
+  "unidade": "metros",
+  "resposta": 634,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da Estátua da Unidade, na Índia, a estátua mais alta do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 182,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da roda-gigante Ain Dubai, em metros?",
+  "unidade": "metros",
+  "resposta": 250,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento do vão central da ponte Golden Gate, em metros?",
+  "unidade": "metros",
+  "resposta": 1280,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento total do Túnel do Canal da Mancha, em km?",
+  "unidade": "km",
+  "resposta": 50,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o comprimento do túnel ferroviário de São Gotardo (Gotthard Base), na Suíça, em km?",
+  "unidade": "km",
+  "resposta": 57,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento do túnel rodoviário de Lærdal, na Noruega, em km?",
+  "unidade": "km",
+  "resposta": 24.5,
+  "fonte": "Guinness World Records / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento da ponte Danyang–Kunshan, na China, a mais longa do mundo, em km?",
+  "unidade": "km",
+  "resposta": 165,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento da ferrovia Transiberiana (Moscou a Vladivostok), em km?",
+  "unidade": "km",
+  "resposta": 9289,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento do Canal do Panamá, em km?",
+  "unidade": "km",
+  "resposta": 82,
+  "fonte": "Autoridade do Canal do Panamá / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento do Canal de Suez, em km?",
+  "unidade": "km",
+  "resposta": 193,
+  "fonte": "Suez Canal Authority",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos degraus tem a escada até o topo da Torre Eiffel?",
+  "unidade": "degraus",
+  "resposta": 1665,
+  "fonte": "Site oficial da Torre Eiffel",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos andares (pisos) tem o Burj Khalifa?",
+  "unidade": "andares",
+  "resposta": 163,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos andares tem o Empire State Building?",
+  "unidade": "andares",
+  "resposta": 102,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altitude da cidadela de Machu Picchu, no Peru, em metros?",
+  "unidade": "metros",
+  "resposta": 2430,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cômodos tem o Istana Nurul Iman, palácio do sultão de Brunei, o maior palácio residencial do mundo?",
+  "unidade": "cômodos",
+  "resposta": 1788,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura do pilar mais alto do Viaduto de Millau, na França, em metros?",
+  "unidade": "metros",
+  "resposta": 343,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a altura original da Grande Pirâmide de Gizé, em metros?",
+  "unidade": "metros",
+  "resposta": 147,
+  "fonte": "Wikipédia (146,6 m arredondado)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi inaugurada a Torre Eiffel?",
+  "unidade": "ano",
+  "resposta": 1889,
+  "fonte": "Site oficial da Torre Eiffel",
+  "ano": 1889,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a Estátua da Liberdade foi inaugurada em Nova York?",
+  "unidade": "ano",
+  "resposta": 1886,
+  "fonte": "National Park Service",
+  "ano": 1886,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi inaugurada a Ópera de Sydney?",
+  "unidade": "ano",
+  "resposta": 1973,
+  "fonte": "Wikipédia",
+  "ano": 1973,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi inaugurado o Burj Khalifa?",
+  "unidade": "ano",
+  "resposta": 2010,
+  "fonte": "Wikipédia",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi inaugurado o Canal de Suez?",
+  "unidade": "ano",
+  "resposta": 1869,
+  "fonte": "Wikipédia",
+  "ano": 1869,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi inaugurado o Canal do Panamá?",
+  "unidade": "ano",
+  "resposta": 1914,
+  "fonte": "Wikipédia",
+  "ano": 1914,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi inaugurada a Ponte do Brooklyn?",
+  "unidade": "ano",
+  "resposta": 1883,
+  "fonte": "Wikipédia",
+  "ano": 1883,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano começou a construção da Sagrada Família, em Barcelona?",
+  "unidade": "ano",
+  "resposta": 1882,
+  "fonte": "Wikipédia",
+  "ano": 1882,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi fundada a ONU (Organização das Nações Unidas)?",
+  "unidade": "ano",
+  "resposta": 1945,
+  "fonte": "ONU",
+  "ano": 1945,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano aconteceram os primeiros Jogos Olímpicos da era moderna, em Atenas?",
+  "unidade": "ano",
+  "resposta": 1896,
+  "fonte": "COI",
+  "ano": 1896,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano as notas e moedas de euro começaram a circular?",
+  "unidade": "ano",
+  "resposta": 2002,
+  "fonte": "Banco Central Europeu",
+  "ano": 2002,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi concluído o Empire State Building?",
+  "unidade": "ano",
+  "resposta": 1931,
+  "fonte": "Wikipédia",
+  "ano": 1931,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a população mundial chegou a 8 bilhões de pessoas, segundo a ONU?",
+  "unidade": "ano",
+  "resposta": 2022,
+  "fonte": "ONU (World Population Prospects)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Bernard Arnault) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares",
+  "resposta": 211,
+  "fonte": "Forbes (lista mundial de bilionários) 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do segundo mais rico do mundo (Elon Musk) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares",
+  "resposta": 180,
+  "fonte": "Forbes (lista mundial de bilionários) 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do terceiro mais rico do mundo (Jeff Bezos) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares",
+  "resposta": 114,
+  "fonte": "Forbes (lista mundial de bilionários) 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do quarto mais rico do mundo (Larry Ellison) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares",
+  "resposta": 107,
+  "fonte": "Forbes (lista mundial de bilionários) 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do nono mais rico do mundo (Mukesh Ambani) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares",
+  "resposta": 83.4,
+  "fonte": "Forbes (lista mundial de bilionários) 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2021?",
+  "unidade": "bilhões de dólares",
+  "resposta": 177,
+  "fonte": "Forbes (lista mundial de bilionários) 2021",
+  "ano": 2021,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do terceiro mais rico do mundo (Bernard Arnault) na lista Forbes de 2021?",
+  "unidade": "bilhões de dólares",
+  "resposta": 150,
+  "fonte": "Forbes (lista mundial de bilionários) 2021",
+  "ano": 2021,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2020?",
+  "unidade": "bilhões de dólares",
+  "resposta": 113,
+  "fonte": "Forbes (lista mundial de bilionários) 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do quinto mais rico do mundo (Larry Ellison) na lista Forbes de 2020?",
+  "unidade": "bilhões de dólares",
+  "resposta": 59,
+  "fonte": "Forbes (lista mundial de bilionários) 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do segundo mais rico do mundo (Bill Gates) na lista Forbes de 2020?",
+  "unidade": "bilhões de dólares",
+  "resposta": 98,
+  "fonte": "Forbes (lista mundial de bilionários) 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Elon Musk) na lista Forbes de 2022?",
+  "unidade": "bilhões de dólares",
+  "resposta": 219,
+  "fonte": "Forbes (lista mundial de bilionários) 2022",
+  "ano": 2022,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do segundo mais rico do mundo (Jeff Bezos) na lista Forbes de 2022?",
+  "unidade": "bilhões de dólares",
+  "resposta": 171,
+  "fonte": "Forbes (lista mundial de bilionários) 2022",
+  "ano": 2022,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2019?",
+  "unidade": "bilhões de dólares",
+  "resposta": 131,
+  "fonte": "Forbes (lista mundial de bilionários) 2019",
+  "ano": 2019,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Jeff Bezos) na lista Forbes de 2018?",
+  "unidade": "bilhões de dólares",
+  "resposta": 112,
+  "fonte": "Forbes (lista mundial de bilionários) 2018",
+  "ano": 2018,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o patrimônio, em bilhões de dólares, do mais rico do mundo (Bernard Arnault) na lista Forbes de 2024?",
+  "unidade": "bilhões de dólares",
+  "resposta": 233,
+  "fonte": "Forbes (lista mundial de bilionários) 2024",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a população da Índia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1450,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a população da China em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1419,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a população dos Estados Unidos em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 345,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a população da Indonésia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 283,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população do Paquistão em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 251,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população da Nigéria em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 233,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população da Rússia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 144,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população do México em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 130,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população do Japão em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 124,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população da Alemanha em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 84,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população do Reino Unido em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 69,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população da França em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta": 66,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a população mundial em 2024, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta": 8.2,
+  "fonte": "ONU, World Population Prospects 2024 (população em 2024)",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a população da cidade de Istambul, em milhões de habitantes (2023)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 15.5,
+  "fonte": "TÜİK (Turquia) 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a população da cidade de Moscou, em milhões de habitantes (censo 2021)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 13,
+  "fonte": "Censo russo 2021",
+  "ano": 2021,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a população da cidade de Nova York, em milhões de habitantes (censo 2020)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 8.8,
+  "fonte": "US Census Bureau 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a população da cidade de Londres, em milhões de habitantes (censo 2021)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 8.8,
+  "fonte": "ONS (Reino Unido) censo 2021",
+  "ano": 2021,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a população da cidade de Paris, em milhões de habitantes (sem a região metropolitana, 2021)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.1,
+  "fonte": "INSEE 2021",
+  "ano": 2021,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a população da cidade de Xangai, em milhões de habitantes (censo 2020)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 24.9,
+  "fonte": "Censo chinês 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a população da cidade de Pequim, em milhões de habitantes (censo 2020)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 21.9,
+  "fonte": "Censo chinês 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a população de Singapura, em milhões de habitantes (2023)?",
+  "unidade": "milhões de habitantes",
+  "resposta": 5.9,
+  "fonte": "Singstat 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área do Vaticano, em km²?",
+  "unidade": "km²",
+  "resposta": 0.44,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área de Mônaco, em km²?",
+  "unidade": "km²",
+  "resposta": 2,
+  "fonte": "Wikipédia (2,02 km²)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a área da Rússia, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 17.1,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a área do Canadá, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 9.98,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a área da Austrália, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 7.69,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos países são membros da ONU?",
+  "unidade": "países",
+  "resposta": 193,
+  "fonte": "ONU",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos países há no continente africano (reconhecidos pela ONU)?",
+  "unidade": "países",
+  "resposta": 54,
+  "fonte": "ONU / União Africana",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos países soberanos há na América do Sul?",
+  "unidade": "países",
+  "resposta": 12,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos países fazem parte da União Europeia?",
+  "unidade": "países",
+  "resposta": 27,
+  "fonte": "União Europeia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas estrelas tem a bandeira dos Estados Unidos?",
+  "unidade": "estrelas",
+  "resposta": 50,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas listras tem a bandeira dos Estados Unidos?",
+  "unidade": "listras",
+  "resposta": 13,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas estrelas tem a bandeira da União Europeia?",
+  "unidade": "estrelas",
+  "resposta": 12,
+  "fonte": "União Europeia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas estrelas tem a bandeira da China?",
+  "unidade": "estrelas",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos membros tem o Conselho de Segurança da ONU (permanentes e rotativos)?",
+  "unidade": "países",
+  "resposta": 15,
+  "fonte": "ONU",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos idiomas oficiais tem a ONU?",
+  "unidade": "idiomas",
+  "resposta": 6,
+  "fonte": "ONU",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas letras tem o alfabeto havaiano?",
+  "unidade": "letras",
+  "resposta": 13,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas letras tem o alfabeto rotokas, de Papua-Nova Guiné, o mais curto do mundo?",
+  "unidade": "letras",
+  "resposta": 12,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas letras tem o alfabeto khmer (cambojano), o mais longo do mundo?",
+  "unidade": "letras",
+  "resposta": 74,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas categorias de cédulas de euro existem (valores diferentes)?",
+  "unidade": "valores",
+  "resposta": 7,
+  "fonte": "Banco Central Europeu",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas moedas de euro com valores diferentes existem?",
+  "unidade": "valores",
+  "resposta": 8,
+  "fonte": "Banco Central Europeu",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos eventos (disputas com medalha) teve a Olimpíada de Paris 2024?",
+  "unidade": "eventos",
+  "resposta": 329,
+  "fonte": "COI / Paris 2024",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o PIB dos Estados Unidos em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares",
+  "resposta": 27.4,
+  "fonte": "Banco Mundial 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o PIB da China em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares",
+  "resposta": 17.8,
+  "fonte": "Banco Mundial 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o PIB da Alemanha em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares",
+  "resposta": 4.5,
+  "fonte": "Banco Mundial 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o PIB do Japão em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares",
+  "resposta": 4.2,
+  "fonte": "Banco Mundial 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cristãos havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta": 2.3,
+  "fonte": "Pew Research Center 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos muçulmanos havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta": 2.0,
+  "fonte": "Pew Research Center 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos hindus havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta": 1.2,
+  "fonte": "Pew Research Center 2020",
+  "ano": 2020,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos falantes nativos de espanhol havia no mundo em 2023, em milhões?",
+  "unidade": "milhões de pessoas",
+  "resposta": 485,
+  "fonte": "Ethnologue 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos falantes nativos de mandarim havia no mundo em 2023, em milhões?",
+  "unidade": "milhões de pessoas",
+  "resposta": 939,
+  "fonte": "Ethnologue 2023",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas línguas são faladas em Papua-Nova Guiné, país com mais idiomas do mundo?",
+  "unidade": "idiomas",
+  "resposta": 840,
+  "fonte": "Ethnologue",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos visitantes teve o Museu do Louvre em 2024, em milhões?",
+  "unidade": "milhões de visitantes",
+  "resposta": 8.7,
+  "fonte": "Museu do Louvre 2024",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos raios tem a coroa da Estátua da Liberdade?",
+  "unidade": "raios",
+  "resposta": 7,
+  "fonte": "National Park Service",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

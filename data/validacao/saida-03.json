@@ -1,0 +1,794 @@
+[
+ {
+  "id": "c0199",
+  "resposta": 250,
+  "fonte": "Constituição Federal (planalto.gov.br)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0200",
+  "resposta": 9,
+  "fonte": "IBGE / Lei Complementar 124/2007",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0201",
+  "resposta": 21,
+  "fonte": "ICMBio / Wikipédia",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0202",
+  "resposta": 20,
+  "fonte": "Itaipu Binacional",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0203",
+  "resposta": 14000,
+  "fonte": "Itaipu Binacional",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0204",
+  "resposta": 11233,
+  "fonte": "Norte Energia / ONS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0205",
+  "resposta": 8370,
+  "fonte": "Eletronorte",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0206",
+  "resposta": 196,
+  "fonte": "Itaipu Binacional",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "barragem principal 196 m"
+ },
+ {
+  "id": "c0207",
+  "resposta": 13.3,
+  "fonte": "Wikipédia/DNIT (13,29 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0208",
+  "resposta": 38,
+  "fonte": "Santuário Cristo Redentor (30 m estátua + 8 m pedestal)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0209",
+  "resposta": 396,
+  "fonte": "Wikipédia/Parque Bondinho",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0210",
+  "resposta": 2995,
+  "fonte": "IBGE (2.995,30 m; antes 2.993,78 m)",
+  "confianca": "alta",
+  "ambigua": true,
+  "obs": "IBGE revisou em 2016 de 2993,78 para 2995,30; algumas fontes 2994"
+ },
+ {
+  "id": "c0211",
+  "resposta": 1,
+  "fonte": "Folclore brasileiro",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0212",
+  "resposta": 24,
+  "fonte": "Calendário",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0213",
+  "resposta": 7,
+  "fonte": "Calendário",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0214",
+  "resposta": 21,
+  "fonte": "Calendário",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0215",
+  "resposta": 12,
+  "fonte": "Calendário",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0216",
+  "resposta": 20,
+  "fonte": "Lei 14.759/2023",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0217",
+  "resposta": 1984,
+  "fonte": "NSC Total / Oktoberfest Blumenau",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0218",
+  "resposta": 1984,
+  "fonte": "Wikipédia/Riotur",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0219",
+  "resposta": 5,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0220",
+  "resposta": 15,
+  "fonte": "Wikipédia (nasc. 2/12/1825; coroado 18/7/1841)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0221",
+  "resposta": 206,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0222",
+  "resposta": 32,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0223",
+  "resposta": 20,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0224",
+  "resposta": 4,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0225",
+  "resposta": 12,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0226",
+  "resposta": 7,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0227",
+  "resposta": 23,
+  "fonte": "Genética",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0228",
+  "resposta": 22,
+  "fonte": "Anatomia (8 neurocrânio + 14 face)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "22 sem ossículos; alguns contam 28 com ossículos e hioide"
+ },
+ {
+  "id": "c0229",
+  "resposta": 26,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0230",
+  "resposta": 27,
+  "fonte": "Anatomia (8 carpos+5+14)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0231",
+  "resposta": 3,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0232",
+  "resposta": 12,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0233",
+  "resposta": 4,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0234",
+  "resposta": 6,
+  "fonte": "Anatomia (6 extrínsecos)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0235",
+  "resposta": 3,
+  "fonte": "Anatomia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0236",
+  "resposta": 5,
+  "fonte": "Fisiologia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0237",
+  "resposta": 4,
+  "fonte": "Hematologia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0238",
+  "resposta": 86,
+  "fonte": "Azevedo/Herculano-Houzel 2009",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0239",
+  "resposta": 3.1,
+  "fonte": "T2T consortium 2022 (3,055 Gb); clássico ~3,2",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Genoma de referência antigo ~3,2-3,1; T2T 3,055 -> 3,1"
+ },
+ {
+  "id": "c0240",
+  "resposta": 1.4,
+  "fonte": "Literatura anatômica",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "1,3 a 1,4 kg"
+ },
+ {
+  "id": "c0241",
+  "resposta": 1.5,
+  "fonte": "Literatura anatômica",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "1,4 a 1,6 kg"
+ },
+ {
+  "id": "c0242",
+  "resposta": 300,
+  "fonte": "Literatura médica",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "250-350 g"
+ },
+ {
+  "id": "c0243",
+  "resposta": 5,
+  "fonte": "Literatura médica",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "4,5-5,5 L"
+ },
+ {
+  "id": "c0244",
+  "resposta": 60,
+  "fonte": "Literatura médica (USGS/Mayo)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "50-65% conforme sexo/idade; 60% o mais citado"
+ },
+ {
+  "id": "c0245",
+  "resposta": 20,
+  "fonte": "Literatura científica",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0246",
+  "resposta": 180,
+  "fonte": "Literatura médica (NIDDK)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "~150-180 L/dia (~120 mL/min = 173 L)"
+ },
+ {
+  "id": "c0247",
+  "resposta": 120,
+  "fonte": "Hematologia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0248",
+  "resposta": 37,
+  "fonte": "Referência clássica (Wunderlich); estudos recentes 36,6",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "referência mais usada 37 C"
+ },
+ {
+  "id": "c0249",
+  "resposta": 7.4,
+  "fonte": "Fisiologia (7,35-7,45)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0250",
+  "resposta": 120,
+  "fonte": "American Heart Association",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0251",
+  "resposta": 180,
+  "fonte": "Regra 220-idade",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0252",
+  "resposta": 100000,
+  "fonte": "Literatura médica",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "~100 mil batidas/dia (70 bpm = 100.800)"
+ },
+ {
+  "id": "c0253",
+  "resposta": 99,
+  "fonte": "SBD / ADA (normal <100 mg/dL)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Normal é <100 (até 99); 100 inicia pré-diabetes"
+ },
+ {
+  "id": "c0254",
+  "resposta": 25,
+  "fonte": "OMS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0255",
+  "resposta": 30,
+  "fonte": "OMS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0256",
+  "resposta": 150,
+  "fonte": "OMS (150-300)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0257",
+  "resposta": 5,
+  "fonte": "OMS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0258",
+  "resposta": 25,
+  "fonte": "OMS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0259",
+  "resposta": 6,
+  "fonte": "OMS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0260",
+  "resposta": 2000,
+  "fonte": "ANVISA RDC 429/2020",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0261",
+  "resposta": 13,
+  "fonte": "Nutrição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0262",
+  "resposta": 1000,
+  "fonte": "NIH ODS",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0263",
+  "resposta": 400,
+  "fonte": "FDA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0264",
+  "resposta": 6,
+  "fonte": "USDA (6,3 g)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0265",
+  "resposta": 9,
+  "fonte": "Nutrição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0266",
+  "resposta": 4,
+  "fonte": "Nutrição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0267",
+  "resposta": 7,
+  "fonte": "Nutrição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0268",
+  "resposta": 128,
+  "fonte": "TACO (tipo 1: 128; tipo 2: 130)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "TACO arroz tipo 1 128, tipo 2 130"
+ },
+ {
+  "id": "c0269",
+  "resposta": 76,
+  "fonte": "TACO",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0270",
+  "resposta": 300,
+  "fonte": "TACO",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0271",
+  "resposta": 98,
+  "fonte": "TACO",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0272",
+  "resposta": 56,
+  "fonte": "TACO (maçã Fuji com casca)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "USDA 52 kcal"
+ },
+ {
+  "id": "c0273",
+  "resposta": 34,
+  "fonte": "TACO",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "USDA 41"
+ },
+ {
+  "id": "c0274",
+  "resposta": 96,
+  "fonte": "TACO",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "TACO 96; USDA 160 (Hass)"
+ },
+ {
+  "id": "c0275",
+  "resposta": 544,
+  "fonte": "TACO",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "TACO 544; USDA 567"
+ },
+ {
+  "id": "c0276",
+  "resposta": 726,
+  "fonte": "TACO (com sal)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "TACO 726; USDA 717"
+ },
+ {
+  "id": "c0277",
+  "resposta": 163,
+  "fonte": "TACO",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "TACO ~163; USDA 165"
+ },
+ {
+  "id": "c0278",
+  "resposta": 61,
+  "fonte": "TACO/USDA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0279",
+  "resposta": 119,
+  "fonte": "USDA (13,5 g)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "depende do peso da colher; ~108-119"
+ },
+ {
+  "id": "c0280",
+  "resposta": 78,
+  "fonte": "USDA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0281",
+  "resposta": 7,
+  "fonte": "AASM/NSF",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0282",
+  "resposta": 90,
+  "fonte": "Fisiologia do sono",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0283",
+  "resposta": 11,
+  "fonte": "Wikipédia (264 horas)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0284",
+  "resposta": 382,
+  "fonte": "Guinness/Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0285",
+  "resposta": 40,
+  "fonte": "OMS/obstetrícia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0286",
+  "resposta": 6,
+  "fonte": "Obstetrícia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "detectado de 5,5 a 6 semanas"
+ },
+ {
+  "id": "c0287",
+  "resposta": 28,
+  "fonte": "Ginecologia",
+  "confianca": "alta",
+  "ambigua": true,
+  "obs": "21-35 normal, média 28"
+ },
+ {
+  "id": "c0288",
+  "resposta": 6,
+  "fonte": "Odontopediatria",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0289",
+  "resposta": 122,
+  "fonte": "Guinness",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0290",
+  "resposta": 116,
+  "fonte": "Guinness",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0291",
+  "resposta": 76.4,
+  "fonte": "IBGE Tábua de Mortalidade 2023",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0292",
+  "resposta": 272,
+  "fonte": "Guinness (272 cm)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0293",
+  "resposta": 248.3,
+  "fonte": "Guinness",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0294",
+  "resposta": 54.6,
+  "fonte": "Guinness",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0295",
+  "resposta": 635,
+  "fonte": "Guinness",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0296",
+  "resposta": 69,
+  "fonte": "Guinness",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0297",
+  "resposta": 10.2,
+  "fonte": "Guinness/Wikipédia",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ }
+]

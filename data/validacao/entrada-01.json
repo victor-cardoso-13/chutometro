@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0001",
+  "q": "Quantas teclas tem um piano padrão?",
+  "unidade": "teclas"
+ },
+ {
+  "id": "c0002",
+  "q": "Quantas dessas teclas do piano padrão são brancas?",
+  "unidade": "teclas"
+ },
+ {
+  "id": "c0003",
+  "q": "Quantas peças existem no tabuleiro de xadrez no início da partida (as duas cores)?",
+  "unidade": "peças"
+ },
+ {
+  "id": "c0004",
+  "q": "Quantas casas tem o tabuleiro de xadrez?",
+  "unidade": "casas"
+ },
+ {
+  "id": "c0005",
+  "q": "De quantas maneiras diferentes as brancas podem fazer o primeiro lance no xadrez?",
+  "unidade": "lances"
+ },
+ {
+  "id": "c0006",
+  "q": "Quantas cartas tem um baralho comum, sem coringas?",
+  "unidade": "cartas"
+ },
+ {
+  "id": "c0007",
+  "q": "Quantas figuras (valete, dama e rei) tem um baralho comum de 52 cartas?",
+  "unidade": "cartas"
+ },
+ {
+  "id": "c0008",
+  "q": "Quantas peças tem um jogo de dominó tradicional (até o duplo-seis)?",
+  "unidade": "peças"
+ },
+ {
+  "id": "c0009",
+  "q": "Somando todos os pontinhos de um jogo de dominó tradicional (duplo-seis), quantos pontos há?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0010",
+  "q": "Se você somar os pontos das 6 faces de um dado comum, quanto dá?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0011",
+  "q": "Ao jogar dois dados, quantos resultados diferentes (combinações) são possíveis?",
+  "unidade": "combinações"
+ },
+ {
+  "id": "c0012",
+  "q": "Quantas cartas tem um baralho de Uno?",
+  "unidade": "cartas"
+ },
+ {
+  "id": "c0013",
+  "q": "Quantas cartas tem o jogo Dobble?",
+  "unidade": "cartas"
+ },
+ {
+  "id": "c0014",
+  "q": "Quantas cartas tem um baralho completo de tarô (arcanos maiores e menores)?",
+  "unidade": "cartas"
+ },
+ {
+  "id": "c0015",
+  "q": "Quantas peças tem o jogo Scrabble em inglês?",
+  "unidade": "peças"
+ },
+ {
+  "id": "c0016",
+  "q": "Quantos blocos de madeira tem o jogo Jenga?",
+  "unidade": "blocos"
+ },
+ {
+  "id": "c0017",
+  "q": "Quantos adesivos coloridos (quadradinhos) aparecem nas faces de um Cubo Mágico 3x3?",
+  "unidade": "adesivos"
+ },
+ {
+  "id": "c0018",
+  "q": "Quantas casas (quadradinhos) tem um tabuleiro de Sudoku?",
+  "unidade": "casas"
+ },
+ {
+  "id": "c0019",
+  "q": "Quantas casas tem o tabuleiro do Monopoly original?",
+  "unidade": "casas"
+ },
+ {
+  "id": "c0020",
+  "q": "Quantos territórios tem o tabuleiro do jogo Risk?",
+  "unidade": "territórios"
+ },
+ {
+  "id": "c0021",
+  "q": "Quantos tipos de peças (tetraminós) diferentes existem no Tetris?",
+  "unidade": "peças"
+ },
+ {
+  "id": "c0022",
+  "q": "Quantos Pokémon existem na primeira geração (Pokédex original)?",
+  "unidade": "Pokémon"
+ },
+ {
+  "id": "c0023",
+  "q": "Quantos números há no volante da Lotofácil (de 1 até quanto)?",
+  "unidade": "números"
+ },
+ {
+  "id": "c0024",
+  "q": "Quantos números há no volante da Mega-Sena (de 1 até quanto)?",
+  "unidade": "números"
+ },
+ {
+  "id": "c0025",
+  "q": "Quantas peças (no total, das duas cores) tem no início uma partida de damas?",
+  "unidade": "peças"
+ },
+ {
+  "id": "c0026",
+  "q": "Quantas bolas (contando a branca) tem uma mesa de sinuca de 8 bolas (pool)?",
+  "unidade": "bolas"
+ },
+ {
+  "id": "c0027",
+  "q": "Quantos pinos são derrubados no boliche tradicional?",
+  "unidade": "pinos"
+ },
+ {
+  "id": "c0028",
+  "q": "Quantos pontos de costura vermelhos tem uma bola de beisebol oficial?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0029",
+  "q": "De quantas maneiras diferentes dá para juntar 6 peças de Lego 2x4 da mesma cor?",
+  "unidade": "maneiras"
+ },
+ {
+  "id": "c0030",
+  "q": "Quantos fantasmas perseguem o Pac-Man no jogo clássico?",
+  "unidade": "fantasmas"
+ },
+ {
+  "id": "c0031",
+  "q": "Quantas peças tem o quebra-cabeça chinês Tangram?",
+  "unidade": "peças"
+ },
+ {
+  "id": "c0032",
+  "q": "Quantas teclas tem o teclado de um telefone tradicional (com números, asterisco e jogo da velha)?",
+  "unidade": "teclas"
+ },
+ {
+  "id": "c0033",
+  "q": "Quantas letras tem o alfabeto da língua portuguesa?",
+  "unidade": "letras"
+ },
+ {
+  "id": "c0034",
+  "q": "Em que ano a boneca Barbie foi lançada?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0035",
+  "q": "Em que ano Ernő Rubik inventou o Cubo Mágico?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0036",
+  "q": "Em que ano a Coca-Cola foi criada?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0037",
+  "q": "Em que ano o Real passou a ser a moeda do Brasil?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0038",
+  "q": "Em que ano o Tetris foi criado?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0039",
+  "q": "Em que ano foi adotado o calendário gregoriano, que usamos hoje?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0040",
+  "q": "Em que ano foi fundada a fabricante de brinquedos Lego?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0041",
+  "q": "Em que ano as notas e moedas de euro começaram a circular?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0042",
+  "q": "Quantos valores diferentes de cédulas de real existem hoje (R$ 2, 5, 10…)?",
+  "unidade": "cédulas"
+ },
+ {
+  "id": "c0043",
+  "q": "Quantos valores diferentes de moedas tem o euro?",
+  "unidade": "moedas"
+ },
+ {
+  "id": "c0044",
+  "q": "Quantos quilates tem o ouro puro?",
+  "unidade": "quilates"
+ },
+ {
+  "id": "c0045",
+  "q": "Quantos dias tem um ano bissexto?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0046",
+  "q": "Quantas semanas inteiras tem um ano normal de 365 dias?",
+  "unidade": "semanas"
+ },
+ {
+  "id": "c0047",
+  "q": "Quantas horas tem uma semana?",
+  "unidade": "horas"
+ },
+ {
+  "id": "c0048",
+  "q": "Quantos minutos tem um dia?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0049",
+  "q": "Quantos segundos tem uma hora?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c0050",
+  "q": "A cada 400 anos, quantos anos bissextos existem no calendário gregoriano?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0051",
+  "q": "Quantos dias dura, em média, um ciclo completo da Lua (de lua nova a lua nova)?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c0052",
+  "q": "Quantos anos de casamento completam as bodas de prata?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c0053",
+  "q": "Quantos meses do ano têm 31 dias?",
+  "unidade": "meses"
+ },
+ {
+  "id": "c0054",
+  "q": "Quantos meses do ano têm exatamente 30 dias?",
+  "unidade": "meses"
+ },
+ {
+  "id": "c0055",
+  "q": "Quantos milímetros tem uma polegada?",
+  "unidade": "mm"
+ },
+ {
+  "id": "c0056",
+  "q": "Quantos centímetros tem um pé (unidade inglesa)?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0057",
+  "q": "Quantos centímetros tem uma jarda?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0058",
+  "q": "Quantos gramas tem uma libra (unidade inglesa)? Arredonde para o inteiro.",
+  "unidade": "g"
+ },
+ {
+  "id": "c0059",
+  "q": "Quantos metros tem uma milha terrestre? Arredonde para o inteiro.",
+  "unidade": "m"
+ },
+ {
+  "id": "c0060",
+  "q": "Quantos litros tem um galão americano?",
+  "unidade": "litros"
+ },
+ {
+  "id": "c0061",
+  "q": "Quantos quilos tem uma arroba?",
+  "unidade": "kg"
+ },
+ {
+  "id": "c0062",
+  "q": "Quantos metros tem uma milha náutica?",
+  "unidade": "m"
+ },
+ {
+  "id": "c0063",
+  "q": "Quantos metros quadrados tem um hectare?",
+  "unidade": "m²"
+ },
+ {
+  "id": "c0064",
+  "q": "Quantos metros tem uma maratona oficial?",
+  "unidade": "m"
+ },
+ {
+  "id": "c0065",
+  "q": "Quantas unidades tem uma grosa?",
+  "unidade": "unidades"
+ },
+ {
+  "id": "c0066",
+  "q": "Quantas folhas tem uma resma de papel?",
+  "unidade": "folhas"
+ },
+ {
+  "id": "c0067",
+  "q": "Qual a altura de uma folha de papel A4, em milímetros?",
+  "unidade": "mm"
+ },
+ {
+  "id": "c0068",
+  "q": "Quantos gostos básicos a língua humana reconhece (doce, salgado, azedo, amargo e mais um)?",
+  "unidade": "gostos"
+ },
+ {
+  "id": "c0069",
+  "q": "Quantas quilocalorias tem 1 grama de gordura?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0070",
+  "q": "Quantas quilocalorias tem 1 grama de álcool (etanol)?",
+  "unidade": "kcal"
+ },
+ {
+  "id": "c0071",
+  "q": "Quantos mililitros cabem em uma colher de sopa (medida de receitas no Brasil)?",
+  "unidade": "mL"
+ },
+ {
+  "id": "c0072",
+  "q": "Quantos mililitros tem uma lata de refrigerante comum no Brasil?",
+  "unidade": "mL"
+ },
+ {
+  "id": "c0073",
+  "q": "Quantos mililitros tem uma garrafa de vinho padrão?",
+  "unidade": "mL"
+ },
+ {
+  "id": "c0074",
+  "q": "A água ferve a quantos graus Fahrenheit (ao nível do mar)?",
+  "unidade": "°F"
+ },
+ {
+  "id": "c0075",
+  "q": "A água congela a quantos graus Fahrenheit?",
+  "unidade": "°F"
+ },
+ {
+  "id": "c0076",
+  "q": "O álcool etílico (etanol) ferve a quantos graus Celsius? Arredonde para o inteiro.",
+  "unidade": "°C"
+ },
+ {
+  "id": "c0077",
+  "q": "Quantas cordas tem um violão tradicional?",
+  "unidade": "cordas"
+ },
+ {
+  "id": "c0078",
+  "q": "Quantas cordas tem uma harpa de concerto?",
+  "unidade": "cordas"
+ },
+ {
+  "id": "c0079",
+  "q": "Quantas linhas tem uma pauta musical?",
+  "unidade": "linhas"
+ },
+ {
+  "id": "c0080",
+  "q": "Quantas notas diferentes tem a escala musical (dó, ré, mi…), sem contar a repetida?",
+  "unidade": "notas"
+ },
+ {
+  "id": "c0081",
+  "q": "Quantas cores o arco-íris tem, segundo a divisão clássica de Newton?",
+  "unidade": "cores"
+ },
+ {
+  "id": "c0082",
+  "q": "Quantos ossos tem um pé humano adulto?",
+  "unidade": "ossos"
+ },
+ {
+  "id": "c0083",
+  "q": "Quantas pernas tem uma aranha?",
+  "unidade": "pernas"
+ },
+ {
+  "id": "c0084",
+  "q": "Quantas pernas tem um inseto adulto?",
+  "unidade": "pernas"
+ },
+ {
+  "id": "c0085",
+  "q": "Quantos braços tem um polvo?",
+  "unidade": "braços"
+ },
+ {
+  "id": "c0086",
+  "q": "Quantos corações tem um polvo?",
+  "unidade": "corações"
+ },
+ {
+  "id": "c0087",
+  "q": "Quantas patas (pernas e pinças) tem um caranguejo?",
+  "unidade": "patas"
+ },
+ {
+  "id": "c0088",
+  "q": "Quantos olhos tem uma abelha (contando os simples e os compostos)?",
+  "unidade": "olhos"
+ },
+ {
+  "id": "c0089",
+  "q": "Quantas asas tem uma abelha?",
+  "unidade": "asas"
+ },
+ {
+  "id": "c0090",
+  "q": "Quantos compartimentos (estômagos) tem o estômago de uma vaca?",
+  "unidade": "compartimentos"
+ },
+ {
+  "id": "c0091",
+  "q": "Quantas vértebras tem o pescoço de uma girafa?",
+  "unidade": "vértebras"
+ },
+ {
+  "id": "c0092",
+  "q": "Quantos cromossomos tem uma célula humana?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c0093",
+  "q": "Quantos cromossomos tem um cachorro?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c0094",
+  "q": "Quantos cromossomos tem um gato doméstico?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c0095",
+  "q": "Quantos cromossomos tem um chimpanzé?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c0096",
+  "q": "Quantos dentes tem um cachorro adulto?",
+  "unidade": "dentes"
+ },
+ {
+  "id": "c0097",
+  "q": "Quantos dentes tem um gato adulto?",
+  "unidade": "dentes"
+ },
+ {
+  "id": "c0098",
+  "q": "Quantos dedos tem um gato (somando as quatro patas)?",
+  "unidade": "dedos"
+ },
+ {
+  "id": "c0099",
+  "q": "Quantas corcovas tem o camelo bactriano?",
+  "unidade": "corcovas"
+ }
+]

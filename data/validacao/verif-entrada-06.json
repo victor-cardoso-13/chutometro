@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0797",
+  "q": "Quantos passageiros viajavam no Mayflower em 1620?",
+  "unidade": "pessoas",
+  "resposta_autor": 102,
+  "resposta_validador": 102,
+  "obs_validador": "102 passageiros (mais tripulacao ~30)",
+  "motivo": "ok"
+ },
+ {
+  "id": "c1083",
+  "q": "Quantos milhões de pixels tem uma tela Full HD (1920x1080), em milhões (arredondado)?",
+  "unidade": "milhões de pixels",
+  "resposta_autor": 2.07,
+  "resposta_validador": 2,
+  "obs_validador": "2,07 milhoes; arredondado 2 (ou 2,1)",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0663",
+  "q": "Qual a altitude do Chimborazo, vulcão do Equador, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 6263,
+  "resposta_validador": 6263,
+  "obs_validador": "6.263 m (algumas fontes 6.268).",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0278",
+  "q": "Quantas calorias (kcal) tem 100 mililitros de leite integral?",
+  "unidade": "kcal",
+  "resposta_autor": 61,
+  "resposta_validador": 61,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0635",
+  "q": "Em que ano o Brasil ganhou seu primeiro ouro olímpico, no tiro, em Antuérpia?",
+  "unidade": "ano",
+  "resposta_autor": 1920,
+  "resposta_validador": 1920,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0495",
+  "q": "Qual é a velocidade de rotação da Terra no Equador, em km/h?",
+  "unidade": "km/h",
+  "resposta_autor": 1674,
+  "resposta_validador": 1670,
+  "obs_validador": "1670-1674 km/h",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0969",
+  "q": "Quantos cristãos havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta_autor": 2.3,
+  "resposta_validador": 2.38,
+  "obs_validador": "Pew 2,38 bi",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0490",
+  "q": "Qual é a temperatura do núcleo do Sol, em milhões de °C?",
+  "unidade": "milhões de °C",
+  "resposta_autor": 15,
+  "resposta_validador": 15,
+  "obs_validador": "15 a 15,7 milhões",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0146",
+  "q": "Quantos milhares de habitantes tinha a cidade de Boa Vista no Censo 2022?",
+  "unidade": "milhares de habitantes",
+  "resposta_autor": 413,
+  "resposta_validador": 413.5,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c1032",
+  "q": "Quantos minutos de música cabiam no CD original?",
+  "unidade": "minutos",
+  "resposta_autor": 74,
+  "resposta_validador": 74,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0657",
+  "q": "Qual a altitude do Monte Elbrus, o ponto mais alto da Europa, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 5642,
+  "resposta_validador": 5642,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0068",
+  "q": "Quantos gostos básicos a língua humana reconhece (doce, salgado, azedo, amargo e mais um)?",
+  "unidade": "gostos",
+  "resposta_autor": 5,
+  "resposta_validador": 5,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0616",
+  "q": "A que distância do gol fica a marca do pênalti, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 11,
+  "resposta_validador": 11,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0927",
+  "q": "Qual era a população do Paquistão em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 251,
+  "resposta_validador": 251,
+  "obs_validador": "ONU 251",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0945",
+  "q": "Qual é a área de Mônaco, em km²?",
+  "unidade": "km²",
+  "resposta_autor": 2,
+  "resposta_validador": 2.02,
+  "obs_validador": "2,02 km²",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0967",
+  "q": "Qual era o PIB da Alemanha em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares",
+  "resposta_autor": 4.5,
+  "resposta_validador": 4.46,
+  "obs_validador": "Banco Mundial 4,46; FMI 4,53",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0652",
+  "q": "Qual a altitude do Monte Everest, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 8849,
+  "resposta_validador": 8849,
+  "obs_validador": "8.848 m (valor tradicional/China 2005 rocha) vs 8.848,86 (2020) vs 8.849.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0210",
+  "q": "Qual a altitude do Pico da Neblina, ponto mais alto do Brasil, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 2995,
+  "resposta_validador": 2995,
+  "obs_validador": "IBGE revisou em 2016 de 2993,78 para 2995,30; algumas fontes 2994",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0286",
+  "q": "Em qual semana de gestação os batimentos do coração do bebê já costumam ser detectados no ultrassom?",
+  "unidade": "semana",
+  "resposta_autor": 6,
+  "resposta_validador": 6,
+  "obs_validador": "detectado de 5,5 a 6 semanas",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0813",
+  "q": "Quantos anos Napoleão ficou exilado em Santa Helena até morrer?",
+  "unidade": "anos",
+  "resposta_autor": 6,
+  "resposta_validador": 6,
+  "obs_validador": "Santa Helena out/1815 a mai/1821: ~5,6 anos; 5 ou 6",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0894",
+  "q": "Qual é a altura do pilar mais alto do Viaduto de Millau, na França, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 343,
+  "resposta_validador": 245,
+  "obs_validador": "Pilar P2 245 m; mastro mais alto 343 m; tabuleiro 270 m acima do vale",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0779",
+  "q": "Quantos tripulantes voltaram à Espanha no único navio (Victoria) que concluiu a primeira volta ao mundo?",
+  "unidade": "homens",
+  "resposta_autor": 18,
+  "resposta_validador": 18,
+  "obs_validador": "18 europeus (e alguns outros)",
+  "motivo": "ok"
+ }
+]

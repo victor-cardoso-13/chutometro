@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0887",
+  "q": "Qual é o comprimento do Canal do Panamá, em km?",
+  "unidade": "km",
+  "resposta_autor": 82,
+  "resposta_validador": 82,
+  "obs_validador": "~82 km (Autoridade do Canal); 77-82 conforme definicao",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0893",
+  "q": "Quantos cômodos tem o Istana Nurul Iman, palácio do sultão de Brunei, o maior palácio residencial do mundo?",
+  "unidade": "cômodos",
+  "resposta_autor": 1788,
+  "resposta_validador": 1788,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0172",
+  "q": "Qual é a área do Distrito Federal, em km²?",
+  "unidade": "km²",
+  "resposta_autor": 5761,
+  "resposta_validador": 5760.8,
+  "obs_validador": "IBGE 2025: 5.760,785; versões antigas 5.779/5.802",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0069",
+  "q": "Quantas quilocalorias tem 1 grama de gordura?",
+  "unidade": "kcal",
+  "resposta_autor": 9,
+  "resposta_validador": 9,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0758",
+  "q": "Qual era a população da Austrália em 2024, em milhões de habitantes (arredonde), segundo a ONU?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 27,
+  "resposta_validador": 27,
+  "obs_validador": "~26,7 mi; arredondado 27",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0066",
+  "q": "Quantas folhas tem uma resma de papel?",
+  "unidade": "folhas",
+  "resposta_autor": 500,
+  "resposta_validador": 500,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0195",
+  "q": "Quantos fusos horários oficiais tem o Brasil, contando as ilhas oceânicas?",
+  "unidade": "fusos",
+  "resposta_autor": 4,
+  "resposta_validador": 4,
+  "obs_validador": "Considerando Fernando de Noronha (UTC-2); sem ilhas seriam 3",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0685",
+  "q": "Qual a área do Oceano Pacífico, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta_autor": 165,
+  "resposta_validador": 165,
+  "obs_validador": "165,25 (comum) a 168 milhões km² conforme fonte.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0732",
+  "q": "A que altitude, em km, fica a linha de Kármán, considerada a fronteira do espaço?",
+  "unidade": "km",
+  "resposta_autor": 100,
+  "resposta_validador": 100,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0064",
+  "q": "Quantos metros tem uma maratona oficial?",
+  "unidade": "m",
+  "resposta_autor": 42195,
+  "resposta_validador": 42195,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0011",
+  "q": "Ao jogar dois dados, quantos resultados diferentes (combinações) são possíveis?",
+  "unidade": "combinações",
+  "resposta_autor": 36,
+  "resposta_validador": 36,
+  "obs_validador": "36 se ordenados (dado A,B distintos); 21 se não ordenados",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0965",
+  "q": "Qual era o PIB dos Estados Unidos em 2023, em trilhões de dólares?",
+  "unidade": "trilhões de dólares",
+  "resposta_autor": 27.4,
+  "resposta_validador": 27.4,
+  "obs_validador": "Banco Mundial 27,36; FMI 27,72",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0088",
+  "q": "Quantos olhos tem uma abelha (contando os simples e os compostos)?",
+  "unidade": "olhos",
+  "resposta_autor": 5,
+  "resposta_validador": 5,
+  "obs_validador": "5: 2 compostos + 3 ocelos",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0724",
+  "q": "Quantas ilhas principais tem o Japão?",
+  "unidade": "ilhas",
+  "resposta_autor": 4,
+  "resposta_validador": 4,
+  "obs_validador": "4 principais; algumas fontes incluem Okinawa (5)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c1070",
+  "q": "Por quantos bilhões de dólares o Facebook comprou o Instagram, em 2012?",
+  "unidade": "bilhões de dólares",
+  "resposta_autor": 1,
+  "resposta_validador": 1,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0228",
+  "q": "Quantos ossos tem o crânio humano adulto (cabeça, sem contar os ossículos do ouvido)?",
+  "unidade": "ossos",
+  "resposta_autor": 22,
+  "resposta_validador": 22,
+  "obs_validador": "22 sem ossículos; alguns contam 28 com ossículos e hioide",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0251",
+  "q": "Qual é a frequência máxima aproximada de batimentos por minuto de uma pessoa de 40 anos, pela regra \"220 menos a idade\"?",
+  "unidade": "batimentos por minuto",
+  "resposta_autor": 180,
+  "resposta_validador": 180,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0618",
+  "q": "Quantos gols Pelé marcou pelo Santos, segundo o Guinness?",
+  "unidade": "gols",
+  "resposta_autor": 643,
+  "resposta_validador": 643,
+  "obs_validador": "643 gols oficiais pelo Santos (recorde Guinness por um clube); contagens com amistosos dão ~1.091.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0273",
+  "q": "Quantas calorias (kcal) tem 100 gramas de cenoura crua?",
+  "unidade": "kcal",
+  "resposta_autor": 41,
+  "resposta_validador": 34,
+  "obs_validador": "USDA 41",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0104",
+  "q": "Quantos dias dura a gestação de uma cadela?",
+  "unidade": "dias",
+  "resposta_autor": 63,
+  "resposta_validador": 63,
+  "obs_validador": "58-68 dias, média 63 (~9 semanas)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0268",
+  "q": "Quantas calorias (kcal) tem 100 gramas de arroz branco cozido?",
+  "unidade": "kcal",
+  "resposta_autor": 128,
+  "resposta_validador": 128,
+  "obs_validador": "TACO arroz tipo 1 128, tipo 2 130",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0103",
+  "q": "Quantas semanas dura, em média, a gestação humana?",
+  "unidade": "semanas",
+  "resposta_autor": 40,
+  "resposta_validador": 40,
+  "obs_validador": "40 semanas contadas da última menstruação; 38 desde a concepção",
+  "motivo": "ambigua"
+ }
+]

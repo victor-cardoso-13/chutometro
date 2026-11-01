@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0080",
+  "q": "Quantas notas diferentes tem a escala musical (dó, ré, mi…), sem contar a repetida?",
+  "unidade": "notas",
+  "resposta_autor": 7,
+  "resposta_validador": 7,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0930",
+  "q": "Qual era a população do México em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 130,
+  "resposta_validador": 131,
+  "obs_validador": "ONU 130,9",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0609",
+  "q": "Qual é a altura de Shaquille O'Neal, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 2.16,
+  "resposta_validador": 2.16,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0909",
+  "q": "Qual era o patrimônio, em bilhões de dólares, do segundo mais rico do mundo (Elon Musk) na lista Forbes de 2023?",
+  "unidade": "bilhões de dólares",
+  "resposta_autor": 180,
+  "resposta_validador": 180,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0244",
+  "q": "Que percentual do corpo de um adulto é, em média, composto de água?",
+  "unidade": "%",
+  "resposta_autor": 60,
+  "resposta_validador": 60,
+  "obs_validador": "50-65% conforme sexo/idade; 60% o mais citado",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0642",
+  "q": "Em que ano foram disputadas as Olimpíadas do Rio de Janeiro?",
+  "unidade": "ano",
+  "resposta_autor": 2016,
+  "resposta_validador": 2016,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0928",
+  "q": "Qual era a população da Nigéria em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 233,
+  "resposta_validador": 233,
+  "obs_validador": "ONU 233",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0929",
+  "q": "Qual era a população da Rússia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 144,
+  "resposta_validador": 144,
+  "obs_validador": "ONU 144; Rosstat 146",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0668",
+  "q": "Qual a altitude do Puncak Jaya, o ponto mais alto da Oceania, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 4884,
+  "resposta_validador": 4884,
+  "obs_validador": "4.884 m (4.886 em fontes antigas).",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0287",
+  "q": "Quantos dias dura, em média, o ciclo menstrual?",
+  "unidade": "dias",
+  "resposta_autor": 28,
+  "resposta_validador": 28,
+  "obs_validador": "21-35 normal, média 28",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c1045",
+  "q": "Qual o comprimento do vão central da ponte Golden Gate, em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta_autor": 1280,
+  "resposta_validador": 1280,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0617",
+  "q": "Qual é o comprimento do campo de futebol usado em jogos internacionais da FIFA, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 105,
+  "resposta_validador": 105,
+  "obs_validador": "Regras: 100-110 m em jogos internacionais; 105 m é o padrão recomendado FIFA.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0593",
+  "q": "Quantas corridas teve a temporada de Fórmula 1 de 2024?",
+  "unidade": "corridas",
+  "resposta_autor": 24,
+  "resposta_validador": 24,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c1052",
+  "q": "Quantas unidades do PlayStation 2 foram vendidas, em milhões (dado da Sony)?",
+  "unidade": "milhões de unidades",
+  "resposta_autor": 155,
+  "resposta_validador": 160,
+  "obs_validador": "Sony: 'mais de 160 milhoes' (2024); estimativa antiga 155 milhoes (2012)",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0276",
+  "q": "Quantas calorias (kcal) tem 100 gramas de manteiga?",
+  "unidade": "kcal",
+  "resposta_autor": 717,
+  "resposta_validador": 726,
+  "obs_validador": "TACO 726; USDA 717",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0235",
+  "q": "Quantas camadas principais tem a pele (epiderme, derme e hipoderme)?",
+  "unidade": "camadas",
+  "resposta_autor": 3,
+  "resposta_validador": 3,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0368",
+  "q": "Quantos capítulos teve a novela O Clone?",
+  "unidade": "capítulos",
+  "resposta_autor": 221,
+  "resposta_validador": 221,
+  "obs_validador": "Fontes variam (221 na maioria; reprises diferem).",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0876",
+  "q": "Qual é a altura da Torre de Pisa, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 56,
+  "resposta_validador": 56,
+  "obs_validador": "55,9 m no lado mais baixo, 56,7 no mais alto",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0970",
+  "q": "Quantos muçulmanos havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta_autor": 2.0,
+  "resposta_validador": 1.99,
+  "obs_validador": "Pew 1,99 bi",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0087",
+  "q": "Quantas patas (pernas e pinças) tem um caranguejo?",
+  "unidade": "patas",
+  "resposta_autor": 10,
+  "resposta_validador": 10,
+  "obs_validador": "Caranguejo: 10 patas incl. 2 pinças",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0869",
+  "q": "Qual é a altura da Torre Eiffel (com antenas), em metros?",
+  "unidade": "metros",
+  "resposta_autor": 330,
+  "resposta_validador": 330,
+  "obs_validador": "330 m desde a antena de 2022 (324 m antes; 300 m sem antenas)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0745",
+  "q": "Em que ano ocorreu o terremoto de Valdivia, no Chile, o mais forte já registrado?",
+  "unidade": "ano",
+  "resposta_autor": 1960,
+  "resposta_validador": 1960,
+  "obs_validador": "",
+  "motivo": "ok"
+ }
+]

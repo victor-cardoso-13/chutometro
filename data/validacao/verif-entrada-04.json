@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0932",
+  "q": "Qual era a população da Alemanha em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 84,
+  "resposta_validador": 84,
+  "obs_validador": "ONU 84,5; Destatis 83,5",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0710",
+  "q": "Com quantos países a Rússia faz fronteira por terra?",
+  "unidade": "países",
+  "resposta_autor": 14,
+  "resposta_validador": 14,
+  "obs_validador": "14 (16 contando Abecásia e Ossétia do Sul)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0349",
+  "q": "Quantos Oscars ganhou o filme Titanic?",
+  "unidade": "Oscars",
+  "resposta_autor": 11,
+  "resposta_validador": 11,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0971",
+  "q": "Quantos hindus havia no mundo em 2020, em bilhões de pessoas?",
+  "unidade": "bilhões de pessoas",
+  "resposta_autor": 1.2,
+  "resposta_validador": 1.2,
+  "obs_validador": "Pew 1,16-1,2 bi",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c1012",
+  "q": "Qual o comprimento do túnel ferroviário de São Gotardo, na Suíça, em km (arredondado)?",
+  "unidade": "km",
+  "resposta_autor": 57,
+  "resposta_validador": 57,
+  "obs_validador": "Tunel de Base de Sao Gotardo = 57,1 km; o tunel ferroviario antigo (1882) tem 15 km",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c1003",
+  "q": "Qual a envergadura (largura de ponta a ponta das asas) do Airbus A380, em metros (arredondado)?",
+  "unidade": "metros",
+  "resposta_autor": 80,
+  "resposta_validador": 80,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0777",
+  "q": "Quantos navios compunham a primeira viagem de Cristóvão Colombo à América?",
+  "unidade": "navios",
+  "resposta_autor": 3,
+  "resposta_validador": 3,
+  "obs_validador": "Santa Maria, Pinta e Niña",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0318",
+  "q": "Qual é o nível de saturação de oxigênio no sangue (em %) abaixo do qual se considera alterado?",
+  "unidade": "%",
+  "resposta_autor": 95,
+  "resposta_validador": 95,
+  "obs_validador": "Abaixo de 95% alterado; hipoxemia clara abaixo de 90%.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0719",
+  "q": "Por quantos países em terra passa a linha do Equador?",
+  "unidade": "países",
+  "resposta_autor": 13,
+  "resposta_validador": 11,
+  "obs_validador": "11-13 conforme contagem (Quiribáti, Maldivas, São Tomé)",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0961",
+  "q": "Quantas letras tem o alfabeto khmer (cambojano), o mais longo do mundo?",
+  "unidade": "letras",
+  "resposta_autor": 74,
+  "resposta_validador": 74,
+  "obs_validador": "Guinness 74; fontes antigas 72; Khmer é abugida",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0077",
+  "q": "Quantas cordas tem um violão tradicional?",
+  "unidade": "cordas",
+  "resposta_autor": 6,
+  "resposta_validador": 6,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0664",
+  "q": "Qual a altitude do Mauna Kea, no Havaí, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 4207,
+  "resposta_validador": 4207,
+  "obs_validador": "4.205-4.207 m.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0931",
+  "q": "Qual era a população do Japão em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 124,
+  "resposta_validador": 124,
+  "obs_validador": "ONU 123,8",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0365",
+  "q": "Quantas temporadas teve a série M*A*S*H?",
+  "unidade": "temporadas",
+  "resposta_autor": 11,
+  "resposta_validador": 11,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0660",
+  "q": "Qual a altitude do Monte Olimpo, o mais alto da Grécia, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 2917,
+  "resposta_validador": 2918,
+  "obs_validador": "2.917-2.918 m.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0889",
+  "q": "Quantos degraus tem a escada até o topo da Torre Eiffel?",
+  "unidade": "degraus",
+  "resposta_autor": 1665,
+  "resposta_validador": 1665,
+  "obs_validador": "1.665 degraus ate o topo (fontes 1.710 ou 1.665)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0738",
+  "q": "A que altitude fica a cidade de La Paz, na Bolívia, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 3640,
+  "resposta_validador": 3640,
+  "obs_validador": "Varia 3.200-4.100 m; cidade em ~3.640 m (El Alto 4.150)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0384",
+  "q": "Quantas sinfonias numeradas compôs Mozart?",
+  "unidade": "sinfonias",
+  "resposta_autor": 41,
+  "resposta_validador": 41,
+  "obs_validador": "41 numeradas (K.550/551); catálogo total ~47-68 conforme contagem.",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c1081",
+  "q": "A quantas rotações por minuto girava um disco de vinil LP (arredondado, 33 e 1/3)?",
+  "unidade": "rotações por minuto",
+  "resposta_autor": 33.33,
+  "resposta_validador": 33,
+  "obs_validador": "",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0974",
+  "q": "Quantas línguas são faladas em Papua-Nova Guiné, país com mais idiomas do mundo?",
+  "unidade": "idiomas",
+  "resposta_autor": 840,
+  "resposta_validador": 840,
+  "obs_validador": "Ethnologue 839-840",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0924",
+  "q": "Qual era a população da China em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 1419,
+  "resposta_validador": 1419,
+  "obs_validador": "ONU 1419; Banco Mundial ~1410",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0483",
+  "q": "Qual é a altura do Monte Olimpo, vulcão de Marte, em km?",
+  "unidade": "km",
+  "resposta_autor": 21.9,
+  "resposta_validador": 22,
+  "obs_validador": "21,9 km (22), alguns citam 25",
+  "motivo": "ambigua"
+ }
+]

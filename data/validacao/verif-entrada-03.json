@@ -1,0 +1,200 @@
+[
+ {
+  "id": "c0718",
+  "q": "Quantos fusos horários oficiais a China usa?",
+  "unidade": "fusos",
+  "resposta_autor": 1,
+  "resposta_validador": 1,
+  "obs_validador": "Cinco fusos geográficos, um oficial",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0661",
+  "q": "Qual a altitude do Monte Kosciuszko, o ponto mais alto da Austrália, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 2228,
+  "resposta_validador": 2228,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0575",
+  "q": "Quantos anéis tem o símbolo das Olimpíadas?",
+  "unidade": "anéis",
+  "resposta_autor": 5,
+  "resposta_validador": 5,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0252",
+  "q": "Quantas vezes o coração de um adulto bate por dia, aproximadamente (arredonde para 100 mil)?",
+  "unidade": "batidas",
+  "resposta_autor": 100000,
+  "resposta_validador": 100000,
+  "obs_validador": "~100 mil batidas/dia (70 bpm = 100.800)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0708",
+  "q": "Quantos fusos horários a Rússia tem?",
+  "unidade": "fusos",
+  "resposta_autor": 11,
+  "resposta_validador": 11,
+  "obs_validador": "11 desde 2014",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0628",
+  "q": "Quantas lutas profissionais Floyd Mayweather venceu, sem nenhuma derrota?",
+  "unidade": "vitórias",
+  "resposta_autor": 50,
+  "resposta_validador": 50,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0933",
+  "q": "Qual era a população do Reino Unido em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 69,
+  "resposta_validador": 69,
+  "obs_validador": "ONU 68,5",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0600",
+  "q": "Qual é o comprimento de uma quadra de tênis, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 23.77,
+  "resposta_validador": 23.77,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0065",
+  "q": "Quantas unidades tem uma grosa?",
+  "unidade": "unidades",
+  "resposta_autor": 144,
+  "resposta_validador": 144,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0454",
+  "q": "A que temperatura o tungstênio derrete, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta_autor": 3422,
+  "resposta_validador": 3422,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0324",
+  "q": "Quantas calorias (kcal) tem 100 gramas de batata inglesa cozida sem casca?",
+  "unidade": "kcal",
+  "resposta_autor": 86,
+  "resposta_validador": 87,
+  "obs_validador": "",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0842",
+  "q": "Qual era a extensão do Muro de Berlim em volta de Berlim Ocidental, em km?",
+  "unidade": "km",
+  "resposta_autor": 155,
+  "resposta_validador": 155,
+  "obs_validador": "155 km em volta de Berlim Ocidental (43 km dentro da cidade)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0923",
+  "q": "Qual era a população da Índia em 2024, em milhões de habitantes?",
+  "unidade": "milhões de habitantes",
+  "resposta_autor": 1450,
+  "resposta_validador": 1450,
+  "obs_validador": "ONU WPP2024: 1450; Banco Mundial ~1441",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0972",
+  "q": "Quantos falantes nativos de espanhol havia no mundo em 2023, em milhões?",
+  "unidade": "milhões de pessoas",
+  "resposta_autor": 485,
+  "resposta_validador": 485,
+  "obs_validador": "Ethnologue ~485 M",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0055",
+  "q": "Quantos milímetros tem uma polegada?",
+  "unidade": "mm",
+  "resposta_autor": 25.4,
+  "resposta_validador": 25.4,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0376",
+  "q": "Quantas faixas tem o Álbum Branco (White Album) dos Beatles?",
+  "unidade": "faixas",
+  "resposta_autor": 30,
+  "resposta_validador": 30,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0293",
+  "q": "Quantos centímetros media Zeng Jinlian, a mulher mais alta da história com altura comprovada?",
+  "unidade": "cm",
+  "resposta_autor": 246,
+  "resposta_validador": 248.3,
+  "obs_validador": "",
+  "motivo": "divergente"
+ },
+ {
+  "id": "c0820",
+  "q": "Quantos minutos durou a Guerra Anglo-Zanzibari de 1896, considerada a mais curta da história?",
+  "unidade": "minutos",
+  "resposta_autor": 38,
+  "resposta_validador": 38,
+  "obs_validador": "38 min (Wikipedia: 38 a 45 min)",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0478",
+  "q": "Quanto dura um ano em Plutão, em anos terrestres (arredondado)?",
+  "unidade": "anos",
+  "resposta_autor": 248,
+  "resposta_validador": 248,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0840",
+  "q": "Qual a altura da Estátua da Liberdade, do chão ao alto da tocha, incluindo o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta_autor": 93,
+  "resposta_validador": 93,
+  "obs_validador": "93 m do chao do pedestal a tocha (305 ft 6 in); estatua em si 46 m",
+  "motivo": "ambigua"
+ },
+ {
+  "id": "c0648",
+  "q": "Quantos títulos de Grand Slam em simples Margaret Court ganhou (recorde histórico)?",
+  "unidade": "títulos",
+  "resposta_autor": 24,
+  "resposta_validador": 24,
+  "obs_validador": "",
+  "motivo": "ok"
+ },
+ {
+  "id": "c0033",
+  "q": "Quantas letras tem o alfabeto da língua portuguesa?",
+  "unidade": "letras",
+  "resposta_autor": 26,
+  "resposta_validador": 26,
+  "obs_validador": "26 desde o Acordo Ortográfico (2009); antes 23",
+  "motivo": "ambigua"
+ }
+]

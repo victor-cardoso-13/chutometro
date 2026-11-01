@@ -1,0 +1,794 @@
+[
+ {
+  "id": "c0100",
+  "resposta": 21,
+  "fonte": "Referência zoológica geral (avicultura)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0101",
+  "resposta": 28,
+  "fonte": "Referência zoológica geral",
+  "confianca": "media",
+  "ambigua": false,
+  "obs": "Pato doméstico 28 dias; pato-mudo (Muscovy) 35"
+ },
+ {
+  "id": "c0102",
+  "resposta": 22,
+  "fonte": "Britannica/Wikipedia elefante",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Gestação ~22 meses (African 22, Asian 18-22)"
+ },
+ {
+  "id": "c0103",
+  "resposta": 40,
+  "fonte": "OMS/Wikipedia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "40 semanas contadas da última menstruação; 38 desde a concepção"
+ },
+ {
+  "id": "c0104",
+  "resposta": 63,
+  "fonte": "Referência veterinária",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "58-68 dias, média 63 (~9 semanas)"
+ },
+ {
+  "id": "c0105",
+  "resposta": 283,
+  "fonte": "Referência veterinária",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Média 280-285 dias"
+ },
+ {
+  "id": "c0106",
+  "resposta": 11,
+  "fonte": "Referência veterinária",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "~340 dias (~11 meses)"
+ },
+ {
+  "id": "c0107",
+  "resposta": 114,
+  "fonte": "Referência veterinária",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "114 dias (3m3s3d = 114)"
+ },
+ {
+  "id": "c0108",
+  "resposta": 28,
+  "fonte": "Referência veterinária",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0109",
+  "resposta": 64,
+  "fonte": "Wikipedia/NCBI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "2n=64"
+ },
+ {
+  "id": "c0110",
+  "resposta": 8,
+  "fonte": "Wikipedia/NCBI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "2n=8"
+ },
+ {
+  "id": "c0111",
+  "resposta": 44.41,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 44411238)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0112",
+  "resposta": 20.54,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 20539989)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0113",
+  "resposta": 16.06,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 16055174)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0114",
+  "resposta": 14.14,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 14141626)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0115",
+  "resposta": 11.44,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 11444380)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0116",
+  "resposta": 10.88,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 10882965)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0117",
+  "resposta": 9.06,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 9058931)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0118",
+  "resposta": 8.79,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 8794957)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0119",
+  "resposta": 8.12,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 8120131)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0120",
+  "resposta": 7.61,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 7610361)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0121",
+  "resposta": 6.78,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 6776699)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0122",
+  "resposta": 3.94,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 3941613)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0123",
+  "resposta": 3.66,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 3658649)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0124",
+  "resposta": 2.82,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 2817381)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0125",
+  "resposta": 7.06,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 7056495)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0126",
+  "resposta": 3.83,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 3833712)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0127",
+  "resposta": 3.97,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 3974687)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0128",
+  "resposta": 203.08,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 203080756)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0129",
+  "resposta": 636.7,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 636707)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0130",
+  "resposta": 733.8,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 733759)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0131",
+  "resposta": 830.0,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_população (IBGE Censo 2022: 830018)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0132",
+  "resposta": 11.45,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 11451999)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0133",
+  "resposta": 6.21,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 6211223)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0134",
+  "resposta": 2.43,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 2428708)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0135",
+  "resposta": 2.42,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 2417678)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0136",
+  "resposta": 2.32,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 2315560)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0137",
+  "resposta": 2.06,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 2063689)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0138",
+  "resposta": 1.77,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 1773718)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0139",
+  "resposta": 1.49,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 1488920)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0140",
+  "resposta": 1.44,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 1437366)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0141",
+  "resposta": 1.33,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 1332845)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0142",
+  "resposta": 1.3,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 1303403)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0143",
+  "resposta": 1.04,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 1037775)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0144",
+  "resposta": 650.9,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 650877)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0145",
+  "resposta": 460.4,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 460434)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0146",
+  "resposta": 413.5,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 413486)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0147",
+  "resposta": 957.9,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 957916)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0148",
+  "resposta": 898.1,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 898100)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0149",
+  "resposta": 866.3,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 866300)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0150",
+  "resposta": 833.9,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 833932)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0151",
+  "resposta": 751.3,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 751300)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0152",
+  "resposta": 602.8,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 602757)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0153",
+  "resposta": 537.2,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 537211)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0154",
+  "resposta": 442.9,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 442933)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0155",
+  "resposta": 364.8,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 364756)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0156",
+  "resposta": 322.9,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 322869)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0157",
+  "resposta": 302.7,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022) (IBGE: 302692)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0158",
+  "resposta": 1558.7,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 1558704.331 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0159",
+  "resposta": 1245.8,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 1245831.512 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0160",
+  "resposta": 903.2,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 903208.027 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0161",
+  "resposta": 586.5,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 586514.008 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0162",
+  "resposta": 564.8,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 564763.876 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0163",
+  "resposta": 248.2,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 248219.485 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0164",
+  "resposta": 199.3,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 199293.571 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0165",
+  "resposta": 164.1,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 164064.761 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0166",
+  "resposta": 148.9,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 148894.440 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0167",
+  "resposta": 95.7,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 95736.100 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0168",
+  "resposta": 340.2,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 340242.859 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0169",
+  "resposta": 251.8,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 251755.499 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0170",
+  "resposta": 357.1,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2025: 357142.010 km2; revisões anteriores diferem pouco"
+ },
+ {
+  "id": "c0171",
+  "resposta": 8.51,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "8.509.360 km2"
+ },
+ {
+  "id": "c0172",
+  "resposta": 5760.8,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "IBGE 2025: 5.760,785; versões antigas 5.779/5.802"
+ },
+ {
+  "id": "c0173",
+  "resposta": 21938,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "IBGE 2025: 21.938,188; versão antiga 21.915"
+ },
+ {
+  "id": "c0174",
+  "resposta": 43750,
+  "fonte": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_área (IBGE)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "IBGE 2025: 43.750,4; versão antiga 43.780/43.696"
+ },
+ {
+  "id": "c0175",
+  "resposta": 1500,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0176",
+  "resposta": 1822,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0177",
+  "resposta": 1888,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0178",
+  "resposta": 1889,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0179",
+  "resposta": 1960,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0180",
+  "resposta": 1988,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0181",
+  "resposta": 1994,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "URV em fev/1994, real em jul/1994"
+ },
+ {
+  "id": "c0182",
+  "resposta": 1808,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0183",
+  "resposta": 1922,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0184",
+  "resposta": 1792,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0185",
+  "resposta": 1864,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Início em dez/1864"
+ },
+ {
+  "id": "c0186",
+  "resposta": 1554,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0187",
+  "resposta": 1950,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0188",
+  "resposta": 1964,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0189",
+  "resposta": 26,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0190",
+  "resposta": 27,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0191",
+  "resposta": 81,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0192",
+  "resposta": 513,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0193",
+  "resposta": 10,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0194",
+  "resposta": 6,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa, Pantanal"
+ },
+ {
+  "id": "c0195",
+  "resposta": 4,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Considerando Fernando de Noronha (UTC-2); sem ilhas seriam 3"
+ },
+ {
+  "id": "c0196",
+  "resposta": 5570,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "IBGE 2022"
+ },
+ {
+  "id": "c0197",
+  "resposta": 35,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Constituição art. 14"
+ },
+ {
+  "id": "c0198",
+  "resposta": 4,
+  "fonte": "Wikipedia/IBGE/Constituição",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ }
+]

@@ -31,3 +31,9 @@ Cada arquivo `data/src/<categoria>.json` é uma lista (array JSON) de objetos:
 6. **Sem repetição**: não repita pergunta nem o mesmo fato com outras palavras.
 7. Nada ofensivo, político-partidário ou com dados pessoais de gente comum. Personalidades só com fatos públicos e consolidados.
 8. Números com precisão razoável: se a resposta oficial for 8.848,86 m, pergunte "em metros" e use 8849 (arredondado como a fonte mais comum) — e deixe claro na fonte.
+
+## Regra para dados que mudam com o tempo (decidida pelo Victor)
+Não existe "atualizável" para o jogador. Todo dado que muda **entra na própria pergunta com data e fonte fixas**, e assim a resposta nunca envelhece. Exemplos:
+- "Qual era o patrimônio, em bilhões de dólares, do homem mais rico do mundo em dezembro de 2025, segundo a Forbes?"
+- "Quantos habitantes tinha o Brasil no Censo de 2022, em milhões?"
+Por isso `atualizavel` fica sempre `false` no banco final, e a data/fonte aparece no texto da pergunta (`q`).

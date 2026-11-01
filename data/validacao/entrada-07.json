@@ -1,0 +1,497 @@
+[
+ {
+  "id": "c0595",
+  "q": "Quantos títulos de Grand Slam Rafael Nadal ganhou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0596",
+  "q": "Quantos títulos de Grand Slam Serena Williams ganhou em simples?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0597",
+  "q": "Quantos títulos de Grand Slam Novak Djokovic ganhou em simples (dado de 2025)?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0598",
+  "q": "Quanto durou o jogo de Wimbledon 2010 entre Isner e Mahut, o mais longo da história do tênis, em minutos?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c0599",
+  "q": "Quantos games teve ao todo o jogo Isner x Mahut em Wimbledon 2010 (com o 5º set 70 a 68)?",
+  "unidade": "games"
+ },
+ {
+  "id": "c0600",
+  "q": "Qual é o comprimento de uma quadra de tênis, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0601",
+  "q": "Quantos pontos Wilt Chamberlain fez em um único jogo da NBA em 1962?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0602",
+  "q": "Quantos pontos Kobe Bryant fez em um jogo contra o Toronto Raptors em 2006?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0603",
+  "q": "Quantos pontos Kareem Abdul-Jabbar fez na carreira da NBA?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c0604",
+  "q": "Qual é a altura do aro de basquete, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0605",
+  "q": "Quantos jogos tem a temporada regular da NBA por time?",
+  "unidade": "jogos"
+ },
+ {
+  "id": "c0606",
+  "q": "Quantos títulos da NBA Michael Jordan conquistou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0607",
+  "q": "Quantos títulos Bill Russell conquistou na NBA como jogador?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0608",
+  "q": "Quantos arremessos de 3 pontos Stephen Curry converteu na temporada 2015-16 (recorde numa temporada) (dado de 2025)?",
+  "unidade": "cestas de 3"
+ },
+ {
+  "id": "c0609",
+  "q": "Qual é a altura de Shaquille O'Neal, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0610",
+  "q": "Qual é a altura da rede de vôlei masculino, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0611",
+  "q": "Qual é o comprimento da quadra de vôlei, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0612",
+  "q": "Quantas vezes a seleção brasileira masculina de vôlei foi campeã olímpica?",
+  "unidade": "ouros"
+ },
+ {
+  "id": "c0613",
+  "q": "Quantos ouros olímpicos Mark Spitz ganhou na natação em Munique 1972?",
+  "unidade": "medalhas de ouro"
+ },
+ {
+  "id": "c0614",
+  "q": "Qual é a largura do gol de futebol, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0615",
+  "q": "Qual é a altura do gol de futebol, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0616",
+  "q": "A que distância do gol fica a marca do pênalti, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0617",
+  "q": "Qual é o comprimento do campo de futebol usado em jogos internacionais da FIFA, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0618",
+  "q": "Quantos gols Pelé marcou pelo Santos, segundo o Guinness?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0619",
+  "q": "Quantos gols o goleiro Rogério Ceni marcou na carreira?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0620",
+  "q": "Quantas Bolas de Ouro Lionel Messi ganhou (dado de 2025)?",
+  "unidade": "troféus"
+ },
+ {
+  "id": "c0621",
+  "q": "Quantos torneios Major de golfe Tiger Woods ganhou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0622",
+  "q": "Quantas vitórias Tiger Woods tem no PGA Tour?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c0623",
+  "q": "Qual é o diâmetro do buraco de golfe, em centímetros?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c0624",
+  "q": "Quantos quilômetros de bicicleta tem a prova de Ironman?",
+  "unidade": "km"
+ },
+ {
+  "id": "c0625",
+  "q": "Quantas partidas seguidas o beisebolista Cal Ripken Jr. jogou (recorde da MLB)?",
+  "unidade": "jogos"
+ },
+ {
+  "id": "c0626",
+  "q": "Quantos home runs Barry Bonds fez na temporada de 2001 da MLB?",
+  "unidade": "home runs"
+ },
+ {
+  "id": "c0627",
+  "q": "Quantos gols Wayne Gretzky marcou na carreira na NHL?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0628",
+  "q": "Quantas lutas profissionais Floyd Mayweather venceu, sem nenhuma derrota?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c0629",
+  "q": "Em que ano foi disputada a primeira Copa do Mundo de futebol?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0630",
+  "q": "Em que ano o Maracanã recebeu a final da Copa do Mundo e o Brasil perdeu para o Uruguai?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0631",
+  "q": "Em que ano o Brasil ganhou sua primeira Copa do Mundo?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0632",
+  "q": "Em que ano o Brasil ganhou a Copa do Mundo pela terceira vez, no México?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0633",
+  "q": "Em que ano Ayrton Senna morreu em Ímola?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0634",
+  "q": "Em que ano foram realizadas as primeiras Olimpíadas da era moderna, em Atenas?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0635",
+  "q": "Em que ano o Brasil ganhou seu primeiro ouro olímpico, no tiro, em Antuérpia?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0636",
+  "q": "Em que ano Roger Bannister correu a milha em menos de 4 minutos pela primeira vez?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0637",
+  "q": "Em que ano foi disputada a primeira corrida do Campeonato Mundial de Fórmula 1?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0638",
+  "q": "Em que ano Nadia Comaneci tirou a primeira nota 10 da ginástica olímpica?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0639",
+  "q": "Em que ano o Dream Team dos EUA ganhou o ouro olímpico em Barcelona?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0640",
+  "q": "Em que ano Bob Beamon saltou 8,90 m nos Jogos do México?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0641",
+  "q": "Em que ano o Brasil ganhou o pentacampeonato mundial de futebol?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0642",
+  "q": "Em que ano foram disputadas as Olimpíadas do Rio de Janeiro?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0643",
+  "q": "Em que ano Pelé marcou seu milésimo gol, no Maracanã?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c0644",
+  "q": "Quantos gols a Hungria marcou sobre El Salvador na Copa de 1982 (maior goleada da história das Copas)?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0645",
+  "q": "Quantos gols foram marcados em Áustria 7 x 5 Suíça, na Copa de 1954 (mais gols em um jogo de Copa)?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c0646",
+  "q": "Quantos títulos de Roland Garros Rafael Nadal ganhou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0647",
+  "q": "Quantos títulos de Roland Garros Gustavo Kuerten ganhou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0648",
+  "q": "Quantos títulos de Grand Slam em simples Margaret Court ganhou (recorde histórico)?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0649",
+  "q": "Quantas voltas tem o GP de Mônaco de Fórmula 1?",
+  "unidade": "voltas"
+ },
+ {
+  "id": "c0650",
+  "q": "Qual é a altura da rede de vôlei feminino, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0651",
+  "q": "Quantas vezes a seleção brasileira masculina de vôlei foi campeã mundial?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c0652",
+  "q": "Qual a altitude do Monte Everest, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0653",
+  "q": "Qual a altitude do K2, a segunda montanha mais alta do mundo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0654",
+  "q": "Qual a altitude do Monte Kilimanjaro, na Tanzânia, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0655",
+  "q": "Qual a altitude do Monte Fuji, no Japão, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0656",
+  "q": "Qual a altitude do Aconcágua, o pico mais alto das Américas, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0657",
+  "q": "Qual a altitude do Monte Elbrus, o ponto mais alto da Europa, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0658",
+  "q": "Qual a altitude do Denali, o pico mais alto da América do Norte, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0659",
+  "q": "Qual a altitude do Matterhorn, nos Alpes, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0660",
+  "q": "Qual a altitude do Monte Olimpo, o mais alto da Grécia, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0661",
+  "q": "Qual a altitude do Monte Kosciuszko, o ponto mais alto da Austrália, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0662",
+  "q": "Qual a altitude do Monte Vinson, o ponto mais alto da Antártida, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0663",
+  "q": "Qual a altitude do Chimborazo, vulcão do Equador, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0664",
+  "q": "Qual a altitude do Mauna Kea, no Havaí, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0665",
+  "q": "Qual a altitude do Vesúvio, na Itália, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0666",
+  "q": "Qual a altitude do Monte Roraima, na fronteira com a Venezuela e a Guiana, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0667",
+  "q": "Qual a altura do monólito Uluru, na Austrália, acima da planície em volta, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0668",
+  "q": "Qual a altitude do Puncak Jaya, o ponto mais alto da Oceania, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0669",
+  "q": "Qual a altura da maior queda d'água do mundo, o Salto Ángel, na Venezuela, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0670",
+  "q": "Qual a profundidade máxima do Lago Baikal, o mais profundo do mundo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0671",
+  "q": "Qual a altura das Cataratas Vitória, na África, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0672",
+  "q": "Qual a profundidade máxima do Grand Canyon, nos EUA, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0673",
+  "q": "A que altitude fica o Lago Titicaca, o lago navegável mais alto do mundo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0674",
+  "q": "Qual a profundidade do Grande Buraco Azul de Belize, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0675",
+  "q": "Qual a altura máxima das Falésias de Moher, na Irlanda, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c0676",
+  "q": "Qual a área do Lago Superior, o maior dos Grandes Lagos, em milhares de km²?",
+  "unidade": "mil km²"
+ },
+ {
+  "id": "c0677",
+  "q": "Qual a área do Mar Cáspio, o maior lago do mundo, em milhares de km²?",
+  "unidade": "mil km²"
+ },
+ {
+  "id": "c0678",
+  "q": "Qual a salinidade do Mar Morto, em porcentagem de sal na água?",
+  "unidade": "%"
+ },
+ {
+  "id": "c0679",
+  "q": "Quantos gramas de sal, em média, há em um litro de água do mar?",
+  "unidade": "gramas"
+ },
+ {
+  "id": "c0680",
+  "q": "Qual a área da Rússia, o maior país do mundo, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0681",
+  "q": "Qual a área do Canadá, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0682",
+  "q": "Qual a área da Austrália, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0683",
+  "q": "Qual a área da Antártida, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0684",
+  "q": "Qual a área do deserto do Saara, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0685",
+  "q": "Qual a área do Oceano Pacífico, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c0686",
+  "q": "Qual a área da Groenlândia, a maior ilha do mundo, em milhares de km²?",
+  "unidade": "mil km²"
+ },
+ {
+  "id": "c0687",
+  "q": "Qual a área da Islândia, em milhares de km²?",
+  "unidade": "mil km²"
+ },
+ {
+  "id": "c0688",
+  "q": "Qual a área de Madagascar, em milhares de km²?",
+  "unidade": "mil km²"
+ },
+ {
+  "id": "c0689",
+  "q": "Qual a área da ilha de Bornéu, em milhares de km²?",
+  "unidade": "mil km²"
+ },
+ {
+  "id": "c0690",
+  "q": "Qual a área de Mônaco, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0691",
+  "q": "Qual a área de Nauru, um dos menores países do mundo, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0692",
+  "q": "Qual a área do Salar de Uyuni, na Bolívia, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c0693",
+  "q": "Qual o comprimento da Grande Barreira de Corais, na Austrália, em km?",
+  "unidade": "km"
+ }
+]

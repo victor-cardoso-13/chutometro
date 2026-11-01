@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Quantos planetas tem o Sistema Solar (desde 2006, sem contar Plutão)?",
+  "unidade": "planetas",
+  "resposta": 8,
+  "fonte": "NASA / UAI",
+  "ano": 2006,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a distância média entre a Terra e o Sol, em milhões de km?",
+  "unidade": "milhões de km",
+  "resposta": 149.6,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a distância média entre a Terra e a Lua, em km?",
+  "unidade": "km",
+  "resposta": 384400,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o diâmetro da Terra na linha do Equador, em km?",
+  "unidade": "km",
+  "resposta": 12756,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o homem pisou na Lua pela primeira vez?",
+  "unidade": "ano",
+  "resposta": 1969,
+  "fonte": "NASA",
+  "ano": 1969,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi lançado o Sputnik 1, primeiro satélite artificial?",
+  "unidade": "ano",
+  "resposta": 1957,
+  "fonte": "NASA",
+  "ano": 1957,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Yuri Gagarin foi o primeiro humano a ir ao espaço?",
+  "unidade": "ano",
+  "resposta": 1961,
+  "fonte": "NASA",
+  "ano": 1961,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o Telescópio Espacial Hubble foi lançado?",
+  "unidade": "ano",
+  "resposta": 1990,
+  "fonte": "NASA",
+  "ano": 1990,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a sonda Voyager 1 foi lançada?",
+  "unidade": "ano",
+  "resposta": 1977,
+  "fonte": "NASA",
+  "ano": 1977,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Marcos Pontes foi ao espaço, primeiro brasileiro a fazê-lo?",
+  "unidade": "ano",
+  "resposta": 2006,
+  "fonte": "AEB / Wikipédia",
+  "ano": 2006,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a sonda New Horizons passou por Plutão?",
+  "unidade": "ano",
+  "resposta": 2015,
+  "fonte": "NASA",
+  "ano": 2015,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Einstein publicou a teoria da relatividade geral?",
+  "unidade": "ano",
+  "resposta": 1915,
+  "fonte": "Wikipédia",
+  "ano": 1915,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a velocidade da luz no vácuo, em km/s (valor arredondado)?",
+  "unidade": "km/s",
+  "resposta": 299792,
+  "fonte": "SI / BIPM",
+  "ano": 2019,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a velocidade do som no ar a 20 °C, em metros por segundo?",
+  "unidade": "m/s",
+  "resposta": 343,
+  "fonte": "Física (valor padrão)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o zero absoluto, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": -273,
+  "fonte": "SI / física",
+  "ano": 2019,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A que temperatura ferve o nitrogênio líquido, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": -196,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura o ferro derrete, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": 1538,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura o tungstênio derrete, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": 3422,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a temperatura média na superfície de Vênus, em °C?",
+  "unidade": "°C",
+  "resposta": 464,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o número atômico do ouro (quantos prótons tem)?",
+  "unidade": "prótons",
+  "resposta": 79,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o número atômico do ferro?",
+  "unidade": "prótons",
+  "resposta": 26,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o número atômico do urânio?",
+  "unidade": "prótons",
+  "resposta": 92,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o número atômico da prata?",
+  "unidade": "prótons",
+  "resposta": 47,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do chumbo?",
+  "unidade": "prótons",
+  "resposta": 82,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do cobre?",
+  "unidade": "prótons",
+  "resposta": 29,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do sódio?",
+  "unidade": "prótons",
+  "resposta": 11,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o número atômico do mercúrio?",
+  "unidade": "prótons",
+  "resposta": 80,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do estanho?",
+  "unidade": "prótons",
+  "resposta": 50,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do cálcio?",
+  "unidade": "prótons",
+  "resposta": 20,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do potássio?",
+  "unidade": "prótons",
+  "resposta": 19,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico da platina?",
+  "unidade": "prótons",
+  "resposta": 78,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do zinco?",
+  "unidade": "prótons",
+  "resposta": 30,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do cloro?",
+  "unidade": "prótons",
+  "resposta": 17,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos elementos químicos tem a tabela periódica atual?",
+  "unidade": "elementos",
+  "resposta": 118,
+  "fonte": "IUPAC",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a aceleração da gravidade na superfície da Terra, em m/s²?",
+  "unidade": "m/s²",
+  "resposta": 9.81,
+  "fonte": "Física (g padrão 9,80665)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a aceleração da gravidade na Lua, em m/s²?",
+  "unidade": "m/s²",
+  "resposta": 1.62,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a aceleração da gravidade em Marte, em m/s²?",
+  "unidade": "m/s²",
+  "resposta": 3.71,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto tempo Vênus leva para dar uma volta em torno de si mesmo, em dias terrestres?",
+  "unidade": "dias",
+  "resposta": 243,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto dura um ano em Marte, em dias terrestres?",
+  "unidade": "dias",
+  "resposta": 687,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto dura um ano em Mercúrio, em dias terrestres?",
+  "unidade": "dias",
+  "resposta": 88,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto dura um ano em Netuno, em anos terrestres (arredondado)?",
+  "unidade": "anos",
+  "resposta": 165,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto dura um ano em Plutão, em anos terrestres (arredondado)?",
+  "unidade": "anos",
+  "resposta": 248,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro de Júpiter no Equador, em km?",
+  "unidade": "km",
+  "resposta": 142984,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro do Sol, em milhões de km?",
+  "unidade": "milhões de km",
+  "resposta": 1.39,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas luas tem Marte?",
+  "unidade": "luas",
+  "resposta": 2,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas luas tem Plutão?",
+  "unidade": "luas",
+  "resposta": 5,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura do Monte Olimpo, vulcão de Marte, em km?",
+  "unidade": "km",
+  "resposta": 21.9,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos astronautas já caminharam na Lua?",
+  "unidade": "astronautas",
+  "resposta": 12,
+  "fonte": "NASA",
+  "ano": 1972,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas missões Apollo pousaram na Lua?",
+  "unidade": "missões",
+  "resposta": 6,
+  "fonte": "NASA",
+  "ano": 1972,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos durou o voo de Yuri Gagarin ao redor da Terra?",
+  "unidade": "minutos",
+  "resposta": 108,
+  "fonte": "NASA",
+  "ano": 1961,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias seguidos ficou no espaço o recorde de Valeri Poliakov, na estação Mir?",
+  "unidade": "dias",
+  "resposta": 437,
+  "fonte": "Wikipédia",
+  "ano": 1995,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos a luz do Sol leva para chegar à Terra (aprox., com uma casa decimal)?",
+  "unidade": "minutos",
+  "resposta": 8.3,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A que distância fica Próxima Centauri, a estrela mais próxima do Sol, em anos-luz?",
+  "unidade": "anos-luz",
+  "resposta": 4.24,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a temperatura do núcleo do Sol, em milhões de °C?",
+  "unidade": "milhões de °C",
+  "resposta": 15,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a temperatura da superfície do Sol, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": 5500,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a idade do Universo, em bilhões de anos?",
+  "unidade": "bilhões de anos",
+  "resposta": 13.8,
+  "fonte": "Planck / NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a idade da Terra, em bilhões de anos?",
+  "unidade": "bilhões de anos",
+  "resposta": 4.54,
+  "fonte": "USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dias dura o ciclo completo das fases da Lua (arredondado a uma casa)?",
+  "unidade": "dias",
+  "resposta": 29.5,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a velocidade de rotação da Terra no Equador, em km/h?",
+  "unidade": "km/h",
+  "resposta": 1674,
+  "fonte": "Cálculo (40 075 km / 23,93 h)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a velocidade da Terra em torno do Sol, em km/s?",
+  "unidade": "km/s",
+  "resposta": 29.8,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a velocidade necessária para escapar da gravidade da Terra, em km/s?",
+  "unidade": "km/s",
+  "resposta": 11.2,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o raio médio da Terra, em km?",
+  "unidade": "km",
+  "resposta": 6371,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a circunferência da Terra na linha do Equador, em km?",
+  "unidade": "km",
+  "resposta": 40075,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a porcentagem da superfície da Terra coberta por água?",
+  "unidade": "%",
+  "resposta": 71,
+  "fonte": "USGS / NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a temperatura média em Marte, em °C?",
+  "unidade": "°C",
+  "resposta": -63,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a temperatura máxima do dia na Lua, em °C?",
+  "unidade": "°C",
+  "resposta": 127,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a temperatura mínima da noite na Lua, em °C?",
+  "unidade": "°C",
+  "resposta": -173,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a temperatura máxima do dia em Mercúrio, em °C?",
+  "unidade": "°C",
+  "resposta": 430,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas constelações oficiais existem no céu?",
+  "unidade": "constelações",
+  "resposta": 88,
+  "fonte": "UAI",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas missões fez o programa do Ônibus Espacial (Space Shuttle) da NASA?",
+  "unidade": "missões",
+  "resposta": 135,
+  "fonte": "NASA",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto dura um dia em Marte, em horas (com uma casa decimal)?",
+  "unidade": "horas",
+  "resposta": 24.6,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto dura um dia em Júpiter, em horas (com uma casa decimal)?",
+  "unidade": "horas",
+  "resposta": 9.9,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro de Plutão, em km?",
+  "unidade": "km",
+  "resposta": 2377,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro da Lua, em km?",
+  "unidade": "km",
+  "resposta": 3475,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o diâmetro de Ganimedes, maior lua do Sistema Solar, em km?",
+  "unidade": "km",
+  "resposta": 5268,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a inclinação do eixo de Urano, em graus (arredondado)?",
+  "unidade": "graus",
+  "resposta": 98,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude orbita um satélite geoestacionário, em km?",
+  "unidade": "km",
+  "resposta": 35786,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude fica a linha de Kármán, onde começa o espaço, em km?",
+  "unidade": "km",
+  "resposta": 100,
+  "fonte": "FAI",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes a massa da Terra cabe na massa do Sol (arredondado)?",
+  "unidade": "vezes",
+  "resposta": 333000,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto vale o número e (de Euler), com três casas decimais?",
+  "unidade": "número",
+  "resposta": 2.718,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto vale a razão áurea (phi), com três casas decimais?",
+  "unidade": "número",
+  "resposta": 1.618,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto vale a raiz quadrada de 2, com três casas decimais?",
+  "unidade": "número",
+  "resposta": 1.414,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a soma de todos os números de 1 a 100?",
+  "unidade": "número",
+  "resposta": 5050,
+  "fonte": "Matemática (Gauss)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto é 10 fatorial (10!)?",
+  "unidade": "número",
+  "resposta": 3628800,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto é 2 elevado a 20?",
+  "unidade": "número",
+  "resposta": 1048576,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto é 2 elevado a 32?",
+  "unidade": "número",
+  "resposta": 4294967296,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos números primos existem abaixo de 100?",
+  "unidade": "primos",
+  "resposta": 25,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos números primos existem abaixo de 1000?",
+  "unidade": "primos",
+  "resposta": 168,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos zeros tem um googol (1 seguido de zeros)?",
+  "unidade": "zeros",
+  "resposta": 100,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o 20º número da sequência de Fibonacci (1, 1, 2, 3, 5...)?",
+  "unidade": "número",
+  "resposta": 6765,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o segundo número perfeito (soma dos seus divisores, sem ele, dá ele mesmo; o primeiro é 6)?",
+  "unidade": "número",
+  "resposta": 28,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o terceiro número perfeito?",
+  "unidade": "número",
+  "resposta": 496,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas diagonais tem um decágono (10 lados)?",
+  "unidade": "diagonais",
+  "resposta": 35,
+  "fonte": "Geometria",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faces tem um icosaedro?",
+  "unidade": "faces",
+  "resposta": 20,
+  "fonte": "Geometria",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o menor número que é soma de dois cubos de duas maneiras diferentes (número de Ramanujan)?",
+  "unidade": "número",
+  "resposta": 1729,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto vale a soma de todos os números de uma roleta (de 0 a 36)?",
+  "unidade": "número",
+  "resposta": 666,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos segundos tem um dia?",
+  "unidade": "segundos",
+  "resposta": 86400,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos segundos tem um ano de 365 dias?",
+  "unidade": "segundos",
+  "resposta": 31536000,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a pressão atmosférica ao nível do mar, em mmHg?",
+  "unidade": "mmHg",
+  "resposta": 760,
+  "fonte": "Física",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a densidade do ouro, em g/cm³ (arredondado a uma casa)?",
+  "unidade": "g/cm³",
+  "resposta": 19.3,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura ferve o álcool etílico (etanol), em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": 78,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura o chumbo derrete, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": 327,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura o alumínio derrete, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": 660,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura ferve o hélio, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": -269,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura o mercúrio congela, em °C (arredondado)?",
+  "unidade": "°C",
+  "resposta": -39,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a frequência de uma nota Lá de afinação padrão, em Hz?",
+  "unidade": "Hz",
+  "resposta": 440,
+  "fonte": "ISO 16",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a maior frequência de som que o ouvido humano capta, em Hz (valor convencional)?",
+  "unidade": "Hz",
+  "resposta": 20000,
+  "fonte": "Acústica (convenção)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a porcentagem de nitrogênio no ar que respiramos?",
+  "unidade": "%",
+  "resposta": 78,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos trilhões de km tem um ano-luz (duas casas decimais)?",
+  "unidade": "trilhões de km",
+  "resposta": 9.46,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilates tem o ouro puro?",
+  "unidade": "quilates",
+  "resposta": 24,
+  "fonte": "Joalheria (padrão)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ }
+]

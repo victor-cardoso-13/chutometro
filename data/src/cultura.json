@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Quantos minutos dura o filme Titanic (1997) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 194,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura o filme O Poderoso Chefão (1972) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 175,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Vingadores: Ultimato (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 181,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura o filme A Lista de Schindler (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 195,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Ben-Hur (1959) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 212,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme O Senhor dos Anéis: O Retorno do Rei (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 201,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura o filme Toy Story (1995) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 81,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura o filme O Rei Leão (1994) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 88,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura o filme O Mágico de Oz (1939) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 102,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Cidade de Deus (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 130,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Interstellar (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 169,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Harry Potter e a Pedra Filosofal (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 152,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura o filme Psicose (1960) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 109,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Forrest Gump (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 142,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Gladiador (2000) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 155,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Tubarão (1975) (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 124,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Pulp Fiction (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 154,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme O Senhor dos Anéis: A Sociedade do Anel (versão de cinema)?",
+  "unidade": "minutos",
+  "resposta": 178,
+  "fonte": "Wikipédia / IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Titanic?",
+  "unidade": "Oscars",
+  "resposta": 11,
+  "fonte": "Academia de Artes e Ciências de Hollywood (Oscar)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Oppenheimer?",
+  "unidade": "Oscars",
+  "resposta": 7,
+  "fonte": "Academia de Artes e Ciências de Hollywood (Oscar)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Parasita (2019)?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academia de Artes e Ciências de Hollywood (Oscar)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas indicações ao Oscar teve Cidade de Deus?",
+  "unidade": "indicações",
+  "resposta": 4,
+  "fonte": "Academia de Artes e Ciências de Hollywood (Oscar)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da estatueta do Oscar, em centímetros?",
+  "unidade": "cm",
+  "resposta": 34,
+  "fonte": "Academia de Artes e Ciências de Hollywood (Oscar) (13,5 polegadas)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas indicações ao Oscar recebeu Titanic?",
+  "unidade": "indicações",
+  "resposta": 14,
+  "fonte": "Academia de Artes e Ciências de Hollywood (Oscar)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas indicações ao Oscar recebeu Ainda Estou Aqui (2025)?",
+  "unidade": "indicações",
+  "resposta": 3,
+  "fonte": "Academia de Artes e Ciências de Hollywood (Oscar)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos episódios tem a série Friends no total?",
+  "unidade": "episódios",
+  "resposta": 236,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos episódios tem a série Breaking Bad no total?",
+  "unidade": "episódios",
+  "resposta": 62,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos episódios tem a série Game of Thrones no total?",
+  "unidade": "episódios",
+  "resposta": 73,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos episódios tem a série Lost no total?",
+  "unidade": "episódios",
+  "resposta": 121,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos episódios tem a série Seinfeld no total?",
+  "unidade": "episódios",
+  "resposta": 180,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos episódios tem a série The Office (versão americana) no total?",
+  "unidade": "episódios",
+  "resposta": 201,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos episódios tem a série How I Met Your Mother no total?",
+  "unidade": "episódios",
+  "resposta": 208,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos episódios tem a série Família Soprano no total?",
+  "unidade": "episódios",
+  "resposta": 86,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos episódios tem a série Dexter (série original) no total?",
+  "unidade": "episódios",
+  "resposta": 96,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas temporadas teve a série M*A*S*H?",
+  "unidade": "temporadas",
+  "resposta": 11,
+  "fonte": "Wikipédia (lista de episódios)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos capítulos teve a novela Avenida Brasil?",
+  "unidade": "capítulos",
+  "resposta": 179,
+  "fonte": "Memória Globo",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos capítulos teve a novela Escrava Isaura (1976)?",
+  "unidade": "capítulos",
+  "resposta": 100,
+  "fonte": "Memória Globo",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos capítulos teve a novela O Clone?",
+  "unidade": "capítulos",
+  "resposta": 221,
+  "fonte": "Memória Globo",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos capítulos teve a novela Vale Tudo (1988)?",
+  "unidade": "capítulos",
+  "resposta": 204,
+  "fonte": "Memória Globo",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Silvio Santos?",
+  "unidade": "anos",
+  "resposta": 93,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu o Rei Pelé?",
+  "unidade": "anos",
+  "resposta": 82,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos singles dos Beatles chegaram ao 1º lugar da parada Hot 100 da Billboard (EUA)?",
+  "unidade": "músicas",
+  "resposta": 20,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos álbuns de estúdio oficiais os Beatles lançaram no Reino Unido?",
+  "unidade": "álbuns",
+  "resposta": 12,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o álbum Sgt. Pepper's dos Beatles?",
+  "unidade": "faixas",
+  "resposta": 13,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o álbum Abbey Road dos Beatles?",
+  "unidade": "faixas",
+  "resposta": 17,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o Álbum Branco (White Album) dos Beatles?",
+  "unidade": "faixas",
+  "resposta": 30,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu John Lennon?",
+  "unidade": "anos",
+  "resposta": 40,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Grammys Michael Jackson ganhou numa só noite, em 1984?",
+  "unidade": "Grammys",
+  "resposta": 8,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas faixas tem o álbum Thriller, de Michael Jackson?",
+  "unidade": "faixas",
+  "resposta": 9,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos singles do álbum Thriller entraram no top 10 da Billboard?",
+  "unidade": "músicas",
+  "resposta": 7,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Michael Jackson?",
+  "unidade": "anos",
+  "resposta": 50,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos segundos dura a versão de estúdio de Bohemian Rhapsody, do Queen (5min55s)?",
+  "unidade": "segundos",
+  "resposta": 355,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas teclas tem um piano padrão?",
+  "unidade": "teclas",
+  "resposta": 88,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas sinfonias compôs Beethoven?",
+  "unidade": "sinfonias",
+  "resposta": 9,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas sinfonias numeradas compôs Mozart?",
+  "unidade": "sinfonias",
+  "resposta": 41,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Mozart?",
+  "unidade": "anos",
+  "resposta": 35,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cordas tem uma harpa de concerto?",
+  "unidade": "cordas",
+  "resposta": 47,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Elvis Presley?",
+  "unidade": "anos",
+  "resposta": 42,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Kurt Cobain, do Nirvana?",
+  "unidade": "anos",
+  "resposta": 27,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Renato Russo, da Legião Urbana?",
+  "unidade": "anos",
+  "resposta": 36,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Raul Seixas?",
+  "unidade": "anos",
+  "resposta": 44,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o álbum The Dark Side of the Moon, do Pink Floyd?",
+  "unidade": "faixas",
+  "resposta": 10,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o álbum Rumours, do Fleetwood Mac?",
+  "unidade": "faixas",
+  "resposta": 11,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o quarto álbum do Led Zeppelin (Led Zeppelin IV)?",
+  "unidade": "faixas",
+  "resposta": 8,
+  "fonte": "Wikipédia / discografia oficial",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos livros tem a série principal de Harry Potter?",
+  "unidade": "livros",
+  "resposta": 7,
+  "fonte": "Livros e filmes de Harry Potter (J.K. Rowling)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas polegadas tem a varinha de Harry Potter?",
+  "unidade": "polegadas",
+  "resposta": 11,
+  "fonte": "Livros e filmes de Harry Potter (J.K. Rowling)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número do cofre de Harry Potter no banco Gringotes?",
+  "unidade": "número",
+  "resposta": 687,
+  "fonte": "Livros e filmes de Harry Potter (J.K. Rowling)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos jogadores (somando os dois times) jogam uma partida de quadribol ao mesmo tempo?",
+  "unidade": "jogadores",
+  "resposta": 14,
+  "fonte": "Livros e filmes de Harry Potter (J.K. Rowling)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos filhos Molly e Arthur Weasley têm?",
+  "unidade": "filhos",
+  "resposta": 7,
+  "fonte": "Livros e filmes de Harry Potter (J.K. Rowling)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anéis de poder foram forjados no total em O Senhor dos Anéis (3 + 7 + 9 + 1)?",
+  "unidade": "anéis",
+  "resposta": 20,
+  "fonte": "Obras de J.R.R. Tolkien",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos membros tem a Sociedade do Anel?",
+  "unidade": "membros",
+  "resposta": 9,
+  "fonte": "Obras de J.R.R. Tolkien",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos Bilbo Bolseiro faz na festa de aniversário que abre O Senhor dos Anéis?",
+  "unidade": "anos",
+  "resposta": 111,
+  "fonte": "Obras de J.R.R. Tolkien",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anões acompanham Bilbo em O Hobbit?",
+  "unidade": "anões",
+  "resposta": 13,
+  "fonte": "Obras de J.R.R. Tolkien",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cantos tem Os Lusíadas, de Camões?",
+  "unidade": "cantos",
+  "resposta": 10,
+  "fonte": "Literatura portuguesa",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cantos tem A Divina Comédia, de Dante?",
+  "unidade": "cantos",
+  "resposta": 100,
+  "fonte": "Literatura (34+33+33)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cantos tem a Odisseia, de Homero?",
+  "unidade": "cantos",
+  "resposta": 24,
+  "fonte": "Literatura clássica",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Fahrenheit 451 é a temperatura de combustão do papel. Qual é esse número, na história de Ray Bradbury?",
+  "unidade": "°F",
+  "resposta": 451,
+  "fonte": "Livro de Ray Bradbury",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em quantos dias Phileas Fogg dá a volta ao mundo no livro de Júlio Verne?",
+  "unidade": "dias",
+  "resposta": 80,
+  "fonte": "Júlio Verne",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos romances policiais publicou Agatha Christie?",
+  "unidade": "romances",
+  "resposta": 66,
+  "fonte": "Agatha Christie (lista oficial)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos livros tem As Crônicas de Nárnia?",
+  "unidade": "livros",
+  "resposta": 7,
+  "fonte": "C. S. Lewis",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos sonetos Shakespeare publicou em 1609?",
+  "unidade": "sonetos",
+  "resposta": 154,
+  "fonte": "Shakespeare",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cadeiras tem a Academia Brasileira de Letras?",
+  "unidade": "cadeiras",
+  "resposta": 40,
+  "fonte": "ABL",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o número da casa de Sherlock Holmes na Baker Street (221B)?",
+  "unidade": "número",
+  "resposta": 221,
+  "fonte": "Arthur Conan Doyle",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Machado de Assis?",
+  "unidade": "anos",
+  "resposta": 69,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da Mona Lisa, em centímetros?",
+  "unidade": "cm",
+  "resposta": 77,
+  "fonte": "Museu do Louvre",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Vincent van Gogh?",
+  "unidade": "anos",
+  "resposta": 37,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Leonardo da Vinci?",
+  "unidade": "anos",
+  "resposta": 67,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Michelangelo?",
+  "unidade": "anos",
+  "resposta": 88,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Pablo Picasso?",
+  "unidade": "anos",
+  "resposta": 91,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a largura do quadro Guernica, de Picasso, em centímetros?",
+  "unidade": "cm",
+  "resposta": 776,
+  "fonte": "Museu Reina Sofía",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos profetas Aleijadinho esculpiu em Congonhas (MG)?",
+  "unidade": "profetas",
+  "resposta": 12,
+  "fonte": "IPHAN",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Oscar Niemeyer?",
+  "unidade": "anos",
+  "resposta": 104,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anões aparecem em Branca de Neve?",
+  "unidade": "anões",
+  "resposta": 7,
+  "fonte": "Disney",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos fios de cabelo tem o Cebolinha?",
+  "unidade": "fios",
+  "resposta": 5,
+  "fonte": "Turma da Mônica",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos filmes tem a saga Skywalker de Star Wars?",
+  "unidade": "filmes",
+  "resposta": 9,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano estreou Steamboat Willie, o primeiro desenho do Mickey?",
+  "unidade": "ano",
+  "resposta": 1928,
+  "fonte": "Disney",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano estreou O Cantor de Jazz, o primeiro filme falado de sucesso?",
+  "unidade": "ano",
+  "resposta": 1927,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi publicada a primeira parte de Dom Quixote?",
+  "unidade": "ano",
+  "resposta": 1605,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano estreou Branca de Neve e os Sete Anões?",
+  "unidade": "ano",
+  "resposta": 1937,
+  "fonte": "Disney",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano os Beatles se apresentaram no programa de Ed Sullivan nos EUA?",
+  "unidade": "ano",
+  "resposta": 1964,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi lançado o álbum Thriller, de Michael Jackson?",
+  "unidade": "ano",
+  "resposta": 1982,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Tarsila do Amaral pintou o Abaporu?",
+  "unidade": "ano",
+  "resposta": 1928,
+  "fonte": "MALBA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Picasso pintou Guernica?",
+  "unidade": "ano",
+  "resposta": 1937,
+  "fonte": "Museu Reina Sofía",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Edvard Munch pintou a primeira versão de O Grito?",
+  "unidade": "ano",
+  "resposta": 1893,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano estreou o primeiro filme de Star Wars?",
+  "unidade": "ano",
+  "resposta": 1977,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi ao ar a primeira transmissão de TV no Brasil (TV Tupi)?",
+  "unidade": "ano",
+  "resposta": 1950,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a Disneylândia foi inaugurada na Califórnia?",
+  "unidade": "ano",
+  "resposta": 1955,
+  "fonte": "Disney",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi lançada a música Bohemian Rhapsody, do Queen?",
+  "unidade": "ano",
+  "resposta": 1975,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi inaugurado o Museu do Louvre como museu público?",
+  "unidade": "ano",
+  "resposta": 1793,
+  "fonte": "Louvre",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Machado de Assis publicou Dom Casmurro?",
+  "unidade": "ano",
+  "resposta": 1899,
+  "fonte": "ABL",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

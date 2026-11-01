@@ -1,0 +1,794 @@
+[
+ {
+  "id": "c0595",
+  "resposta": 22,
+  "fonte": "Wikipédia / ATP",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0596",
+  "resposta": 23,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0597",
+  "resposta": 24,
+  "fonte": "Roland-Garros / ATP",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0598",
+  "resposta": 665,
+  "fonte": "Wikipédia (11h05)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0599",
+  "resposta": 183,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0600",
+  "resposta": 23.77,
+  "fonte": "ITF",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0601",
+  "resposta": 100,
+  "fonte": "NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0602",
+  "resposta": 81,
+  "fonte": "NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0603",
+  "resposta": 38387,
+  "fonte": "NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0604",
+  "resposta": 3.05,
+  "fonte": "FIBA/NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0605",
+  "resposta": 82,
+  "fonte": "NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0606",
+  "resposta": 6,
+  "fonte": "NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0607",
+  "resposta": 11,
+  "fonte": "NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0608",
+  "resposta": 402,
+  "fonte": "NBA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0609",
+  "resposta": 2.16,
+  "fonte": "NBA (7'1\")",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0610",
+  "resposta": 2.43,
+  "fonte": "FIVB",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0611",
+  "resposta": 18,
+  "fonte": "FIVB",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0612",
+  "resposta": 3,
+  "fonte": "COI (1992, 2004, 2016)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0613",
+  "resposta": 7,
+  "fonte": "COI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0614",
+  "resposta": 7.32,
+  "fonte": "IFAB",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0615",
+  "resposta": 2.44,
+  "fonte": "IFAB",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0616",
+  "resposta": 11,
+  "fonte": "IFAB (12 jardas = 10,97 m)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0617",
+  "resposta": 105,
+  "fonte": "FIFA/IFAB",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Regras: 100-110 m em jogos internacionais; 105 m é o padrão recomendado FIFA."
+ },
+ {
+  "id": "c0618",
+  "resposta": 643,
+  "fonte": "Guinness / Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "643 gols oficiais pelo Santos (recorde Guinness por um clube); contagens com amistosos dão ~1.091."
+ },
+ {
+  "id": "c0619",
+  "resposta": 131,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0620",
+  "resposta": 8,
+  "fonte": "France Football",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0621",
+  "resposta": 15,
+  "fonte": "PGA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0622",
+  "resposta": 82,
+  "fonte": "PGA Tour",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0623",
+  "resposta": 10.8,
+  "fonte": "R&A/USGA (4,25 pol)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0624",
+  "resposta": 180,
+  "fonte": "Ironman (180,2 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0625",
+  "resposta": 2632,
+  "fonte": "MLB",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0626",
+  "resposta": 73,
+  "fonte": "MLB",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0627",
+  "resposta": 894,
+  "fonte": "NHL",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0628",
+  "resposta": 50,
+  "fonte": "Wikipédia/BoxRec",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0629",
+  "resposta": 1930,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0630",
+  "resposta": 1950,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0631",
+  "resposta": 1958,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0632",
+  "resposta": 1970,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0633",
+  "resposta": 1994,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0634",
+  "resposta": 1896,
+  "fonte": "COI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0635",
+  "resposta": 1920,
+  "fonte": "COI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0636",
+  "resposta": 1954,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0637",
+  "resposta": 1950,
+  "fonte": "FIA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0638",
+  "resposta": 1976,
+  "fonte": "COI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0639",
+  "resposta": 1992,
+  "fonte": "COI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0640",
+  "resposta": 1968,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0641",
+  "resposta": 2002,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0642",
+  "resposta": 2016,
+  "fonte": "COI",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0643",
+  "resposta": 1969,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0644",
+  "resposta": 10,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0645",
+  "resposta": 12,
+  "fonte": "FIFA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0646",
+  "resposta": 14,
+  "fonte": "Roland-Garros",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0647",
+  "resposta": 3,
+  "fonte": "Roland-Garros",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0648",
+  "resposta": 24,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0649",
+  "resposta": 78,
+  "fonte": "F1 (260,5 km)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0650",
+  "resposta": 2.24,
+  "fonte": "FIVB",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0651",
+  "resposta": 5,
+  "fonte": "FIVB (1960, 1962, 2002, 2006, 2010)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0652",
+  "resposta": 8849,
+  "fonte": "Wikipédia (medição 2020: 8.848,86)",
+  "confianca": "alta",
+  "ambigua": true,
+  "obs": "8.848 m (valor tradicional/China 2005 rocha) vs 8.848,86 (2020) vs 8.849."
+ },
+ {
+  "id": "c0653",
+  "resposta": 8611,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0654",
+  "resposta": 5895,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0655",
+  "resposta": 3776,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0656",
+  "resposta": 6961,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "6.960,8 m (valor atual); 6.962 em fontes antigas."
+ },
+ {
+  "id": "c0657",
+  "resposta": 5642,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0658",
+  "resposta": 6190,
+  "fonte": "USGS (6.190,5)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0659",
+  "resposta": 4478,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0660",
+  "resposta": 2918,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "2.917-2.918 m."
+ },
+ {
+  "id": "c0661",
+  "resposta": 2228,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0662",
+  "resposta": 4892,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0663",
+  "resposta": 6263,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "6.263 m (algumas fontes 6.268)."
+ },
+ {
+  "id": "c0664",
+  "resposta": 4207,
+  "fonte": "USGS/Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "4.205-4.207 m."
+ },
+ {
+  "id": "c0665",
+  "resposta": 1281,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0666",
+  "resposta": 2810,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0667",
+  "resposta": 348,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0668",
+  "resposta": 4884,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "4.884 m (4.886 em fontes antigas)."
+ },
+ {
+  "id": "c0669",
+  "resposta": 979,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0670",
+  "resposta": 1642,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0671",
+  "resposta": 108,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0672",
+  "resposta": 1857,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "1.857 m (6.093 pés) vs 1.829 m (6.000 pés)."
+ },
+ {
+  "id": "c0673",
+  "resposta": 3812,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "3.810-3.812 m."
+ },
+ {
+  "id": "c0674",
+  "resposta": 124,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0675",
+  "resposta": 214,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0676",
+  "resposta": 82.1,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0677",
+  "resposta": 371,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0678",
+  "resposta": 34,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "~33,7%; varia 30-34%."
+ },
+ {
+  "id": "c0679",
+  "resposta": 35,
+  "fonte": "NOAA",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0680",
+  "resposta": 17.1,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0681",
+  "resposta": 9.98,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0682",
+  "resposta": 7.69,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0683",
+  "resposta": 14.2,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "14,0 a 14,2 milhões km² conforme inclua plataformas de gelo."
+ },
+ {
+  "id": "c0684",
+  "resposta": 9.2,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0685",
+  "resposta": 165,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "165,25 (comum) a 168 milhões km² conforme fonte."
+ },
+ {
+  "id": "c0686",
+  "resposta": 2166,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0687",
+  "resposta": 103,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0688",
+  "resposta": 587,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0689",
+  "resposta": 743,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0690",
+  "resposta": 2.02,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0691",
+  "resposta": 21,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0692",
+  "resposta": 10582,
+  "fonte": "Wikipédia",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0693",
+  "resposta": 2300,
+  "fonte": "Wikipédia",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "2.300 km (GBRMPA); algumas fontes 2.400 km."
+ }
+]

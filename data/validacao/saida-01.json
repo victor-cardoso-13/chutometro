@@ -1,0 +1,794 @@
+[
+ {
+  "id": "c0001",
+  "resposta": 88,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0002",
+  "resposta": 52,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0003",
+  "resposta": 32,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0004",
+  "resposta": 64,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0005",
+  "resposta": 20,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "20 (16 de peões + 4 de cavalos)"
+ },
+ {
+  "id": "c0006",
+  "resposta": 52,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0007",
+  "resposta": 12,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0008",
+  "resposta": 28,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0009",
+  "resposta": 168,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "168 pontos"
+ },
+ {
+  "id": "c0010",
+  "resposta": 21,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0011",
+  "resposta": 36,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "36 se ordenados (dado A,B distintos); 21 se não ordenados"
+ },
+ {
+  "id": "c0012",
+  "resposta": 108,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0013",
+  "resposta": 55,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Dobble clássico 55 cartas"
+ },
+ {
+  "id": "c0014",
+  "resposta": 78,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0015",
+  "resposta": 100,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0016",
+  "resposta": 54,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "54 blocos"
+ },
+ {
+  "id": "c0017",
+  "resposta": 54,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0018",
+  "resposta": 81,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0019",
+  "resposta": 40,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0020",
+  "resposta": 42,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0021",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0022",
+  "resposta": 151,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0023",
+  "resposta": 25,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0024",
+  "resposta": 60,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0025",
+  "resposta": 24,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "Damas brasileiras/inglesas 8x8: 24; internacionais 10x10: 40"
+ },
+ {
+  "id": "c0026",
+  "resposta": 16,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Pool 8-ball: 15 + branca =16"
+ },
+ {
+  "id": "c0027",
+  "resposta": 10,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0028",
+  "resposta": 108,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "108 pontos de costura"
+ },
+ {
+  "id": "c0029",
+  "resposta": 915103765,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Eilers: 915.103.765"
+ },
+ {
+  "id": "c0030",
+  "resposta": 4,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0031",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0032",
+  "resposta": 12,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0033",
+  "resposta": 26,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": true,
+  "obs": "26 desde o Acordo Ortográfico (2009); antes 23"
+ },
+ {
+  "id": "c0034",
+  "resposta": 1959,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Lançada em 9/3/1959"
+ },
+ {
+  "id": "c0035",
+  "resposta": 1974,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0036",
+  "resposta": 1886,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Criada em 1886 (Pemberton)"
+ },
+ {
+  "id": "c0037",
+  "resposta": 1994,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0038",
+  "resposta": 1984,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "Criado em junho de 1984 (lançado 1985 no ocidente)"
+ },
+ {
+  "id": "c0039",
+  "resposta": 1582,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": true,
+  "obs": "Adotado 1582 (Itália, Espanha, Portugal); Brasil/Inglaterra adotaram em datas diferentes"
+ },
+ {
+  "id": "c0040",
+  "resposta": 1932,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0041",
+  "resposta": 2002,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0042",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0043",
+  "resposta": 8,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0044",
+  "resposta": 24,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0045",
+  "resposta": 366,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0046",
+  "resposta": 52,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0047",
+  "resposta": 168,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0048",
+  "resposta": 1440,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0049",
+  "resposta": 3600,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0050",
+  "resposta": 97,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0051",
+  "resposta": 29.53,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "mês sinódico 29,53 dias"
+ },
+ {
+  "id": "c0052",
+  "resposta": 25,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0053",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0054",
+  "resposta": 4,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0055",
+  "resposta": 25.4,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0056",
+  "resposta": 30.48,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0057",
+  "resposta": 91.44,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0058",
+  "resposta": 454,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0059",
+  "resposta": 1609,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0060",
+  "resposta": 3.785,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0061",
+  "resposta": 15,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0062",
+  "resposta": 1852,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0063",
+  "resposta": 10000,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0064",
+  "resposta": 42195,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0065",
+  "resposta": 144,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0066",
+  "resposta": 500,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0067",
+  "resposta": 297,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0068",
+  "resposta": 5,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0069",
+  "resposta": 9,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0070",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0071",
+  "resposta": 15,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "15 mL (outras fontes 12 a 15 mL)"
+ },
+ {
+  "id": "c0072",
+  "resposta": 350,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0073",
+  "resposta": 750,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0074",
+  "resposta": 212,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0075",
+  "resposta": 32,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0076",
+  "resposta": 78,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "78,37 °C"
+ },
+ {
+  "id": "c0077",
+  "resposta": 6,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0078",
+  "resposta": 47,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0079",
+  "resposta": 5,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0080",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0081",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0082",
+  "resposta": 26,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "26 ossos por pé"
+ },
+ {
+  "id": "c0083",
+  "resposta": 8,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0084",
+  "resposta": 6,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0085",
+  "resposta": 8,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0086",
+  "resposta": 3,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0087",
+  "resposta": 10,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": true,
+  "obs": "Caranguejo: 10 patas incl. 2 pinças"
+ },
+ {
+  "id": "c0088",
+  "resposta": 5,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": true,
+  "obs": "5: 2 compostos + 3 ocelos"
+ },
+ {
+  "id": "c0089",
+  "resposta": 4,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0090",
+  "resposta": 4,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0091",
+  "resposta": 7,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0092",
+  "resposta": 46,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0093",
+  "resposta": 78,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0094",
+  "resposta": 38,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0095",
+  "resposta": 48,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0096",
+  "resposta": 42,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0097",
+  "resposta": 30,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0098",
+  "resposta": 18,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c0099",
+  "resposta": 2,
+  "fonte": "Wikipédia / fontes oficiais (conhecimento padrão; Dobble e Lego checados na web)",
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ }
+]

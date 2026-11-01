@@ -1,0 +1,992 @@
+[
+ {
+  "q": "Quantos gols foram marcados em toda a Copa do Mundo de 2022, no Catar?",
+  "unidade": "gols",
+  "resposta": 172,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols foram marcados em toda a Copa do Mundo de 2014, no Brasil?",
+  "unidade": "gols",
+  "resposta": 171,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2014,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols foram marcados em toda a Copa do Mundo de 1954, na Suíça (a de maior média de gols por jogo)?",
+  "unidade": "gols",
+  "resposta": 140,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1954,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols Miroslav Klose marcou em Copas do Mundo (recorde histórico)?",
+  "unidade": "gols",
+  "resposta": 16,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2014,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Ronaldo Fenômeno marcou em Copas do Mundo?",
+  "unidade": "gols",
+  "resposta": 15,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2006,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Pelé marcou em Copas do Mundo?",
+  "unidade": "gols",
+  "resposta": 12,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1970,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Just Fontaine marcou na Copa de 1958 (recorde de gols em uma só Copa)?",
+  "unidade": "gols",
+  "resposta": 13,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1958,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos Pelé disputou a final da Copa do Mundo de 1958?",
+  "unidade": "anos",
+  "resposta": 17,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1958,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas seleções disputam a Copa do Mundo de 2026?",
+  "unidade": "seleções",
+  "resposta": 48,
+  "fonte": "FIFA",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos jogos tem a Copa do Mundo de 2026, no formato com 48 seleções?",
+  "unidade": "jogos",
+  "resposta": 104,
+  "fonte": "FIFA",
+  "ano": 2026,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos jogos foram disputados na Copa do Mundo de 2022?",
+  "unidade": "jogos",
+  "resposta": 64,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas Copas do Mundo masculinas o Brasil já ganhou?",
+  "unidade": "títulos",
+  "resposta": 5,
+  "fonte": "FIFA / CBF",
+  "ano": 2002,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas pessoas estavam no estádio na final da Copa de 2022, entre Argentina e França?",
+  "unidade": "pessoas",
+  "resposta": 88966,
+  "fonte": "FIFA / Wikipédia (público oficial)",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols Messi marcou na Copa do Mundo de 2022?",
+  "unidade": "gols",
+  "resposta": 7,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Ronaldo Fenômeno marcou na Copa de 2002?",
+  "unidade": "gols",
+  "resposta": 8,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2002,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cidades-sede receberam jogos da Copa do Mundo de 2014 no Brasil?",
+  "unidade": "cidades",
+  "resposta": 12,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2014,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols a craque Marta marcou em Copas do Mundo femininas (recorde histórico)?",
+  "unidade": "gols",
+  "resposta": 17,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos ouros olímpicos Michael Phelps ganhou na carreira?",
+  "unidade": "medalhas de ouro",
+  "resposta": 23,
+  "fonte": "COI / Wikipédia",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas medalhas de ouro Michael Phelps ganhou só nos Jogos de Pequim 2008?",
+  "unidade": "medalhas de ouro",
+  "resposta": 8,
+  "fonte": "COI / Wikipédia",
+  "ano": 2008,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas de ouro olímpicas Usain Bolt tem oficialmente?",
+  "unidade": "medalhas de ouro",
+  "resposta": 8,
+  "fonte": "COI / Wikipédia",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial dos 100 metros rasos masculino, de Usain Bolt, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 9.58,
+  "fonte": "World Athletics",
+  "ano": 2009,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o recorde mundial dos 200 metros rasos masculino, de Usain Bolt, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 19.19,
+  "fonte": "World Athletics",
+  "ano": 2009,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a distância oficial de uma maratona, em quilômetros?",
+  "unidade": "km",
+  "resposta": 42.195,
+  "fonte": "World Athletics",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é o recorde mundial de salto em altura masculino, do cubano Sotomayor, em metros (dado de 2025)?",
+  "unidade": "metros",
+  "resposta": 2.45,
+  "fonte": "World Athletics",
+  "ano": 1993,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial de salto em distância masculino, de Mike Powell, em metros (dado de 2025)?",
+  "unidade": "metros",
+  "resposta": 8.95,
+  "fonte": "World Athletics",
+  "ano": 1991,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial do arremesso de peso masculino, de Randy Barnes, em metros (dado de 2025)?",
+  "unidade": "metros",
+  "resposta": 23.12,
+  "fonte": "World Athletics",
+  "ano": 1990,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial de lançamento de martelo masculino, de Yuriy Sedykh, em metros (dado de 2025)?",
+  "unidade": "metros",
+  "resposta": 86.74,
+  "fonte": "World Athletics",
+  "ano": 1986,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial dos 400 metros rasos masculino, de Wayde van Niekerk, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 43.03,
+  "fonte": "World Athletics",
+  "ano": 2016,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial dos 800 metros masculino, de David Rudisha, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 100.91,
+  "fonte": "World Athletics (1min40s91)",
+  "ano": 2012,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial dos 1500 metros masculino, de Hicham El Guerrouj, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 206,
+  "fonte": "World Athletics (3min26s00)",
+  "ano": 1998,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial dos 100 metros rasos feminino, de Florence Griffith-Joyner, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 10.49,
+  "fonte": "World Athletics",
+  "ano": 1988,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial dos 50 metros livres masculino na piscina, do brasileiro Cesar Cielo, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 20.91,
+  "fonte": "World Aquatics",
+  "ano": 2009,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento de uma piscina olímpica, em metros?",
+  "unidade": "metros",
+  "resposta": 50,
+  "fonte": "World Aquatics",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anéis tem o símbolo das Olimpíadas?",
+  "unidade": "anéis",
+  "resposta": 5,
+  "fonte": "COI",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas medalhas o Brasil ganhou nos Jogos Olímpicos de Tóquio (2020, disputados em 2021)?",
+  "unidade": "medalhas",
+  "resposta": 21,
+  "fonte": "COB / Wikipédia",
+  "ano": 2021,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas o Brasil ganhou nos Jogos Olímpicos de Paris 2024?",
+  "unidade": "medalhas",
+  "resposta": 20,
+  "fonte": "COB / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas olímpicas Rebeca Andrade tem na carreira (dado de 2025)?",
+  "unidade": "medalhas",
+  "resposta": 6,
+  "fonte": "COB / Wikipédia",
+  "ano": 2024,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual foi a marca da ouro olímpico de Maurren Maggi no salto em distância em Pequim 2008, em metros?",
+  "unidade": "metros",
+  "resposta": 7.04,
+  "fonte": "COI / Wikipédia",
+  "ano": 2008,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual foi a marca de Thiago Braz no salto com vara que lhe deu o ouro no Rio 2016 (recorde olímpico), em metros?",
+  "unidade": "metros",
+  "resposta": 6.03,
+  "fonte": "COI / Wikipédia",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos Oscar Schmidt fez ao todo em Jogos Olímpicos (recorde histórico)?",
+  "unidade": "pontos",
+  "resposta": 1093,
+  "fonte": "COI / Wikipédia",
+  "ano": 1996,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos títulos mundiais de Fórmula 1 Michael Schumacher conquistou?",
+  "unidade": "títulos",
+  "resposta": 7,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2004,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas vitórias Lewis Hamilton tem na Fórmula 1 (dado de 2025)?",
+  "unidade": "vitórias",
+  "resposta": 105,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2025,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vitórias Michael Schumacher teve na Fórmula 1?",
+  "unidade": "vitórias",
+  "resposta": 91,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2012,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vitórias Ayrton Senna teve na Fórmula 1?",
+  "unidade": "vitórias",
+  "resposta": 41,
+  "fonte": "FIA / Wikipédia",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos mundiais de Fórmula 1 Nelson Piquet conquistou?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "FIA / Wikipédia",
+  "ano": 1987,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas voltas tem o Grande Prêmio de São Paulo de F1 em Interlagos?",
+  "unidade": "voltas",
+  "resposta": 71,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento do circuito de Spa-Francorchamps, na Bélgica, em quilômetros?",
+  "unidade": "km",
+  "resposta": 7.004,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o tempo do pit stop mais rápido da história da F1, da McLaren no Catar em 2023, em segundos (dado de 2025)?",
+  "unidade": "segundos",
+  "resposta": 1.8,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas corridas Max Verstappen venceu na temporada de 2023 (de 22 provas)?",
+  "unidade": "vitórias",
+  "resposta": 19,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos ganha o vencedor de um GP de Fórmula 1 hoje?",
+  "unidade": "pontos",
+  "resposta": 25,
+  "fonte": "FIA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos Ayrton Senna morreu?",
+  "unidade": "anos",
+  "resposta": 34,
+  "fonte": "Wikipédia",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas corridas teve a temporada de Fórmula 1 de 2024?",
+  "unidade": "corridas",
+  "resposta": 24,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos títulos de Grand Slam Roger Federer ganhou?",
+  "unidade": "títulos",
+  "resposta": 20,
+  "fonte": "ATP / Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos de Grand Slam Rafael Nadal ganhou?",
+  "unidade": "títulos",
+  "resposta": 22,
+  "fonte": "ATP / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos de Grand Slam Serena Williams ganhou em simples?",
+  "unidade": "títulos",
+  "resposta": 23,
+  "fonte": "WTA / Wikipédia",
+  "ano": 2017,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos de Grand Slam Novak Djokovic ganhou em simples (dado de 2025)?",
+  "unidade": "títulos",
+  "resposta": 24,
+  "fonte": "ATP / Wikipédia",
+  "ano": 2025,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto durou o jogo de Wimbledon 2010 entre Isner e Mahut, o mais longo da história do tênis, em minutos?",
+  "unidade": "minutos",
+  "resposta": 665,
+  "fonte": "Wikipédia (11h05)",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos games teve ao todo o jogo Isner x Mahut em Wimbledon 2010 (com o 5º set 70 a 68)?",
+  "unidade": "games",
+  "resposta": 183,
+  "fonte": "Wikipédia",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento de uma quadra de tênis, em metros?",
+  "unidade": "metros",
+  "resposta": 23.77,
+  "fonte": "ITF",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos Wilt Chamberlain fez em um único jogo da NBA em 1962?",
+  "unidade": "pontos",
+  "resposta": 100,
+  "fonte": "NBA / Wikipédia",
+  "ano": 1962,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pontos Kobe Bryant fez em um jogo contra o Toronto Raptors em 2006?",
+  "unidade": "pontos",
+  "resposta": 81,
+  "fonte": "NBA / Wikipédia",
+  "ano": 2006,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pontos Kareem Abdul-Jabbar fez na carreira da NBA?",
+  "unidade": "pontos",
+  "resposta": 38387,
+  "fonte": "NBA / Wikipédia",
+  "ano": 1989,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura do aro de basquete, em metros?",
+  "unidade": "metros",
+  "resposta": 3.05,
+  "fonte": "FIBA / NBA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos jogos tem a temporada regular da NBA por time?",
+  "unidade": "jogos",
+  "resposta": 82,
+  "fonte": "NBA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos da NBA Michael Jordan conquistou?",
+  "unidade": "títulos",
+  "resposta": 6,
+  "fonte": "NBA / Wikipédia",
+  "ano": 1998,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos títulos Bill Russell conquistou na NBA como jogador?",
+  "unidade": "títulos",
+  "resposta": 11,
+  "fonte": "NBA / Wikipédia",
+  "ano": 1969,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos arremessos de 3 pontos Stephen Curry converteu na temporada 2015-16 (recorde numa temporada) (dado de 2025)?",
+  "unidade": "cestas de 3",
+  "resposta": 402,
+  "fonte": "NBA / Wikipédia",
+  "ano": 2016,
+  "atualizavel": true,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura de Shaquille O'Neal, em metros?",
+  "unidade": "metros",
+  "resposta": 2.16,
+  "fonte": "NBA / Wikipédia (7 pés 1 pol.)",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altura da rede de vôlei masculino, em metros?",
+  "unidade": "metros",
+  "resposta": 2.43,
+  "fonte": "FIVB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o comprimento da quadra de vôlei, em metros?",
+  "unidade": "metros",
+  "resposta": 18,
+  "fonte": "FIVB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes a seleção brasileira masculina de vôlei foi campeã olímpica?",
+  "unidade": "ouros",
+  "resposta": 3,
+  "fonte": "COI / CBV",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos ouros olímpicos Mark Spitz ganhou na natação em Munique 1972?",
+  "unidade": "medalhas de ouro",
+  "resposta": 7,
+  "fonte": "COI / Wikipédia",
+  "ano": 1972,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a largura do gol de futebol, em metros?",
+  "unidade": "metros",
+  "resposta": 7.32,
+  "fonte": "IFAB / FIFA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altura do gol de futebol, em metros?",
+  "unidade": "metros",
+  "resposta": 2.44,
+  "fonte": "IFAB / FIFA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A que distância do gol fica a marca do pênalti, em metros?",
+  "unidade": "metros",
+  "resposta": 11,
+  "fonte": "IFAB / FIFA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é o comprimento do campo de futebol usado em jogos internacionais da FIFA, em metros?",
+  "unidade": "metros",
+  "resposta": 105,
+  "fonte": "FIFA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Pelé marcou pelo Santos, segundo o Guinness?",
+  "unidade": "gols",
+  "resposta": 643,
+  "fonte": "Guinness World Records",
+  "ano": 1974,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols o goleiro Rogério Ceni marcou na carreira?",
+  "unidade": "gols",
+  "resposta": 131,
+  "fonte": "Wikipédia / São Paulo FC",
+  "ano": 2015,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas Bolas de Ouro Lionel Messi ganhou (dado de 2025)?",
+  "unidade": "troféus",
+  "resposta": 8,
+  "fonte": "France Football / Wikipédia",
+  "ano": 2023,
+  "atualizavel": true,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos torneios Major de golfe Tiger Woods ganhou?",
+  "unidade": "títulos",
+  "resposta": 15,
+  "fonte": "PGA / Wikipédia",
+  "ano": 2019,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vitórias Tiger Woods tem no PGA Tour?",
+  "unidade": "vitórias",
+  "resposta": 82,
+  "fonte": "PGA Tour / Wikipédia",
+  "ano": 2019,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro do buraco de golfe, em centímetros?",
+  "unidade": "cm",
+  "resposta": 10.8,
+  "fonte": "R&A / USGA (4,25 polegadas)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos quilômetros de bicicleta tem a prova de Ironman?",
+  "unidade": "km",
+  "resposta": 180,
+  "fonte": "Ironman",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas partidas seguidas o beisebolista Cal Ripken Jr. jogou (recorde da MLB)?",
+  "unidade": "jogos",
+  "resposta": 2632,
+  "fonte": "MLB / Wikipédia",
+  "ano": 1998,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos home runs Barry Bonds fez na temporada de 2001 da MLB?",
+  "unidade": "home runs",
+  "resposta": 73,
+  "fonte": "MLB / Wikipédia",
+  "ano": 2001,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols Wayne Gretzky marcou na carreira na NHL?",
+  "unidade": "gols",
+  "resposta": 894,
+  "fonte": "NHL / Wikipédia",
+  "ano": 1999,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas lutas profissionais Floyd Mayweather venceu, sem nenhuma derrota?",
+  "unidade": "vitórias",
+  "resposta": 50,
+  "fonte": "BoxRec / Wikipédia",
+  "ano": 2017,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi disputada a primeira Copa do Mundo de futebol?",
+  "unidade": "ano",
+  "resposta": 1930,
+  "fonte": "FIFA",
+  "ano": 1930,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o Maracanã recebeu a final da Copa do Mundo e o Brasil perdeu para o Uruguai?",
+  "unidade": "ano",
+  "resposta": 1950,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1950,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o Brasil ganhou sua primeira Copa do Mundo?",
+  "unidade": "ano",
+  "resposta": 1958,
+  "fonte": "FIFA",
+  "ano": 1958,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o Brasil ganhou a Copa do Mundo pela terceira vez, no México?",
+  "unidade": "ano",
+  "resposta": 1970,
+  "fonte": "FIFA",
+  "ano": 1970,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Ayrton Senna morreu em Ímola?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "FIA / Wikipédia",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foram realizadas as primeiras Olimpíadas da era moderna, em Atenas?",
+  "unidade": "ano",
+  "resposta": 1896,
+  "fonte": "COI",
+  "ano": 1896,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o Brasil ganhou seu primeiro ouro olímpico, no tiro, em Antuérpia?",
+  "unidade": "ano",
+  "resposta": 1920,
+  "fonte": "COB / Wikipédia",
+  "ano": 1920,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Roger Bannister correu a milha em menos de 4 minutos pela primeira vez?",
+  "unidade": "ano",
+  "resposta": 1954,
+  "fonte": "Wikipédia",
+  "ano": 1954,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi disputada a primeira corrida do Campeonato Mundial de Fórmula 1?",
+  "unidade": "ano",
+  "resposta": 1950,
+  "fonte": "FIA",
+  "ano": 1950,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Nadia Comaneci tirou a primeira nota 10 da ginástica olímpica?",
+  "unidade": "ano",
+  "resposta": 1976,
+  "fonte": "COI / Wikipédia",
+  "ano": 1976,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o Dream Team dos EUA ganhou o ouro olímpico em Barcelona?",
+  "unidade": "ano",
+  "resposta": 1992,
+  "fonte": "COI / Wikipédia",
+  "ano": 1992,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Bob Beamon saltou 8,90 m nos Jogos do México?",
+  "unidade": "ano",
+  "resposta": 1968,
+  "fonte": "COI / Wikipédia",
+  "ano": 1968,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o Brasil ganhou o pentacampeonato mundial de futebol?",
+  "unidade": "ano",
+  "resposta": 2002,
+  "fonte": "FIFA",
+  "ano": 2002,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foram disputadas as Olimpíadas do Rio de Janeiro?",
+  "unidade": "ano",
+  "resposta": 2016,
+  "fonte": "COI",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Pelé marcou seu milésimo gol, no Maracanã?",
+  "unidade": "ano",
+  "resposta": 1969,
+  "fonte": "Wikipédia",
+  "ano": 1969,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols a Hungria marcou sobre El Salvador na Copa de 1982 (maior goleada da história das Copas)?",
+  "unidade": "gols",
+  "resposta": 10,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1982,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols foram marcados em Áustria 7 x 5 Suíça, na Copa de 1954 (mais gols em um jogo de Copa)?",
+  "unidade": "gols",
+  "resposta": 12,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1954,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos títulos de Roland Garros Rafael Nadal ganhou?",
+  "unidade": "títulos",
+  "resposta": 14,
+  "fonte": "ATP / Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos de Roland Garros Gustavo Kuerten ganhou?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "ATP / Wikipédia",
+  "ano": 2001,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos títulos de Grand Slam em simples Margaret Court ganhou (recorde histórico)?",
+  "unidade": "títulos",
+  "resposta": 24,
+  "fonte": "WTA / Wikipédia",
+  "ano": 1973,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas voltas tem o GP de Mônaco de Fórmula 1?",
+  "unidade": "voltas",
+  "resposta": 78,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da rede de vôlei feminino, em metros?",
+  "unidade": "metros",
+  "resposta": 2.24,
+  "fonte": "FIVB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes a seleção brasileira masculina de vôlei foi campeã mundial?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "FIVB / CBV",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]
