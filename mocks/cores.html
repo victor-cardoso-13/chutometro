@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chutômetro — opções de cores</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#d9d9de;font-family:Nunito,system-ui,sans-serif;font-weight:700;padding:20px;color:#222}
+h2{font-family:Fredoka,system-ui;margin:26px 0 2px}p.n{margin:0 0 12px;font-weight:600}
+.row{display:flex;gap:18px;flex-wrap:wrap}
+.tel{--bg1:#000;--bg2:#000;--tx:#fff;--card:#fff;--cardtx:#000;--ac:#f00;--actx:#fff;--sombra:#000;--bord:#000;--ok:#0a0;--oktx:#fff;--mut:#888
+ width:290px;height:600px;border-radius:30px;background:radial-gradient(circle at 50% 0%,var(--bg1),var(--bg2) 75%);color:var(--tx);border:6px solid #1b1b1b;padding:24px 14px 14px;display:flex;flex-direction:column;gap:10px;overflow:hidden}
+.top{display:flex;justify-content:space-between;font-size:14px}
+.logo{font-family:Fredoka,system-ui;font-size:36px;text-align:center;margin-top:34px;line-height:1}.logo small{display:block;font-size:15px;font-weight:600;margin-top:8px;opacity:.85}
+.bt{background:var(--ac);color:var(--actx);border-radius:18px;padding:16px;text-align:center;font-size:20px;font-family:Fredoka,system-ui;box-shadow:0 4px 0 var(--sombra)}
+.bt.b{background:var(--card);color:var(--cardtx);box-shadow:0 4px 0 var(--bord)}
+.card{background:var(--card);color:var(--cardtx);border-radius:20px;padding:14px;text-align:center;border:2px solid var(--bord)}
+.card .q{font-family:Fredoka,system-ui;font-size:21px;line-height:1.2}.un{font-size:13px;font-weight:600;margin-top:6px;opacity:.75}
+.tempo{height:10px;border-radius:6px;background:var(--bord);overflow:hidden}.tempo i{display:block;height:100%;width:62%;background:var(--ac)}
+.num{background:var(--card);color:var(--cardtx);border:3px solid var(--ac);border-radius:16px;text-align:center;font-size:40px;font-family:Fredoka,system-ui;padding:6px}
+.teclas{flex:1;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(4,1fr);gap:8px}
+.teclas div{background:var(--card);color:var(--cardtx);border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:34px;font-family:Fredoka,system-ui;border:2px solid var(--bord);box-shadow:0 3px 0 var(--bord)}
+.teclas .ok{background:var(--ac);color:var(--actx);font-size:22px;border-color:var(--ac);box-shadow:0 3px 0 var(--sombra)}
+.resp{text-align:center;font-size:15px}.resp b{display:block;font-family:Fredoka,system-ui;font-size:52px;color:var(--oktxt,var(--ac));line-height:1.1}
+.lin{display:flex;justify-content:space-between;align-items:center;gap:8px;background:var(--card);color:var(--cardtx);border-radius:14px;padding:11px 12px;border:2px solid var(--bord);font-size:16px}
+.lin.w{background:var(--ok);color:var(--oktx);border-color:var(--ok)}.lin b{font-family:Fredoka,system-ui;font-size:20px}.lin .nm{flex:1;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.lin small{display:block;font-size:11px;font-weight:600;opacity:.8;text-align:right}
+.mosca{background:var(--ac);color:var(--actx);border-radius:14px;text-align:center;padding:8px;font-family:Fredoka,system-ui;font-size:19px}
+.tel .sp{flex:1}
+/* paletas */
+.oceano{--bg1:#16466b;--bg2:#0a2540;--tx:#f2f9ff;--card:#ffffff;--cardtx:#0a2540;--ac:#ffb020;--actx:#0a2540;--sombra:#b97800;--bord:#1f5a86;--ok:#34d1a0;--oktx:#06332a;--oktxt:#34d1a0}
+.uva{--bg1:#5b2d91;--bg2:#2a1250;--tx:#fbf3ff;--card:#fff;--cardtx:#2a1250;--ac:#c6f135;--actx:#2a1250;--sombra:#8aa81a;--bord:#7a4cb5;--ok:#ff8ac2;--oktx:#3a0a28;--oktxt:#c6f135}
+.sol{--bg1:#fff1e6;--bg2:#ffd9bf;--tx:#4a1f12;--card:#fff;--cardtx:#4a1f12;--ac:#f2552c;--actx:#fff;--sombra:#a8300f;--bord:#f1c4a8;--ok:#ffd34e;--oktx:#4a1f12;--oktxt:#d9441b}
+.mar{--bg1:#e8f7f6;--bg2:#c4ebea;--tx:#0e3a43;--card:#fff;--cardtx:#0e3a43;--ac:#0fa3b1;--actx:#fff;--sombra:#07707a;--bord:#a7d8d9;--ok:#ff7a8a;--oktx:#fff;--oktxt:#0b7f8a}
+.grafite{--bg1:#2f3340;--bg2:#171a22;--tx:#f5f5f7;--card:#fff;--cardtx:#171a22;--ac:#ff5d73;--actx:#fff;--sombra:#b3283d;--bord:#434858;--ok:#ffd166;--oktx:#2b2100;--oktxt:#ffd166}
+</style></head><body>
+<h1 style="font-family:Fredoka,system-ui;margin:0">Chutômetro — 5 opções de cores</h1>
+<p class="n">Cada linha é uma paleta, com 3 telas: início, chutar (teclado maior) e resultado (só a lista; nome longo corta com “…”).</p>
+<div id="o"></div>
+<script>
+const P=[
+['oceano','1 · Oceano','Azul-marinho profundo + âmbar. Parente da identidade âmbar original, mais “noite”.'],
+['uva','2 · Uva e limão','Roxo escuro + verde-limão. Bem diferente do QI, muito vivo.'],
+['sol','3 · Pôr do sol','Pêssego claro + laranja-vermelho. Quente e alegre (claro, como os outros jogos).'],
+['mar','4 · Maré','Água-marinha clara + turquesa + coral. Claro, fresco, leve.'],
+['grafite','5 · Grafite e coral','Grafite + coral + amarelo. Moderno, bom contraste.']];
+const tela=(c,t)=>`<div class="tel ${c}">${t}</div>`;
+const ini=`<div class="logo">🎯 Chutômetro<small>Quem chega mais perto?</small></div><div class="sp"></div><div class="bt">Jogar sozinho</div><div class="bt b">Criar sala</div><div class="bt b">Entrar numa sala</div><div class="top" style="justify-content:center;font-weight:600;font-size:13px">Convidado · Entrar com e-mail</div>`;
+const chu=`<div class="top"><span>Pergunta 3 de 10</span><span>⏱ 18 s</span></div><div class="tempo"><i></i></div><div class="card" style="padding:10px"><div class="q" style="font-size:19px">Quantos ossos tem o corpo de um adulto?</div></div><div class="num">206</div><div class="teclas">${[1,2,3,4,5,6,7,8,9,'⌫',0,'Chutar'].map(k=>`<div class="${k=='Chutar'?'ok':''}">${k}</div>`).join('')}</div>`;
+const res=`<div class="top"><span>Pergunta 3 de 10</span><span>Placar</span></div><div class="resp">A resposta é<b>206</b></div>
+<div class="lin w"><span class="nm">🥇 Maria Eduarda Albuquerque</span><span><b>240</b><small>errou por 34</small></span></div>
+<div class="lin"><span class="nm">Léo</span><span><b>150</b><small>errou por 56</small></span></div>
+<div class="lin"><span class="nm">Bia</span><span><b>400</b><small>errou por 194</small></span></div>
+<div class="lin" style="opacity:.6"><span class="nm">Caio</span><span>não chutou</span></div><div class="sp"></div><div class="mosca">🎯 NA MOSCA! +3 (exemplo)</div>`;
+document.getElementById('o').innerHTML=P.map(([c,t,d])=>`<h2>${t}</h2><p class="n">${d}</p><div class="row">${tela(c,ini)}${tela(c,chu)}${tela(c,res)}</div>`).join('');
+</script></body></html>
