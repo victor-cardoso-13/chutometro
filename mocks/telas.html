@@ -1,0 +1,86 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chutômetro — mock</title>
+<style>
+:root{--tinta:#3b2f2a;--creme:#fbf6ee;--ambar:#e7a400;--ambar2:#f3c969;--verde:#2f9e5f;--verm:#d9534f}
+*{box-sizing:border-box}body{margin:0;background:#e9dfcf;font-family:Nunito,system-ui,sans-serif;font-weight:700;color:var(--tinta);padding:20px}
+h2{font-family:Fredoka,system-ui;margin:0 0 4px}p.n{margin:0 0 18px;font-weight:600}
+.row{display:flex;gap:22px;flex-wrap:wrap;align-items:flex-start}
+.tel{width:300px;height:620px;border-radius:30px;background:radial-gradient(circle at 50% 0%,#fffaf2,#f6eee2 70%);border:6px solid #3b2f2a;padding:26px 16px 18px;display:flex;flex-direction:column;gap:12px;overflow:hidden;position:relative}
+.cap{font-size:13px;margin:6px 0 0;font-weight:600;max-width:300px}
+.logo{font-family:Fredoka,system-ui;font-size:38px;text-align:center;margin-top:30px;line-height:1}
+.logo small{display:block;font-size:15px;font-weight:600;margin-top:8px}
+.bt{background:var(--ambar);color:#fff;border-radius:18px;padding:16px;text-align:center;font-size:20px;font-family:Fredoka,system-ui;box-shadow:0 4px 0 #b07c00}
+.bt.b{background:#fff;color:var(--tinta);box-shadow:0 4px 0 #d8ccb8;border:2px solid #e6dac6}
+.top{display:flex;justify-content:space-between;font-size:14px}
+.card{background:#fff;border-radius:20px;padding:16px;border:2px solid #eadfcc;text-align:center}
+.card .q{font-family:Fredoka,system-ui;font-size:22px;line-height:1.2}
+.un{font-size:14px;font-weight:600;margin-top:8px}
+.num{background:#fff;border:3px solid var(--ambar);border-radius:18px;text-align:center;font-size:44px;font-family:Fredoka,system-ui;padding:10px}
+.teclas{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.teclas div{background:#fff;border-radius:14px;padding:11px;text-align:center;font-size:22px;font-family:Fredoka,system-ui;border:2px solid #eadfcc}
+.tempo{height:10px;border-radius:6px;background:#eadfcc;overflow:hidden}.tempo i{display:block;height:100%;width:62%;background:var(--ambar)}
+.lin{display:flex;justify-content:space-between;align-items:center;background:#fff;border-radius:14px;padding:10px 12px;border:2px solid #eadfcc;font-size:16px}
+.lin.w{border-color:var(--verde);background:#eaf7ef}.lin b{font-family:Fredoka,system-ui;font-size:19px}
+.err{font-size:12px;font-weight:600}
+.mosca{background:var(--ambar);color:#fff;border-radius:14px;text-align:center;padding:8px;font-family:Fredoka,system-ui;font-size:20px}
+.resp{text-align:center;font-size:15px}.resp b{display:block;font-family:Fredoka,system-ui;font-size:46px;color:var(--verde);line-height:1.1}
+.fonte{font-size:11px;font-weight:600;text-align:center;opacity:.7}
+.reta{position:relative;height:56px;margin:4px 8px}.reta:before{content:"";position:absolute;left:0;right:0;top:34px;height:4px;background:#d8ccb8;border-radius:2px}
+.pt{position:absolute;top:24px;width:22px;height:22px;border-radius:50%;transform:translateX(-50%);border:3px solid #fff}
+.pt span{position:absolute;top:-20px;left:50%;transform:translateX(-50%);font-size:11px;white-space:nowrap}
+.pt.r{background:var(--verde);width:26px;height:26px;top:22px}
+</style></head><body>
+<h2>Chutômetro — mock (visual creme + âmbar padrão)</h2>
+<p class="n">Quatro telas: início, chutar, resultado da pergunta e placar final.</p>
+<div class="row">
+
+<div><div class="tel">
+ <div class="logo">🎯 Chutômetro<small>Quem chega mais perto?</small></div>
+ <div style="flex:1"></div>
+ <div class="bt">Jogar sozinho</div>
+ <div class="bt b">Criar sala</div>
+ <div class="bt b">Entrar numa sala</div>
+ <div class="top" style="justify-content:center;font-weight:600">Convidado · Entrar com e-mail</div>
+</div><p class="cap">1 · Início (igual ao QI: solo, sala, login opcional)</p></div>
+
+<div><div class="tel">
+ <div class="top"><span>Pergunta 3 de 10</span><span>⏱ 18 s</span></div>
+ <div class="tempo"><i></i></div>
+ <div class="card"><div class="q">Quantos ossos tem o corpo de um adulto?</div><div class="un">Resposta em: ossos</div></div>
+ <div style="flex:1"></div>
+ <div class="num">206</div>
+ <div class="teclas"><div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>⌫</div><div>0</div><div style="background:var(--ambar);color:#fff">Chutar</div></div>
+ <div class="fonte">Na sala: “Esperando 2 jogadores…” depois de chutar</div>
+</div><p class="cap">2 · Chutar. Teclado grande próprio (nada de teclado do celular cobrindo a tela). Ano e números grandes também cabem.</p></div>
+
+<div><div class="tel">
+ <div class="top"><span>Pergunta 3 de 10</span><span>Placar: Ana 2 · Léo 1</span></div>
+ <div class="resp">A resposta é<b>206</b></div>
+ <div class="reta">
+  <div class="pt" style="left:30%;background:#8a7a6a"><span>Léo 150</span></div>
+  <div class="pt r" style="left:50%"><span style="color:var(--verde)">206</span></div>
+  <div class="pt" style="left:62%;background:var(--ambar)"><span>Ana 240</span></div>
+  <div class="pt" style="left:88%;background:#8a7a6a"><span>Bia 400</span></div>
+ </div>
+ <div class="lin w"><span>🥇 Ana</span><span><b>240</b> <span class="err">errou por 34</span></span></div>
+ <div class="lin"><span>Léo</span><span><b>150</b> <span class="err">errou por 56</span></span></div>
+ <div class="lin"><span>Bia</span><span><b>400</b> <span class="err">errou por 194</span></span></div>
+ <div class="lin" style="opacity:.55"><span>Caio</span><span>não chutou</span></div>
+ <div style="flex:1"></div>
+ <div class="mosca">🎯 NA MOSCA! +3 (exemplo, se alguém cravasse)</div>
+ <div class="fonte">Fonte: Anatomia humana · atualizado em 2026</div>
+</div><p class="cap">3 · Resultado: uma reta mostra onde cada chute caiu em relação à resposta. Quem ficou mais perto ganha 1 ponto; cravar vale 3.</p></div>
+
+<div><div class="tel">
+ <div class="top" style="justify-content:center;font-family:Fredoka;font-size:22px">Fim de jogo</div>
+ <div class="card"><div style="font-size:48px">🏆</div><div class="q">Ana venceu!</div><div class="un">7 pontos</div></div>
+ <div class="lin w"><span>🥇 Ana</span><b>7</b></div>
+ <div class="lin"><span>🥈 Léo</span><b>5</b></div>
+ <div class="lin"><span>🥉 Bia</span><b>2</b></div>
+ <div style="flex:1"></div>
+ <div class="card" style="padding:10px"><div class="un" style="margin:0">No solo, no lugar do placar:</div><div class="q" style="font-size:20px">Nota 8,2 · erro médio 18%</div><div class="un" style="margin:4px 0 0">Recorde: 7,5 ✨ novo!</div></div>
+ <div class="bt">Jogar de novo</div>
+ <div class="bt b">Voltar ao início</div>
+</div><p class="cap">4 · Fim: placar da sala (ou, no solo, nota + recorde).</p></div>
+
+</div></body></html>
