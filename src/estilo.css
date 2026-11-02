@@ -77,6 +77,10 @@ input::placeholder { color: var(--mut); font-weight: 600; }
 .link { color: var(--mut); font-size: 15px; padding: 8px; text-decoration: underline; }
 .link.on { color: var(--ac); }
 .link.centro { align-self: center; }
+.links { display: flex; justify-content: center; gap: 18px; flex: none; }
+.jg { max-height: 46vh; overflow-y: auto; text-align: left; }
+.jg .nm em { font-style: normal; color: var(--ac); font-size: 14px; margin-left: 4px; }
+.x { flex: none; width: 46px; height: 46px; border-radius: 12px; background: #171a22; border: 2px solid var(--bord); font-size: 20px; color: var(--ac); }
 .voltar { align-self: flex-start; color: var(--ac); font-size: 20px; padding: 8px 4px; }
 .cta { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; width: 100%; min-height: 60px; padding: 12px; border-radius: 18px; background: var(--card); border: 2px solid var(--bord); box-shadow: 0 4px 0 var(--bord); font-family: var(--titulo); font-size: 21px; }
 .cta small { font-family: 'Nunito', sans-serif; font-size: 14px; color: var(--mut); font-weight: 600; }

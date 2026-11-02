@@ -1,5 +1,5 @@
 /** Funções puras do Chutômetro (sem tela, sem internet). Regras e números: src/motor/regras.ts. */
-import { ANO_REF, LIMITE_DIGITOS, PONTOS } from './regras.ts';
+import { ANO_REF, LIMITE_DIGITOS, PONTOS, RODADAS_INATIVO } from './regras.ts';
 
 export interface Pergunta { id: string; q: string; u: string; r: number; cat: string; d: number }
 
@@ -108,3 +108,6 @@ export function comentario(erro: number): string {
   if (erro <= 0.5) return 'Dá pra melhorar';
   return 'Passou longe';
 }
+
+/** Passou várias rodadas seguidas sem chutar? (`miss` = rodadas seguidas sem chute; zera ao chutar.) */
+export const estaInativo = (p: { miss?: number }) => (p.miss ?? 0) >= RODADAS_INATIVO;

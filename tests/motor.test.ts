@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
-  aplicarTecla, classificar, comentario, erroRelativo, formatar, formatarDigitado, ganhadoresDaPartida, lerChute, notaSolo,
+  aplicarTecla, classificar, comentario, erroRelativo, estaInativo, formatar, formatarDigitado, ganhadoresDaPartida, lerChute, notaSolo,
   resultadoRodada, sortearPergunta, type Pergunta,
 } from '../src/motor/motor.ts';
 import { escolherVoz, partesBoasVindas, partesEntrou, partesFim, partesPergunta, partesResposta, partesTempoEsgotado, textoDasPartes } from '../src/motor/narracao.ts';
@@ -160,5 +160,13 @@ describe('áudios gravados do narrador', () => {
       expect(indice[p.clip!], p.clip).toBe(p.t);
       expect(existsSync(new URL(`${p.clip}.mp3`, pasta)), p.clip).toBe(true);
     }
+  });
+});
+
+describe('jogador inativo', () => {
+  it('3 rodadas seguidas sem chutar = inativo', () => {
+    expect(estaInativo({})).toBe(false);
+    expect(estaInativo({ miss: 2 })).toBe(false);
+    expect(estaInativo({ miss: 3 })).toBe(true);
   });
 });
