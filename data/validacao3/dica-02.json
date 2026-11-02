@@ -1,0 +1,6 @@
+[
+{"id":"c1709","tipo":"numero-no-nome","motivo":"O texto diz 'rugby de 15', entregando a resposta."},
+{"id":"c1717","tipo":"ambigua","motivo":"'Até quantos pontos vai, no mínimo' é confuso; o set decisivo vai a 15 com 2 de vantagem, mas a redação induz a erro de interpretação."},
+{"id":"c1745","tipo":"ambigua","motivo":"Contagem de dias do papado de João Paulo I varia entre 33 e 34 conforme se inclua ou não o dia da eleição."},
+{"id":"c1771","tipo":"numero-no-nome","motivo":"'Hexadecimal' (hexa + decimal = 6 + 10) permite deduzir 16."}
+]

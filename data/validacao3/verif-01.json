@@ -1,0 +1,310 @@
+[
+ {
+  "id": "c1643",
+  "status": "confirmada-memoria",
+  "valor_correto": 30,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1644",
+  "status": "confirmada-memoria",
+  "valor_correto": 32,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1645",
+  "status": "confirmada-memoria",
+  "valor_correto": 50,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1646",
+  "status": "confirmada-memoria",
+  "valor_correto": 7,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1647",
+  "status": "confirmada-memoria",
+  "valor_correto": 8,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1648",
+  "status": "confirmada-memoria",
+  "valor_correto": 60,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1649",
+  "status": "confirmada-memoria",
+  "valor_correto": 38,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1650",
+  "status": "confirmada-memoria",
+  "valor_correto": 37,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1651",
+  "status": "confirmada-memoria",
+  "valor_correto": 2598960,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1652",
+  "status": "confirmada-memoria",
+  "valor_correto": 255,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1653",
+  "status": "confirmada-memoria",
+  "valor_correto": 16,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1654",
+  "status": "confirmada-memoria",
+  "valor_correto": 1957,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1655",
+  "status": "confirmada-memoria",
+  "valor_correto": 1996,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1656",
+  "status": "confirmada",
+  "valor_correto": 2,
+  "fonte_url": "https://en.wikipedia.org/wiki/Brazil_at_the_FIFA_World_Cup",
+  "obs": "vice em 1950 e 1998"
+ },
+ {
+  "id": "c1657",
+  "status": "confirmada",
+  "valor_correto": 38,
+  "fonte_url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+  "obs": "30 m, 38 m com pedestal"
+ },
+ {
+  "id": "c1658",
+  "status": "confirmada-memoria",
+  "valor_correto": 7,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1659",
+  "status": "confirmada-memoria",
+  "valor_correto": 12,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1660",
+  "status": "confirmada",
+  "valor_correto": 17,
+  "fonte_url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+  "obs": "17 anos (nasc. 23/10/1940, final 29/06/1958)"
+ },
+ {
+  "id": "c1661",
+  "status": "confirmada",
+  "valor_correto": 41,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+  "obs": "41 vitórias"
+ },
+ {
+  "id": "c1662",
+  "status": "confirmada",
+  "valor_correto": 6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+  "obs": "6 vitórias em Mônaco"
+ },
+ {
+  "id": "c1663",
+  "status": "confirmada-memoria",
+  "valor_correto": 7,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1664",
+  "status": "confirmada-memoria",
+  "valor_correto": 1792,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1665",
+  "status": "confirmada-memoria",
+  "valor_correto": 14,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1666",
+  "status": "confirmada",
+  "valor_correto": 396,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Morro_do_Pão_de_Açúcar",
+  "obs": "396 m"
+ },
+ {
+  "id": "c1667",
+  "status": "confirmada",
+  "valor_correto": 15,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+  "obs": "15º gol em Copas em 2006 (recorde)"
+ },
+ {
+  "id": "c1668",
+  "status": "confirmada-memoria",
+  "valor_correto": 7,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1669",
+  "status": "confirmada-memoria",
+  "valor_correto": 5,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1670",
+  "status": "confirmada-memoria",
+  "valor_correto": 1980,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1671",
+  "status": "confirmada",
+  "valor_correto": 122,
+  "fonte_url": "https://en.wikipedia.org/wiki/Jeanne_Calment",
+  "obs": "122 anos e 164 dias"
+ },
+ {
+  "id": "c1672",
+  "status": "confirmada-memoria",
+  "valor_correto": 64,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1673",
+  "status": "confirmada-memoria",
+  "valor_correto": 9,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1674",
+  "status": "confirmada-memoria",
+  "valor_correto": 3,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1675",
+  "status": "confirmada-memoria",
+  "valor_correto": 15,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1676",
+  "status": "confirmada-memoria",
+  "valor_correto": 10,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1677",
+  "status": "confirmada-memoria",
+  "valor_correto": 40,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1678",
+  "status": "confirmada",
+  "valor_correto": 272,
+  "fonte_url": "https://en.wikipedia.org/wiki/Robert_Wadlow",
+  "obs": "272,0 cm"
+ },
+ {
+  "id": "c1679",
+  "status": "confirmada",
+  "valor_correto": 264,
+  "fonte_url": "https://en.wikipedia.org/wiki/Randy_Gardner_(record_holder)",
+  "obs": "264,4 h"
+ },
+ {
+  "id": "c1680",
+  "status": "confirmada-memoria",
+  "valor_correto": 8,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1681",
+  "status": "confirmada-memoria",
+  "valor_correto": 88,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1682",
+  "status": "confirmada",
+  "valor_correto": 11,
+  "fonte_url": "https://en.wikipedia.org/wiki/List_of_Academy_Award_records",
+  "obs": "11 Oscars"
+ },
+ {
+  "id": "c1683",
+  "status": "confirmada-memoria",
+  "valor_correto": 7,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1684",
+  "status": "confirmada-memoria",
+  "valor_correto": 6,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1685",
+  "status": "confirmada-memoria",
+  "valor_correto": 1980,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ },
+ {
+  "id": "c1686",
+  "status": "confirmada-memoria",
+  "valor_correto": 1899,
+  "fonte_url": "",
+  "obs": "conhecimento geral, sem fonte aberta"
+ }
+]

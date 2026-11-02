@@ -1,0 +1,303 @@
+[
+ {
+  "id": "c1731",
+  "status": "confirmada",
+  "valor_correto": 36,
+  "fonte_url": "https://en.wikipedia.org/wiki/States_of_Nigeria",
+  "obs": "Wikipedia bate com 36"
+ },
+ {
+  "id": "c1732",
+  "status": "confirmada",
+  "valor_correto": 13,
+  "fonte_url": "https://en.wikipedia.org/wiki/States_and_federal_territories_of_Malaysia",
+  "obs": "Wikipedia bate com 13"
+ },
+ {
+  "id": "c1733",
+  "status": "confirmada",
+  "valor_correto": 32,
+  "fonte_url": "https://en.wikipedia.org/wiki/Departments_of_Colombia",
+  "obs": "Wikipedia bate com 32"
+ },
+ {
+  "id": "c1734",
+  "status": "confirmada",
+  "valor_correto": 17,
+  "fonte_url": "https://en.wikipedia.org/wiki/Autonomous_communities_of_Spain",
+  "obs": "Wikipedia bate com 17"
+ },
+ {
+  "id": "c1735",
+  "status": "confirmada-memoria",
+  "valor_correto": 1215,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1736",
+  "status": "confirmada-memoria",
+  "valor_correto": 1986,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1737",
+  "status": "confirmada-memoria",
+  "valor_correto": 4,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1738",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+  "obs": "Wikipedia bate com 7"
+ },
+ {
+  "id": "c1739",
+  "status": "confirmada",
+  "valor_correto": 9,
+  "fonte_url": "https://en.wikipedia.org/wiki/Queen_Victoria",
+  "obs": "Wikipedia bate com 9"
+ },
+ {
+  "id": "c1740",
+  "status": "confirmada-memoria",
+  "valor_correto": 51,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1741",
+  "status": "confirmada-memoria",
+  "valor_correto": 110,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1742",
+  "status": "confirmada-memoria",
+  "valor_correto": 6,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1743",
+  "status": "confirmada-memoria",
+  "valor_correto": 15,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1744",
+  "status": "confirmada-memoria",
+  "valor_correto": 15,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1745",
+  "status": "confirmada",
+  "valor_correto": 33,
+  "fonte_url": "https://en.wikipedia.org/wiki/Pope_John_Paul_I",
+  "obs": "Wikipedia bate com 33"
+ },
+ {
+  "id": "c1746",
+  "status": "confirmada-memoria",
+  "valor_correto": 44,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1747",
+  "status": "confirmada-memoria",
+  "valor_correto": 4,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1748",
+  "status": "confirmada-memoria",
+  "valor_correto": 11,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1749",
+  "status": "confirmada-memoria",
+  "valor_correto": 102,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1750",
+  "status": "confirmada",
+  "valor_correto": 163,
+  "fonte_url": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+  "obs": "Wikipedia bate com 163"
+ },
+ {
+  "id": "c1751",
+  "status": "confirmada",
+  "valor_correto": 30,
+  "fonte_url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+  "obs": "Wikipedia bate com 30"
+ },
+ {
+  "id": "c1752",
+  "status": "confirmada",
+  "valor_correto": 221,
+  "fonte_url": "https://en.wikipedia.org/wiki/Hoover_Dam",
+  "obs": "Wikipedia bate com 221"
+ },
+ {
+  "id": "c1753",
+  "status": "confirmada",
+  "valor_correto": 634,
+  "fonte_url": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
+  "obs": "Wikipedia bate com 634"
+ },
+ {
+  "id": "c1754",
+  "status": "confirmada",
+  "valor_correto": 9,
+  "fonte_url": "https://en.wikipedia.org/wiki/Atomium",
+  "obs": "Wikipedia bate com 9"
+ },
+ {
+  "id": "c1755",
+  "status": "confirmada",
+  "valor_correto": 91,
+  "fonte_url": "https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza",
+  "obs": "Wikipedia bate com 91"
+ },
+ {
+  "id": "c1756",
+  "status": "confirmada",
+  "valor_correto": 132,
+  "fonte_url": "https://en.wikipedia.org/wiki/White_House",
+  "obs": "Wikipedia bate com 132"
+ },
+ {
+  "id": "c1757",
+  "status": "confirmada-memoria",
+  "valor_correto": 1973,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1758",
+  "status": "confirmada-memoria",
+  "valor_correto": 1964,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1759",
+  "status": "confirmada",
+  "valor_correto": 343,
+  "fonte_url": "https://en.wikipedia.org/wiki/Millau_Viaduct",
+  "obs": "Wikipedia bate com 343"
+ },
+ {
+  "id": "c1760",
+  "status": "confirmada-memoria",
+  "valor_correto": 88,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1761",
+  "status": "confirmada",
+  "valor_correto": 192,
+  "fonte_url": "https://en.wikipedia.org/wiki/Gateway_Arch",
+  "obs": "Wikipedia bate com 192"
+ },
+ {
+  "id": "c1762",
+  "status": "confirmada-memoria",
+  "valor_correto": 8,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1763",
+  "status": "confirmada-memoria",
+  "valor_correto": 140,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1764",
+  "status": "confirmada-memoria",
+  "valor_correto": 32,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1765",
+  "status": "confirmada-memoria",
+  "valor_correto": 128,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1766",
+  "status": "confirmada-memoria",
+  "valor_correto": 1920,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1767",
+  "status": "confirmada-memoria",
+  "valor_correto": 7,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1768",
+  "status": "confirmada-memoria",
+  "valor_correto": 6,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1769",
+  "status": "confirmada-memoria",
+  "valor_correto": 160,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1770",
+  "status": "confirmada-memoria",
+  "valor_correto": 160,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1771",
+  "status": "confirmada-memoria",
+  "valor_correto": 16,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1772",
+  "status": "confirmada-memoria",
+  "valor_correto": 2005,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ },
+ {
+  "id": "c1773",
+  "status": "confirmada-memoria",
+  "valor_correto": 2006,
+  "fonte_url": "",
+  "obs": "conferida pela memoria"
+ }
+]
