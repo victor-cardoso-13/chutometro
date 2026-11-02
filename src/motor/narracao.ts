@@ -1,33 +1,60 @@
 /** Falas do narrador do modo TV e escolha da voz. Funções puras (sem tela, sem som). */
 import { formatar, type Pergunta } from './motor.ts';
 
+/**
+ * Uma fala é uma lista de partes. Parte com `clip` tem áudio gravado (Edge TTS, pasta public/voz/, feito por
+ * scripts/gerar-narracao.py a partir de scripts/lista-falas.ts); sem `clip`, ou se o áudio faltar, fala a voz do aparelho.
+ */
+export interface Parte { t: string; clip?: string }
+
+export const TEXTOS_FIXOS: Record<string, string> = {
+  'boas-vindas': 'Bem-vindos ao Chutômetro! Escaneiem o código na tela para entrar. Quem chegar mais perto da resposta, ganha!',
+  'vamos-comecar': 'Vamos começar!',
+  'tempo-esgotado': 'Tempo esgotado!',
+  'ninguem-chutou': 'Ninguém chutou desta vez.',
+  'fim-de-jogo': 'Fim de jogo!',
+  'acabaram': 'Acabaram as perguntas!',
+};
+/** "Pergunta N." gravada de 1 até aqui; depois disso, voz do aparelho. */
+export const MAX_NUMERO_GRAVADO = 300;
+
+export const dicaDaResposta = (q: Pergunta) => (q.u === 'ano' ? 'Responda com o ano.' : `Resposta em ${q.u}.`);
+export const textoQuestao = (q: Pergunta) => `${q.q} ${dicaDaResposta(q)}`;
+export const textoCerta = (q: Pergunta) => (q.u === 'ano' ? `A resposta certa é o ano de ${q.r}.` : `A resposta certa é ${formatar(q.r, q.u)} ${q.u}.`);
+export const textoNumero = (n: number) => `Pergunta ${n}.`;
+
+const fixa = (clip: string): Parte => ({ t: TEXTOS_FIXOS[clip], clip });
+
+export const partesBoasVindas = (): Parte[] => [fixa('boas-vindas')];
+export const partesTempoEsgotado = (): Parte[] => [fixa('tempo-esgotado')];
+
 /** "Pergunta 3. Quantos…? Resposta em metros." A 1ª pergunta abre o jogo. */
-export function falaPergunta(n: number, q: Pergunta): string {
-  const dica = q.u === 'ano' ? 'Responda com o ano.' : `Resposta em ${q.u}.`;
-  return `${n === 1 ? 'Vamos começar! ' : ''}Pergunta ${n}. ${q.q} ${dica}`;
+export function partesPergunta(n: number, q: Pergunta): Parte[] {
+  return [
+    ...(n === 1 ? [fixa('vamos-comecar')] : []),
+    { t: textoNumero(n), ...(n <= MAX_NUMERO_GRAVADO ? { clip: `n-${n}` } : {}) },
+    { t: textoQuestao(q), clip: `q-${q.id}` },
+  ];
 }
 
-export const FALA_TEMPO_ESGOTADO = 'Tempo esgotado!';
-export const FALA_BOAS_VINDAS = 'Bem-vindos ao Chutômetro! Escaneiem o código na tela para entrar. Quem chegar mais perto da resposta, ganha!';
-
-/** A resposta certa e quem ganhou a rodada. `dist` = quanto o vencedor errou. */
-export function falaResposta(q: Pergunta, vencedores: string[], dist: number | null): string {
-  const certa = q.u === 'ano' ? `A resposta certa é o ano de ${q.r}.` : `A resposta certa é ${formatar(q.r, q.u)} ${q.u}.`;
-  if (!vencedores.length) return `${certa} Ninguém chutou desta vez.`;
-  if (vencedores.length > 1) return `${certa} ${juntar(vencedores)} chegaram juntos e levam um ponto cada.`;
-  if (dist === 0) return `${certa} ${vencedores[0]} cravou o número exato e leva três pontos!`;
+/** A resposta certa (gravada) e quem ganhou a rodada (voz do aparelho: tem nome). `dist` = quanto o vencedor errou. */
+export function partesResposta(q: Pergunta, vencedores: string[], dist: number | null): Parte[] {
+  const certa: Parte = { t: textoCerta(q), clip: `r-${q.id}` };
+  if (!vencedores.length) return [certa, fixa('ninguem-chutou')];
+  if (vencedores.length > 1) return [certa, { t: `${juntar(vencedores)} chegaram juntos e levam um ponto cada.` }];
+  if (dist === 0) return [certa, { t: `${vencedores[0]} cravou o número exato e leva três pontos!` }];
   const erro = q.u === 'ano' ? `${formatar(dist ?? 0, '')} ${dist === 1 ? 'ano' : 'anos'}` : `${formatar(dist ?? 0, q.u)} ${q.u}`;
-  return `${certa} ${vencedores[0]} chegou mais perto, errou por ${erro}. Um ponto!`;
+  return [certa, { t: `${vencedores[0]} chegou mais perto, errou por ${erro}. Um ponto!` }];
 }
 
-export function falaFim(nomes: string[], pontos: number, acabaram = false): string {
-  const fim = acabaram ? 'Acabaram as perguntas! ' : '';
-  if (!nomes.length) return `${fim}Fim de jogo! Ninguém pontuou.`;
-  if (nomes.length > 1) return `${fim}Fim de jogo! Empate entre ${juntar(nomes)}, com ${pontos} ponto${pontos === 1 ? '' : 's'} cada. Parabéns!`;
-  return `${fim}Fim de jogo! Vitória de ${nomes[0]}, com ${pontos} ponto${pontos === 1 ? '' : 's'}. Parabéns!`;
+export function partesFim(nomes: string[], pontos: number, acabaram = false): Parte[] {
+  const pts = `${pontos} ponto${pontos === 1 ? '' : 's'}`;
+  const fala = !nomes.length ? 'Ninguém pontuou.' : nomes.length > 1 ? `Empate entre ${juntar(nomes)}, com ${pts} cada. Parabéns!` : `Vitória de ${nomes[0]}, com ${pts}. Parabéns!`;
+  return [...(acabaram ? [fixa('acabaram')] : []), fixa('fim-de-jogo'), { t: fala }];
 }
 
 export const falaEntrou = (nomes: string[]) => (nomes.length === 1 ? `${nomes[0]} entrou!` : `${juntar(nomes)} entraram!`);
+export const textoDasPartes = (ps: Parte[]) => ps.map((p) => p.t).join(' ');
 
 function juntar(nomes: string[]): string {
   if (nomes.length <= 1) return nomes.join('');

@@ -1,9 +1,10 @@
+import { existsSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
   aplicarTecla, classificar, comentario, erroRelativo, formatar, formatarDigitado, ganhadoresDaPartida, lerChute, notaSolo,
   resultadoRodada, sortearPergunta, type Pergunta,
 } from '../src/motor/motor.ts';
-import { escolherVoz, falaFim, falaPergunta, falaResposta } from '../src/motor/narracao.ts';
+import { escolherVoz, partesBoasVindas, partesFim, partesPergunta, partesResposta, partesTempoEsgotado, textoDasPartes } from '../src/motor/narracao.ts';
 
 const P = (id: string, r: number, u = 'm', cat = 'a'): Pergunta => ({ id, q: id, u, r, cat, d: 1 });
 
@@ -105,22 +106,27 @@ describe('teclado', () => {
 
 describe('narrador (modo TV)', () => {
   const q = { id: 'x', q: 'Quantos metros tem a Torre Eiffel?', u: 'metros', r: 330, cat: 'a', d: 1 };
-  it('a 1ª pergunta abre o jogo, as outras só numeram', () => {
-    expect(falaPergunta(1, q)).toMatch(/^Vamos começar! Pergunta 1\. Quantos metros/);
-    expect(falaPergunta(3, q)).toBe('Pergunta 3. Quantos metros tem a Torre Eiffel? Resposta em metros.');
-    expect(falaPergunta(2, { ...q, u: 'ano' })).toMatch(/Responda com o ano\.$/);
+  it('a 1ª pergunta abre o jogo, as outras só numeram; cada parte aponta para um áudio', () => {
+    expect(textoDasPartes(partesPergunta(1, q))).toMatch(/^Vamos começar! Pergunta 1\. Quantos metros/);
+    expect(textoDasPartes(partesPergunta(3, q))).toBe('Pergunta 3. Quantos metros tem a Torre Eiffel? Resposta em metros.');
+    expect(partesPergunta(3, q).map((p) => p.clip)).toEqual(['n-3', 'q-x']);
+    expect(partesPergunta(301, q).map((p) => p.clip)).toEqual([undefined, 'q-x']); // sem áudio gravado: voz do aparelho
+    expect(textoDasPartes(partesPergunta(2, { ...q, u: 'ano' }))).toMatch(/Responda com o ano\.$/);
   });
-  it('fala a resposta e o vencedor', () => {
-    expect(falaResposta(q, ['Maria'], 6)).toBe('A resposta certa é 330 metros. Maria chegou mais perto, errou por 6 metros. Um ponto!');
-    expect(falaResposta(q, ['Maria'], 0)).toContain('cravou o número exato e leva três pontos');
-    expect(falaResposta(q, ['Ana', 'Léo'], 2)).toContain('Ana e Léo chegaram juntos');
-    expect(falaResposta(q, [], null)).toContain('Ninguém chutou');
-    expect(falaResposta({ ...q, u: 'ano', r: 1969 }, ['Bia'], 1)).toContain('o ano de 1969. Bia chegou mais perto, errou por 1 ano.');
+  it('fala a resposta (gravada) e o vencedor (voz do aparelho, tem nome)', () => {
+    expect(partesResposta(q, ['Maria'], 6)).toEqual([
+      { t: 'A resposta certa é 330 metros.', clip: 'r-x' },
+      { t: 'Maria chegou mais perto, errou por 6 metros. Um ponto!' },
+    ]);
+    expect(textoDasPartes(partesResposta(q, ['Maria'], 0))).toContain('cravou o número exato e leva três pontos');
+    expect(textoDasPartes(partesResposta(q, ['Ana', 'Léo'], 2))).toContain('Ana e Léo chegaram juntos');
+    expect(partesResposta(q, [], null)[1].clip).toBe('ninguem-chutou');
+    expect(textoDasPartes(partesResposta({ ...q, u: 'ano', r: 1969 }, ['Bia'], 1))).toContain('o ano de 1969. Bia chegou mais perto, errou por 1 ano.');
   });
   it('fala o fim do jogo', () => {
-    expect(falaFim(['Maria'], 8)).toBe('Fim de jogo! Vitória de Maria, com 8 pontos. Parabéns!');
-    expect(falaFim(['A', 'B', 'C'], 1)).toContain('A, B e C, com 1 ponto cada');
-    expect(falaFim([], 0, true)).toBe('Acabaram as perguntas! Fim de jogo! Ninguém pontuou.');
+    expect(textoDasPartes(partesFim(['Maria'], 8))).toBe('Fim de jogo! Vitória de Maria, com 8 pontos. Parabéns!');
+    expect(textoDasPartes(partesFim(['A', 'B', 'C'], 1))).toContain('A, B e C, com 1 ponto cada');
+    expect(textoDasPartes(partesFim([], 0, true))).toBe('Acabaram as perguntas! Fim de jogo! Ninguém pontuou.');
   });
   it('prefere a voz neural do Edge em português do Brasil', () => {
     const vozes = [
@@ -130,5 +136,22 @@ describe('narrador (modo TV)', () => {
     expect(escolherVoz(vozes)?.name).toContain('Antonio');
     expect(escolherVoz([{ name: 'Daniel', lang: 'en-GB' }])).toBeUndefined();
     expect(escolherVoz([{ name: 'Joana', lang: 'pt-PT' }, { name: 'Luciana', lang: 'pt_BR' }])?.name).toBe('Luciana');
+  });
+});
+
+describe('áudios gravados do narrador', () => {
+  const pasta = new URL('../public/voz/', import.meta.url);
+  const indice: Record<string, string> = JSON.parse(readFileSync(new URL('indice.json', pasta), 'utf8'));
+  it('toda parte com clip tem mp3 e o texto gravado é o texto de hoje (senão regrave: scripts/gerar-narracao.py)', () => {
+    const perguntas: Pergunta[] = JSON.parse(readFileSync(new URL('../public/questions.json', import.meta.url), 'utf8'));
+    const partes = [
+      ...partesFim(['A'], 1, true), ...partesBoasVindas(), ...partesTempoEsgotado(), ...partesPergunta(1, perguntas[0]),
+      ...perguntas.flatMap((q) => [...partesPergunta(2, q), ...partesResposta(q, [], null)]),
+    ].filter((p) => p.clip);
+    expect(partes.length).toBeGreaterThan(1800);
+    for (const p of partes) {
+      expect(indice[p.clip!], p.clip).toBe(p.t);
+      expect(existsSync(new URL(`${p.clip}.mp3`, pasta)), p.clip).toBe(true);
+    }
   });
 });
