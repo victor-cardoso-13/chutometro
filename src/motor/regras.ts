@@ -21,6 +21,8 @@ export const TEMPO_PADRAO = 30;
 export const REVELA_MS = 8000;
 /** Modo TV: pausa depois que o narrador termina de falar a resposta. */
 export const PAUSA_TV_MS = 5000;
+/** Rodadas seguidas sem chutar para o jogador aparecer como inativo (o anfitrião pode removê-lo). */
+export const RODADAS_INATIVO = 3;
 export const PONTOS = { perto: 1, cravou: 3 } as const;
 export const LIMITE_DIGITOS = 12;
 

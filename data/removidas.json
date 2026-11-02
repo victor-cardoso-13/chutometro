@@ -1,5 +1,5 @@
 {
- "motivo": "a pergunta entrega a resposta (lista dos itens, o n\u00famero no texto ou duas datas para subtrair). Pedido do Victor 2026-11-01.",
+ "motivo": "a pergunta entrega a resposta (lista dos itens, o número no texto ou duas datas para subtrair). Pedido do Victor 2026-11-01. Em 2026-11-01 (2ª leva): c0790 (altura da Pirâmide de Gizé, traz \"146,6 m\" no texto) e c0847 (Doze Tábuas, número no nome).",
  "ids": [
   "c0007",
   "c0032",
@@ -26,6 +26,8 @@
   "c0832",
   "c0833",
   "c0841",
-  "c0844"
+  "c0844",
+  "c0790",
+  "c0847"
  ]
 }

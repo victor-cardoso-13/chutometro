@@ -4,7 +4,7 @@
  * para quem chutou abaixo, cravar vale 3). Salas ficam em rooms/AAAA com jogo:'chutometro'.
  */
 import {
-  classificar, formatar, ganhadoresDaPartida, lerChute, resultadoRodada, sortearPergunta, type Pergunta,
+  classificar, estaInativo, formatar, ganhadoresDaPartida, lerChute, resultadoRodada, sortearPergunta, type Pergunta,
 } from '../motor/motor.ts';
 import { partesPergunta, partesResposta, partesTempoEsgotado, type Parte } from '../motor/narracao.ts';
 import { MAX_JOGADORES, MAX_JOGADORES_TV, PAUSA_TV_MS, REVELA_MS, SEM_LIMITE, TAMANHOS, TAMANHO_PADRAO, TEMPOS, TEMPO_PADRAO } from '../motor/regras.ts';
@@ -18,7 +18,7 @@ import { usuarioAtual } from '../nuvem/sincronia.ts';
 const CORES = ['#ff6b81', '#ffa94d', '#ffd43b', '#69db7c', '#38d9a9', '#4dabf7', '#748ffc', '#da77f2', '#f783ac', '#a9b4c2'];
 const SAIR_ICONE = '<svg class="ic" viewBox="0 0 24 24" width="18" height="18"><path d="M10 5H6a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h4M14 8l4 4-4 4M18 12H9"/></svg>';
 
-interface Jogador { name: string; j: number; color: string; pts: number; wins: number }
+interface Jogador { name: string; j: number; color: string; pts: number; wins: number; miss?: number }
 interface Entrada { n: number; v: number }
 /** read = TV lendo a pergunta · timeup = TV dizendo "tempo esgotado" (só no modo TV). */
 interface Rodada { n: number; qid?: string; cat?: string; phase?: 'read' | 'question' | 'timeup' | 'reveal'; ends?: number; start?: number }
@@ -46,7 +46,9 @@ let db: Db;
 let S: Sala | null = null;
 let code = (params.get('sala') || '').toUpperCase();
 let unsub: (() => void) | null = null;
-let confirmando: '' | 'sair' | 'encerrar' = '';
+let confirmando: '' | 'sair' | 'encerrar' | 'jogadores' | 'tirar' = '';
+let alvo = ''; // jogador que o anfitrião está para tirar
+let tinhaEu = false, saindo = false;
 let busy = false, handled = '', contadaKey = '', lido = '';
 let digitado = '', digitadoN = -1; // o que a pessoa está digitando nesta rodada
 const idStore = local ? sessionStorage : localStorage;
@@ -80,6 +82,9 @@ function observar() {
   unsub?.();
   unsub = db.on(room(), (v: Sala | null) => {
     S = v;
+    const tem = !!v?.players?.[pid];
+    if (tinhaEu && !tem && v && !saindo) { ui.msg = 'Você foi removido da sala pelo anfitrião.'; confirmando = ''; } // tiraram você
+    tinhaEu = tem;
     ganchos.aoMudar(v);
     if (!v) { ui.msg = 'Sala encerrada.'; sairLocal(); return; }
     ui.desenhar();
@@ -87,7 +92,7 @@ function observar() {
 }
 
 function sairLocal() {
-  unsub?.(); unsub = null; S = null; code = ''; confirmando = ''; handled = ''; digitado = '';
+  unsub?.(); unsub = null; S = null; code = ''; confirmando = ''; handled = ''; digitado = ''; tinhaEu = false; saindo = false;
   history.replaceState(null, '', location.pathname + (params.has('tv') ? '?tv' : ''));
   ganchos.parar();
   ui.ir(params.has('tv') ? 'tv' : 'inicio');
@@ -156,6 +161,7 @@ export async function abrirDaUrl(): Promise<boolean> {
 
 async function sairDaSala() {
   const resto = players().filter((p) => p.id !== pid);
+  saindo = true;
   const eraHost = isHost(), eraTV = !!S?.tv, eraCtl = S?.ctl === pid;
   const c = code;
   sairLocal(); // sai da tela já; o resto é limpeza
@@ -200,6 +206,7 @@ async function revelar() {
   const upd: Record<string, unknown> = { 'cur/phase': 'reveal', 'cur/ends': db.now() + (S!.tv ? 120000 : REVELA_MS / VELOCIDADE) };
   for (const p of players()) {
     upd[`players/${p.id}/pts`] = (p.pts || 0) + r.pontos[p.id];
+    upd[`players/${p.id}/miss`] = chutes[p.id] === null ? (p.miss || 0) + 1 : 0;
     upd[`res/${p.id}`] = { v: chutes[p.id], d: r.dist[p.id], pts: r.pontos[p.id] };
   }
   await db.update(room(), upd);
@@ -216,6 +223,11 @@ async function novaPartida() {
   players().forEach((p) => { upd[`players/${p.id}/pts`] = 0; });
   await db.update(room(), upd);
   await comecarRodada(1);
+}
+
+/** O anfitrião tira alguém da sala (inativo, saiu do celular…). A pessoa pode voltar com o código. */
+async function tirarJogador(id: string) {
+  await db.update(room(), { [`players/${id}`]: null, [`in/${id}`]: null, [`res/${id}`]: null });
 }
 
 /** Encerra a partida agora, com o placar do momento (sala comum ou TV). */
@@ -307,6 +319,9 @@ export async function acaoSala(act: string, el: HTMLElement): Promise<boolean> {
   else if (act === 'encerrar') { confirmando = 'encerrar'; ui.desenhar(); }
   else if (act === 'encerrar-sim') { confirmando = ''; if (mestre()) await encerrarPartida(); ui.desenhar(); }
   else if (act === 'assumir') { confirmando = ''; if (S?.tv && me()) await db.update(room(), { ctl: pid }); ui.desenhar(); }
+  else if (act === 'jogadores') { if (mestre()) { confirmando = 'jogadores'; ui.desenhar(); } }
+  else if (act === 'tirar') { alvo = el.dataset.id || ''; confirmando = 'tirar'; ui.desenhar(); }
+  else if (act === 'tirar-sim') { confirmando = ''; if (mestre() && alvo && alvo !== pid && alvo !== S?.host) await tirarJogador(alvo); alvo = ''; ui.desenhar(); }
   else if (act === 'sair') { confirmando = 'sair'; ui.desenhar(); }
   else if (act === 'ficar') { confirmando = ''; ui.desenhar(); }
   else if (act === 'sair-sim') await sairDaSala();
@@ -325,12 +340,24 @@ function confirmarSair() {
   if (confirmando === 'encerrar') {
     return `<div class="ov"><div class="ovc"><h3>Encerrar o jogo?</h3><p>Mostra o ranking final agora, com os pontos de agora.</p><button class="cta big" data-act="ficar"><span>Continuar jogando</span></button><button class="cta" data-act="encerrar-sim"><span>Encerrar e ver ranking</span></button></div></div>`;
   }
+  if (confirmando === 'jogadores' && mestre()) {
+    const lista = [...players()].filter((p) => p.id !== pid && p.id !== S?.host).sort((a, b) => Number(estaInativo(b)) - Number(estaInativo(a)) || a.j - b.j);
+    return `<div class="ov"><div class="ovc"><h3>Jogadores</h3>${lista.length
+      ? `<ul class="lista jg">${lista.map((p) => `<li class="${estaInativo(p) ? 'mudo' : ''}">${fichaHTML(p.color, p.name)}<span class="nm">${esc(p.name)}${estaInativo(p) ? ' <em>😴 inativo</em>' : ''}</span><button class="x" data-act="tirar" data-id="${p.id}" aria-label="Tirar ${esc(p.name)} da sala">✕</button></li>`).join('')}</ul>`
+      : '<p>Não há outros jogadores.</p>'}<button class="cta big" data-act="ficar"><span>Fechar</span></button></div></div>`;
+  }
+  if (confirmando === 'tirar') {
+    const quem = S?.players?.[alvo]?.name ?? 'esta pessoa';
+    return `<div class="ov"><div class="ovc"><h3>Tirar ${esc(quem)} da sala?</h3><p>Ela perde os pontos e pode voltar digitando o código.</p><button class="cta big" data-act="jogadores"><span>Não, voltar</span></button><button class="cta" data-act="tirar-sim"><span>Tirar da sala</span></button></div></div>`;
+  }
   if (confirmando !== 'sair') return '';
   const passa = S?.tv ? S.ctl === pid : isHost();
   const assumir = S?.tv && !passa && me() ? '<button class="cta" data-act="assumir"><span>Assumir o controle do jogo</span></button>' : '';
   return `<div class="ov"><div class="ovc"><h3>Sair da sala?</h3><p>${passa && players().length > 1 ? 'Outra pessoa vira o anfitrião.' : 'Você pode voltar com o código da sala.'}</p><button class="cta big" data-act="ficar"><span>Ficar na sala</span></button>${assumir}<button class="cta" data-act="sair-sim"><span>Sair da sala</span></button></div></div>`;
 }
-const encerrarLink = () => (mestre() ? '<button class="link centro" data-act="encerrar">Encerrar jogo</button>' : '');
+const encerrarLink = () => (mestre()
+  ? `<div class="links">${players().length > 1 ? '<button class="link" data-act="jogadores">Jogadores</button>' : ''}<button class="link" data-act="encerrar">Encerrar jogo</button></div>`
+  : '');
 
 function perguntaHTML() {
   const c = cur()!, q = perguntaAtual();
@@ -382,6 +409,7 @@ function lobbyHTML() {
   <ul class="lista">${ps.map((p) => `<li>${fichaHTML(p.color, p.name)}<span class="nm">${esc(p.name)}${p.id === (S!.tv ? S!.ctl : S!.host) ? ' <em>anfitrião</em>' : ''}${p.id === pid ? ' <em>você</em>' : ''}</span>${p.wins ? `<span class="vl"><small>${p.wins} vitória${p.wins > 1 ? 's' : ''}</small></span>` : ''}</li>`).join('')}</ul>
   ${dentro && mestre() ? opcoesAnfitriao() : dentro ? resumo : ''}
   ${dentro && mestre() ? '<button class="cta big" data-act="iniciar"><span>Iniciar jogo</span></button>' : ''}
+  ${dentro && mestre() && ps.length > 1 ? '<div class="links"><button class="link" data-act="jogadores">Tirar alguém da sala</button></div>' : ''}
   ${dentro && !mestre() ? '<p class="dica">Aguardando o anfitrião iniciar…</p>' : ''}
   ${!dentro ? `<label class="lbl" for="nome">Seu nome</label><input id="nome" maxlength="14" placeholder="Como quer ser chamado?" value="${esc(nomeAtual())}"><button class="cta big" data-act="entrar-aqui"><span>Entrar na sala</span></button>` : ''}${confirmarSair()}</main>`;
 }
