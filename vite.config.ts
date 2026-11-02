@@ -1,10 +1,36 @@
 import { defineConfig } from 'vitest/config';
 import { VitePWA } from 'vite-plugin-pwa';
 
+// Política de segurança do navegador: o jogo só roda código dele mesmo e só conversa com o Firebase.
+// Entra só no site publicado (no "npm run dev" atrapalharia o recarregamento automático).
+const POLITICA = [
+  "default-src 'self'",
+  "script-src 'self'",
+  "style-src 'self' 'unsafe-inline'",
+  "img-src 'self' data: blob:",
+  "font-src 'self' data:",
+  "media-src 'self' data: blob:",
+  "connect-src 'self' https://*.googleapis.com https://*.firebaseio.com wss://*.firebaseio.com https://*.firebaseapp.com",
+  "frame-src https://*.firebaseapp.com",
+  "worker-src 'self'",
+  "manifest-src 'self'",
+  "object-src 'none'",
+  "base-uri 'self'",
+  "form-action 'self'",
+].join('; ');
+
 // "base: './'" faz o jogo funcionar em qualquer endereço (GitHub Pages, computador, celular pelo Wi-Fi).
 export default defineConfig({
   base: './',
   plugins: [
+    {
+      name: 'politica-de-seguranca',
+      apply: 'build',
+      transformIndexHtml: () => [
+        { tag: 'meta', attrs: { 'http-equiv': 'Content-Security-Policy', content: POLITICA }, injectTo: 'head-prepend' },
+        { tag: 'meta', attrs: { name: 'referrer', content: 'strict-origin-when-cross-origin' }, injectTo: 'head-prepend' },
+      ],
+    },
     // Vira "app": dá para pôr na Tela de Início e jogar sem internet.
     VitePWA({
       registerType: 'autoUpdate', // versão nova é baixada sozinha e vale na próxima vez que abrir

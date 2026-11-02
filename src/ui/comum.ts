@@ -12,7 +12,8 @@ export const ui = {
   ir: (_t: Tela) => {},
 };
 
-export const esc = (s: unknown) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
+import { escapar } from './seguranca.ts';
+export const esc = escapar;
 export const $app = document.getElementById('app')!;
 export const params = new URLSearchParams(location.search);
 /** Só para testes: acelera os tempos (?speed=10). */
@@ -26,7 +27,7 @@ export async function carregarPerguntas() {
 }
 
 export const inicial = (nome: string) => esc((nome[0] || '?').toUpperCase());
-export const fichaHTML = (cor: string, nome: string) => `<i class="dot" style="--c:${cor}">${inicial(nome)}</i>`;
+export const fichaHTML = (cor: string, nome: string) => `<i class="dot" style="--c:${esc(cor)}">${inicial(nome)}</i>`;
 
 /** Cartão da pergunta: categoria, texto e a unidade da resposta. */
 export function cartaoPerguntaHTML(q: Pergunta) {
