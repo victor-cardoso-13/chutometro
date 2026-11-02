@@ -29,6 +29,8 @@ interface Sala {
   cur?: Rodada; used?: Record<string, boolean>; winners?: string; exhausted?: boolean;
   /** Modo TV: a TV (host) conduz e narra mas não joga; `ctl` é o jogador que manda (iniciar, pular, encerrar). */
   tv?: boolean; ctl?: string;
+  /** Modo TV: o tempo corre junto com a leitura da pergunta (padrão: só começa depois que o narrador termina). */
+  junto?: boolean;
 }
 type J = Jogador & { id: string };
 export type { Sala, J };
@@ -45,7 +47,7 @@ let S: Sala | null = null;
 let code = (params.get('sala') || '').toUpperCase();
 let unsub: (() => void) | null = null;
 let confirmando: '' | 'sair' | 'encerrar' = '';
-let busy = false, handled = '', contadaKey = '';
+let busy = false, handled = '', contadaKey = '', lido = '';
 let digitado = '', digitadoN = -1; // o que a pessoa está digitando nesta rodada
 const idStore = local ? sessionStorage : localStorage;
 let pid = params.get('as') || idStore.getItem('chutometro.pid') || '';
@@ -184,7 +186,7 @@ function comecarRodada(n: number) {
   const agora = db.now();
   atualizar((d) => { if (!d.vistas.includes(q.id)) d.vistas.push(q.id); });
   // Modo TV: primeiro o narrador lê a pergunta (phase 'read'); o tempo só começa depois.
-  const cur = S!.tv
+  const cur = S!.tv && !S!.junto
     ? { n, qid: q.id, cat: q.cat, phase: 'read', start: agora, ends: agora + 120000 }
     : { n, qid: q.id, cat: q.cat, phase: 'question', start: agora, ends: agora + (tempoSeg() * 1000) / VELOCIDADE };
   return db.update(room(), { status: 'playing', res: null, cur, [`used/${q.id}`]: true });
@@ -258,6 +260,7 @@ async function passoDoAnfitriao() {
     } else if (c.phase === 'question') {
       const ps = players();
       if (S.tv && !ps.length) return; // ninguém na sala: espera
+      if (S.tv && S.junto && chave !== lido) { lido = chave; void ganchos.narrar(falaPergunta(c.n, perguntaAtual()!)); } // lê sem segurar o relógio
       const todos = ps.every((p) => S!.in?.[p.id]?.n === c.n);
       if ((todos || agora >= c.ends!) && chave !== handled) {
         handled = chave;
@@ -291,6 +294,7 @@ export async function acaoSala(act: string, el: HTMLElement): Promise<boolean> {
   if (act === 'copiar') { const i = document.querySelector<HTMLInputElement>('.linkrow input')!; i.select(); navigator.clipboard?.writeText(i.value).catch(() => {}); el.textContent = 'Copiado!'; }
   else if (act === 'entrar-aqui') { const n = nomeAtual(); if (!n) { ui.msg = 'Digite seu nome.'; ui.desenhar(); } else { atualizar((d) => { d.nome = n; }); ui.msg = ''; await entrar(n); } }
   else if (act === 'tamanho') { if (mestre()) await db.update(room(), { total: Number(el.dataset.v) }); }
+  else if (act === 'junto') { if (mestre()) await db.update(room(), { junto: el.dataset.v === '1' }); }
   else if (act === 'tempo') { if (mestre()) await db.update(room(), { tempo: Number(el.dataset.v) }); }
   else if (act === 'iniciar') { if (mestre()) await comecarRodada(1); }
   else if (act === 'tecla') { if (q && !minhaEntrada()) { digitado = editar(digitado, el, q); ui.desenhar(); } }
@@ -361,13 +365,16 @@ function revelaHTML() {
 function opcoesAnfitriao() {
   const grupo = (titulo: string, itens: readonly number[], atual: number, act: string, sufixo = '') =>
     `<div class="opc"><small>${titulo}</small><div>${itens.map((n) => `<button class="${atual === n ? 'on' : ''}" data-act="${act}" data-v="${n}">${n === SEM_LIMITE ? '∞' : n + sufixo}</button>`).join('')}</div></div>`;
-  return grupo(`Perguntas na partida${semLimite() ? ' · sem limite' : ''}`, TAMANHOS, total(), 'tamanho') + grupo('Tempo para chutar', TEMPOS, tempoSeg(), 'tempo', ' s');
+  const contagem = S?.tv
+    ? `<div class="opc"><small>Começa a contar o tempo</small><div><button class="${S.junto ? '' : 'on'}" data-act="junto" data-v="0">Depois da leitura</button><button class="${S.junto ? 'on' : ''}" data-act="junto" data-v="1">Junto com a leitura</button></div></div>`
+    : '';
+  return grupo(`Perguntas na partida${semLimite() ? ' · sem limite' : ''}`, TAMANHOS, total(), 'tamanho') + grupo('Tempo para chutar', TEMPOS, tempoSeg(), 'tempo', ' s') + contagem;
 }
 
 function lobbyHTML() {
   const ps = players(), link = `${location.origin}${location.pathname}?sala=${code}`;
   const dentro = !!me();
-  const resumo = `<p class="dica">${semLimite() ? '<b>Sem limite</b> de perguntas' : `Partida de <b>${total()}</b> perguntas`} · <b>${tempoSeg()} s</b> para chutar</p>`;
+  const resumo = `<p class="dica">${semLimite() ? '<b>Sem limite</b> de perguntas' : `Partida de <b>${total()}</b> perguntas`} · <b>${tempoSeg()} s</b> para chutar${S?.tv ? (S.junto ? ' · tempo junto com a leitura' : ' · tempo depois da leitura') : ''}</p>`;
   return `<main class="lobby"><div class="bar"><button class="ib" data-act="sair" aria-label="Sair da sala">${SAIR_ICONE}</button><div class="prog"><small>Código da sala</small><b class="cod">${code}</b></div></div>
   ${ui.msg ? `<p class="err">${esc(ui.msg)}</p>` : ''}
   <div class="linkrow"><input readonly value="${esc(link)}"><button class="cta sm" data-act="copiar">Copiar link</button></div>
