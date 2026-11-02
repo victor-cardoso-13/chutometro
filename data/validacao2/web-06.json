@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1274",
+  "q": "Em que ano a Mona Lisa foi roubada do Louvre?",
+  "unidade": "ano",
+  "resposta": 1911,
+  "fonte": "Museu do Louvre"
+ },
+ {
+  "id": "c1275",
+  "q": "Em que ano foi lançado o primeiro jogo The Legend of Zelda, no Japão?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1276",
+  "q": "Em que ano foi lançada oficialmente a versão completa do jogo Minecraft?",
+  "unidade": "ano",
+  "resposta": 2011,
+  "fonte": "Mojang"
+ },
+ {
+  "id": "c1277",
+  "q": "Em que ano foi publicado o livro O Hobbit, de Tolkien?",
+  "unidade": "ano",
+  "resposta": 1937,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1278",
+  "q": "Em que ano estreou na TV americana a série Os Simpsons, em formato de série própria?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Fox / Wikipédia"
+ },
+ {
+  "id": "c1279",
+  "q": "Em que ano estreou a série Friends?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "NBC / Wikipédia"
+ },
+ {
+  "id": "c1280",
+  "q": "Quantos minutos dura o filme E o Vento Levou (1939), na versão de cinema?",
+  "unidade": "minutos",
+  "resposta": 238,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1281",
+  "q": "Quantos minutos dura o filme Casablanca (1942)?",
+  "unidade": "minutos",
+  "resposta": 102,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1282",
+  "q": "Quantos minutos dura o filme Matrix (1999), na versão de cinema?",
+  "unidade": "minutos",
+  "resposta": 136,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1283",
+  "q": "Quantos minutos dura o filme Avatar (2009), na versão original de cinema?",
+  "unidade": "minutos",
+  "resposta": 162,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1284",
+  "q": "Quantos minutos dura o filme Parasita (2019)?",
+  "unidade": "minutos",
+  "resposta": 132,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1285",
+  "q": "Quantos minutos dura o filme Star Wars (1977), o primeiro da série?",
+  "unidade": "minutos",
+  "resposta": 121,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1286",
+  "q": "Quantos Oscars ganhou o filme Gladiador (2000)?",
+  "unidade": "Oscars",
+  "resposta": 5,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1287",
+  "q": "Quantos Oscars ganhou o filme Forrest Gump (1994)?",
+  "unidade": "Oscars",
+  "resposta": 6,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1288",
+  "q": "Quantos Oscars ganhou o musical West Side Story (1961)?",
+  "unidade": "Oscars",
+  "resposta": 10,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1289",
+  "q": "Quantos Oscars ganhou o filme Amadeus (1984)?",
+  "unidade": "Oscars",
+  "resposta": 8,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1290",
+  "q": "Quantos Oscars ganhou o filme O Silêncio dos Inocentes (1991)?",
+  "unidade": "Oscars",
+  "resposta": 5,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1291",
+  "q": "Quantos Oscars ganhou o filme Bohemian Rhapsody (2018)?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1292",
+  "q": "Quantos Oscars ganhou o filme Tudo em Todo o Lugar ao Mesmo Tempo (2022)?",
+  "unidade": "Oscars",
+  "resposta": 7,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1293",
+  "q": "Quantos Oscars ganhou o filme O Poderoso Chefão (1972)?",
+  "unidade": "Oscars",
+  "resposta": 3,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1294",
+  "q": "Quantos Grammys Adele ganhou numa só noite, em 2012?",
+  "unidade": "Grammys",
+  "resposta": 6,
+  "fonte": "Recording Academy"
+ },
+ {
+  "id": "c1295",
+  "q": "Com quantos anos morreu a atriz Marilyn Monroe?",
+  "unidade": "anos",
+  "resposta": 36,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1296",
+  "q": "Com quantos anos morreu Walt Disney?",
+  "unidade": "anos",
+  "resposta": 65,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1297",
+  "q": "Com quantos anos morreu o pintor Vincent van Gogh?",
+  "unidade": "anos",
+  "resposta": 37,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1298",
+  "q": "Quantos tipos de Pokémon existem nos jogos atuais?",
+  "unidade": "tipos",
+  "resposta": 18,
+  "fonte": "Pokémon Company / Bulbapedia"
+ },
+ {
+  "id": "c1299",
+  "q": "Quantas sílabas tem um haicai tradicional japonês, somando seus três versos?",
+  "unidade": "sílabas",
+  "resposta": 17,
+  "fonte": "Poesia japonesa"
+ },
+ {
+  "id": "c1300",
+  "q": "Quantos versos tem um soneto tradicional?",
+  "unidade": "versos",
+  "resposta": 14,
+  "fonte": "Teoria literária"
+ },
+ {
+  "id": "c1301",
+  "q": "Quantas letras tem o alfabeto grego?",
+  "unidade": "letras",
+  "resposta": 24,
+  "fonte": "Alfabeto grego"
+ },
+ {
+  "id": "c1302",
+  "q": "Quantos tempos tem cada compasso de uma valsa?",
+  "unidade": "tempos",
+  "resposta": 3,
+  "fonte": "Teoria musical"
+ },
+ {
+  "id": "c1303",
+  "q": "Quantas cores diferentes de adesivos tem o cubo mágico clássico?",
+  "unidade": "cores",
+  "resposta": 6,
+  "fonte": "Rubik's Cube"
+ },
+ {
+  "id": "c1304",
+  "q": "Quantas faixas tem o álbum Back to Black, de Amy Winehouse, na edição original britânica?",
+  "unidade": "faixas",
+  "resposta": 11,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1305",
+  "q": "Quantas faixas tem o álbum The Wall, do Pink Floyd?",
+  "unidade": "faixas",
+  "resposta": 26,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1306",
+  "q": "Quantos dias terrestres Vênus leva para dar uma volta completa em torno do Sol?",
+  "unidade": "dias",
+  "resposta": 225,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1307",
+  "q": "Quantos dias terrestres Mercúrio leva para dar uma volta completa em torno do Sol?",
+  "unidade": "dias",
+  "resposta": 88,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1308",
+  "q": "Quantos anos terrestres Júpiter leva para dar uma volta completa em torno do Sol?",
+  "unidade": "anos",
+  "resposta": 12,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1309",
+  "q": "Quantos anos terrestres Saturno leva para dar uma volta completa em torno do Sol?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1310",
+  "q": "Quantos anos terrestres Netuno leva para dar uma volta completa em torno do Sol?",
+  "unidade": "anos",
+  "resposta": 165,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1311",
+  "q": "Quantas horas dura um dia em Júpiter, o tempo que o planeta leva para girar uma vez em torno de si?",
+  "unidade": "horas",
+  "resposta": 10,
+  "fonte": "NASA Planetary Fact Sheet"
+ }
+]

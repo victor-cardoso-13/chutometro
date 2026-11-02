@@ -1,0 +1,492 @@
+[
+ {
+  "id": "c1294",
+  "q": "Quantos Grammys Adele ganhou numa só noite, em 2012?",
+  "unidade": "Grammys",
+  "resposta": 6,
+  "fonte": "Recording Academy"
+ },
+ {
+  "id": "c1295",
+  "q": "Com quantos anos morreu a atriz Marilyn Monroe?",
+  "unidade": "anos",
+  "resposta": 36,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1296",
+  "q": "Com quantos anos morreu Walt Disney?",
+  "unidade": "anos",
+  "resposta": 65,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1297",
+  "q": "Com quantos anos morreu o pintor Vincent van Gogh?",
+  "unidade": "anos",
+  "resposta": 37,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1298",
+  "q": "Quantos tipos de Pokémon existem nos jogos atuais?",
+  "unidade": "tipos",
+  "resposta": 18,
+  "fonte": "Pokémon Company / Bulbapedia"
+ },
+ {
+  "id": "c1299",
+  "q": "Quantas sílabas tem um haicai tradicional japonês, somando seus três versos?",
+  "unidade": "sílabas",
+  "resposta": 17,
+  "fonte": "Poesia japonesa"
+ },
+ {
+  "id": "c1300",
+  "q": "Quantos versos tem um soneto tradicional?",
+  "unidade": "versos",
+  "resposta": 14,
+  "fonte": "Teoria literária"
+ },
+ {
+  "id": "c1301",
+  "q": "Quantas letras tem o alfabeto grego?",
+  "unidade": "letras",
+  "resposta": 24,
+  "fonte": "Alfabeto grego"
+ },
+ {
+  "id": "c1302",
+  "q": "Quantos tempos tem cada compasso de uma valsa?",
+  "unidade": "tempos",
+  "resposta": 3,
+  "fonte": "Teoria musical"
+ },
+ {
+  "id": "c1303",
+  "q": "Quantas cores diferentes de adesivos tem o cubo mágico clássico?",
+  "unidade": "cores",
+  "resposta": 6,
+  "fonte": "Rubik's Cube"
+ },
+ {
+  "id": "c1304",
+  "q": "Quantas faixas tem o álbum Back to Black, de Amy Winehouse, na edição original britânica?",
+  "unidade": "faixas",
+  "resposta": 11,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1305",
+  "q": "Quantas faixas tem o álbum The Wall, do Pink Floyd?",
+  "unidade": "faixas",
+  "resposta": 26,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1306",
+  "q": "Quantos dias terrestres Vênus leva para dar uma volta completa em torno do Sol?",
+  "unidade": "dias",
+  "resposta": 225,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1307",
+  "q": "Quantos dias terrestres Mercúrio leva para dar uma volta completa em torno do Sol?",
+  "unidade": "dias",
+  "resposta": 88,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1308",
+  "q": "Quantos anos terrestres Júpiter leva para dar uma volta completa em torno do Sol?",
+  "unidade": "anos",
+  "resposta": 12,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1309",
+  "q": "Quantos anos terrestres Saturno leva para dar uma volta completa em torno do Sol?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1310",
+  "q": "Quantos anos terrestres Netuno leva para dar uma volta completa em torno do Sol?",
+  "unidade": "anos",
+  "resposta": 165,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1311",
+  "q": "Quantas horas dura um dia em Júpiter, o tempo que o planeta leva para girar uma vez em torno de si?",
+  "unidade": "horas",
+  "resposta": 10,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1312",
+  "q": "Qual é a temperatura média da superfície de Vênus, em °C?",
+  "unidade": "°C",
+  "resposta": 464,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1313",
+  "q": "Qual é a temperatura aproximada da superfície visível do Sol, em °C?",
+  "unidade": "°C",
+  "resposta": 5500,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1314",
+  "q": "Qual é a idade do Sistema Solar, em bilhões de anos?",
+  "unidade": "bilhões de anos",
+  "resposta": 4.6,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1315",
+  "q": "Qual é a idade estimada do Universo, em bilhões de anos?",
+  "unidade": "bilhões de anos",
+  "resposta": 13.8,
+  "fonte": "Planck/NASA"
+ },
+ {
+  "id": "c1316",
+  "q": "Qual é o número atômico do ouro, isto é, quantos prótons tem um átomo desse metal?",
+  "unidade": "prótons",
+  "resposta": 79,
+  "fonte": "Tabela periódica IUPAC"
+ },
+ {
+  "id": "c1317",
+  "q": "Qual é o número atômico do ferro, isto é, quantos prótons tem um átomo desse metal?",
+  "unidade": "prótons",
+  "resposta": 26,
+  "fonte": "Tabela periódica IUPAC"
+ },
+ {
+  "id": "c1318",
+  "q": "Qual é o número atômico do urânio, isto é, quantos prótons tem um átomo desse elemento?",
+  "unidade": "prótons",
+  "resposta": 92,
+  "fonte": "Tabela periódica IUPAC"
+ },
+ {
+  "id": "c1319",
+  "q": "Qual é a massa da Estação Espacial Internacional, em toneladas?",
+  "unidade": "toneladas",
+  "resposta": 420,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1320",
+  "q": "Em que ano Yuri Gagarin se tornou o primeiro ser humano a ir ao espaço?",
+  "unidade": "ano",
+  "resposta": 1961,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1321",
+  "q": "Em que ano foi lançado o Telescópio Espacial Hubble?",
+  "unidade": "ano",
+  "resposta": 1990,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1322",
+  "q": "Em que ano foi lançada a sonda Voyager 1?",
+  "unidade": "ano",
+  "resposta": 1977,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1323",
+  "q": "Em que ano Isaac Newton publicou os Principia, com a lei da gravitação universal?",
+  "unidade": "ano",
+  "resposta": 1687,
+  "fonte": "Royal Society"
+ },
+ {
+  "id": "c1324",
+  "q": "Em que ano Charles Darwin publicou A Origem das Espécies?",
+  "unidade": "ano",
+  "resposta": 1859,
+  "fonte": "Enciclopédia Britannica"
+ },
+ {
+  "id": "c1325",
+  "q": "Qual é o diâmetro de Marte no Equador, em km?",
+  "unidade": "km",
+  "resposta": 6779,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1326",
+  "q": "Qual é o diâmetro de Mercúrio, em km?",
+  "unidade": "km",
+  "resposta": 4879,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1327",
+  "q": "Qual é a distância média entre o Sol e Netuno, em bilhões de km?",
+  "unidade": "bilhões de km",
+  "resposta": 4.5,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1328",
+  "q": "Qual é a distância média entre o Sol e Júpiter, em milhões de km?",
+  "unidade": "milhões de km",
+  "resposta": 778,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1329",
+  "q": "Qual é a distância média entre o Sol e Marte, em milhões de km?",
+  "unidade": "milhões de km",
+  "resposta": 228,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1330",
+  "q": "Qual é a aceleração da gravidade na superfície de Júpiter, em m/s²?",
+  "unidade": "m/s²",
+  "resposta": 24.8,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1331",
+  "q": "Qual é a aceleração da gravidade na superfície de Marte, em m/s²?",
+  "unidade": "m/s²",
+  "resposta": 3.7,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1332",
+  "q": "Quanto vale a soma dos ângulos internos de um pentágono, em graus?",
+  "unidade": "graus",
+  "resposta": 540,
+  "fonte": "Geometria"
+ },
+ {
+  "id": "c1333",
+  "q": "Quantas arestas tem um cubo?",
+  "unidade": "arestas",
+  "resposta": 12,
+  "fonte": "Geometria"
+ },
+ {
+  "id": "c1334",
+  "q": "Quantos números primos existem entre 1 e 100?",
+  "unidade": "números",
+  "resposta": 25,
+  "fonte": "Matemática"
+ },
+ {
+  "id": "c1335",
+  "q": "Quanto vale 6 fatorial, isto é, 6 x 5 x 4 x 3 x 2 x 1?",
+  "unidade": "unidades",
+  "resposta": 720,
+  "fonte": "Matemática"
+ },
+ {
+  "id": "c1336",
+  "q": "Quantos segundos tem um dia inteiro de 24 horas?",
+  "unidade": "segundos",
+  "resposta": 86400,
+  "fonte": "Matemática"
+ },
+ {
+  "id": "c1337",
+  "q": "Quantos litros de sangue tem, em média, o corpo de um adulto?",
+  "unidade": "litros",
+  "resposta": 5,
+  "fonte": "Fisiologia humana"
+ },
+ {
+  "id": "c1338",
+  "q": "Quantos pares de costelas tem o corpo humano?",
+  "unidade": "pares",
+  "resposta": 12,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1339",
+  "q": "Quantos bilhões de neurônios tem, em média, o cérebro humano?",
+  "unidade": "bilhões de neurônios",
+  "resposta": 86,
+  "fonte": "Herculano-Houzel, 2009"
+ },
+ {
+  "id": "c1340",
+  "q": "Quantos meses dura, em média, a gestação de uma elefanta?",
+  "unidade": "meses",
+  "resposta": 22,
+  "fonte": "Zoologia (National Geographic)"
+ },
+ {
+  "id": "c1341",
+  "q": "Em que temperatura a água ferve ao nível do mar, em kelvins?",
+  "unidade": "kelvins",
+  "resposta": 373,
+  "fonte": "Física (consenso)"
+ },
+ {
+  "id": "c1342",
+  "q": "Qual é a tensão elétrica, em volts, de uma pilha comum tamanho AA nova?",
+  "unidade": "volts",
+  "resposta": 1.5,
+  "fonte": "Eletrônica (padrão)"
+ },
+ {
+  "id": "c1343",
+  "q": "Qual é a frequência máxima de som que um jovem ouve, em hertz?",
+  "unidade": "Hz",
+  "resposta": 20000,
+  "fonte": "Acústica (consenso)"
+ },
+ {
+  "id": "c1344",
+  "q": "Qual é a pressão atmosférica padrão ao nível do mar, em hectopascais?",
+  "unidade": "hPa",
+  "resposta": 1013,
+  "fonte": "Meteorologia (OMM)"
+ },
+ {
+  "id": "c1345",
+  "q": "Qual é a densidade do ouro, em gramas por centímetro cúbico?",
+  "unidade": "g/cm³",
+  "resposta": 19.3,
+  "fonte": "Química (consenso)"
+ },
+ {
+  "id": "c1346",
+  "q": "Quantos dias durou a missão Apollo 11, do lançamento ao pouso no oceano?",
+  "unidade": "dias",
+  "resposta": 8,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1347",
+  "q": "Quantos minutos durou o voo de Yuri Gagarin em torno da Terra, em 1961?",
+  "unidade": "minutos",
+  "resposta": 108,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1348",
+  "q": "Quantos astronautas formaram o primeiro grupo da NASA, selecionados para o programa Mercury?",
+  "unidade": "astronautas",
+  "resposta": 7,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1349",
+  "q": "Qual é o diâmetro do espelho principal do Telescópio Espacial James Webb, em metros?",
+  "unidade": "metros",
+  "resposta": 6.5,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1350",
+  "q": "Qual era a altura do foguete Saturn V, que levou os astronautas à Lua, em metros?",
+  "unidade": "metros",
+  "resposta": 110,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1351",
+  "q": "Quantas missões o programa do ônibus espacial da NASA realizou, de 1981 a 2011?",
+  "unidade": "missões",
+  "resposta": 135,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1352",
+  "q": "Qual é o diâmetro aproximado da Via Láctea, em anos-luz?",
+  "unidade": "anos-luz",
+  "resposta": 100000,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1353",
+  "q": "A que distância está a galáxia de Andrômeda, em milhões de anos-luz?",
+  "unidade": "milhões de anos-luz",
+  "resposta": 2.5,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1354",
+  "q": "A que distância está Sirius, a estrela mais brilhante do céu noturno, em anos-luz?",
+  "unidade": "anos-luz",
+  "resposta": 8.6,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1355",
+  "q": "Quantos dias terrestres dura um dia em Vênus, o tempo que o planeta leva para girar uma vez em torno de si?",
+  "unidade": "dias",
+  "resposta": 243,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1356",
+  "q": "Quantas vezes a pressão do ar ao nível do mar na Terra é a pressão na superfície de Vênus?",
+  "unidade": "vezes",
+  "resposta": 92,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1357",
+  "q": "Que porcentagem do ar que respiramos é formada por oxigênio?",
+  "unidade": "%",
+  "resposta": 21,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1358",
+  "q": "Quantos gols a Alemanha marcou sobre o Brasil na semifinal da Copa do Mundo de 2014?",
+  "unidade": "gols",
+  "resposta": 7,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1359",
+  "q": "Quantos jogadores de cada time ficam em quadra ao mesmo tempo numa partida de basquete?",
+  "unidade": "jogadores",
+  "resposta": 5,
+  "fonte": "FIBA"
+ },
+ {
+  "id": "c1360",
+  "q": "Quantos sets, no máximo, podem ser jogados numa partida de vôlei de quadra?",
+  "unidade": "sets",
+  "resposta": 5,
+  "fonte": "FIVB"
+ },
+ {
+  "id": "c1361",
+  "q": "Qual é a altura de Michael Jordan, em metros?",
+  "unidade": "metros",
+  "resposta": 1.98,
+  "fonte": "NBA / Hall da Fama"
+ },
+ {
+  "id": "c1362",
+  "q": "Quantas barreiras os atletas precisam saltar na prova dos 110 metros com barreiras?",
+  "unidade": "barreiras",
+  "resposta": 10,
+  "fonte": "World Athletics"
+ },
+ {
+  "id": "c1363",
+  "q": "Em quanto tempo, em segundos, Usain Bolt ganhou os 100 metros rasos nos Jogos de Pequim 2008?",
+  "unidade": "segundos",
+  "resposta": 9.69,
+  "fonte": "COI / World Athletics"
+ }
+]

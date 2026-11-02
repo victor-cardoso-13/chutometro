@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Com quantos países a Alemanha faz fronteira por terra?",
+  "unidade": "países",
+  "resposta": 9,
+  "fonte": "Wikipédia / Auswärtiges Amt",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Com quantos países a China faz fronteira por terra?",
+  "unidade": "países",
+  "resposta": 14,
+  "fonte": "Wikipédia / CIA World Factbook",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos países a Áustria faz fronteira por terra?",
+  "unidade": "países",
+  "resposta": 8,
+  "fonte": "Wikipédia / CIA World Factbook",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos países a Argentina faz fronteira por terra?",
+  "unidade": "países",
+  "resposta": 5,
+  "fonte": "Wikipédia / CIA World Factbook",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos países a Turquia faz fronteira por terra?",
+  "unidade": "países",
+  "resposta": 8,
+  "fonte": "Wikipédia / CIA World Factbook",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos países a Suíça faz fronteira por terra?",
+  "unidade": "países",
+  "resposta": 5,
+  "fonte": "Wikipédia / CIA World Factbook",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas montanhas do mundo têm mais de 8.000 metros de altitude?",
+  "unidade": "montanhas",
+  "resposta": 14,
+  "fonte": "Wikipédia (montanhas de oito mil metros)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a menor temperatura do ar já medida na Terra, na estação russa de Vostok, na Antártida, em 1983? Responda em graus Celsius abaixo de zero, com uma casa decimal.",
+  "unidade": "°C abaixo de zero",
+  "resposta": 89.2,
+  "fonte": "Organização Meteorológica Mundial",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a erupção do vulcão islandês Eyjafjallajökull paralisou boa parte do tráfego aéreo da Europa?",
+  "unidade": "ano",
+  "resposta": 2010,
+  "fonte": "Wikipédia / Met Office",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o vulcão Monte Pelée destruiu a cidade de Saint-Pierre, na ilha da Martinica?",
+  "unidade": "ano",
+  "resposta": 1902,
+  "fonte": "Wikipédia / USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados tem a Nigéria, sem contar o território da capital federal?",
+  "unidade": "estados",
+  "resposta": 36,
+  "fonte": "Wikipédia / governo da Nigéria",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados tem a Malásia, sem contar os territórios federais?",
+  "unidade": "estados",
+  "resposta": 13,
+  "fonte": "Wikipédia / governo da Malásia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos departamentos tem a Colômbia, sem contar o distrito capital de Bogotá?",
+  "unidade": "departamentos",
+  "resposta": 32,
+  "fonte": "Wikipédia / governo da Colômbia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas comunidades autônomas tem a Espanha, sem contar as cidades autônomas de Ceuta e Melilla?",
+  "unidade": "comunidades",
+  "resposta": 17,
+  "fonte": "Wikipédia / governo da Espanha",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

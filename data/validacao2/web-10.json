@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1426",
+  "q": "Qual a altitude do Pico del Teide, nas Ilhas Canárias, em metros?",
+  "unidade": "metros",
+  "resposta": 3715,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1427",
+  "q": "Qual a altitude do vulcão Mauna Loa, no Havaí, em metros?",
+  "unidade": "metros",
+  "resposta": 4169,
+  "fonte": "USGS"
+ },
+ {
+  "id": "c1428",
+  "q": "Qual a velocidade do vento mais forte já medida em terra nos Estados Unidos, no Monte Washington em 1934, em km/h?",
+  "unidade": "km/h",
+  "resposta": 372,
+  "fonte": "NOAA / Mount Washington Observatory"
+ },
+ {
+  "id": "c1429",
+  "q": "Em que latitude norte fica o Círculo Polar Ártico, em graus?",
+  "unidade": "graus",
+  "resposta": 66.5,
+  "fonte": "Britannica / NOAA"
+ },
+ {
+  "id": "c1430",
+  "q": "Quantos graus de longitude a Terra gira a cada hora?",
+  "unidade": "graus",
+  "resposta": 15,
+  "fonte": "Astronomia básica"
+ },
+ {
+  "id": "c1431",
+  "q": "Em média, quantos gramas de sal há em cada litro de água do mar?",
+  "unidade": "gramas",
+  "resposta": 35,
+  "fonte": "NOAA"
+ },
+ {
+  "id": "c1432",
+  "q": "Há quantos milhões de anos os dinossauros não aviários foram extintos?",
+  "unidade": "milhões de anos",
+  "resposta": 66,
+  "fonte": "Consenso científico"
+ },
+ {
+  "id": "c1433",
+  "q": "Qual o diâmetro, em centímetros, da maior pedra de granizo registrada nos EUA, em Vivian, em 2010?",
+  "unidade": "cm",
+  "resposta": 20.3,
+  "fonte": "NOAA / NWS"
+ },
+ {
+  "id": "c1434",
+  "q": "Que porcentagem dos vulcões ativos do mundo fica no chamado Círculo de Fogo do Pacífico, segundo o USGS?",
+  "unidade": "%",
+  "resposta": 75,
+  "fonte": "USGS"
+ },
+ {
+  "id": "c1435",
+  "q": "Qual a área da Argentina, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 2.78,
+  "fonte": "Wikipédia / IGN Argentina"
+ },
+ {
+  "id": "c1436",
+  "q": "Qual a área do Japão, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 378,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1437",
+  "q": "Qual a área da Itália, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 301,
+  "fonte": "Wikipédia / ISTAT"
+ },
+ {
+  "id": "c1438",
+  "q": "Qual a área de Portugal, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 92,
+  "fonte": "Wikipédia / INE"
+ },
+ {
+  "id": "c1439",
+  "q": "Qual a área de Malta, em km²?",
+  "unidade": "km²",
+  "resposta": 316,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1440",
+  "q": "Qual a área do Liechtenstein, em km²?",
+  "unidade": "km²",
+  "resposta": 160,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1441",
+  "q": "Qual a área da Espanha, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 506,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1442",
+  "q": "Qual a área da Nova Zelândia, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 268,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1443",
+  "q": "Qual a área da Finlândia, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 338,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1444",
+  "q": "Qual a área de Cuba, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 110,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1445",
+  "q": "Qual a área da Suíça, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 41,
+  "fonte": "Wikipédia / Escritório Federal de Estatística"
+ },
+ {
+  "id": "c1446",
+  "q": "Qual a área da Irlanda, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 70,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1447",
+  "q": "Qual a área da Grécia, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 132,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1448",
+  "q": "Qual a área do Chile, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 756,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1449",
+  "q": "Qual a área do Uruguai, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 176,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1450",
+  "q": "Quantos milhões de habitantes tinham os Estados Unidos no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 331.4,
+  "fonte": "US Census Bureau"
+ },
+ {
+  "id": "c1451",
+  "q": "Quantos milhões de habitantes tinha a Índia no Censo de 2011?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1211,
+  "fonte": "Census of India"
+ },
+ {
+  "id": "c1452",
+  "q": "Quantos milhões de habitantes tinha o Canadá no Censo de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 37,
+  "fonte": "Statistics Canada"
+ },
+ {
+  "id": "c1453",
+  "q": "Quantos milhões de habitantes tinha Portugal nos Censos de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 10.3,
+  "fonte": "INE Portugal"
+ },
+ {
+  "id": "c1454",
+  "q": "Quantos milhões de habitantes tinha a Argentina no Censo de 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 46,
+  "fonte": "INDEC"
+ },
+ {
+  "id": "c1455",
+  "q": "Quantos milhões de habitantes tinha o México no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 126,
+  "fonte": "INEGI"
+ },
+ {
+  "id": "c1456",
+  "q": "Quantos milhões de habitantes tinha a cidade do México no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 9.2,
+  "fonte": "INEGI"
+ },
+ {
+  "id": "c1457",
+  "q": "Quantos milhões de habitantes tinha a cidade de Buenos Aires no Censo de 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.1,
+  "fonte": "INDEC"
+ },
+ {
+  "id": "c1458",
+  "q": "Quantos milhões de habitantes tinha a cidade de Los Angeles no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.9,
+  "fonte": "US Census Bureau"
+ },
+ {
+  "id": "c1459",
+  "q": "Quantos milhões de habitantes tinha a cidade de Chicago no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.7,
+  "fonte": "US Census Bureau"
+ },
+ {
+  "id": "c1460",
+  "q": "Quantos milhões de habitantes tinha a cidade de Toronto no Censo de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.8,
+  "fonte": "Statistics Canada"
+ },
+ {
+  "id": "c1461",
+  "q": "Quantos milhões de habitantes tinha a China no Censo de 2020, sem contar Hong Kong e Macau?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1411.8,
+  "fonte": "Escritório Nacional de Estatísticas da China"
+ },
+ {
+  "id": "c1462",
+  "q": "Quantos milhões de habitantes tinha o Japão no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 126.1,
+  "fonte": "Statistics Bureau of Japan"
+ },
+ {
+  "id": "c1463",
+  "q": "Quantos milhões de habitantes tinha a Austrália no Censo de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 25.4,
+  "fonte": "ABS"
+ }
+]

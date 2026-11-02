@@ -1,0 +1,492 @@
+[
+ {
+  "id": "c1224",
+  "resposta": 25,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "varia 23-25"
+ },
+ {
+  "id": "c1225",
+  "resposta": 1.5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "~1,5 m"
+ },
+ {
+  "id": "c1226",
+  "resposta": 8,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1227",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1228",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "pares 11 e 12"
+ },
+ {
+  "id": "c1229",
+  "resposta": 31,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1230",
+  "resposta": 33,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "32-34 conforme fontes"
+ },
+ {
+  "id": "c1231",
+  "resposta": 35,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1232",
+  "resposta": 6.5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1233",
+  "resposta": 1000,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1234",
+  "resposta": 158,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "depende da fonte"
+ },
+ {
+  "id": "c1235",
+  "resposta": 34,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "USDA"
+ },
+ {
+  "id": "c1236",
+  "resposta": 380,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "370-389"
+ },
+ {
+  "id": "c1237",
+  "resposta": 2.7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1238",
+  "resposta": 20,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1239",
+  "resposta": 12,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1240",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1241",
+  "resposta": 400,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1242",
+  "resposta": 3,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1243",
+  "resposta": 7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "costelas verdadeiras"
+ },
+ {
+  "id": "c1244",
+  "resposta": 1.5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1245",
+  "resposta": 450,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1246",
+  "resposta": 50,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1247",
+  "resposta": 1,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1248",
+  "resposta": 4,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "4 ou 5 fases conforme fonte"
+ },
+ {
+  "id": "c1249",
+  "resposta": 3,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "parótida, submandibular, sublingual"
+ },
+ {
+  "id": "c1250",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1251",
+  "resposta": 7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1252",
+  "resposta": 11,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1253",
+  "resposta": 6,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1254",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1255",
+  "resposta": 3,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1256",
+  "resposta": 11,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1257",
+  "resposta": 5.17,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1258",
+  "resposta": 47,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1259",
+  "resposta": 45,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1260",
+  "resposta": 431,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "7:11 no single"
+ },
+ {
+  "id": "c1261",
+  "resposta": 15,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "conta varia"
+ },
+ {
+  "id": "c1262",
+  "resposta": 10,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1263",
+  "resposta": 10,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1264",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1265",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1266",
+  "resposta": 10,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "cinco ordens duplas"
+ },
+ {
+  "id": "c1267",
+  "resposta": 12,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1268",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1269",
+  "resposta": 7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1270",
+  "resposta": 13,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "quase 14"
+ },
+ {
+  "id": "c1271",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1272",
+  "resposta": 148,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1273",
+  "resposta": 1889,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1274",
+  "resposta": 1911,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1275",
+  "resposta": 1986,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1276",
+  "resposta": 2011,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1277",
+  "resposta": 1937,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1278",
+  "resposta": 1989,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1279",
+  "resposta": 1994,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1280",
+  "resposta": 238,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "versões 221-238"
+ },
+ {
+  "id": "c1281",
+  "resposta": 102,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1282",
+  "resposta": 136,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1283",
+  "resposta": 162,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1284",
+  "resposta": 132,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1285",
+  "resposta": 121,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "125 em edição especial"
+ },
+ {
+  "id": "c1286",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1287",
+  "resposta": 6,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1288",
+  "resposta": 10,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1289",
+  "resposta": 8,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1290",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1291",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1292",
+  "resposta": 7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1293",
+  "resposta": 3,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ }
+]

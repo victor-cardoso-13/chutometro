@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1540",
+  "status": "confirmada",
+  "valor_correto": 157,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+Catedral+de+Colônia,+na",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1541",
+  "status": "confirmada",
+  "valor_correto": 1991,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+comprimento+do+vão+central+da+pon",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1542",
+  "status": "confirmada",
+  "valor_correto": 486,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+comprimento+do+vão+central+da+Pon",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1543",
+  "status": "confirmada",
+  "valor_correto": 138,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+do+mastro+da+Ponte+Octávio",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1544",
+  "status": "confirmada",
+  "valor_correto": 54,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+comprimento+do+túnel+ferroviário+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1545",
+  "status": "confirmada",
+  "valor_correto": 11.6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+comprimento+do+túnel+rodoviário+d",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1546",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Corinth_Canal",
+  "obs": "24,6 m na superfície, 21 m no fundo; critério ambíguo"
+ },
+ {
+  "id": "c1547",
+  "status": "incerta",
+  "valor_correto": 181,
+  "fonte_url": "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+  "obs": "Altura da barragem 181 m; 185 m é a cota da crista"
+ },
+ {
+  "id": "c1548",
+  "status": "confirmada",
+  "valor_correto": 221,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+represa+Hoover,+nos+EUA",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1549",
+  "status": "confirmada",
+  "valor_correto": 73,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+do+Taj+Mahal,+da+base+ao+t",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1550",
+  "status": "confirmada",
+  "valor_correto": 43,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+diâmetro+interno+da+cúpula+do+Pan",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1551",
+  "status": "confirmada",
+  "valor_correto": 354,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Quantos+degraus+tem+a+escada+até+a+coroa",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1552",
+  "status": "confirmada",
+  "valor_correto": 897,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Quantos+degraus+tem+a+escadaria+interna+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1553",
+  "status": "confirmada",
+  "valor_correto": 108,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Quantos+andares+tem+a+Willis+Tower,+em+C",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1554",
+  "status": "confirmada",
+  "valor_correto": 541,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+do+One+World+Trade+Center,",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1555",
+  "status": "confirmada",
+  "valor_correto": 555,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+Lotte+World+Tower,+em+S",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1556",
+  "status": "confirmada",
+  "valor_correto": 601,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+Makkah+Royal+Clock+Towe",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1557",
+  "status": "confirmada",
+  "valor_correto": 333,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+Torre+de+Tóquio,+em+met",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1558",
+  "status": "confirmada",
+  "valor_correto": 775,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Quantos+cômodos+tem+o+Palácio+de+Bucking",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1559",
+  "status": "confirmada",
+  "valor_correto": 132,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Quantos+cômodos+tem+a+Casa+Branca,+nos+E",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1560",
+  "status": "confirmada",
+  "valor_correto": 603,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+recorde+mundial+de+velocidade+de+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1561",
+  "status": "confirmada",
+  "valor_correto": 102,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+do+Atomium,+em+Bruxelas,+e",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1562",
+  "status": "confirmada",
+  "valor_correto": 13.7,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+peso+do+sino+principal+do+Big+Ben",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1563",
+  "status": "confirmada",
+  "valor_correto": 73,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+comprimento+da+Grande+Esfinge+de+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1564",
+  "status": "confirmada",
+  "valor_correto": 18,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+de+cada+rosto+esculpido+no",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1565",
+  "status": "confirmada",
+  "valor_correto": 85,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+estátua+Pátria-Mãe+Cham",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1566",
+  "status": "confirmada",
+  "valor_correto": 50,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+do+Arco+do+Triunfo,+em+Par",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1567",
+  "status": "confirmada",
+  "valor_correto": 44,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Quantas+plataformas+tem+a+Grand+Central+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1568",
+  "status": "confirmada",
+  "valor_correto": 28,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+envergadura+dos+braços+abertos+do",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1569",
+  "status": "confirmada",
+  "valor_correto": 230,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+comprimento+de+cada+lado+da+base+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1570",
+  "status": "confirmada",
+  "valor_correto": 341,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+área+do+Central+Park,+em+Nova+Yor",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1571",
+  "status": "confirmada",
+  "valor_correto": 635,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+o+peso+da+estátua+do+Cristo+Redento",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1572",
+  "status": "confirmada",
+  "valor_correto": 22.5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+capacidade+instalada+da+usina+das",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1573",
+  "status": "confirmada",
+  "valor_correto": 368,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+torre+de+TV+de+Berlim,+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1574",
+  "status": "confirmada",
+  "valor_correto": 328,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+da+Sky+Tower,+em+Auckland,",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1575",
+  "status": "confirmada",
+  "valor_correto": 310,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+do+arranha-céu+The+Shard,+",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1576",
+  "status": "confirmada",
+  "valor_correto": 134,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+do+arco+da+Ponte+da+Baía+d",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ },
+ {
+  "id": "c1577",
+  "status": "confirmada",
+  "valor_correto": 227,
+  "fonte_url": "https://en.wikipedia.org/wiki/Special:Search?search=Qual+a+altura+das+torres+da+ponte+Golden",
+  "obs": "bate com Wikipédia/fontes oficiais"
+ }
+]

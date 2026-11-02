@@ -1,0 +1,191 @@
+[
+ {
+  "id": "c1616",
+  "q": "Quanto custava, em dólares, o preço inicial do IBM PC no lançamento, em 1981?",
+  "unidade": "dólares",
+  "resposta": 1565,
+  "fonte": "IBM / Wikipédia"
+ },
+ {
+  "id": "c1617",
+  "q": "Quanto custava, em dólares, o Macintosh no lançamento, em 1984?",
+  "unidade": "dólares",
+  "resposta": 2495,
+  "fonte": "Apple / Wikipédia"
+ },
+ {
+  "id": "c1618",
+  "q": "Quanto custava, em dólares, o modelo mais barato do primeiro iPad, lançado em 2010?",
+  "unidade": "dólares",
+  "resposta": 499,
+  "fonte": "Apple, 2010"
+ },
+ {
+  "id": "c1619",
+  "q": "Quanto custava, em dólares, o minicomputador Raspberry Pi no lançamento, em 2012?",
+  "unidade": "dólares",
+  "resposta": 35,
+  "fonte": "Raspberry Pi Foundation"
+ },
+ {
+  "id": "c1620",
+  "q": "Quantos anos tinha o matemático Alan Turing quando morreu, em 1954?",
+  "unidade": "anos",
+  "resposta": 41,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1621",
+  "q": "Quantos anos tinha Linus Torvalds quando anunciou o sistema Linux, em 1991?",
+  "unidade": "anos",
+  "resposta": 21,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1622",
+  "q": "Em quantos dias o jogo GTA V faturou 1 bilhão de dólares depois do lançamento, em 2013?",
+  "unidade": "dias",
+  "resposta": 3,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1623",
+  "q": "Quantas horas de vídeo eram enviadas ao YouTube a cada minuto, em 2019, segundo a empresa?",
+  "unidade": "horas",
+  "resposta": 500,
+  "fonte": "YouTube, 2019"
+ },
+ {
+  "id": "c1624",
+  "q": "Quantos bilhões de parâmetros tinha o modelo de linguagem GPT-3, apresentado em 2020?",
+  "unidade": "bilhões de parâmetros",
+  "resposta": 175,
+  "fonte": "OpenAI, artigo de 2020"
+ },
+ {
+  "id": "c1625",
+  "q": "Quantos bilhões de dólares era o valor de mercado do Facebook na oferta inicial de ações, em maio de 2012?",
+  "unidade": "bilhões de dólares",
+  "resposta": 104,
+  "fonte": "Wikipédia / imprensa financeira"
+ },
+ {
+  "id": "c1626",
+  "q": "Quantos gigabytes de espaço grátis o Gmail oferecia a cada usuário no lançamento, em 2004?",
+  "unidade": "gigabytes",
+  "resposta": 1,
+  "fonte": "Google, 2004"
+ },
+ {
+  "id": "c1627",
+  "q": "Por quantos milhões de dólares a Microsoft comprou o Hotmail, em 1997?",
+  "unidade": "milhões de dólares",
+  "resposta": 400,
+  "fonte": "Microsoft / Wikipédia"
+ },
+ {
+  "id": "c1628",
+  "q": "Quantos funcionários tinha o Instagram quando foi vendido ao Facebook, em 2012?",
+  "unidade": "funcionários",
+  "resposta": 13,
+  "fonte": "Imprensa financeira, 2012"
+ },
+ {
+  "id": "c1629",
+  "q": "Quantos funcionários tinha o WhatsApp quando foi comprado pelo Facebook, em 2014?",
+  "unidade": "funcionários",
+  "resposta": 55,
+  "fonte": "Imprensa financeira, 2014"
+ },
+ {
+  "id": "c1630",
+  "q": "Quantas teclas de função, como F1 e F2, tem um teclado de computador padrão?",
+  "unidade": "teclas",
+  "resposta": 12,
+  "fonte": "Padrão de teclados"
+ },
+ {
+  "id": "c1631",
+  "q": "Quanto custava, em dólares, o Game Boy no lançamento nos Estados Unidos, em 1989?",
+  "unidade": "dólares",
+  "resposta": 89.99,
+  "fonte": "Nintendo / Wikipédia"
+ },
+ {
+  "id": "c1632",
+  "q": "Quanto custava, em dólares, o primeiro PlayStation no lançamento nos Estados Unidos, em 1995?",
+  "unidade": "dólares",
+  "resposta": 299,
+  "fonte": "Sony / Wikipédia"
+ },
+ {
+  "id": "c1633",
+  "q": "Quantos milhões de cópias o jogo Super Mario Bros. vendeu no console NES, segundo a Nintendo?",
+  "unidade": "milhões de cópias",
+  "resposta": 40.24,
+  "fonte": "Nintendo / Guinness"
+ },
+ {
+  "id": "c1634",
+  "q": "Quantos dólares por ano era o salário de Steve Jobs como CEO da Apple?",
+  "unidade": "dólares",
+  "resposta": 1,
+  "fonte": "Apple / imprensa"
+ },
+ {
+  "id": "c1635",
+  "q": "Quanto custava, em dólares, o Apple Vision Pro no lançamento nos Estados Unidos, em 2024?",
+  "unidade": "dólares",
+  "resposta": 3499,
+  "fonte": "Apple, 2024"
+ },
+ {
+  "id": "c1636",
+  "q": "Quanto custava, em dólares, o Nintendo Switch no lançamento nos Estados Unidos, em 2017?",
+  "unidade": "dólares",
+  "resposta": 299,
+  "fonte": "Nintendo, 2017"
+ },
+ {
+  "id": "c1637",
+  "q": "Quanto custava, em dólares, o console Atari 2600 no lançamento, em 1977?",
+  "unidade": "dólares",
+  "resposta": 199,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1638",
+  "q": "Quanto custava, em dólares, o computador Commodore 64 no lançamento, em 1982?",
+  "unidade": "dólares",
+  "resposta": 595,
+  "fonte": "Commodore / Wikipédia"
+ },
+ {
+  "id": "c1639",
+  "q": "Quanto custava, em dólares, o Apple II no lançamento, em 1977, na versão mais barata?",
+  "unidade": "dólares",
+  "resposta": 1298,
+  "fonte": "Apple / Wikipédia"
+ },
+ {
+  "id": "c1640",
+  "q": "Quanto custava, em dólares, o computador Apple Lisa, lançado em 1983?",
+  "unidade": "dólares",
+  "resposta": 9995,
+  "fonte": "Apple / Wikipédia"
+ },
+ {
+  "id": "c1641",
+  "q": "Quanto custava, em dólares, o Google Glass para os primeiros compradores, em 2013?",
+  "unidade": "dólares",
+  "resposta": 1500,
+  "fonte": "Google, 2013"
+ },
+ {
+  "id": "c1642",
+  "q": "Quantos anos tinha Ada Lovelace, considerada a primeira programadora, quando morreu?",
+  "unidade": "anos",
+  "resposta": 36,
+  "fonte": "Wikipédia"
+ }
+]

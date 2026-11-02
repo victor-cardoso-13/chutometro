@@ -1,0 +1,492 @@
+[
+ {
+  "id": "c1504",
+  "resposta": 342,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1505",
+  "resposta": 7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1506",
+  "resposta": 83.6,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1507",
+  "resposta": 108,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1508",
+  "resposta": 2.3,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "estimativas variam"
+ },
+ {
+  "id": "c1509",
+  "resposta": 46,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "8x17"
+ },
+ {
+  "id": "c1510",
+  "resposta": 1093,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "EUA"
+ },
+ {
+  "id": "c1511",
+  "resposta": 220,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1512",
+  "resposta": 265,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "1603-1868"
+ },
+ {
+  "id": "c1513",
+  "resposta": 2430,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "2430-2450"
+ },
+ {
+  "id": "c1514",
+  "resposta": 12,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1515",
+  "resposta": 56,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1516",
+  "resposta": 39,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1517",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1518",
+  "resposta": 29,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": "1934-1963"
+ },
+ {
+  "id": "c1519",
+  "resposta": 12,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "cerca de 12"
+ },
+ {
+  "id": "c1520",
+  "resposta": 2281,
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1521",
+  "resposta": 101,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1522",
+  "resposta": 28,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1523",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1524",
+  "resposta": 102,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "102 passageiros"
+ },
+ {
+  "id": "c1525",
+  "resposta": 3,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1526",
+  "resposta": 282,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1527",
+  "resposta": 20,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "20 ou 20,2"
+ },
+ {
+  "id": "c1528",
+  "resposta": 2,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1529",
+  "resposta": 1937,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1530",
+  "resposta": 80,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1531",
+  "resposta": 1863,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1532",
+  "resposta": 1974,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1533",
+  "resposta": 1964,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1534",
+  "resposta": 1931,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1535",
+  "resposta": 184,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1536",
+  "resposta": 192,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1537",
+  "resposta": 169,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1538",
+  "resposta": 77,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1539",
+  "resposta": 321,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1540",
+  "resposta": 157,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1541",
+  "resposta": 1991,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1542",
+  "resposta": 486,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1543",
+  "resposta": 138,
+  "confianca": "media",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1544",
+  "resposta": 53.85,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1545",
+  "resposta": 11.6,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1546",
+  "resposta": 24,
+  "confianca": "baixa",
+  "ambigua": true,
+  "obs": "21 a 25 conforme ponto"
+ },
+ {
+  "id": "c1547",
+  "resposta": 181,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1548",
+  "resposta": 221,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1549",
+  "resposta": 73,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "73 m"
+ },
+ {
+  "id": "c1550",
+  "resposta": 43,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1551",
+  "resposta": 354,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": "354 ate coroa"
+ },
+ {
+  "id": "c1552",
+  "resposta": 896,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1553",
+  "resposta": 110,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1554",
+  "resposta": 541,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1555",
+  "resposta": 555,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1556",
+  "resposta": 601,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1557",
+  "resposta": 333,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1558",
+  "resposta": 775,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1559",
+  "resposta": 132,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1560",
+  "resposta": 603,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1561",
+  "resposta": 102,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1562",
+  "resposta": 13.8,
+  "confianca": "media",
+  "ambigua": false,
+  "obs": "13,76 t"
+ },
+ {
+  "id": "c1563",
+  "resposta": 73,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1564",
+  "resposta": 18,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1565",
+  "resposta": 85,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1566",
+  "resposta": 50,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1567",
+  "resposta": 44,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1568",
+  "resposta": 28,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1569",
+  "resposta": 230,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1570",
+  "resposta": 341,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1571",
+  "resposta": 635,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1572",
+  "resposta": 22.5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1573",
+  "resposta": 368,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ }
+]

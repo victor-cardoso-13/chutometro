@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1160",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Manaus",
+  "obs": "2.063.689 (Censo 2022)"
+ },
+ {
+  "id": "c1161",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Curitiba",
+  "obs": "1.773.718"
+ },
+ {
+  "id": "c1162",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Demografia_do_Brasil",
+  "obs": "190.755.799"
+ },
+ {
+  "id": "c1163",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Demografia_do_Brasil",
+  "obs": "9.930.478 em 1872"
+ },
+ {
+  "id": "c1164",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Demografia_do_Brasil",
+  "obs": "84,36%"
+ },
+ {
+  "id": "c1165",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://agenciadenoticias.ibge.gov.br/pt/agencia-sala-de-imprensa/44973-pib-cresce-3-2-e-totaliza-r-10-9-trilhoes-em-2023.html",
+  "obs": "R$ 10,9 tri nas duas versoes do IBGE"
+ },
+ {
+  "id": "c1166",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Pedro_II_do_Brasil",
+  "obs": "1831-1889, 58 anos (memoria + padrao Wikipedia; pagina nao reaberta)"
+ },
+ {
+  "id": "c1167",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Ditadura_militar_no_Brasil",
+  "obs": "1964-1985; pagina nao reaberta"
+ },
+ {
+  "id": "c1168",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Constitui%C3%A7%C3%A3o_brasileira_de_1988",
+  "obs": "250 artigos"
+ },
+ {
+  "id": "c1169",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.camara.leg.br",
+  "obs": "513; conhecimento consolidado, nao reaberto"
+ },
+ {
+  "id": "c1170",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.stf.jus.br",
+  "obs": "11; conhecimento consolidado, nao reaberto"
+ },
+ {
+  "id": "c1171",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.tse.jus.br",
+  "obs": "70 anos facultativo; nao reaberto"
+ },
+ {
+  "id": "c1172",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Alberto_Santos-Dumont",
+  "obs": "220 m em 12/11/1906"
+ },
+ {
+  "id": "c1173",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14262-asi-censo-2010-populacaoindigena-e-de-8969-mil-tem-305-etnias-e-fala-274-idiomas",
+  "obs": "274 idiomas"
+ },
+ {
+  "id": "c1174",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Neymar",
+  "obs": "222 milhoes de euros"
+ },
+ {
+  "id": "c1175",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Garganta_do_Diabo",
+  "obs": "pt.wikipedia diz 80 m; outras fontes citam 82 m"
+ },
+ {
+  "id": "c1176",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Guerra_dos_Farrapos",
+  "obs": "1835-1845; nao reaberto"
+ },
+ {
+  "id": "c1177",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Estado_Novo_(Brasil)",
+  "obs": "1937-1945; nao reaberto"
+ },
+ {
+  "id": "c1178",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral",
+  "obs": "13 navios, mas so 10 sao naus e 3 caravelas; pergunta diz naus"
+ },
+ {
+  "id": "c1179",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace",
+  "obs": "4,309 km"
+ },
+ {
+  "id": "c1180",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.cbf.com.br",
+  "obs": "20 clubes x 2 turnos = 38; aritmetica"
+ },
+ {
+  "id": "c1181",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Copa_Am%C3%A9rica",
+  "obs": "9 titulos ate 2019"
+ },
+ {
+  "id": "c1182",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Gabriel_Medina",
+  "obs": "2014, 2018, 2021; sem 4o titulo ate nov/2026"
+ },
+ {
+  "id": "c1183",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Rayssa_Leal",
+  "obs": "13 anos e 203 dias"
+ },
+ {
+  "id": "c1184",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Marta_(futebolista)",
+  "obs": "2006-2010 e 2018 = 6"
+ },
+ {
+  "id": "c1185",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_do_Pulo",
+  "obs": "17,89 m, Pan 1975 Cidade do Mexico"
+ },
+ {
+  "id": "c1186",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Final_da_Copa_do_Mundo_FIFA_de_1970",
+  "obs": "4x1 Italia; nao reaberto"
+ },
+ {
+  "id": "c1187",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Rom%C3%A1rio",
+  "obs": "5 gols em 1994; nao reaberto"
+ },
+ {
+  "id": "c1188",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Cafu",
+  "obs": "finais 1994, 1998, 2002; nao reaberto"
+ },
+ {
+  "id": "c1189",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Confer%C3%AAncia_das_Na%C3%A7%C3%B5es_Unidas_sobre_Meio_Ambiente_e_Desenvolvimento",
+  "obs": "1992"
+ },
+ {
+  "id": "c1190",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Guerra_do_Paraguai",
+  "obs": "1864; nao reaberto"
+ },
+ {
+  "id": "c1191",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.ibge.gov.br",
+  "obs": "17 estados litoraneos; nao reaberto"
+ },
+ {
+  "id": "c1192",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Amaz%C3%B4nia_Legal",
+  "obs": "9 estados"
+ },
+ {
+  "id": "c1193",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil",
+  "obs": "9; nao reaberto"
+ },
+ {
+  "id": "c1194",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.bcb.gov.br",
+  "obs": "R$200; nao reaberto"
+ },
+ {
+  "id": "c1195",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Alberto_Santos-Dumont",
+  "obs": "20/07/1873 a 23/07/1932 = 59 anos"
+ },
+ {
+  "id": "c1196",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Brasil_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2016",
+  "obs": "7 ouro, 6 prata, 6 bronze = 19"
+ },
+ {
+  "id": "c1197",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Maurren_Maggi",
+  "obs": "7,04 m"
+ }
+]

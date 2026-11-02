@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantos bits formam um byte?",
+  "unidade": "bits",
+  "resposta": 8,
+  "fonte": "Ciência da computação (definição padrão)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos caracteres, no máximo, cabiam num tweet desde o lançamento da rede até novembro de 2017?",
+  "unidade": "caracteres",
+  "resposta": 140,
+  "fonte": "Twitter (anúncio oficial de 2017)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos bits tem um endereço IP na versão 4 do protocolo da internet?",
+  "unidade": "bits",
+  "resposta": 32,
+  "fonte": "RFC 791",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos caracteres diferentes tem a tabela ASCII original, contando os de controle?",
+  "unidade": "caracteres",
+  "resposta": 128,
+  "fonte": "Padrão ASCII (ANSI X3.4)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pixels de largura, na horizontal, tem uma tela Full HD?",
+  "unidade": "pixels",
+  "resposta": 1920,
+  "fonte": "Padrão ITU-R BT.709 / indústria",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos tinha Steve Jobs quando morreu, em 2011?",
+  "unidade": "anos",
+  "resposta": 56,
+  "fonte": "Wikipédia / Apple",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos tinha Bill Gates quando fundou a Microsoft, em 1975?",
+  "unidade": "anos",
+  "resposta": 19,
+  "fonte": "Wikipédia / Microsoft",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas camadas tem o modelo de referência OSI das redes de computadores?",
+  "unidade": "camadas",
+  "resposta": 7,
+  "fonte": "ISO/IEC 7498-1",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas listras de cor tinha a maçã do logotipo da Apple usado de 1977 a 1998?",
+  "unidade": "listras",
+  "resposta": 6,
+  "fonte": "Apple / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos caracteres, no máximo, cabem numa única mensagem SMS com texto simples (alfabeto padrão GSM)?",
+  "unidade": "caracteres",
+  "resposta": 160,
+  "fonte": "Padrão GSM 03.40 / ETSI",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pixels de largura tinha a tela do Game Boy original, da Nintendo?",
+  "unidade": "pixels",
+  "resposta": 160,
+  "fonte": "Nintendo / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos símbolos diferentes (algarismos e letras) usa o sistema de numeração hexadecimal?",
+  "unidade": "símbolos",
+  "resposta": 16,
+  "fonte": "Matemática / computação",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi publicado no YouTube o primeiro vídeo da plataforma, 'Me at the zoo'?",
+  "unidade": "ano",
+  "resposta": 2005,
+  "fonte": "YouTube / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi lançada a rede social Twitter, hoje chamada X?",
+  "unidade": "ano",
+  "resposta": 2006,
+  "fonte": "Wikipédia / Twitter",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

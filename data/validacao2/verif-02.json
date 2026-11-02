@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1122",
+  "status": "confirmada",
+  "valor_correto": 1296,
+  "fonte_url": "https://en.wikipedia.org/wiki/Mastermind_(board_game)",
+  "obs": "confere"
+ },
+ {
+  "id": "c1123",
+  "status": "confirmada",
+  "valor_correto": 9,
+  "fonte_url": "https://en.wikipedia.org/wiki/Cluedo",
+  "obs": "confere"
+ },
+ {
+  "id": "c1124",
+  "status": "confirmada",
+  "valor_correto": 255168,
+  "fonte_url": "https://mathworld.wolfram.com/Tic-Tac-Toe.html",
+  "obs": "confere"
+ },
+ {
+  "id": "c1125",
+  "status": "confirmada",
+  "valor_correto": 22,
+  "fonte_url": "https://en.wikipedia.org/wiki/Snooker",
+  "obs": "confere"
+ },
+ {
+  "id": "c1126",
+  "status": "confirmada",
+  "valor_correto": 147,
+  "fonte_url": "https://en.wikipedia.org/wiki/Maximum_break",
+  "obs": "confere"
+ },
+ {
+  "id": "c1127",
+  "status": "confirmada",
+  "valor_correto": 300,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ten-pin_bowling",
+  "obs": "confere"
+ },
+ {
+  "id": "c1128",
+  "status": "confirmada",
+  "valor_correto": 180,
+  "fonte_url": "https://en.wikipedia.org/wiki/Darts",
+  "obs": "confere"
+ },
+ {
+  "id": "c1129",
+  "status": "confirmada",
+  "valor_correto": 40,
+  "fonte_url": "https://en.wikipedia.org/wiki/Table_tennis",
+  "obs": "confere"
+ },
+ {
+  "id": "c1130",
+  "status": "confirmada",
+  "valor_correto": 7541,
+  "fonte_url": "https://en.wikipedia.org/wiki/Lego_Star_Wars",
+  "obs": "confere"
+ },
+ {
+  "id": "c1131",
+  "status": "confirmada",
+  "valor_correto": 3333360,
+  "fonte_url": "https://mameworld.info/net/pacman/history/p11_01.htm",
+  "obs": "3.333.360 em 1/7/1999; Twin Galaxies/Guinness retiraram em 2018, scores repostos em 2024; valor do placar correto"
+ },
+ {
+  "id": "c1132",
+  "status": "confirmada",
+  "valor_correto": 6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Braille",
+  "obs": "confere"
+ },
+ {
+  "id": "c1133",
+  "status": "confirmada",
+  "valor_correto": 25,
+  "fonte_url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
+  "obs": "confere"
+ },
+ {
+  "id": "c1134",
+  "status": "confirmada",
+  "valor_correto": 700,
+  "fonte_url": "https://en.wikipedia.org/wiki/CD-R",
+  "obs": "confere"
+ },
+ {
+  "id": "c1135",
+  "status": "confirmada",
+  "valor_correto": 1980,
+  "fonte_url": "https://en.wikipedia.org/wiki/Pac-Man",
+  "obs": "confere"
+ },
+ {
+  "id": "c1136",
+  "status": "confirmada",
+  "valor_correto": 1968,
+  "fonte_url": "https://en.wikipedia.org/wiki/Hot_Wheels",
+  "obs": "confere"
+ },
+ {
+  "id": "c1137",
+  "status": "confirmada",
+  "valor_correto": 1996,
+  "fonte_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Green,_and_Blue",
+  "obs": "confere"
+ },
+ {
+  "id": "c1138",
+  "status": "confirmada",
+  "valor_correto": 1989,
+  "fonte_url": "https://en.wikipedia.org/wiki/Game_Boy",
+  "obs": "confere"
+ },
+ {
+  "id": "c1139",
+  "status": "confirmada",
+  "valor_correto": 1985,
+  "fonte_url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+  "obs": "confere"
+ },
+ {
+  "id": "c1140",
+  "status": "confirmada",
+  "valor_correto": 1994,
+  "fonte_url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+  "obs": "confere"
+ },
+ {
+  "id": "c1141",
+  "status": "confirmada",
+  "valor_correto": 387,
+  "fonte_url": "https://fdc.nal.usda.gov/",
+  "obs": "confere"
+ },
+ {
+  "id": "c1142",
+  "status": "confirmada",
+  "valor_correto": 1960,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Bras%C3%ADlia",
+  "obs": "confere"
+ },
+ {
+  "id": "c1143",
+  "status": "confirmada",
+  "valor_correto": 1888,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Lei_%C3%81urea",
+  "obs": "confere"
+ },
+ {
+  "id": "c1144",
+  "status": "confirmada",
+  "valor_correto": 1839,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Machado_de_Assis",
+  "obs": "confere"
+ },
+ {
+  "id": "c1145",
+  "status": "confirmada",
+  "valor_correto": 1565,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Rio_de_Janeiro",
+  "obs": "confere"
+ },
+ {
+  "id": "c1146",
+  "status": "confirmada",
+  "valor_correto": 1953,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Petrobras",
+  "obs": "confere"
+ },
+ {
+  "id": "c1147",
+  "status": "confirmada",
+  "valor_correto": 1942,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Brasil_na_Segunda_Guerra_Mundial",
+  "obs": "confere"
+ },
+ {
+  "id": "c1148",
+  "status": "confirmada",
+  "valor_correto": 3,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Ayrton_Senna",
+  "obs": "confere"
+ },
+ {
+  "id": "c1149",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Brasil_na_F%C3%B3rmula_1",
+  "obs": "confere"
+ },
+ {
+  "id": "c1150",
+  "status": "confirmada",
+  "valor_correto": 6,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
+  "obs": "confere"
+ },
+ {
+  "id": "c1151",
+  "status": "confirmada",
+  "valor_correto": 2,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Final_da_Copa_do_Mundo_FIFA_de_2002",
+  "obs": "confere"
+ },
+ {
+  "id": "c1152",
+  "status": "confirmada",
+  "valor_correto": 4,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Mário_Zagallo",
+  "obs": "confere"
+ },
+ {
+  "id": "c1153",
+  "status": "confirmada",
+  "valor_correto": 2892,
+  "fonte_url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/12864-asi-picos-da-bandeira-e-do-cristal-ja-tem-novas-altitudes",
+  "obs": "IBGE 2004: 2891,98 m"
+ },
+ {
+  "id": "c1154",
+  "status": "confirmada",
+  "valor_correto": 710,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Corcovado_(Rio_de_Janeiro)",
+  "obs": "confere"
+ },
+ {
+  "id": "c1155",
+  "status": "confirmada",
+  "valor_correto": 13.3,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Ponte_Rio-Niter%C3%B3i",
+  "obs": "13,29 km"
+ },
+ {
+  "id": "c1156",
+  "status": "confirmada",
+  "valor_correto": 853,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Minas_Gerais",
+  "obs": "confere"
+ },
+ {
+  "id": "c1157",
+  "status": "confirmada",
+  "valor_correto": 15,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Roraima",
+  "obs": "confere"
+ },
+ {
+  "id": "c1158",
+  "status": "confirmada",
+  "valor_correto": 1518,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Sal%C3%A1rio_m%C3%ADnimo_no_Brasil",
+  "obs": "confere"
+ },
+ {
+  "id": "c1159",
+  "status": "confirmada",
+  "valor_correto": 2.8,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Distrito_Federal_(Brasil)",
+  "obs": "confere"
+ }
+]

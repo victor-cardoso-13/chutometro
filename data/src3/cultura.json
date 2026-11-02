@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantas teclas (brancas e pretas juntas) tem um piano acústico de tamanho padrão?",
+  "unidade": "teclas",
+  "resposta": 88,
+  "fonte": "Piano (padrão consagrado)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme O Senhor dos Anéis: O Retorno do Rei?",
+  "unidade": "Oscars",
+  "resposta": 11,
+  "fonte": "Academia de Hollywood / Wikipédia",
+  "ano": 2004,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos integrantes tem o grupo sul-coreano de K-pop BTS?",
+  "unidade": "integrantes",
+  "resposta": 7,
+  "fonte": "Wikipédia / Big Hit",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas temporadas teve a série Lost, do início ao fim?",
+  "unidade": "temporadas",
+  "resposta": 6,
+  "fonte": "Wikipédia / ABC",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi lançado o jogo Pac-Man, no Japão?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "Namco / Wikipédia",
+  "ano": 1980,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi publicado o romance Dom Casmurro, de Machado de Assis?",
+  "unidade": "ano",
+  "resposta": 1899,
+  "fonte": "Academia Brasileira de Letras",
+  "ano": 1899,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Pokémon existem na primeira geração, a de Pokémon Red e Blue?",
+  "unidade": "Pokémon",
+  "resposta": 151,
+  "fonte": "Nintendo / Wikipédia",
+  "ano": 1996,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Até a cerimônia de 2025, quantas indicações ao Oscar a atriz Meryl Streep recebeu na carreira?",
+  "unidade": "indicações",
+  "resposta": 21,
+  "fonte": "Academia de Hollywood / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos filmes tem a série principal de Harry Potter, contando a Parte 1 e a Parte 2 do último livro como dois?",
+  "unidade": "filmes",
+  "resposta": 8,
+  "fonte": "Warner Bros. / Wikipédia",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos o personagem Chaves diz ter na série mexicana?",
+  "unidade": "anos",
+  "resposta": 8,
+  "fonte": "Chaves (Roberto Gómez Bolaños)",
+  "ano": 1973,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Freddie Mercury, vocalista do Queen?",
+  "unidade": "anos",
+  "resposta": 45,
+  "fonte": "Wikipédia",
+  "ano": 1991,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos formatos diferentes de peças (tetraminós) existem no Tetris clássico?",
+  "unidade": "formatos",
+  "resposta": 7,
+  "fonte": "Wikipédia / Tetris Company",
+  "ano": 1985,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Oscars de melhor direção ganhou o cineasta John Ford, recorde da categoria?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academia de Hollywood / Wikipédia",
+  "ano": 1952,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos capítulos tem o livro do Gênesis na Bíblia?",
+  "unidade": "capítulos",
+  "resposta": 50,
+  "fonte": "Bíblia (divisão tradicional)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1578",
+  "q": "Qual a área da Cidade Proibida, em Pequim, em hectares?",
+  "unidade": "hectares",
+  "resposta": 72,
+  "fonte": "UNESCO"
+ },
+ {
+  "id": "c1579",
+  "q": "Quantas colunas externas tem o Lincoln Memorial, em Washington?",
+  "unidade": "colunas",
+  "resposta": 36,
+  "fonte": "National Park Service"
+ },
+ {
+  "id": "c1580",
+  "q": "Qual a altura do arco do Estádio de Wembley, em Londres, em metros?",
+  "unidade": "metros",
+  "resposta": 133,
+  "fonte": "Wembley Stadium"
+ },
+ {
+  "id": "c1581",
+  "q": "Qual o comprimento do vão central da ponte Verrazzano-Narrows, em Nova York, em metros?",
+  "unidade": "metros",
+  "resposta": 1298,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1582",
+  "q": "Qual a altura da roda-gigante Singapore Flyer, em metros?",
+  "unidade": "metros",
+  "resposta": 165,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1583",
+  "q": "Qual a altura do Grande Buda de Leshan, na China, em metros?",
+  "unidade": "metros",
+  "resposta": 71,
+  "fonte": "UNESCO"
+ },
+ {
+  "id": "c1584",
+  "q": "Em que ano a Wikipédia foi lançada na internet?",
+  "unidade": "ano",
+  "resposta": 2001,
+  "fonte": "Wikipédia / Wikimedia"
+ },
+ {
+  "id": "c1585",
+  "q": "Em que ano o Twitter foi lançado?",
+  "unidade": "ano",
+  "resposta": 2006,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1586",
+  "q": "Em que ano o Facebook foi fundado por Mark Zuckerberg e colegas de Harvard?",
+  "unidade": "ano",
+  "resposta": 2004,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1587",
+  "q": "Em que ano a Atari lançou o jogo Pong?",
+  "unidade": "ano",
+  "resposta": 1972,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1588",
+  "q": "Em que ano a Amazon foi fundada por Jeff Bezos?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Amazon / Wikipédia"
+ },
+ {
+  "id": "c1589",
+  "q": "Em que ano o ChatGPT foi aberto ao público pela OpenAI?",
+  "unidade": "ano",
+  "resposta": 2022,
+  "fonte": "OpenAI"
+ },
+ {
+  "id": "c1590",
+  "q": "Em que ano o WhatsApp foi fundado?",
+  "unidade": "ano",
+  "resposta": 2009,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1591",
+  "q": "Em que ano a oficial da Marinha dos EUA Grace Hopper e sua equipe encontraram o famoso inseto preso num computador Harvard Mark II, o 'bug' original?",
+  "unidade": "ano",
+  "resposta": 1947,
+  "fonte": "Smithsonian"
+ },
+ {
+  "id": "c1592",
+  "q": "Em que ano Ray Tomlinson enviou o primeiro e-mail entre computadores de uma rede, usando o símbolo @?",
+  "unidade": "ano",
+  "resposta": 1971,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1593",
+  "q": "Em quantos dias o ChatGPT chegou a 1 milhão de usuários após o lançamento, segundo Sam Altman?",
+  "unidade": "dias",
+  "resposta": 5,
+  "fonte": "Sam Altman (OpenAI), dezembro de 2022"
+ },
+ {
+  "id": "c1594",
+  "q": "Quantos bits tem um endereço IP na versão 6 do protocolo da internet?",
+  "unidade": "bits",
+  "resposta": 128,
+  "fonte": "IETF RFC 8200"
+ },
+ {
+  "id": "c1595",
+  "q": "Quantos anos tinha Mark Zuckerberg quando fundou o Facebook, em 2004?",
+  "unidade": "anos",
+  "resposta": 19,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1596",
+  "q": "Quantos anos tinha Steve Jobs quando morreu, em 2011?",
+  "unidade": "anos",
+  "resposta": 56,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1597",
+  "q": "Quantos anos tinha Bill Gates quando fundou a Microsoft, em 1975?",
+  "unidade": "anos",
+  "resposta": 19,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1598",
+  "q": "Quantas partidas o programa AlphaGo venceu contra o campeão Lee Sedol, num match de cinco jogos em 2016?",
+  "unidade": "partidas",
+  "resposta": 4,
+  "fonte": "DeepMind"
+ },
+ {
+  "id": "c1599",
+  "q": "Quantos milhões de cópias do Minecraft haviam sido vendidas em outubro de 2023, segundo a Microsoft?",
+  "unidade": "milhões de cópias",
+  "resposta": 300,
+  "fonte": "Microsoft / Mojang, outubro de 2023"
+ },
+ {
+  "id": "c1600",
+  "q": "Quantos milhões de consoles Nintendo Wii foram vendidos no mundo, segundo a Nintendo?",
+  "unidade": "milhões de consoles",
+  "resposta": 101.6,
+  "fonte": "Nintendo (dados até 2023)"
+ },
+ {
+  "id": "c1601",
+  "q": "Quantos milhões de consoles Nintendo DS foram vendidos no mundo, segundo a Nintendo?",
+  "unidade": "milhões de consoles",
+  "resposta": 154,
+  "fonte": "Nintendo (dados até 2023)"
+ },
+ {
+  "id": "c1602",
+  "q": "Quantos bilhões de pessoas usavam o Facebook por mês no fim de 2023, segundo a Meta?",
+  "unidade": "bilhões de pessoas",
+  "resposta": 3.07,
+  "fonte": "Meta, resultados do 4º trimestre de 2023"
+ },
+ {
+  "id": "c1603",
+  "q": "Em fevereiro de 2020, quantos bilhões de usuários o WhatsApp dizia ter, segundo a própria empresa?",
+  "unidade": "bilhões de usuários",
+  "resposta": 2,
+  "fonte": "WhatsApp / Meta, fevereiro de 2020"
+ },
+ {
+  "id": "c1604",
+  "q": "Quantos bilhões de dólares a Microsoft pagou pela rede LinkedIn, anunciada em 2016?",
+  "unidade": "bilhões de dólares",
+  "resposta": 26.2,
+  "fonte": "Microsoft, 2016"
+ },
+ {
+  "id": "c1605",
+  "q": "Quantos bilhões de dólares Elon Musk pagou pelo Twitter, em 2022?",
+  "unidade": "bilhões de dólares",
+  "resposta": 44,
+  "fonte": "Twitter / SEC, 2022"
+ },
+ {
+  "id": "c1606",
+  "q": "Quantos bilhões de dólares o Facebook pagou pela empresa de óculos de realidade virtual Oculus, em 2014?",
+  "unidade": "bilhões de dólares",
+  "resposta": 2,
+  "fonte": "Facebook, 2014"
+ },
+ {
+  "id": "c1607",
+  "q": "Quantos bilhões de dólares a Microsoft pagou pelo Skype, em 2011?",
+  "unidade": "bilhões de dólares",
+  "resposta": 8.5,
+  "fonte": "Microsoft, 2011"
+ },
+ {
+  "id": "c1608",
+  "q": "Pela famosa Lei de Moore, na versão de 1975, a cada quantos meses dobra o número de transistores num chip?",
+  "unidade": "meses",
+  "resposta": 24,
+  "fonte": "Gordon Moore, 1975"
+ },
+ {
+  "id": "c1609",
+  "q": "Quantos caracteres diferentes tem a tabela ASCII original?",
+  "unidade": "caracteres",
+  "resposta": 128,
+  "fonte": "ANSI / Wikipédia"
+ },
+ {
+  "id": "c1610",
+  "q": "Quantos milhões de cores diferentes pode mostrar uma tela com 24 bits de cor? Responda com uma casa decimal.",
+  "unidade": "milhões de cores",
+  "resposta": 16.8,
+  "fonte": "Matemática (2 elevado a 24)"
+ },
+ {
+  "id": "c1611",
+  "q": "Quantos milhões de assinantes pagantes a Netflix tinha no fim de 2023, segundo a própria empresa?",
+  "unidade": "milhões de assinantes",
+  "resposta": 260,
+  "fonte": "Netflix, 4º trimestre de 2023"
+ },
+ {
+  "id": "c1612",
+  "q": "Quantos milhões de bitcoins podem existir, no máximo, segundo as regras do protocolo?",
+  "unidade": "milhões de bitcoins",
+  "resposta": 21,
+  "fonte": "Whitepaper / protocolo Bitcoin"
+ },
+ {
+  "id": "c1613",
+  "q": "Quantos bitcoins o programador Laszlo Hanyecz pagou por duas pizzas, em maio de 2010?",
+  "unidade": "bitcoins",
+  "resposta": 10000,
+  "fonte": "Bitcoin Talk / Wikipédia"
+ },
+ {
+  "id": "c1614",
+  "q": "Quantos quilos pesava, aproximadamente, o primeiro celular comercial da Motorola, o DynaTAC 8000X? Responda com uma casa decimal.",
+  "unidade": "kg",
+  "resposta": 1.1,
+  "fonte": "Motorola / Wikipédia"
+ },
+ {
+  "id": "c1615",
+  "q": "Quantos minutos de conversa dava a bateria do primeiro celular comercial da Motorola, o DynaTAC 8000X?",
+  "unidade": "minutos",
+  "resposta": 30,
+  "fonte": "Motorola / Wikipédia"
+ }
+]

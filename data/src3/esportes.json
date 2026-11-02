@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantas medalhas de ouro o Brasil ganhou nos Jogos Olímpicos do Rio de Janeiro, em 2016?",
+  "unidade": "medalhas de ouro",
+  "resposta": 7,
+  "fonte": "COI / Wikipédia",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é o comprimento oficial de uma quadra de basquete segundo a FIBA, em metros?",
+  "unidade": "metros",
+  "resposta": 28,
+  "fonte": "Regras oficiais da FIBA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos jogadores de cada time ficam em campo ao mesmo tempo numa partida de rugby union (rugby de 15)?",
+  "unidade": "jogadores",
+  "resposta": 15,
+  "fonte": "World Rugby",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos buracos tem um campo de golfe completo, de tamanho padrão?",
+  "unidade": "buracos",
+  "resposta": 18,
+  "fonte": "R&A / USGA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos gols a Alemanha marcou na semifinal da Copa do Mundo de 2014 contra o Brasil, em Belo Horizonte?",
+  "unidade": "gols",
+  "resposta": 7,
+  "fonte": "FIFA",
+  "ano": 2014,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos gols a seleção brasileira marcou ao todo na Copa do Mundo de 1970, no México?",
+  "unidade": "gols",
+  "resposta": 19,
+  "fonte": "FIFA",
+  "ano": 1970,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas medalhas de ouro a China ganhou nos Jogos Olímpicos de Paris 2024?",
+  "unidade": "medalhas de ouro",
+  "resposta": 40,
+  "fonte": "COI / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas barreiras o atleta precisa saltar numa prova olímpica dos 110 metros com barreiras?",
+  "unidade": "barreiras",
+  "resposta": 10,
+  "fonte": "World Athletics",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas voltas tinha o Grande Prêmio de Abu Dhabi de Fórmula 1 de 2021, o da decisão do título entre Verstappen e Hamilton?",
+  "unidade": "voltas",
+  "resposta": 58,
+  "fonte": "FIA / Wikipédia",
+  "ano": 2021,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas pole positions Ayrton Senna conquistou ao longo da carreira na Fórmula 1?",
+  "unidade": "poles",
+  "resposta": 65,
+  "fonte": "Fórmula 1 / Wikipédia",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Até quantos pontos vai, no mínimo, o set decisivo (quinto set) de uma partida de vôlei de quadra da FIVB?",
+  "unidade": "pontos",
+  "resposta": 15,
+  "fonte": "Regras da FIVB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas seleções disputaram a primeira Copa do Mundo masculina de futebol, em 1930, no Uruguai?",
+  "unidade": "seleções",
+  "resposta": 13,
+  "fonte": "FIFA",
+  "ano": 1930,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols foram marcados, somando os dois times, na final da Copa do Mundo de 2022 entre Argentina e França, contando tempo normal e prorrogação (sem os pênaltis)?",
+  "unidade": "gols",
+  "resposta": 6,
+  "fonte": "FIFA",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi disputada a primeira Copa do Mundo de futebol feminino da FIFA?",
+  "unidade": "ano",
+  "resposta": 1991,
+  "fonte": "FIFA",
+  "ano": 1991,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantas vértebras cervicais, as do pescoço, tem a coluna de um ser humano?",
+  "unidade": "vértebras",
+  "resposta": 7,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas vértebras lombares, as da parte baixa das costas, tem a coluna de um adulto típico?",
+  "unidade": "vértebras",
+  "resposta": 5,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a OMS declarou oficialmente a varíola erradicada no mundo?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "OMS",
+  "ano": 1980,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano nasceu Louise Brown, o primeiro bebê de proveta (fertilização in vitro) do mundo?",
+  "unidade": "ano",
+  "resposta": 1978,
+  "fonte": "Wikipédia",
+  "ano": 1978,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos viveu a francesa Jeanne Calment, a pessoa com idade comprovada mais longeva da história segundo o Guinness (contando só os anos completos)?",
+  "unidade": "anos",
+  "resposta": 122,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos códons (trincas de bases) diferentes existem no código genético?",
+  "unidade": "códons",
+  "resposta": 64,
+  "fonte": "Genética (consenso científico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos aminoácidos essenciais, que o corpo de um adulto não consegue produzir, são reconhecidos pela nutrição clássica?",
+  "unidade": "aminoácidos",
+  "resposta": 9,
+  "fonte": "OMS/FAO e livros de bioquímica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos ossinhos (ossículos) tem o ouvido médio de cada orelha?",
+  "unidade": "ossículos",
+  "resposta": 3,
+  "fonte": "Anatomia humana (consenso médico)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a pontuação máxima possível na Escala de Coma de Glasgow?",
+  "unidade": "pontos",
+  "resposta": 15,
+  "fonte": "Escala de Coma de Glasgow (Teasdale e Jennett, 1974)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a nota máxima possível no teste de Apgar, aplicado nos recém-nascidos?",
+  "unidade": "pontos",
+  "resposta": 10,
+  "fonte": "Teste de Apgar (Virginia Apgar, 1952)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas semanas dura uma gestação humana típica, contadas a partir do primeiro dia da última menstruação?",
+  "unidade": "semanas",
+  "resposta": 40,
+  "fonte": "OMS / obstetrícia (regra de Naegele)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos centímetros media Robert Wadlow, o homem mais alto da história com altura comprovada, segundo o Guinness?",
+  "unidade": "cm",
+  "resposta": 272,
+  "fonte": "Guinness World Records",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Por quantas horas seguidas o estudante Randy Gardner ficou acordado em 1964, num dos recordes de privação de sono mais famosos da ciência?",
+  "unidade": "horas",
+  "resposta": 264,
+  "fonte": "Guinness / Stanford (Dement, 1964)",
+  "ano": 1964,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vitaminas diferentes formam o chamado complexo B?",
+  "unidade": "vitaminas",
+  "resposta": 8,
+  "fonte": "Nutrição (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

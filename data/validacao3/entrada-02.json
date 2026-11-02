@@ -1,0 +1,327 @@
+[
+ {
+  "id": "c1709",
+  "q": "Quantos jogadores de cada time ficam em campo ao mesmo tempo numa partida de rugby union (rugby de 15)?",
+  "unidade": "jogadores"
+ },
+ {
+  "id": "c1710",
+  "q": "Quantos buracos tem um campo de golfe completo, de tamanho padrão?",
+  "unidade": "buracos"
+ },
+ {
+  "id": "c1711",
+  "q": "Quantos gols a Alemanha marcou na semifinal da Copa do Mundo de 2014 contra o Brasil, em Belo Horizonte?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1712",
+  "q": "Quantos gols a seleção brasileira marcou ao todo na Copa do Mundo de 1970, no México?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1713",
+  "q": "Quantas medalhas de ouro a China ganhou nos Jogos Olímpicos de Paris 2024?",
+  "unidade": "medalhas de ouro"
+ },
+ {
+  "id": "c1714",
+  "q": "Quantas barreiras o atleta precisa saltar numa prova olímpica dos 110 metros com barreiras?",
+  "unidade": "barreiras"
+ },
+ {
+  "id": "c1715",
+  "q": "Quantas voltas tinha o Grande Prêmio de Abu Dhabi de Fórmula 1 de 2021, o da decisão do título entre Verstappen e Hamilton?",
+  "unidade": "voltas"
+ },
+ {
+  "id": "c1716",
+  "q": "Quantas pole positions Ayrton Senna conquistou ao longo da carreira na Fórmula 1?",
+  "unidade": "poles"
+ },
+ {
+  "id": "c1717",
+  "q": "Até quantos pontos vai, no mínimo, o set decisivo de uma partida de vôlei de quadra da FIVB?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1718",
+  "q": "Quantas seleções disputaram a primeira Copa do Mundo masculina de futebol, em 1930, no Uruguai?",
+  "unidade": "seleções"
+ },
+ {
+  "id": "c1719",
+  "q": "Quantos gols foram marcados, somando os dois times, na final da Copa do Mundo de 2022 entre Argentina e França, contando tempo normal e prorrogação?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1720",
+  "q": "Em que ano foi disputada a primeira Copa do Mundo de futebol feminino da FIFA?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1721",
+  "q": "Com quantos países a Alemanha faz fronteira por terra?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1722",
+  "q": "Com quantos países a China faz fronteira por terra?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1723",
+  "q": "Com quantos países a Áustria faz fronteira por terra?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1724",
+  "q": "Com quantos países a Argentina faz fronteira por terra?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1725",
+  "q": "Com quantos países a Turquia faz fronteira por terra?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1726",
+  "q": "Com quantos países a Suíça faz fronteira por terra?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1727",
+  "q": "Quantas montanhas do mundo têm mais de 8.000 metros de altitude?",
+  "unidade": "montanhas"
+ },
+ {
+  "id": "c1728",
+  "q": "Qual a menor temperatura do ar já medida na Terra, na estação russa de Vostok, na Antártida, em 1983? Responda em graus Celsius abaixo de zero, com uma casa decimal.",
+  "unidade": "°C abaixo de zero"
+ },
+ {
+  "id": "c1729",
+  "q": "Em que ano a erupção do vulcão islandês Eyjafjallajökull paralisou boa parte do tráfego aéreo da Europa?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1730",
+  "q": "Em que ano o vulcão Monte Pelée destruiu a cidade de Saint-Pierre, na ilha da Martinica?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1731",
+  "q": "Quantos estados tem a Nigéria, sem contar o território da capital federal?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c1732",
+  "q": "Quantos estados tem a Malásia, sem contar os territórios federais?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c1733",
+  "q": "Quantos departamentos tem a Colômbia, sem contar o distrito capital de Bogotá?",
+  "unidade": "departamentos"
+ },
+ {
+  "id": "c1734",
+  "q": "Quantas comunidades autônomas tem a Espanha, sem contar as cidades autônomas de Ceuta e Melilla?",
+  "unidade": "comunidades"
+ },
+ {
+  "id": "c1735",
+  "q": "Em que ano o rei João Sem Terra, da Inglaterra, selou a Magna Carta?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1736",
+  "q": "Em que ano ocorreu o acidente nuclear da usina de Chernobyl, na União Soviética?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1737",
+  "q": "Quantos presidentes dos Estados Unidos foram assassinados durante o mandato?",
+  "unidade": "presidentes"
+ },
+ {
+  "id": "c1738",
+  "q": "Quantos tripulantes morreram na explosão do ônibus espacial Challenger, em 1986?",
+  "unidade": "pessoas"
+ },
+ {
+  "id": "c1739",
+  "q": "Quantos filhos teve a rainha Vitória do Reino Unido?",
+  "unidade": "filhos"
+ },
+ {
+  "id": "c1740",
+  "q": "Quantos países eram membros fundadores da ONU, na sua criação em 1945?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1741",
+  "q": "Quantos andares tinha cada uma das Torres Gêmeas do World Trade Center, em Nova York?",
+  "unidade": "andares"
+ },
+ {
+  "id": "c1742",
+  "q": "Quantos países assinaram o Tratado de Roma de 1957, que criou a Comunidade Econômica Europeia?",
+  "unidade": "países"
+ },
+ {
+  "id": "c1743",
+  "q": "Quantas repúblicas faziam parte da União Soviética quando ela foi dissolvida, em 1991?",
+  "unidade": "repúblicas"
+ },
+ {
+  "id": "c1744",
+  "q": "Com quantos anos morreu Anne Frank, autora do famoso diário?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1745",
+  "q": "Quantos dias durou o papado de João Paulo I, em 1978, contando do dia da eleição ao dia da morte?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c1746",
+  "q": "Qual foi o número de ordem de Barack Obama na lista de presidentes dos Estados Unidos?",
+  "unidade": "º presidente"
+ },
+ {
+  "id": "c1747",
+  "q": "Quantas medalhas de ouro o atleta americano Jesse Owens ganhou nas Olimpíadas de Berlim, em 1936?",
+  "unidade": "medalhas de ouro"
+ },
+ {
+  "id": "c1748",
+  "q": "Quantos estados americanos se separaram da União para formar os Estados Confederados da América, na Guerra Civil?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c1749",
+  "q": "Quantos andares tem o Empire State Building, em Nova York?",
+  "unidade": "andares"
+ },
+ {
+  "id": "c1750",
+  "q": "Quantos andares tem o Burj Khalifa, em Dubai, segundo o projeto oficial?",
+  "unidade": "andares"
+ },
+ {
+  "id": "c1751",
+  "q": "Qual a altura da estátua do Cristo Redentor, sem contar o pedestal, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1752",
+  "q": "Qual a altura da barragem Hoover, nos Estados Unidos, da base ao topo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1753",
+  "q": "Qual a altura da Tokyo Skytree, torre de transmissão de Tóquio, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1754",
+  "q": "Quantas esferas tem o Atomium, monumento de Bruxelas?",
+  "unidade": "esferas"
+ },
+ {
+  "id": "c1755",
+  "q": "Quantos degraus tem cada uma das quatro escadarias da pirâmide El Castillo, em Chichén Itzá, no México?",
+  "unidade": "degraus"
+ },
+ {
+  "id": "c1756",
+  "q": "Quantos cômodos tem a Casa Branca, residência do presidente dos EUA?",
+  "unidade": "cômodos"
+ },
+ {
+  "id": "c1757",
+  "q": "Em que ano foi inaugurada a Ópera de Sydney, na Austrália?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1758",
+  "q": "Em que ano começou a funcionar o primeiro trem-bala Shinkansen, no Japão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1759",
+  "q": "Qual a altura do ponto mais alto do Viaduto de Millau, na França, o topo dos mastros do pilar mais alto, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1760",
+  "q": "Quantos andares tem cada uma das Torres Petronas, em Kuala Lumpur?",
+  "unidade": "andares"
+ },
+ {
+  "id": "c1761",
+  "q": "Qual a altura do Gateway Arch, o grande arco de aço de St. Louis, nos Estados Unidos, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1762",
+  "q": "Quantos bits formam um byte?",
+  "unidade": "bits"
+ },
+ {
+  "id": "c1763",
+  "q": "Quantos caracteres, no máximo, cabiam num tweet desde o lançamento da rede até novembro de 2017?",
+  "unidade": "caracteres"
+ },
+ {
+  "id": "c1764",
+  "q": "Quantos bits tem um endereço IP na versão 4 do protocolo da internet?",
+  "unidade": "bits"
+ },
+ {
+  "id": "c1765",
+  "q": "Quantos caracteres diferentes tem a tabela ASCII original, contando os de controle?",
+  "unidade": "caracteres"
+ },
+ {
+  "id": "c1766",
+  "q": "Quantos pixels de largura, na horizontal, tem uma tela Full HD?",
+  "unidade": "pixels"
+ },
+ {
+  "id": "c1767",
+  "q": "Quantas camadas tem o modelo de referência OSI das redes de computadores?",
+  "unidade": "camadas"
+ },
+ {
+  "id": "c1768",
+  "q": "Quantas listras de cor tinha a maçã do logotipo da Apple usado de 1977 a 1998?",
+  "unidade": "listras"
+ },
+ {
+  "id": "c1769",
+  "q": "Quantos caracteres, no máximo, cabem numa única mensagem SMS com texto simples?",
+  "unidade": "caracteres"
+ },
+ {
+  "id": "c1770",
+  "q": "Quantos pixels de largura tinha a tela do Game Boy original, da Nintendo?",
+  "unidade": "pixels"
+ },
+ {
+  "id": "c1771",
+  "q": "Quantos símbolos diferentes usa o sistema de numeração hexadecimal?",
+  "unidade": "símbolos"
+ },
+ {
+  "id": "c1772",
+  "q": "Em que ano foi publicado no YouTube o primeiro vídeo da plataforma, 'Me at the zoo'?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1773",
+  "q": "Em que ano foi lançada a rede social Twitter, hoje chamada X?",
+  "unidade": "ano"
+ }
+]

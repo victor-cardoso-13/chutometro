@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quantos dias terrestres Vênus leva para dar uma volta completa em torno do Sol?",
+  "unidade": "dias",
+  "resposta": 225,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dias terrestres Mercúrio leva para dar uma volta completa em torno do Sol?",
+  "unidade": "dias",
+  "resposta": 88,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos terrestres Júpiter leva para dar uma volta completa em torno do Sol (valor arredondado)?",
+  "unidade": "anos",
+  "resposta": 12,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos terrestres Saturno leva para dar uma volta completa em torno do Sol (valor arredondado)?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos terrestres Netuno leva para dar uma volta completa em torno do Sol (valor arredondado)?",
+  "unidade": "anos",
+  "resposta": 165,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas horas dura um dia em Júpiter, o tempo que o planeta leva para girar uma vez em torno de si (valor arredondado)?",
+  "unidade": "horas",
+  "resposta": 10,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a temperatura média da superfície de Vênus, em °C (valor arredondado)?",
+  "unidade": "°C",
+  "resposta": 464,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a temperatura do zero absoluto, em °C (valor arredondado)?",
+  "unidade": "°C",
+  "resposta": -273,
+  "fonte": "Física (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a temperatura aproximada da superfície visível do Sol, em °C (arredondada para a centena)?",
+  "unidade": "°C",
+  "resposta": 5500,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a idade do Sistema Solar, em bilhões de anos?",
+  "unidade": "bilhões de anos",
+  "resposta": 4.6,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a idade estimada do Universo, em bilhões de anos?",
+  "unidade": "bilhões de anos",
+  "resposta": 13.8,
+  "fonte": "Planck/NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o número atômico do ouro, isto é, quantos prótons tem um átomo desse metal?",
+  "unidade": "prótons",
+  "resposta": 79,
+  "fonte": "Tabela periódica IUPAC",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do ferro, isto é, quantos prótons tem um átomo desse metal?",
+  "unidade": "prótons",
+  "resposta": 26,
+  "fonte": "Tabela periódica IUPAC",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o número atômico do urânio, isto é, quantos prótons tem um átomo desse elemento?",
+  "unidade": "prótons",
+  "resposta": 92,
+  "fonte": "Tabela periódica IUPAC",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a massa da Estação Espacial Internacional, em toneladas (valor arredondado)?",
+  "unidade": "toneladas",
+  "resposta": 420,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano a União Soviética lançou o Sputnik 1, o primeiro satélite artificial?",
+  "unidade": "ano",
+  "resposta": 1957,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Yuri Gagarin se tornou o primeiro ser humano a ir ao espaço?",
+  "unidade": "ano",
+  "resposta": 1961,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi lançado o Telescópio Espacial Hubble?",
+  "unidade": "ano",
+  "resposta": 1990,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi lançada a sonda Voyager 1?",
+  "unidade": "ano",
+  "resposta": 1977,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Alexander Fleming descobriu a penicilina?",
+  "unidade": "ano",
+  "resposta": 1928,
+  "fonte": "Nobel Prize",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano Isaac Newton publicou os Principia, com a lei da gravitação universal?",
+  "unidade": "ano",
+  "resposta": 1687,
+  "fonte": "Royal Society",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Charles Darwin publicou A Origem das Espécies?",
+  "unidade": "ano",
+  "resposta": 1859,
+  "fonte": "Enciclopédia Britannica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o diâmetro de Marte no Equador, em km (valor arredondado)?",
+  "unidade": "km",
+  "resposta": 6779,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro de Mercúrio, em km (valor arredondado)?",
+  "unidade": "km",
+  "resposta": 4879,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a distância média entre o Sol e Netuno, em bilhões de km (uma casa decimal)?",
+  "unidade": "bilhões de km",
+  "resposta": 4.5,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a distância média entre o Sol e Júpiter, em milhões de km (valor arredondado)?",
+  "unidade": "milhões de km",
+  "resposta": 778,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a distância média entre o Sol e Marte, em milhões de km (valor arredondado)?",
+  "unidade": "milhões de km",
+  "resposta": 228,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a aceleração da gravidade na superfície de Júpiter, em m/s² (uma casa decimal)?",
+  "unidade": "m/s²",
+  "resposta": 24.8,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a aceleração da gravidade na superfície de Marte, em m/s² (uma casa decimal)?",
+  "unidade": "m/s²",
+  "resposta": 3.7,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a velocidade do som no ar a 20 °C, em metros por segundo (valor arredondado)?",
+  "unidade": "m/s",
+  "resposta": 343,
+  "fonte": "Física (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto vale a soma dos ângulos internos de um pentágono, em graus?",
+  "unidade": "graus",
+  "resposta": 540,
+  "fonte": "Geometria",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas arestas tem um cubo?",
+  "unidade": "arestas",
+  "resposta": 12,
+  "fonte": "Geometria",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos números primos existem entre 1 e 100?",
+  "unidade": "números",
+  "resposta": 25,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto vale 6 fatorial, isto é, 6 x 5 x 4 x 3 x 2 x 1?",
+  "unidade": "unidades",
+  "resposta": 720,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos segundos tem um dia inteiro de 24 horas?",
+  "unidade": "segundos",
+  "resposta": 86400,
+  "fonte": "Matemática",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos litros de sangue tem, em média, o corpo de um adulto (valor arredondado)?",
+  "unidade": "litros",
+  "resposta": 5,
+  "fonte": "Fisiologia humana",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dentes de leite tem uma criança com a dentição completa?",
+  "unidade": "dentes",
+  "resposta": 20,
+  "fonte": "Odontologia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos pares de costelas tem o corpo humano?",
+  "unidade": "pares",
+  "resposta": 12,
+  "fonte": "Anatomia humana",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos bilhões de neurônios tem, em média, o cérebro humano (estimativa de Herculano-Houzel)?",
+  "unidade": "bilhões de neurônios",
+  "resposta": 86,
+  "fonte": "Herculano-Houzel, 2009",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos meses dura, em média, a gestação de uma elefanta?",
+  "unidade": "meses",
+  "resposta": 22,
+  "fonte": "Zoologia (National Geographic)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos corações tem um polvo?",
+  "unidade": "corações",
+  "resposta": 3,
+  "fonte": "Zoologia (National Geographic)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que temperatura a água ferve ao nível do mar, em kelvins (valor arredondado)?",
+  "unidade": "kelvins",
+  "resposta": 373,
+  "fonte": "Física (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a tensão elétrica, em volts, de uma pilha comum tamanho AA nova?",
+  "unidade": "volts",
+  "resposta": 1.5,
+  "fonte": "Eletrônica (padrão)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a frequência máxima de som que um jovem ouve, em hertz (valor consagrado)?",
+  "unidade": "Hz",
+  "resposta": 20000,
+  "fonte": "Acústica (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a pressão atmosférica padrão ao nível do mar, em hectopascais (valor arredondado)?",
+  "unidade": "hPa",
+  "resposta": 1013,
+  "fonte": "Meteorologia (OMM)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a densidade do ouro, em gramas por centímetro cúbico (uma casa decimal)?",
+  "unidade": "g/cm³",
+  "resposta": 19.3,
+  "fonte": "Química (consenso)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a missão Apollo 11, do lançamento ao pouso no oceano (valor arredondado)?",
+  "unidade": "dias",
+  "resposta": 8,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos durou o voo de Yuri Gagarin em torno da Terra, em 1961?",
+  "unidade": "minutos",
+  "resposta": 108,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos astronautas formaram o primeiro grupo da NASA, selecionados para o programa Mercury?",
+  "unidade": "astronautas",
+  "resposta": 7,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro do espelho principal do Telescópio Espacial James Webb, em metros (uma casa decimal)?",
+  "unidade": "metros",
+  "resposta": 6.5,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a altura do foguete Saturn V, que levou os astronautas à Lua, em metros (valor arredondado)?",
+  "unidade": "metros",
+  "resposta": 110,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas missões o programa do ônibus espacial da NASA realizou, de 1981 a 2011?",
+  "unidade": "missões",
+  "resposta": 135,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o diâmetro aproximado da Via Láctea, em anos-luz (valor consagrado)?",
+  "unidade": "anos-luz",
+  "resposta": 100000,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que distância está a galáxia de Andrômeda, em milhões de anos-luz (uma casa decimal)?",
+  "unidade": "milhões de anos-luz",
+  "resposta": 2.5,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que distância está Sirius, a estrela mais brilhante do céu noturno, em anos-luz (uma casa decimal)?",
+  "unidade": "anos-luz",
+  "resposta": 8.6,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias terrestres dura um dia em Vênus, o tempo que o planeta leva para girar uma vez em torno de si?",
+  "unidade": "dias",
+  "resposta": 243,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a temperatura do núcleo do Sol, em milhões de °C (valor arredondado)?",
+  "unidade": "milhões de °C",
+  "resposta": 15,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes a pressão do ar ao nível do mar na Terra é a pressão na superfície de Vênus (valor arredondado)?",
+  "unidade": "vezes",
+  "resposta": 92,
+  "fonte": "NASA Planetary Fact Sheet",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Que porcentagem do ar que respiramos é formada por oxigênio (valor arredondado)?",
+  "unidade": "%",
+  "resposta": 21,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Que porcentagem da superfície da Terra é coberta por água (valor arredondado)?",
+  "unidade": "%",
+  "resposta": 71,
+  "fonte": "USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ }
+]

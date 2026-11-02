@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1502",
+  "q": "Quantos anos Nelson Mandela passou preso na África do Sul?",
+  "unidade": "anos",
+  "resposta": 27,
+  "fonte": "Wikipédia: Nelson Mandela"
+ },
+ {
+  "id": "c1503",
+  "q": "Quantos meses a família de Anne Frank ficou escondida em Amsterdã antes de ser descoberta?",
+  "unidade": "meses",
+  "resposta": 25,
+  "fonte": "Casa de Anne Frank (julho de 1942 a agosto de 1944)"
+ },
+ {
+  "id": "c1504",
+  "q": "Quantas caixas de chá foram jogadas ao mar na Festa do Chá de Boston, em 1773?",
+  "unidade": "caixas",
+  "resposta": 342,
+  "fonte": "Wikipédia: Festa do Chá de Boston"
+ },
+ {
+  "id": "c1505",
+  "q": "Quantos prisioneiros estavam na Bastilha quando ela foi tomada pelo povo?",
+  "unidade": "prisioneiros",
+  "resposta": 7,
+  "fonte": "Wikipédia: Tomada da Bastilha"
+ },
+ {
+  "id": "c1506",
+  "q": "Qual era a massa do Sputnik 1, o primeiro satélite artificial, em kg?",
+  "unidade": "kg",
+  "resposta": 83.6,
+  "fonte": "NASA: Sputnik 1"
+ },
+ {
+  "id": "c1507",
+  "q": "Quantos minutos durou o voo de Yuri Gagarin ao redor da Terra, em 1961?",
+  "unidade": "minutos",
+  "resposta": 108,
+  "fonte": "Wikipédia: Vostok 1"
+ },
+ {
+  "id": "c1508",
+  "q": "Segundo a estimativa mais comum, quantos milhões de blocos de pedra foram usados na Grande Pirâmide de Quéops?",
+  "unidade": "milhões de blocos",
+  "resposta": 2.3,
+  "fonte": "Wikipédia: Grande Pirâmide de Gizé"
+ },
+ {
+  "id": "c1509",
+  "q": "Quantas colunas externas tem o Partenon, em Atenas?",
+  "unidade": "colunas",
+  "resposta": 46,
+  "fonte": "Wikipédia: Partenon"
+ },
+ {
+  "id": "c1510",
+  "q": "Quantas patentes nos Estados Unidos Thomas Edison registrou em vida?",
+  "unidade": "patentes",
+  "resposta": 1093,
+  "fonte": "Rutgers: Thomas Edison Papers"
+ },
+ {
+  "id": "c1511",
+  "q": "Quantos metros Santos Dumont voou com o 14-Bis em 12 de novembro de 1906, seu voo mais longo daquele ano?",
+  "unidade": "metros",
+  "resposta": 220,
+  "fonte": "Wikipédia: 14-Bis"
+ },
+ {
+  "id": "c1512",
+  "q": "Quantos anos durou o xogunato Tokugawa no Japão, do início ao fim?",
+  "unidade": "anos",
+  "resposta": 265,
+  "fonte": "Wikipédia: Xogunato Tokugawa (1603-1868)"
+ },
+ {
+  "id": "c1513",
+  "q": "A que altitude fica a cidadela inca de Machu Picchu, em metros?",
+  "unidade": "metros",
+  "resposta": 2430,
+  "fonte": "Wikipédia: Machu Picchu"
+ },
+ {
+  "id": "c1514",
+  "q": "Quantas pessoas já caminharam na superfície da Lua?",
+  "unidade": "pessoas",
+  "resposta": 12,
+  "fonte": "NASA: programa Apollo"
+ },
+ {
+  "id": "c1515",
+  "q": "Quantos delegados assinaram a Declaração de Independência dos Estados Unidos?",
+  "unidade": "assinaturas",
+  "resposta": 56,
+  "fonte": "Wikipédia: Declaração de Independência dos EUA"
+ },
+ {
+  "id": "c1516",
+  "q": "Quantos delegados assinaram a Constituição dos Estados Unidos em 1787?",
+  "unidade": "assinaturas",
+  "resposta": 39,
+  "fonte": "Wikipédia: Constituição dos EUA"
+ },
+ {
+  "id": "c1517",
+  "q": "Quantos filhos teve o último czar da Rússia, Nicolau II?",
+  "unidade": "filhos",
+  "resposta": 5,
+  "fonte": "Wikipédia: Nicolau II da Rússia"
+ },
+ {
+  "id": "c1518",
+  "q": "Quantos anos funcionou a prisão federal de Alcatraz?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "Wikipédia: Alcatraz (1934-1963)"
+ },
+ {
+  "id": "c1519",
+  "q": "Quantos milhões de imigrantes passaram pela ilha de Ellis Island, em Nova York, entre 1892 e 1954?",
+  "unidade": "milhões",
+  "resposta": 12,
+  "fonte": "Wikipédia: Ellis Island"
+ },
+ {
+  "id": "c1520",
+  "q": "Quantos artigos tem o Código Civil de Napoleão, de 1804?",
+  "unidade": "artigos",
+  "resposta": 2281,
+  "fonte": "Wikipédia: Código Napoleônico"
+ },
+ {
+  "id": "c1521",
+  "q": "Quantos dias durou a viagem de balsa Kon-Tiki, de Thor Heyerdahl, pelo Pacífico em 1947?",
+  "unidade": "dias",
+  "resposta": 101,
+  "fonte": "Wikipédia: Kon-Tiki"
+ },
+ {
+  "id": "c1522",
+  "q": "Quantos homens havia na expedição Endurance, de Shackleton, ao Antártico?",
+  "unidade": "homens",
+  "resposta": 28,
+  "fonte": "Wikipédia: Expedição Endurance"
+ },
+ {
+  "id": "c1523",
+  "q": "Quantos anos durou a viagem de Charles Darwin a bordo do Beagle, arredondado em anos inteiros?",
+  "unidade": "anos",
+  "resposta": 5,
+  "fonte": "Wikipédia: HMS Beagle (1831-1836)"
+ },
+ {
+  "id": "c1524",
+  "q": "Quantos passageiros, sem contar a tripulação, estavam a bordo do Mayflower que chegou à América em 1620?",
+  "unidade": "passageiros",
+  "resposta": 102,
+  "fonte": "Wikipédia: Mayflower"
+ },
+ {
+  "id": "c1525",
+  "q": "Quantos navios Cristóvão Colombo levou em sua primeira viagem à América?",
+  "unidade": "navios",
+  "resposta": 3,
+  "fonte": "Wikipédia: Cristóvão Colombo"
+ },
+ {
+  "id": "c1526",
+  "q": "Quantas leis tem o Código de Hamurábi, da Babilônia?",
+  "unidade": "leis",
+  "resposta": 282,
+  "fonte": "Wikipédia: Código de Hamurabi"
+ },
+ {
+  "id": "c1527",
+  "q": "Qual é a altura da Grande Esfinge de Gizé, no Egito, em metros?",
+  "unidade": "metros",
+  "resposta": 20,
+  "fonte": "Wikipédia: Grande Esfinge de Gizé (20,2 m)"
+ },
+ {
+  "id": "c1528",
+  "q": "Quantos Prêmios Nobel ganhou a cientista Marie Curie?",
+  "unidade": "prêmios",
+  "resposta": 2,
+  "fonte": "Nobel Prize (Física 1903, Química 1911)"
+ },
+ {
+  "id": "c1529",
+  "q": "Em que ano foi inaugurada a ponte Golden Gate, em San Francisco?",
+  "unidade": "ano",
+  "resposta": 1937,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1530",
+  "q": "Em que ano foi inaugurado o Coliseu de Roma? Use anos d.C.",
+  "unidade": "ano",
+  "resposta": 80,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1531",
+  "q": "Em que ano foi aberta ao público a primeira linha do metrô de Londres, o mais antigo do mundo?",
+  "unidade": "ano",
+  "resposta": 1863,
+  "fonte": "Transport for London"
+ },
+ {
+  "id": "c1532",
+  "q": "Em que ano foi inaugurado o metrô de São Paulo, com a primeira viagem de passageiros?",
+  "unidade": "ano",
+  "resposta": 1974,
+  "fonte": "Metrô SP"
+ },
+ {
+  "id": "c1533",
+  "q": "Em que ano começou a operar o primeiro trem-bala Shinkansen do Japão?",
+  "unidade": "ano",
+  "resposta": 1964,
+  "fonte": "JR Central / Wikipédia"
+ },
+ {
+  "id": "c1534",
+  "q": "Em que ano foi inaugurado o Empire State Building?",
+  "unidade": "ano",
+  "resposta": 1931,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1535",
+  "q": "Qual a altura da Space Needle, torre símbolo de Seattle, em metros?",
+  "unidade": "metros",
+  "resposta": 184,
+  "fonte": "Space Needle / Wikipédia"
+ },
+ {
+  "id": "c1536",
+  "q": "Qual a altura do Gateway Arch, o grande arco de St. Louis, nos EUA, em metros?",
+  "unidade": "metros",
+  "resposta": 192,
+  "fonte": "National Park Service"
+ },
+ {
+  "id": "c1537",
+  "q": "Qual a altura do Monumento a Washington, o obelisco de Washington D.C., em metros?",
+  "unidade": "metros",
+  "resposta": 169,
+  "fonte": "National Park Service"
+ },
+ {
+  "id": "c1538",
+  "q": "Quantos andares tem o Edifício Chrysler, em Nova York?",
+  "unidade": "andares",
+  "resposta": 77,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1539",
+  "q": "Qual a altura do hotel Burj Al Arab, em Dubai, em metros?",
+  "unidade": "metros",
+  "resposta": 321,
+  "fonte": "Wikipédia"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantas vezes a seleção brasileira masculina de futebol terminou uma Copa do Mundo como vice-campeã, entre 1930 e 2022?",
+  "unidade": "vezes",
+  "resposta": 2,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a altura total do Cristo Redentor, no Rio de Janeiro, contando o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 38,
+  "fonte": "Santuário Cristo Redentor / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos estados formam a região Norte do Brasil?",
+  "unidade": "estados",
+  "resposta": 7,
+  "fonte": "IBGE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Pelé marcou, ao todo, em Copas do Mundo?",
+  "unidade": "gols",
+  "resposta": 12,
+  "fonte": "FIFA",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos tinha Pelé quando disputou a final da Copa do Mundo de 1958?",
+  "unidade": "anos",
+  "resposta": 17,
+  "fonte": "FIFA / Wikipédia",
+  "ano": 1958,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas corridas de Fórmula 1 Ayrton Senna venceu em toda a carreira?",
+  "unidade": "vitórias",
+  "resposta": 41,
+  "fonte": "Formula1.com / Wikipédia",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes Ayrton Senna venceu o Grande Prêmio de Mônaco de Fórmula 1?",
+  "unidade": "vezes",
+  "resposta": 6,
+  "fonte": "Formula1.com / Wikipédia",
+  "ano": 1993,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos caracteres (letras e números juntos) tem a placa de um carro brasileiro?",
+  "unidade": "caracteres",
+  "resposta": 7,
+  "fonte": "Contran",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é o maior valor de cédula do real em circulação, em reais?",
+  "unidade": "reais",
+  "resposta": 200,
+  "fonte": "Banco Central do Brasil",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi inaugurada a cidade de Brasília?",
+  "unidade": "ano",
+  "resposta": 1960,
+  "fonte": "Wikipédia / IPHAN",
+  "ano": 1960,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi executado Tiradentes, líder da Inconfidência Mineira?",
+  "unidade": "ano",
+  "resposta": 1792,
+  "fonte": "Wikipédia",
+  "ano": 1792,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos tinha Dom Pedro II quando foi declarada sua maioridade e ele assumiu o governo do Império, em 1840?",
+  "unidade": "anos",
+  "resposta": 14,
+  "fonte": "Wikipédia / Museu Imperial",
+  "ano": 1840,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura do Pão de Açúcar, no Rio de Janeiro, acima do nível do mar, em metros?",
+  "unidade": "metros",
+  "resposta": 396,
+  "fonte": "Wikipédia / Parque Bondinho",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols Ronaldo Fenômeno marcou em Copas do Mundo, somando todas as que disputou?",
+  "unidade": "gols",
+  "resposta": 15,
+  "fonte": "FIFA",
+  "ano": 2006,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

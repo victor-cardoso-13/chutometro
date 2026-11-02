@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1236",
+  "q": "Quantas calorias tem 100 gramas de aveia em flocos?",
+  "unidade": "kcal",
+  "resposta": 389,
+  "fonte": "USDA"
+ },
+ {
+  "id": "c1237",
+  "q": "Quantos gramas pesa uma bola oficial de tênis de mesa?",
+  "unidade": "gramas",
+  "resposta": 2.7,
+  "fonte": "ITTF"
+ },
+ {
+  "id": "c1238",
+  "q": "Quantos quilos pesa a barra olímpica masculina de levantamento de peso, sem anilhas?",
+  "unidade": "kg",
+  "resposta": 20,
+  "fonte": "IWF"
+ },
+ {
+  "id": "c1239",
+  "q": "Quantos minutos dura cada quarto de uma partida da NBA?",
+  "unidade": "minutos",
+  "resposta": 12,
+  "fonte": "NBA"
+ },
+ {
+  "id": "c1240",
+  "q": "Quantas válvulas tem o coração humano?",
+  "unidade": "válvulas",
+  "resposta": 4,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1241",
+  "q": "Quantos metros tem uma volta completa na pista oficial de atletismo?",
+  "unidade": "metros",
+  "resposta": 400,
+  "fonte": "World Athletics"
+ },
+ {
+  "id": "c1242",
+  "q": "Quantos ossinhos existem no ouvido médio de cada orelha?",
+  "unidade": "ossículos",
+  "resposta": 3,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1243",
+  "q": "Quantos pares de costelas se ligam diretamente ao osso esterno?",
+  "unidade": "pares",
+  "resposta": 7,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1244",
+  "q": "Quantos quilômetros de natação tem a prova de triatlo olímpico?",
+  "unidade": "km",
+  "resposta": 1.5,
+  "fonte": "World Triathlon"
+ },
+ {
+  "id": "c1245",
+  "q": "Quantos gramas pesa, no máximo, uma bola de futebol de campo oficial da FIFA?",
+  "unidade": "gramas",
+  "resposta": 450,
+  "fonte": "IFAB Regras do Jogo"
+ },
+ {
+  "id": "c1246",
+  "q": "Quantos metros mede uma piscina olímpica de comprimento?",
+  "unidade": "metros",
+  "resposta": 50,
+  "fonte": "World Aquatics"
+ },
+ {
+  "id": "c1247",
+  "q": "Quantos pares de cromossomos sexuais tem uma célula humana comum?",
+  "unidade": "pares",
+  "resposta": 1,
+  "fonte": "Genética (consenso)"
+ },
+ {
+  "id": "c1248",
+  "q": "Quantas fases principais tem a divisão celular chamada mitose?",
+  "unidade": "fases",
+  "resposta": 4,
+  "fonte": "Biologia celular (consenso)"
+ },
+ {
+  "id": "c1249",
+  "q": "Quantos pares de glândulas salivares principais existem na boca humana?",
+  "unidade": "pares",
+  "resposta": 3,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1250",
+  "q": "Quantas cordas tem um violino?",
+  "unidade": "cordas",
+  "resposta": 4,
+  "fonte": "Organologia (instrumentos musicais)"
+ },
+ {
+  "id": "c1251",
+  "q": "Quantos volumes tem a obra Em Busca do Tempo Perdido, de Marcel Proust?",
+  "unidade": "volumes",
+  "resposta": 7,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1252",
+  "q": "Quantos Oscars ganhou o filme Ben-Hur (1959)?",
+  "unidade": "Oscars",
+  "resposta": 11,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1253",
+  "q": "Quantos Oscars ganhou o filme La La Land (2016)?",
+  "unidade": "Oscars",
+  "resposta": 6,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1254",
+  "q": "Quantos Oscars de atuação ganhou a atriz Katharine Hepburn, recorde da categoria?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1255",
+  "q": "Quantos Oscars de melhor ator ganhou Daniel Day-Lewis?",
+  "unidade": "Oscars",
+  "resposta": 3,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1256",
+  "q": "Com quantos anos Anna Paquin ganhou o Oscar de atriz coadjuvante, uma das mais jovens vencedoras da história?",
+  "unidade": "anos",
+  "resposta": 11,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1257",
+  "q": "Qual a altura da estátua de Davi, de Michelangelo, sem contar o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 5.17,
+  "fonte": "Galleria dell'Accademia, Florença"
+ },
+ {
+  "id": "c1258",
+  "q": "Com quantos anos morreu a pintora Frida Kahlo?",
+  "unidade": "anos",
+  "resposta": 47,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1259",
+  "q": "Com quantos anos morreu Freddie Mercury, vocalista do Queen?",
+  "unidade": "anos",
+  "resposta": 45,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1260",
+  "q": "Quantos segundos dura a música Hey Jude, dos Beatles, na versão de single de 1968?",
+  "unidade": "segundos",
+  "resposta": 431,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1261",
+  "q": "Quantos álbuns de estúdio o Pink Floyd lançou ao todo?",
+  "unidade": "álbuns",
+  "resposta": 15,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1262",
+  "q": "Quantas faixas tem o álbum Back in Black, do AC/DC?",
+  "unidade": "faixas",
+  "resposta": 10,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1263",
+  "q": "Quantos dias durou a primeira edição do Rock in Rio, em 1985?",
+  "unidade": "dias",
+  "resposta": 10,
+  "fonte": "Rock in Rio / Wikipédia"
+ },
+ {
+  "id": "c1264",
+  "q": "Quantos integrantes tinha a banda brasileira Mamonas Assassinas?",
+  "unidade": "integrantes",
+  "resposta": 5,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1265",
+  "q": "Quantas cordas tem um cavaquinho tradicional?",
+  "unidade": "cordas",
+  "resposta": 4,
+  "fonte": "Organologia (instrumentos musicais)"
+ },
+ {
+  "id": "c1266",
+  "q": "Quantas cordas tem uma viola caipira tradicional?",
+  "unidade": "cordas",
+  "resposta": 10,
+  "fonte": "Organologia (instrumentos musicais)"
+ },
+ {
+  "id": "c1267",
+  "q": "Quantas notas diferentes existem na escala cromática ocidental?",
+  "unidade": "notas",
+  "resposta": 12,
+  "fonte": "Teoria musical"
+ },
+ {
+  "id": "c1268",
+  "q": "Quantas integrantes tinha o grupo Spice Girls?",
+  "unidade": "integrantes",
+  "resposta": 5,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1269",
+  "q": "Quantos integrantes tem o grupo sul-coreano BTS?",
+  "unidade": "integrantes",
+  "resposta": 7,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1270",
+  "q": "Quantos anos tinha Julieta, na peça Romeu e Julieta, de Shakespeare?",
+  "unidade": "anos",
+  "resposta": 13,
+  "fonte": "Shakespeare, Romeu e Julieta"
+ },
+ {
+  "id": "c1271",
+  "q": "Quantos dedos tem cada mão do Mickey Mouse nos desenhos clássicos?",
+  "unidade": "dedos",
+  "resposta": 4,
+  "fonte": "Disney"
+ },
+ {
+  "id": "c1272",
+  "q": "Quantos capítulos tem o romance Dom Casmurro, de Machado de Assis?",
+  "unidade": "capítulos",
+  "resposta": 148,
+  "fonte": "Machado de Assis, Dom Casmurro"
+ },
+ {
+  "id": "c1273",
+  "q": "Em que ano Vincent van Gogh pintou A Noite Estrelada?",
+  "unidade": "ano",
+  "resposta": 1889,
+  "fonte": "MoMA"
+ }
+]

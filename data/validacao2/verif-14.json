@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1578",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Forbidden_City",
+  "obs": "Wikipédia/Britannica: 72 ha"
+ },
+ {
+  "id": "c1579",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Lincoln_Memorial",
+  "obs": "36 colunas externas"
+ },
+ {
+  "id": "c1580",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Wembley_Stadium",
+  "obs": "133 m acima da esplanada (intro diz 134)"
+ },
+ {
+  "id": "c1581",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Verrazzano-Narrows_Bridge",
+  "obs": "4260 ft = 1298 m"
+ },
+ {
+  "id": "c1582",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Singapore_Flyer",
+  "obs": "165 m"
+ },
+ {
+  "id": "c1583",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha",
+  "obs": "71 m (Wikipédia, Britannica)"
+ },
+ {
+  "id": "c1584",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Wikipedia",
+  "obs": "15/jan/2001; conhecimento firme"
+ },
+ {
+  "id": "c1585",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Twitter",
+  "obs": "lançado jul/2006; conhecimento firme"
+ },
+ {
+  "id": "c1586",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Facebook",
+  "obs": "fundado 2004"
+ },
+ {
+  "id": "c1587",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Pong",
+  "obs": "Pong 1972; conhecimento firme"
+ },
+ {
+  "id": "c1588",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+  "obs": "fundada 1994; conhecimento firme"
+ },
+ {
+  "id": "c1589",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/ChatGPT",
+  "obs": "30/nov/2022"
+ },
+ {
+  "id": "c1590",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/WhatsApp",
+  "obs": "fundado 2009; conhecimento firme"
+ },
+ {
+  "id": "c1591",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "obs": "Mariposa em 9/set/1947 no Mark II; autoria de Hopper é discutida, ano certo"
+ },
+ {
+  "id": "c1592",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ray_Tomlinson",
+  "obs": "1971; conhecimento firme"
+ },
+ {
+  "id": "c1593",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/ChatGPT",
+  "obs": "1 milhão em 5 dias"
+ },
+ {
+  "id": "c1594",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/IPv6",
+  "obs": "128 bits; conhecimento firme"
+ },
+ {
+  "id": "c1595",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+  "obs": "nasc. mai/1984, fund. fev/2004"
+ },
+ {
+  "id": "c1596",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+  "obs": "1955-2011, 56 anos"
+ },
+ {
+  "id": "c1597",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Bill_Gates",
+  "obs": "nasc. out/1955, Microsoft abr/1975"
+ },
+ {
+  "id": "c1598",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol",
+  "obs": "4-1; conhecimento firme"
+ },
+ {
+  "id": "c1599",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://gameworldobserver.com/2023/10/16/minecraft-sales-300-million-copies-mojang",
+  "obs": "300 milhões anunciados em 15/out/2023"
+ },
+ {
+  "id": "c1600",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Wii",
+  "obs": "101,63 milhões"
+ },
+ {
+  "id": "c1601",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Nintendo_DS_sales",
+  "obs": "154,02 milhões"
+ },
+ {
+  "id": "c1602",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Facebook",
+  "obs": "3,07 bilhões"
+ },
+ {
+  "id": "c1603",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/WhatsApp",
+  "obs": "2 bi em fev/2020; conhecimento firme"
+ },
+ {
+  "id": "c1604",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/LinkedIn",
+  "obs": "US$26,2 bi; conhecimento firme"
+ },
+ {
+  "id": "c1605",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+  "obs": "US$44 bi; conhecimento firme"
+ },
+ {
+  "id": "c1606",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Oculus_VR",
+  "obs": "US$2 bi; conhecimento firme"
+ },
+ {
+  "id": "c1607",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Skype",
+  "obs": "US$8,5 bi; conhecimento firme"
+ },
+ {
+  "id": "c1608",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "obs": "1975: dobra a cada 2 anos; conhecimento firme"
+ },
+ {
+  "id": "c1609",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/ASCII",
+  "obs": "128 códigos"
+ },
+ {
+  "id": "c1610",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Color_depth",
+  "obs": "2^24=16.777.216"
+ },
+ {
+  "id": "c1611",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312524100933/d758158dars.pdf",
+  "obs": "260,28 milhões (alguns sites dizem 260,8, erro)"
+ },
+ {
+  "id": "c1612",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "obs": "21 milhões; conhecimento firme"
+ },
+ {
+  "id": "c1613",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Bitcoin_pizza_day",
+  "obs": "10.000 BTC; conhecimento firme"
+ },
+ {
+  "id": "c1614",
+  "status": "incerta",
+  "valor_correto": 0.8,
+  "fonte_url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC",
+  "obs": "Wikipédia: 28 oz = 790 g (0,8 kg); outras fontes citam 2,5 lb=1,1 kg"
+ },
+ {
+  "id": "c1615",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC",
+  "obs": "30 min no texto principal (seção Variantes cita até 60)"
+ }
+]

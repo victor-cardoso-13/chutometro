@@ -1,0 +1,310 @@
+[
+ {
+  "id": "c1643",
+  "q": "Quantas peças, somando as duas cores, tem um jogo de gamão no início da partida?",
+  "unidade": "peças",
+  "resposta": 30,
+  "fonte": "Regras do gamão (15 por jogador)"
+ },
+ {
+  "id": "c1644",
+  "q": "Quantos painéis tem a bola de futebol clássica de pentágonos pretos e hexágonos brancos?",
+  "unidade": "painéis",
+  "resposta": 32,
+  "fonte": "Truncated icosahedron / bola Telstar (FIFA)"
+ },
+ {
+  "id": "c1645",
+  "q": "Quantos anos de casamento completam as bodas de ouro?",
+  "unidade": "anos",
+  "resposta": 50,
+  "fonte": "Tradição das bodas"
+ },
+ {
+  "id": "c1646",
+  "q": "Quantas cartas cada jogador recebe no início de uma partida de Uno?",
+  "unidade": "cartas",
+  "resposta": 7,
+  "fonte": "Regras oficiais do Uno (Mattel)"
+ },
+ {
+  "id": "c1647",
+  "q": "Quantas cordas tem um bandolim tradicional, contando as duplas como duas?",
+  "unidade": "cordas",
+  "resposta": 8,
+  "fonte": "Instrumento padrão (4 pares)"
+ },
+ {
+  "id": "c1648",
+  "q": "Quantos cromossomos tem uma célula comum do corpo de uma vaca?",
+  "unidade": "cromossomos",
+  "resposta": 60,
+  "fonte": "Genoma bovino (Bos taurus, 2n=60)"
+ },
+ {
+  "id": "c1649",
+  "q": "Quantos cromossomos tem uma célula comum do corpo de um porco doméstico?",
+  "unidade": "cromossomos",
+  "resposta": 38,
+  "fonte": "Genoma suíno (Sus scrofa, 2n=38)"
+ },
+ {
+  "id": "c1650",
+  "q": "Quantos números tem a roleta europeia de cassino?",
+  "unidade": "números",
+  "resposta": 37,
+  "fonte": "Regras da roleta europeia"
+ },
+ {
+  "id": "c1651",
+  "q": "De quantas maneiras diferentes uma pessoa pode receber 5 cartas de um baralho de 52 cartas, sem importar a ordem?",
+  "unidade": "maneiras",
+  "resposta": 2598960,
+  "fonte": "Combinatória: C(52,5)"
+ },
+ {
+  "id": "c1652",
+  "q": "Quantos movimentos, no mínimo, são necessários para resolver a Torre de Hanói com 8 discos?",
+  "unidade": "movimentos",
+  "resposta": 255,
+  "fonte": "Matemática recreativa (2^n - 1)"
+ },
+ {
+  "id": "c1653",
+  "q": "Quantas onças tem uma libra, na medida inglesa de peso?",
+  "unidade": "onças",
+  "resposta": 16,
+  "fonte": "Sistema inglês (avoirdupois)"
+ },
+ {
+  "id": "c1654",
+  "q": "Em que ano a cadela Laika foi lançada ao espaço a bordo do Sputnik 2?",
+  "unidade": "ano",
+  "resposta": 1957,
+  "fonte": "NASA / história da exploração espacial"
+ },
+ {
+  "id": "c1655",
+  "q": "Em que ano o brinquedo eletrônico Tamagotchi foi lançado no Japão?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Bandai (Wikipédia)"
+ },
+ {
+  "id": "c1656",
+  "q": "Quantas vezes a seleção brasileira masculina de futebol terminou uma Copa do Mundo como vice-campeã, entre 1930 e 2022?",
+  "unidade": "vezes",
+  "resposta": 2,
+  "fonte": "FIFA / Wikipédia"
+ },
+ {
+  "id": "c1657",
+  "q": "Qual é a altura total do Cristo Redentor, no Rio de Janeiro, contando o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 38,
+  "fonte": "Santuário Cristo Redentor / Wikipédia"
+ },
+ {
+  "id": "c1658",
+  "q": "Quantos estados formam a região Norte do Brasil?",
+  "unidade": "estados",
+  "resposta": 7,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1659",
+  "q": "Quantos gols Pelé marcou, ao todo, em Copas do Mundo?",
+  "unidade": "gols",
+  "resposta": 12,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1660",
+  "q": "Quantos anos tinha Pelé quando disputou a final da Copa do Mundo de 1958?",
+  "unidade": "anos",
+  "resposta": 17,
+  "fonte": "FIFA / Wikipédia"
+ },
+ {
+  "id": "c1661",
+  "q": "Quantas corridas de Fórmula 1 Ayrton Senna venceu em toda a carreira?",
+  "unidade": "vitórias",
+  "resposta": 41,
+  "fonte": "Formula1.com / Wikipédia"
+ },
+ {
+  "id": "c1662",
+  "q": "Quantas vezes Ayrton Senna venceu o Grande Prêmio de Mônaco de Fórmula 1?",
+  "unidade": "vezes",
+  "resposta": 6,
+  "fonte": "Formula1.com / Wikipédia"
+ },
+ {
+  "id": "c1663",
+  "q": "Quantos caracteres tem a placa de um carro brasileiro?",
+  "unidade": "caracteres",
+  "resposta": 7,
+  "fonte": "Contran"
+ },
+ {
+  "id": "c1664",
+  "q": "Em que ano foi executado Tiradentes, líder da Inconfidência Mineira?",
+  "unidade": "ano",
+  "resposta": 1792,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1665",
+  "q": "Quantos anos tinha Dom Pedro II quando foi declarada sua maioridade e ele assumiu o governo do Império, em 1840?",
+  "unidade": "anos",
+  "resposta": 14,
+  "fonte": "Wikipédia / Museu Imperial"
+ },
+ {
+  "id": "c1666",
+  "q": "Qual é a altura do Pão de Açúcar, no Rio de Janeiro, acima do nível do mar, em metros?",
+  "unidade": "metros",
+  "resposta": 396,
+  "fonte": "Wikipédia / Parque Bondinho"
+ },
+ {
+  "id": "c1667",
+  "q": "Quantos gols Ronaldo Fenômeno marcou em Copas do Mundo, somando todas as que disputou?",
+  "unidade": "gols",
+  "resposta": 15,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1668",
+  "q": "Quantas vértebras cervicais, as do pescoço, tem a coluna de um ser humano?",
+  "unidade": "vértebras",
+  "resposta": 7,
+  "fonte": "Anatomia humana (consenso médico)"
+ },
+ {
+  "id": "c1669",
+  "q": "Quantas vértebras lombares, as da parte baixa das costas, tem a coluna de um adulto típico?",
+  "unidade": "vértebras",
+  "resposta": 5,
+  "fonte": "Anatomia humana (consenso médico)"
+ },
+ {
+  "id": "c1670",
+  "q": "Em que ano a OMS declarou oficialmente a varíola erradicada no mundo?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "OMS"
+ },
+ {
+  "id": "c1671",
+  "q": "Quantos anos viveu a francesa Jeanne Calment, a pessoa com idade comprovada mais longeva da história segundo o Guinness?",
+  "unidade": "anos",
+  "resposta": 122,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1672",
+  "q": "Quantos códons diferentes existem no código genético?",
+  "unidade": "códons",
+  "resposta": 64,
+  "fonte": "Genética (consenso científico)"
+ },
+ {
+  "id": "c1673",
+  "q": "Quantos aminoácidos essenciais, que o corpo de um adulto não consegue produzir, são reconhecidos pela nutrição clássica?",
+  "unidade": "aminoácidos",
+  "resposta": 9,
+  "fonte": "OMS/FAO e livros de bioquímica"
+ },
+ {
+  "id": "c1674",
+  "q": "Quantos ossinhos tem o ouvido médio de cada orelha?",
+  "unidade": "ossículos",
+  "resposta": 3,
+  "fonte": "Anatomia humana (consenso médico)"
+ },
+ {
+  "id": "c1675",
+  "q": "Qual é a pontuação máxima possível na Escala de Coma de Glasgow?",
+  "unidade": "pontos",
+  "resposta": 15,
+  "fonte": "Escala de Coma de Glasgow (Teasdale e Jennett, 1974)"
+ },
+ {
+  "id": "c1676",
+  "q": "Qual é a nota máxima possível no teste de Apgar, aplicado nos recém-nascidos?",
+  "unidade": "pontos",
+  "resposta": 10,
+  "fonte": "Teste de Apgar (Virginia Apgar, 1952)"
+ },
+ {
+  "id": "c1677",
+  "q": "Quantas semanas dura uma gestação humana típica, contadas a partir do primeiro dia da última menstruação?",
+  "unidade": "semanas",
+  "resposta": 40,
+  "fonte": "OMS / obstetrícia (regra de Naegele)"
+ },
+ {
+  "id": "c1678",
+  "q": "Quantos centímetros media Robert Wadlow, o homem mais alto da história com altura comprovada, segundo o Guinness?",
+  "unidade": "cm",
+  "resposta": 272,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1679",
+  "q": "Por quantas horas seguidas o estudante Randy Gardner ficou acordado em 1964, num dos recordes de privação de sono mais famosos da ciência?",
+  "unidade": "horas",
+  "resposta": 264,
+  "fonte": "Guinness / Stanford (Dement, 1964)"
+ },
+ {
+  "id": "c1680",
+  "q": "Quantas vitaminas diferentes formam o chamado complexo B?",
+  "unidade": "vitaminas",
+  "resposta": 8,
+  "fonte": "Nutrição (consenso)"
+ },
+ {
+  "id": "c1681",
+  "q": "Quantas teclas tem um piano acústico de tamanho padrão?",
+  "unidade": "teclas",
+  "resposta": 88,
+  "fonte": "Piano (padrão consagrado)"
+ },
+ {
+  "id": "c1682",
+  "q": "Quantos Oscars ganhou o filme O Senhor dos Anéis: O Retorno do Rei?",
+  "unidade": "Oscars",
+  "resposta": 11,
+  "fonte": "Academia de Hollywood / Wikipédia"
+ },
+ {
+  "id": "c1683",
+  "q": "Quantos integrantes tem o grupo sul-coreano de K-pop BTS?",
+  "unidade": "integrantes",
+  "resposta": 7,
+  "fonte": "Wikipédia / Big Hit"
+ },
+ {
+  "id": "c1684",
+  "q": "Quantas temporadas teve a série Lost, do início ao fim?",
+  "unidade": "temporadas",
+  "resposta": 6,
+  "fonte": "Wikipédia / ABC"
+ },
+ {
+  "id": "c1685",
+  "q": "Em que ano foi lançado o jogo Pac-Man, no Japão?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "Namco / Wikipédia"
+ },
+ {
+  "id": "c1686",
+  "q": "Em que ano foi publicado o romance Dom Casmurro, de Machado de Assis?",
+  "unidade": "ano",
+  "resposta": 1899,
+  "fonte": "Academia Brasileira de Letras"
+ }
+]

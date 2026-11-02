@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1464",
+  "status": "confirmada",
+  "valor_correto": 47,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Prefeituras_do_Jap%C3%A3o",
+  "obs": "47 prefeituras"
+ },
+ {
+  "id": "c1465",
+  "status": "confirmada",
+  "valor_correto": 17,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Comunidades_aut%C3%B3nomas_da_Espanha",
+  "obs": "17 comunidades (mais 2 cidades autonomas)"
+ },
+ {
+  "id": "c1466",
+  "status": "confirmada",
+  "valor_correto": 20,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Regi%C3%B5es_da_It%C3%A1lia",
+  "obs": "20 regioes"
+ },
+ {
+  "id": "c1467",
+  "status": "confirmada",
+  "valor_correto": 13,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Regi%C3%B5es_da_Fran%C3%A7a",
+  "obs": "13 regioes metropolitanas desde 2016"
+ },
+ {
+  "id": "c1468",
+  "status": "confirmada",
+  "valor_correto": 30,
+  "fonte_url": "https://www.britannica.com/animal/blue-whale",
+  "obs": "Maximo validado ~30 m (29,9); relatos de 33 m nao confiaveis"
+ },
+ {
+  "id": "c1469",
+  "status": "confirmada",
+  "valor_correto": 1872,
+  "fonte_url": "https://www.nps.gov/yell/learn/historyculture/yellowstonehistory.htm",
+  "obs": "1872"
+ },
+ {
+  "id": "c1470",
+  "status": "confirmada",
+  "valor_correto": 1936,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Tilacino",
+  "obs": "Benjamin morreu em 1936"
+ },
+ {
+  "id": "c1471",
+  "status": "confirmada",
+  "valor_correto": 1902,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Monte_Pel%C3%A9e",
+  "obs": "1902"
+ },
+ {
+  "id": "c1472",
+  "status": "confirmada",
+  "valor_correto": 2005,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Furac%C3%A3o_Katrina",
+  "obs": "2005"
+ },
+ {
+  "id": "c1473",
+  "status": "confirmada",
+  "valor_correto": 2010,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Sismo_do_Haiti_de_2010",
+  "obs": "2010"
+ },
+ {
+  "id": "c1474",
+  "status": "confirmada",
+  "valor_correto": 1789,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Tomada_da_Bastilha",
+  "obs": "1789"
+ },
+ {
+  "id": "c1475",
+  "status": "confirmada",
+  "valor_correto": 1989,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Queda_do_Muro_de_Berlim",
+  "obs": "1989"
+ },
+ {
+  "id": "c1476",
+  "status": "confirmada",
+  "valor_correto": 1492,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_Colombo",
+  "obs": "1492"
+ },
+ {
+  "id": "c1477",
+  "status": "confirmada",
+  "valor_correto": 1776,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Declara%C3%A7%C3%A3o_de_Independ%C3%AAncia_dos_Estados_Unidos",
+  "obs": "1776"
+ },
+ {
+  "id": "c1478",
+  "status": "confirmada",
+  "valor_correto": 1941,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Ataque_a_Pearl_Harbor",
+  "obs": "1941"
+ },
+ {
+  "id": "c1479",
+  "status": "confirmada",
+  "valor_correto": 1815,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Batalha_de_Waterloo",
+  "obs": "1815"
+ },
+ {
+  "id": "c1480",
+  "status": "confirmada",
+  "valor_correto": 1991,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Dissolu%C3%A7%C3%A3o_da_Uni%C3%A3o_Sovi%C3%A9tica",
+  "obs": "1991"
+ },
+ {
+  "id": "c1481",
+  "status": "confirmada",
+  "valor_correto": 1917,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_de_Outubro",
+  "obs": "1917"
+ },
+ {
+  "id": "c1482",
+  "status": "confirmada",
+  "valor_correto": 1986,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Desastre_de_Chernobyl",
+  "obs": "1986"
+ },
+ {
+  "id": "c1483",
+  "status": "confirmada",
+  "valor_correto": 20,
+  "fonte_url": "https://en.wikipedia.org/wiki/RMS_Titanic",
+  "obs": "20 botes (14+4+2)"
+ },
+ {
+  "id": "c1484",
+  "status": "confirmada",
+  "valor_correto": 160,
+  "fonte_url": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+  "obs": "23h40 a 2h20 = 2h40"
+ },
+ {
+  "id": "c1485",
+  "status": "confirmada",
+  "valor_correto": 354,
+  "fonte_url": "https://www.doi.gov/news/pressreleases/2009_07_04_release",
+  "obs": "354 degraus ate a coroa"
+ },
+ {
+  "id": "c1486",
+  "status": "confirmada",
+  "valor_correto": 63,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Vit%C3%B3ria_do_Reino_Unido",
+  "obs": "63 anos e 216 dias"
+ },
+ {
+  "id": "c1487",
+  "status": "confirmada",
+  "valor_correto": 72,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Lu%C3%ADs_XIV_de_Fran%C3%A7a",
+  "obs": "72 anos"
+ },
+ {
+  "id": "c1488",
+  "status": "confirmada",
+  "valor_correto": 70,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Isabel_II_do_Reino_Unido",
+  "obs": "70 anos e 214 dias"
+ },
+ {
+  "id": "c1489",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://www.nasa.gov/mission/apollo-11/",
+  "obs": "8 dias 3 h"
+ },
+ {
+  "id": "c1490",
+  "status": "confirmada",
+  "valor_correto": 33.5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Charles_Lindbergh",
+  "obs": "33 h 30 min"
+ },
+ {
+  "id": "c1491",
+  "status": "confirmada",
+  "valor_correto": 18,
+  "fonte_url": "https://en.wikipedia.org/wiki/List_of_circumnavigations",
+  "obs": "18 chegaram a Sanlucar em 1522 no Victoria"
+ },
+ {
+  "id": "c1492",
+  "status": "confirmada",
+  "valor_correto": 155,
+  "fonte_url": "https://berlin.de/mauer/en/history/construction-of-the-berlin-wall/the-wall-in-numbers",
+  "obs": "155 km (alguns citam 160)"
+ },
+ {
+  "id": "c1493",
+  "status": "confirmada",
+  "valor_correto": 28,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Muro_de_Berlim",
+  "obs": "1961-1989: 28 anos"
+ },
+ {
+  "id": "c1494",
+  "status": "confirmada",
+  "valor_correto": 117,
+  "fonte_url": "https://en.wikipedia.org/wiki/Hadrian%27s_Wall",
+  "obs": "73 milhas = 117 km (Britannica 118)"
+ },
+ {
+  "id": "c1495",
+  "status": "confirmada",
+  "valor_correto": 23,
+  "fonte_url": "https://pt.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar",
+  "obs": "Suetonio: 23 ferimentos"
+ },
+ {
+  "id": "c1496",
+  "status": "confirmada",
+  "valor_correto": 24,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Marco_Polo",
+  "obs": "1271-1295 = 24 anos"
+ },
+ {
+  "id": "c1497",
+  "status": "confirmada",
+  "valor_correto": 9289,
+  "fonte_url": "https://en.wikipedia.org/wiki/Trans-Siberian_Railway",
+  "obs": "9289 km (Britannica 9288)"
+ },
+ {
+  "id": "c1498",
+  "status": "confirmada",
+  "valor_correto": 30,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Zona_de_exclus%C3%A3o_de_Chernobyl",
+  "obs": "raio 30 km"
+ },
+ {
+  "id": "c1499",
+  "status": "confirmada",
+  "valor_correto": 193,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Abraham_Lincoln",
+  "obs": "6 pes 4 pol = 193 cm"
+ },
+ {
+  "id": "c1500",
+  "status": "confirmada",
+  "valor_correto": 353,
+  "fonte_url": "https://www.britannica.com/study/?p=2689",
+  "obs": "353 avioes (183+170)"
+ },
+ {
+  "id": "c1501",
+  "status": "confirmada",
+  "valor_correto": 13,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Crise_dos_m%C3%ADsseis_de_Cuba",
+  "obs": "16 a 28 de outubro de 1962: 13 dias"
+ }
+]

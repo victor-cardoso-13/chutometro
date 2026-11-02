@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1388",
+  "status": "confirmada",
+  "valor_correto": 79,
+  "fonte_url": "https://www.lance.com.br/selecao-brasileira/quantos-gols-neymar-marcou-pela-selecao-brasileira.html",
+  "obs": "FIFA/CBF 79; uma matéria cita 80 (provável contagem diferente)"
+ },
+ {
+  "id": "c1389",
+  "status": "confirmada",
+  "valor_correto": 142,
+  "fonte_url": "https://en.wikipedia.org/wiki/Brazil_national_football_team_records_and_statistics",
+  "obs": "142 jogos, 5 gols"
+ },
+ {
+  "id": "c1390",
+  "status": "confirmada",
+  "valor_correto": 1986,
+  "fonte_url": "https://en.wikipedia.org/wiki/Hand_of_God_(football)",
+  "obs": "Copa 1986"
+ },
+ {
+  "id": "c1391",
+  "status": "confirmada",
+  "valor_correto": 2016,
+  "fonte_url": "https://en.wikipedia.org/wiki/Football_at_the_2016_Summer_Olympics",
+  "obs": "Rio 2016, primeiro ouro masculino"
+ },
+ {
+  "id": "c1392",
+  "status": "confirmada",
+  "valor_correto": 1994,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+  "obs": "1 maio 1994"
+ },
+ {
+  "id": "c1393",
+  "status": "confirmada",
+  "valor_correto": 1991,
+  "fonte_url": "https://en.wikipedia.org/wiki/1991_FIFA_Women%27s_World_Cup",
+  "obs": "China 1991"
+ },
+ {
+  "id": "c1394",
+  "status": "confirmada",
+  "valor_correto": 1924,
+  "fonte_url": "https://en.wikipedia.org/wiki/1924_Winter_Olympics",
+  "obs": "Chamonix 1924"
+ },
+ {
+  "id": "c1395",
+  "status": "confirmada",
+  "valor_correto": 9,
+  "fonte_url": "https://en.wikipedia.org/wiki/Carl_Lewis",
+  "obs": "9 ouros"
+ },
+ {
+  "id": "c1396",
+  "status": "confirmada",
+  "valor_correto": 91.4,
+  "fonte_url": "https://en.wikipedia.org/wiki/Tennis",
+  "obs": "0,914 m no centro (3 pés)"
+ },
+ {
+  "id": "c1397",
+  "status": "confirmada",
+  "valor_correto": 3.337,
+  "fonte_url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+  "obs": "3,337 km"
+ },
+ {
+  "id": "c1398",
+  "status": "confirmada",
+  "valor_correto": 4.309,
+  "fonte_url": "https://en.wikipedia.org/wiki/Interlagos_Circuit",
+  "obs": "4,309 km"
+ },
+ {
+  "id": "c1399",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+  "obs": "8 gols em 2022 (4 da final incl. 3 na final)"
+ },
+ {
+  "id": "c1400",
+  "status": "confirmada",
+  "valor_correto": 30,
+  "fonte_url": "https://en.wikipedia.org/wiki/Extra_time",
+  "obs": "2x15 min"
+ },
+ {
+  "id": "c1401",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://en.wikipedia.org/wiki/Handball",
+  "obs": "6 de linha + goleiro"
+ },
+ {
+  "id": "c1402",
+  "status": "confirmada",
+  "valor_correto": 21.3,
+  "fonte_url": "https://en.wikipedia.org/wiki/Swimming_at_the_2008_Summer_Olympics_%E2%80%93_Men%27s_50_metre_freestyle",
+  "obs": "21,30 s"
+ },
+ {
+  "id": "c1403",
+  "status": "confirmada",
+  "valor_correto": 19,
+  "fonte_url": "https://inside.fifa.com/news/the-beautiful-team-in-numbers-2793755",
+  "obs": "19 gols em 6 jogos"
+ },
+ {
+  "id": "c1404",
+  "status": "confirmada",
+  "valor_correto": 25,
+  "fonte_url": "https://en.wikipedia.org/wiki/Volleyball",
+  "obs": "sets 1-4 até 25"
+ },
+ {
+  "id": "c1405",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://en.wikipedia.org/wiki/Snooker",
+  "obs": "bola preta 7"
+ },
+ {
+  "id": "c1406",
+  "status": "confirmada",
+  "valor_correto": 100,
+  "fonte_url": "https://en.wikipedia.org/wiki/American_football_field",
+  "obs": "100 jardas entre linhas de gol"
+ },
+ {
+  "id": "c1407",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+  "obs": "5 títulos"
+ },
+ {
+  "id": "c1408",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://en.wikipedia.org/wiki/Lewis_Hamilton",
+  "obs": "7 títulos até 2025"
+ },
+ {
+  "id": "c1409",
+  "status": "confirmada",
+  "valor_correto": 19,
+  "fonte_url": "https://en.wikipedia.org/wiki/Brazil_at_the_2016_Summer_Olympics",
+  "obs": "7 ouros, 6 pratas, 6 bronzes"
+ },
+ {
+  "id": "c1410",
+  "status": "confirmada",
+  "valor_correto": 6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Marta_(footballer)",
+  "obs": "6 prêmios FIFA 2006-2010, 2018"
+ },
+ {
+  "id": "c1411",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://en.wikipedia.org/wiki/Roger_Federer",
+  "obs": "8 Wimbledon"
+ },
+ {
+  "id": "c1412",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+  "obs": "5 Bolas de Ouro"
+ },
+ {
+  "id": "c1413",
+  "status": "confirmada",
+  "valor_correto": 9,
+  "fonte_url": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+  "obs": "9 títulos até 2019"
+ },
+ {
+  "id": "c1414",
+  "status": "confirmada",
+  "valor_correto": 2,
+  "fonte_url": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_hosts",
+  "obs": "1950 e 2014"
+ },
+ {
+  "id": "c1415",
+  "status": "confirmada",
+  "valor_correto": 6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Volleyball",
+  "obs": "6 em quadra"
+ },
+ {
+  "id": "c1416",
+  "status": "confirmada",
+  "valor_correto": 45,
+  "fonte_url": "https://en.wikipedia.org/wiki/Association_football",
+  "obs": "2x45"
+ },
+ {
+  "id": "c1417",
+  "status": "confirmada",
+  "valor_correto": 4095,
+  "fonte_url": "https://en.wikipedia.org/wiki/Mount_Kinabalu",
+  "obs": "4.095 m"
+ },
+ {
+  "id": "c1418",
+  "status": "confirmada",
+  "valor_correto": 3724,
+  "fonte_url": "https://en.wikipedia.org/wiki/Aoraki_/_Mount_Cook",
+  "obs": "3.724 m desde 2014 (antes 3.754)"
+ },
+ {
+  "id": "c1419",
+  "status": "confirmada",
+  "valor_correto": 8586,
+  "fonte_url": "https://en.wikipedia.org/wiki/Kangchenjunga",
+  "obs": "8.586 m"
+ },
+ {
+  "id": "c1420",
+  "status": "confirmada",
+  "valor_correto": 979,
+  "fonte_url": "https://en.wikipedia.org/wiki/Angel_Falls",
+  "obs": "979 m"
+ },
+ {
+  "id": "c1421",
+  "status": "confirmada",
+  "valor_correto": 1470,
+  "fonte_url": "https://en.wikipedia.org/wiki/Lake_Tanganyika",
+  "obs": "1.470 m (algumas fontes 1.471)"
+ },
+ {
+  "id": "c1422",
+  "status": "confirmada",
+  "valor_correto": 2850,
+  "fonte_url": "https://en.wikipedia.org/wiki/Quito",
+  "obs": "2.850 m"
+ },
+ {
+  "id": "c1423",
+  "status": "confirmada",
+  "valor_correto": 2240,
+  "fonte_url": "https://en.wikipedia.org/wiki/Mexico_City",
+  "obs": "2.240 m"
+ },
+ {
+  "id": "c1424",
+  "status": "confirmada",
+  "valor_correto": 5199,
+  "fonte_url": "https://en.wikipedia.org/wiki/Mount_Kenya",
+  "obs": "5.199 m"
+ },
+ {
+  "id": "c1425",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Mount_Ararat",
+  "obs": "Wikipédia 5.137 m; outras obras 5.165 m"
+ }
+]

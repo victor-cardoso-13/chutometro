@@ -1,0 +1,492 @@
+[
+ {
+  "id": "c1154",
+  "resposta": 710,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1155",
+  "resposta": 13.3,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1156",
+  "resposta": 853,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1157",
+  "resposta": 15,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1158",
+  "resposta": 1518,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1159",
+  "resposta": 2.82,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1160",
+  "resposta": 2.06,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1161",
+  "resposta": 1.77,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1162",
+  "resposta": 190.7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1163",
+  "resposta": 9.93,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1164",
+  "resposta": 84.4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1165",
+  "resposta": 10.9,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1166",
+  "resposta": 58,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1167",
+  "resposta": 21,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1168",
+  "resposta": 250,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1169",
+  "resposta": 513,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1170",
+  "resposta": 11,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1171",
+  "resposta": 70,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1172",
+  "resposta": 220,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1173",
+  "resposta": 274,
+  "confianca": "baixa",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1174",
+  "resposta": 222,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1175",
+  "resposta": 80,
+  "confianca": "baixa",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1176",
+  "resposta": 10,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1177",
+  "resposta": 8,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1178",
+  "resposta": 13,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1179",
+  "resposta": 4.309,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1180",
+  "resposta": 38,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1181",
+  "resposta": 9,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1182",
+  "resposta": 3,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1183",
+  "resposta": 13,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1184",
+  "resposta": 6,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1185",
+  "resposta": 17.89,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1186",
+  "resposta": 4,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1187",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1188",
+  "resposta": 3,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1189",
+  "resposta": 1992,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1190",
+  "resposta": 1864,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1191",
+  "resposta": 17,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1192",
+  "resposta": 9,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1193",
+  "resposta": 9,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1194",
+  "resposta": 200,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1195",
+  "resposta": 59,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1196",
+  "resposta": 19,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1197",
+  "resposta": 7.04,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1198",
+  "resposta": 23,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1199",
+  "resposta": 1928,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1200",
+  "resposta": 1901,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1201",
+  "resposta": 1846,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1202",
+  "resposta": 1816,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1203",
+  "resposta": 3.1,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1204",
+  "resposta": 37.2,
+  "confianca": "baixa",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1205",
+  "resposta": 5,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1206",
+  "resposta": 10,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1207",
+  "resposta": 150,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1208",
+  "resposta": 7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1209",
+  "resposta": 7,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1210",
+  "resposta": 24,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1211",
+  "resposta": 100,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1212",
+  "resposta": 120,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1213",
+  "resposta": 5,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1214",
+  "resposta": 3,
+  "confianca": "baixa",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1215",
+  "resposta": 100000,
+  "confianca": "baixa",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1216",
+  "resposta": 28,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1217",
+  "resposta": 2,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1218",
+  "resposta": 15,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1219",
+  "resposta": 10,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1220",
+  "resposta": 9,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ },
+ {
+  "id": "c1221",
+  "resposta": 450,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1222",
+  "resposta": 60,
+  "confianca": "media",
+  "ambigua": true,
+  "obs": ""
+ },
+ {
+  "id": "c1223",
+  "resposta": 90,
+  "confianca": "alta",
+  "ambigua": false,
+  "obs": ""
+ }
+]

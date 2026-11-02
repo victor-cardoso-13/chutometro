@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Em que ano os revolucionários franceses tomaram a prisão da Bastilha, em Paris?",
+  "unidade": "ano",
+  "resposta": 1789,
+  "fonte": "Wikipédia: Tomada da Bastilha",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano caiu o Muro de Berlim?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Wikipédia: Queda do Muro de Berlim",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Cristóvão Colombo chegou pela primeira vez à América?",
+  "unidade": "ano",
+  "resposta": 1492,
+  "fonte": "Wikipédia: Cristóvão Colombo",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano as Treze Colônias norte-americanas declararam independência da Inglaterra?",
+  "unidade": "ano",
+  "resposta": 1776,
+  "fonte": "Wikipédia: Declaração de Independência dos EUA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o Japão atacou a base americana de Pearl Harbor?",
+  "unidade": "ano",
+  "resposta": 1941,
+  "fonte": "Wikipédia: Ataque a Pearl Harbor",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Napoleão foi derrotado em sua batalha final, na Bélgica?",
+  "unidade": "ano",
+  "resposta": 1815,
+  "fonte": "Wikipédia: Batalha de Waterloo",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a União Soviética foi oficialmente dissolvida?",
+  "unidade": "ano",
+  "resposta": 1991,
+  "fonte": "Wikipédia: Dissolução da União Soviética",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano os bolcheviques tomaram o poder na Revolução Russa de outubro?",
+  "unidade": "ano",
+  "resposta": 1917,
+  "fonte": "Wikipédia: Revolução de Outubro",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano ocorreu o acidente nuclear de Chernobyl?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "Wikipédia: Desastre de Chernobyl",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos botes salva-vidas o Titanic tinha?",
+  "unidade": "botes",
+  "resposta": 20,
+  "fonte": "Wikipédia: RMS Titanic",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o comprimento do Titanic, em metros?",
+  "unidade": "metros",
+  "resposta": 269,
+  "fonte": "Wikipédia: RMS Titanic (269,1 m)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos o Titanic levou para afundar depois de bater no iceberg?",
+  "unidade": "minutos",
+  "resposta": 160,
+  "fonte": "Wikipédia: Naufrágio do Titanic (2h40)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos degraus tem a escada interna da Estátua da Liberdade até a coroa?",
+  "unidade": "degraus",
+  "resposta": 354,
+  "fonte": "National Park Service",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas esposas teve o rei Henrique VIII da Inglaterra?",
+  "unidade": "esposas",
+  "resposta": 6,
+  "fonte": "Wikipédia: Henrique VIII",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos reinou a rainha Vitória do Reino Unido?",
+  "unidade": "anos",
+  "resposta": 63,
+  "fonte": "Wikipédia: Vitória do Reino Unido (63 anos e 216 dias)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos o rei francês Luís XIV ficou no trono, o reinado mais longo da Europa?",
+  "unidade": "anos",
+  "resposta": 72,
+  "fonte": "Wikipédia: Luís XIV (72 anos e 110 dias)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o reinado da rainha Elizabeth II do Reino Unido?",
+  "unidade": "anos",
+  "resposta": 70,
+  "fonte": "Wikipédia: Elizabeth II (70 anos e 214 dias)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dias durou a missão Apollo 11, da decolagem à volta à Terra?",
+  "unidade": "dias",
+  "resposta": 8,
+  "fonte": "NASA: Apollo 11 (8 d 3 h)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos segundos durou o primeiro voo dos irmãos Wright, em 1903?",
+  "unidade": "segundos",
+  "resposta": 12,
+  "fonte": "Smithsonian: primeiro voo (12 s)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas horas durou a travessia do Atlântico de Charles Lindbergh sem escalas, de Nova York a Paris?",
+  "unidade": "horas",
+  "resposta": 33.5,
+  "fonte": "Wikipédia: Charles Lindbergh (33 h 30 min)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos tripulantes sobreviveram e voltaram à Espanha no navio Victoria, na primeira volta ao mundo de Magalhães e Elcano?",
+  "unidade": "homens",
+  "resposta": 18,
+  "fonte": "Wikipédia: Expedição Magalhães-Elcano",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o comprimento do Muro de Berlim em torno de Berlim Ocidental, em km?",
+  "unidade": "km",
+  "resposta": 155,
+  "fonte": "Wikipédia: Muro de Berlim (155 km)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos o Muro de Berlim ficou de pé, da construção à queda?",
+  "unidade": "anos",
+  "resposta": 28,
+  "fonte": "Wikipédia: Muro de Berlim (1961-1989)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era o comprimento da Muralha de Adriano, construída pelos romanos na Britânia, em km?",
+  "unidade": "km",
+  "resposta": 117,
+  "fonte": "Wikipédia: Muralha de Adriano (73 milhas)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Alexandre, o Grande?",
+  "unidade": "anos",
+  "resposta": 32,
+  "fonte": "Wikipédia: Alexandre, o Grande",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Segundo o historiador Suetônio, quantas facadas Júlio César levou ao ser assassinado?",
+  "unidade": "facadas",
+  "resposta": 23,
+  "fonte": "Suetônio, Vida dos Doze Césares",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos Marco Polo ficou fora de Veneza em sua viagem à Ásia?",
+  "unidade": "anos",
+  "resposta": 24,
+  "fonte": "Wikipédia: Marco Polo",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento da ferrovia Transiberiana, de Moscou a Vladivostok, em km?",
+  "unidade": "km",
+  "resposta": 9289,
+  "fonte": "Wikipédia: Ferrovia Transiberiana",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento do Canal do Panamá, em km?",
+  "unidade": "km",
+  "resposta": 82,
+  "fonte": "Autoridade do Canal do Panamá (51 milhas)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o raio da zona de exclusão em volta da usina de Chernobyl, em km?",
+  "unidade": "km",
+  "resposta": 30,
+  "fonte": "Wikipédia: Zona de exclusão de Chernobyl",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual era a altura do presidente americano Abraham Lincoln, em centímetros?",
+  "unidade": "cm",
+  "resposta": 193,
+  "fonte": "Wikipédia: Abraham Lincoln (6 pés 4 pol)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos aviões japoneses participaram do ataque a Pearl Harbor nas duas ondas?",
+  "unidade": "aviões",
+  "resposta": 353,
+  "fonte": "Wikipédia: Ataque a Pearl Harbor",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a Crise dos Mísseis de Cuba, em 1962, entre EUA e URSS?",
+  "unidade": "dias",
+  "resposta": 13,
+  "fonte": "Wikipédia: Crise dos mísseis de Cuba",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos Nelson Mandela passou preso na África do Sul?",
+  "unidade": "anos",
+  "resposta": 27,
+  "fonte": "Wikipédia: Nelson Mandela",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos meses a família de Anne Frank ficou escondida em Amsterdã antes de ser descoberta?",
+  "unidade": "meses",
+  "resposta": 25,
+  "fonte": "Casa de Anne Frank (julho de 1942 a agosto de 1944)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas caixas de chá foram jogadas ao mar na Festa do Chá de Boston, em 1773?",
+  "unidade": "caixas",
+  "resposta": 342,
+  "fonte": "Wikipédia: Festa do Chá de Boston",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos prisioneiros estavam na Bastilha quando ela foi tomada pelo povo?",
+  "unidade": "prisioneiros",
+  "resposta": 7,
+  "fonte": "Wikipédia: Tomada da Bastilha",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a massa do Sputnik 1, o primeiro satélite artificial, em kg?",
+  "unidade": "kg",
+  "resposta": 83.6,
+  "fonte": "NASA: Sputnik 1",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos durou o voo de Yuri Gagarin ao redor da Terra, em 1961?",
+  "unidade": "minutos",
+  "resposta": 108,
+  "fonte": "Wikipédia: Vostok 1",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Segundo a estimativa mais comum, quantos milhões de blocos de pedra foram usados na Grande Pirâmide de Quéops?",
+  "unidade": "milhões de blocos",
+  "resposta": 2.3,
+  "fonte": "Wikipédia: Grande Pirâmide de Gizé",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas colunas externas tem o Partenon, em Atenas?",
+  "unidade": "colunas",
+  "resposta": 46,
+  "fonte": "Wikipédia: Partenon",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas patentes nos Estados Unidos Thomas Edison registrou em vida?",
+  "unidade": "patentes",
+  "resposta": 1093,
+  "fonte": "Rutgers: Thomas Edison Papers",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos metros Santos Dumont voou com o 14-Bis em 12 de novembro de 1906, seu voo mais longo daquele ano?",
+  "unidade": "metros",
+  "resposta": 220,
+  "fonte": "Wikipédia: 14-Bis",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o xogunato Tokugawa no Japão, do início ao fim?",
+  "unidade": "anos",
+  "resposta": 265,
+  "fonte": "Wikipédia: Xogunato Tokugawa (1603-1868)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude fica a cidadela inca de Machu Picchu, em metros?",
+  "unidade": "metros",
+  "resposta": 2430,
+  "fonte": "Wikipédia: Machu Picchu",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas pessoas já caminharam na superfície da Lua?",
+  "unidade": "pessoas",
+  "resposta": 12,
+  "fonte": "NASA: programa Apollo",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos delegados assinaram a Declaração de Independência dos Estados Unidos?",
+  "unidade": "assinaturas",
+  "resposta": 56,
+  "fonte": "Wikipédia: Declaração de Independência dos EUA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos delegados assinaram a Constituição dos Estados Unidos em 1787?",
+  "unidade": "assinaturas",
+  "resposta": 39,
+  "fonte": "Wikipédia: Constituição dos EUA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos filhos teve o último czar da Rússia, Nicolau II?",
+  "unidade": "filhos",
+  "resposta": 5,
+  "fonte": "Wikipédia: Nicolau II da Rússia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos funcionou a prisão federal de Alcatraz?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "Wikipédia: Alcatraz (1934-1963)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de imigrantes passaram pela ilha de Ellis Island, em Nova York, entre 1892 e 1954?",
+  "unidade": "milhões",
+  "resposta": 12,
+  "fonte": "Wikipédia: Ellis Island",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos artigos tem o Código Civil de Napoleão, de 1804?",
+  "unidade": "artigos",
+  "resposta": 2281,
+  "fonte": "Wikipédia: Código Napoleônico",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a viagem de balsa Kon-Tiki, de Thor Heyerdahl, pelo Pacífico em 1947?",
+  "unidade": "dias",
+  "resposta": 101,
+  "fonte": "Wikipédia: Kon-Tiki",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos homens havia na expedição Endurance, de Shackleton, ao Antártico?",
+  "unidade": "homens",
+  "resposta": 28,
+  "fonte": "Wikipédia: Expedição Endurance",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou a viagem de Charles Darwin a bordo do Beagle, arredondado em anos inteiros?",
+  "unidade": "anos",
+  "resposta": 5,
+  "fonte": "Wikipédia: HMS Beagle (1831-1836)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos passageiros, sem contar a tripulação, estavam a bordo do Mayflower que chegou à América em 1620?",
+  "unidade": "passageiros",
+  "resposta": 102,
+  "fonte": "Wikipédia: Mayflower",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos navios Cristóvão Colombo levou em sua primeira viagem à América?",
+  "unidade": "navios",
+  "resposta": 3,
+  "fonte": "Wikipédia: Cristóvão Colombo",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas leis tem o Código de Hamurábi, da Babilônia?",
+  "unidade": "leis",
+  "resposta": 282,
+  "fonte": "Wikipédia: Código de Hamurabi",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da Grande Esfinge de Gizé, no Egito, em metros?",
+  "unidade": "metros",
+  "resposta": 20,
+  "fonte": "Wikipédia: Grande Esfinge de Gizé (20,2 m)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Prêmios Nobel ganhou a cientista Marie Curie?",
+  "unidade": "prêmios",
+  "resposta": 2,
+  "fonte": "Nobel Prize (Física 1903, Química 1911)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ }
+]

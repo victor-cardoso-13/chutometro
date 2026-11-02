@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1350",
+  "q": "Qual era a altura do foguete Saturn V, que levou os astronautas à Lua, em metros?",
+  "unidade": "metros",
+  "resposta": 110,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1351",
+  "q": "Quantas missões o programa do ônibus espacial da NASA realizou, de 1981 a 2011?",
+  "unidade": "missões",
+  "resposta": 135,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1352",
+  "q": "Qual é o diâmetro aproximado da Via Láctea, em anos-luz?",
+  "unidade": "anos-luz",
+  "resposta": 100000,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1353",
+  "q": "A que distância está a galáxia de Andrômeda, em milhões de anos-luz?",
+  "unidade": "milhões de anos-luz",
+  "resposta": 2.5,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1354",
+  "q": "A que distância está Sirius, a estrela mais brilhante do céu noturno, em anos-luz?",
+  "unidade": "anos-luz",
+  "resposta": 8.6,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1355",
+  "q": "Quantos dias terrestres dura um dia em Vênus, o tempo que o planeta leva para girar uma vez em torno de si?",
+  "unidade": "dias",
+  "resposta": 243,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1356",
+  "q": "Quantas vezes a pressão do ar ao nível do mar na Terra é a pressão na superfície de Vênus?",
+  "unidade": "vezes",
+  "resposta": 92,
+  "fonte": "NASA Planetary Fact Sheet"
+ },
+ {
+  "id": "c1357",
+  "q": "Que porcentagem do ar que respiramos é formada por oxigênio?",
+  "unidade": "%",
+  "resposta": 21,
+  "fonte": "NASA"
+ },
+ {
+  "id": "c1358",
+  "q": "Quantos gols a Alemanha marcou sobre o Brasil na semifinal da Copa do Mundo de 2014?",
+  "unidade": "gols",
+  "resposta": 7,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1359",
+  "q": "Quantos jogadores de cada time ficam em quadra ao mesmo tempo numa partida de basquete?",
+  "unidade": "jogadores",
+  "resposta": 5,
+  "fonte": "FIBA"
+ },
+ {
+  "id": "c1360",
+  "q": "Quantos sets, no máximo, podem ser jogados numa partida de vôlei de quadra?",
+  "unidade": "sets",
+  "resposta": 5,
+  "fonte": "FIVB"
+ },
+ {
+  "id": "c1361",
+  "q": "Qual é a altura de Michael Jordan, em metros?",
+  "unidade": "metros",
+  "resposta": 1.98,
+  "fonte": "NBA / Hall da Fama"
+ },
+ {
+  "id": "c1362",
+  "q": "Quantas barreiras os atletas precisam saltar na prova dos 110 metros com barreiras?",
+  "unidade": "barreiras",
+  "resposta": 10,
+  "fonte": "World Athletics"
+ },
+ {
+  "id": "c1363",
+  "q": "Em quanto tempo, em segundos, Usain Bolt ganhou os 100 metros rasos nos Jogos de Pequim 2008?",
+  "unidade": "segundos",
+  "resposta": 9.69,
+  "fonte": "COI / World Athletics"
+ },
+ {
+  "id": "c1364",
+  "q": "Quantas vezes o Real Madrid foi campeão da Liga dos Campeões, até a edição de 2025?",
+  "unidade": "títulos",
+  "resposta": 15,
+  "fonte": "UEFA"
+ },
+ {
+  "id": "c1365",
+  "q": "Quantas Bolas de Ouro Lionel Messi tinha conquistado até a premiação de 2025?",
+  "unidade": "prêmios",
+  "resposta": 8,
+  "fonte": "France Football"
+ },
+ {
+  "id": "c1366",
+  "q": "Quantos gols Lionel Messi marcou no ano civil de 2012, recorde reconhecido pelo Guinness?",
+  "unidade": "gols",
+  "resposta": 91,
+  "fonte": "Guinness / FIFA"
+ },
+ {
+  "id": "c1367",
+  "q": "Quantos gols o Brasil marcou ao todo na campanha do título da Copa do Mundo de 2002?",
+  "unidade": "gols",
+  "resposta": 18,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1368",
+  "q": "Quantas etapas teve o Tour de France de 2024?",
+  "unidade": "etapas",
+  "resposta": 21,
+  "fonte": "Tour de France (organização)"
+ },
+ {
+  "id": "c1369",
+  "q": "Quantos jogadores de cada equipe ficam em campo numa partida de rúgbi union?",
+  "unidade": "jogadores",
+  "resposta": 15,
+  "fonte": "World Rugby"
+ },
+ {
+  "id": "c1370",
+  "q": "Quantas entradas tem um jogo regulamentar de beisebol?",
+  "unidade": "entradas",
+  "resposta": 9,
+  "fonte": "MLB"
+ },
+ {
+  "id": "c1371",
+  "q": "Quantos pontos vale um touchdown no futebol americano, sem contar o ponto extra?",
+  "unidade": "pontos",
+  "resposta": 6,
+  "fonte": "NFL"
+ },
+ {
+  "id": "c1372",
+  "q": "Quanto pesa, em quilos, a barra olímpica masculina usada na halterofilia?",
+  "unidade": "kg",
+  "resposta": 20,
+  "fonte": "Federação Internacional de Halterofilia"
+ },
+ {
+  "id": "c1373",
+  "q": "Qual é o recorde mundial de lançamento de dardo masculino, do tcheco Jan Železný, em metros, até 2025?",
+  "unidade": "metros",
+  "resposta": 98.48,
+  "fonte": "World Athletics"
+ },
+ {
+  "id": "c1374",
+  "q": "Qual era o recorde mundial de salto com vara, de Armand Duplantis, em metros, após o Mundial de Tóquio em setembro de 2025?",
+  "unidade": "metros",
+  "resposta": 6.3,
+  "fonte": "World Athletics"
+ },
+ {
+  "id": "c1375",
+  "q": "Quantas medalhas de ouro olímpicas Michael Phelps ganhou ao todo na carreira?",
+  "unidade": "medalhas",
+  "resposta": 23,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1376",
+  "q": "Quantas vitórias o Chicago Bulls teve na temporada regular da NBA de 1995-96, a de melhor campanha da época?",
+  "unidade": "vitórias",
+  "resposta": 72,
+  "fonte": "NBA"
+ },
+ {
+  "id": "c1377",
+  "q": "Quantos pontos Kobe Bryant marcou num único jogo da NBA contra o Toronto Raptors em 2006?",
+  "unidade": "pontos",
+  "resposta": 81,
+  "fonte": "NBA"
+ },
+ {
+  "id": "c1378",
+  "q": "Quantas vezes Rafael Nadal ganhou o torneio de Roland Garros?",
+  "unidade": "títulos",
+  "resposta": 14,
+  "fonte": "ATP / Roland Garros"
+ },
+ {
+  "id": "c1379",
+  "q": "Quantos títulos de Grand Slam individuais Novak Djokovic tinha conquistado até o fim de 2025?",
+  "unidade": "títulos",
+  "resposta": 24,
+  "fonte": "ATP"
+ },
+ {
+  "id": "c1380",
+  "q": "Quantas vezes o brasileiro Gustavo Kuerten ganhou o torneio de Roland Garros?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "ATP / Roland Garros"
+ },
+ {
+  "id": "c1381",
+  "q": "Quantas pole positions Ayrton Senna conquistou na Fórmula 1?",
+  "unidade": "poles",
+  "resposta": 65,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1382",
+  "q": "Quantas corridas Max Verstappen venceu na temporada de Fórmula 1 de 2023?",
+  "unidade": "vitórias",
+  "resposta": 19,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1383",
+  "q": "Quantas seleções disputaram a Copa do Mundo Feminina de 2023?",
+  "unidade": "seleções",
+  "resposta": 32,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1384",
+  "q": "Quantas medalhas de ouro o Brasil ganhou nos Jogos Olímpicos do Rio de Janeiro em 2016?",
+  "unidade": "medalhas",
+  "resposta": 7,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1385",
+  "q": "Quantas medalhas de ouro o Brasil ganhou nos Jogos Olímpicos de Paris 2024?",
+  "unidade": "medalhas",
+  "resposta": 3,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1386",
+  "q": "Qual é a distância, em quilômetros, da Corrida de São Silvestre nas edições recentes?",
+  "unidade": "km",
+  "resposta": 15,
+  "fonte": "Fundação Cásper Líbero / Gazeta Esportiva"
+ },
+ {
+  "id": "c1387",
+  "q": "Qual foi a média de pontos por jogo de Michael Jordan na carreira regular da NBA?",
+  "unidade": "pontos",
+  "resposta": 30.1,
+  "fonte": "NBA"
+ }
+]

@@ -1,0 +1,492 @@
+[
+ {
+  "id": "c1154",
+  "q": "Qual é a altitude do morro do Corcovado, no Rio de Janeiro, em metros?",
+  "unidade": "metros",
+  "resposta": 710,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1155",
+  "q": "Qual é a extensão total da Ponte Rio-Niterói, em quilômetros?",
+  "unidade": "km",
+  "resposta": 13.3,
+  "fonte": "Wikipédia / Ecoponte"
+ },
+ {
+  "id": "c1156",
+  "q": "Quantos municípios tem o estado de Minas Gerais, o recordista do Brasil em número de municípios, segundo o IBGE?",
+  "unidade": "municípios",
+  "resposta": 853,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1157",
+  "q": "Quantos municípios tem o estado de Roraima, segundo o IBGE?",
+  "unidade": "municípios",
+  "resposta": 15,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1158",
+  "q": "Qual era o valor do salário mínimo nacional em 2025, em reais?",
+  "unidade": "reais",
+  "resposta": 1518,
+  "fonte": "Governo Federal / Decreto 12.342"
+ },
+ {
+  "id": "c1159",
+  "q": "Quantos milhões de habitantes tinha o Distrito Federal no Censo de 2022, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.8,
+  "fonte": "IBGE Censo 2022"
+ },
+ {
+  "id": "c1160",
+  "q": "Quantos milhões de habitantes tinha a cidade de Manaus no Censo de 2022, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.06,
+  "fonte": "IBGE Censo 2022"
+ },
+ {
+  "id": "c1161",
+  "q": "Quantos milhões de habitantes tinha a cidade de Curitiba no Censo de 2022, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.77,
+  "fonte": "IBGE Censo 2022"
+ },
+ {
+  "id": "c1162",
+  "q": "Quantos milhões de habitantes tinha o Brasil no Censo de 2010, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 190.8,
+  "fonte": "IBGE Censo 2010"
+ },
+ {
+  "id": "c1163",
+  "q": "Quantos milhões de habitantes tinha o Brasil no primeiro recenseamento, em 1872?",
+  "unidade": "milhões de habitantes",
+  "resposta": 9.9,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1164",
+  "q": "Que porcentagem da população brasileira vivia em áreas urbanas no Censo de 2010, segundo o IBGE?",
+  "unidade": "%",
+  "resposta": 84.4,
+  "fonte": "IBGE Censo 2010"
+ },
+ {
+  "id": "c1165",
+  "q": "Qual foi o PIB do Brasil em 2023, segundo o IBGE, em trilhões de reais?",
+  "unidade": "trilhões de reais",
+  "resposta": 10.9,
+  "fonte": "IBGE Contas Nacionais"
+ },
+ {
+  "id": "c1166",
+  "q": "Durante quantos anos Dom Pedro II foi imperador do Brasil?",
+  "unidade": "anos",
+  "resposta": 58,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1167",
+  "q": "Durante quantos anos durou o regime militar no Brasil, do golpe de 1964 ao fim do governo militar?",
+  "unidade": "anos",
+  "resposta": 21,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1168",
+  "q": "Quantos artigos tem o texto principal da Constituição brasileira de 1988, sem contar as disposições transitórias?",
+  "unidade": "artigos",
+  "resposta": 250,
+  "fonte": "Constituição Federal de 1988"
+ },
+ {
+  "id": "c1169",
+  "q": "Quantos deputados federais o Brasil tem?",
+  "unidade": "deputados",
+  "resposta": 513,
+  "fonte": "Câmara dos Deputados"
+ },
+ {
+  "id": "c1170",
+  "q": "Quantos ministros compõem o Supremo Tribunal Federal?",
+  "unidade": "ministros",
+  "resposta": 11,
+  "fonte": "STF"
+ },
+ {
+  "id": "c1171",
+  "q": "A partir de que idade o voto passa a ser facultativo para os idosos no Brasil?",
+  "unidade": "anos",
+  "resposta": 70,
+  "fonte": "Constituição Federal / TSE"
+ },
+ {
+  "id": "c1172",
+  "q": "Quantos metros voou o 14-Bis de Santos Dumont no voo de novembro de 1906, que ficou reconhecido como recorde mundial?",
+  "unidade": "metros",
+  "resposta": 220,
+  "fonte": "Wikipédia / Museu Aeroespacial"
+ },
+ {
+  "id": "c1173",
+  "q": "Quantas línguas indígenas foram registradas pelo Censo de 2010 do IBGE?",
+  "unidade": "línguas",
+  "resposta": 274,
+  "fonte": "IBGE Censo 2010"
+ },
+ {
+  "id": "c1174",
+  "q": "Por quantos milhões de euros Neymar foi transferido do Barcelona para o PSG em 2017?",
+  "unidade": "milhões de euros",
+  "resposta": 222,
+  "fonte": "Wikipédia / imprensa esportiva"
+ },
+ {
+  "id": "c1175",
+  "q": "Qual é a altura da Garganta do Diabo, nas Cataratas do Iguaçu, em metros?",
+  "unidade": "metros",
+  "resposta": 82,
+  "fonte": "Parque Nacional do Iguaçu / Wikipédia"
+ },
+ {
+  "id": "c1176",
+  "q": "Quantos anos durou a Revolução Farroupilha, no Rio Grande do Sul?",
+  "unidade": "anos",
+  "resposta": 10,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1177",
+  "q": "Quantos anos durou o Estado Novo de Getúlio Vargas?",
+  "unidade": "anos",
+  "resposta": 8,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1178",
+  "q": "Quantas naus tinha a esquadra de Pedro Álvares Cabral que partiu de Lisboa em 1500?",
+  "unidade": "naus",
+  "resposta": 13,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1179",
+  "q": "Qual é o comprimento da pista do autódromo de Interlagos usada na Fórmula 1, em quilômetros?",
+  "unidade": "km",
+  "resposta": 4.309,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1180",
+  "q": "Quantas rodadas tem o Campeonato Brasileiro de pontos corridos da Série A, com 20 clubes?",
+  "unidade": "rodadas",
+  "resposta": 38,
+  "fonte": "CBF"
+ },
+ {
+  "id": "c1181",
+  "q": "Quantas vezes o Brasil foi campeão da Copa América até 2019?",
+  "unidade": "títulos",
+  "resposta": 9,
+  "fonte": "CONMEBOL / Wikipédia"
+ },
+ {
+  "id": "c1182",
+  "q": "Quantas vezes o surfista Gabriel Medina foi campeão mundial?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "WSL"
+ },
+ {
+  "id": "c1183",
+  "q": "Com que idade a skatista Rayssa Leal ganhou a medalha de prata nos Jogos de Tóquio?",
+  "unidade": "anos",
+  "resposta": 13,
+  "fonte": "COI / Wikipédia"
+ },
+ {
+  "id": "c1184",
+  "q": "Quantas vezes Marta foi eleita a melhor jogadora do mundo pela FIFA?",
+  "unidade": "vezes",
+  "resposta": 6,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1185",
+  "q": "Qual foi a marca de João do Pulo no salto triplo, recorde mundial de 1975 nos Jogos Pan-Americanos do México, em metros?",
+  "unidade": "metros",
+  "resposta": 17.89,
+  "fonte": "World Athletics / Wikipédia"
+ },
+ {
+  "id": "c1186",
+  "q": "Quantos gols o Brasil marcou na final da Copa do Mundo de 1970, contra a Itália?",
+  "unidade": "gols",
+  "resposta": 4,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1187",
+  "q": "Quantos gols Romário marcou na Copa do Mundo de 1994?",
+  "unidade": "gols",
+  "resposta": 5,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1188",
+  "q": "Quantas finais de Copa do Mundo seguidas Cafu disputou, entre 1994 e 2002?",
+  "unidade": "finais",
+  "resposta": 3,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1189",
+  "q": "Em que ano foi realizada no Rio de Janeiro a conferência da ONU sobre meio ambiente conhecida como Eco-92?",
+  "unidade": "ano",
+  "resposta": 1992,
+  "fonte": "ONU"
+ },
+ {
+  "id": "c1190",
+  "q": "Em que ano começou a Guerra do Paraguai para o Brasil?",
+  "unidade": "ano",
+  "resposta": 1864,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1191",
+  "q": "Quantos estados brasileiros têm litoral?",
+  "unidade": "estados",
+  "resposta": 17,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1192",
+  "q": "Quantos estados fazem parte da Amazônia Legal, ao menos em parte?",
+  "unidade": "estados",
+  "resposta": 9,
+  "fonte": "IBGE / Sudam"
+ },
+ {
+  "id": "c1193",
+  "q": "Quantos estados formam a região Nordeste do Brasil?",
+  "unidade": "estados",
+  "resposta": 9,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1194",
+  "q": "Qual é o maior valor de cédula do Real em circulação, em reais?",
+  "unidade": "reais",
+  "resposta": 200,
+  "fonte": "Banco Central do Brasil"
+ },
+ {
+  "id": "c1195",
+  "q": "Com quantos anos morreu Santos Dumont?",
+  "unidade": "anos",
+  "resposta": 59,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1196",
+  "q": "Quantas medalhas o Brasil ganhou nos Jogos Olímpicos do Rio 2016?",
+  "unidade": "medalhas",
+  "resposta": 19,
+  "fonte": "COB"
+ },
+ {
+  "id": "c1197",
+  "q": "Qual foi a marca de Maurren Maggi no salto em distância que lhe deu o ouro em Pequim 2008, em metros?",
+  "unidade": "metros",
+  "resposta": 7.04,
+  "fonte": "COI / Wikipédia"
+ },
+ {
+  "id": "c1198",
+  "q": "Quantas corridas de Fórmula 1 Nelson Piquet venceu?",
+  "unidade": "vitórias",
+  "resposta": 23,
+  "fonte": "Fórmula 1 / Wikipédia"
+ },
+ {
+  "id": "c1199",
+  "q": "Em que ano Alexander Fleming observou o efeito da penicilina?",
+  "unidade": "ano",
+  "resposta": 1928,
+  "fonte": "Wikipédia: Penicilina"
+ },
+ {
+  "id": "c1200",
+  "q": "Em que ano Karl Landsteiner descobriu os grupos sanguíneos do sistema ABO?",
+  "unidade": "ano",
+  "resposta": 1901,
+  "fonte": "Wikipédia: Karl Landsteiner"
+ },
+ {
+  "id": "c1201",
+  "q": "Em que ano foi feita a primeira demonstração pública de cirurgia com anestesia por éter, em Boston?",
+  "unidade": "ano",
+  "resposta": 1846,
+  "fonte": "Wikipédia: Anestesia"
+ },
+ {
+  "id": "c1202",
+  "q": "Em que ano o médico René Laennec inventou o estetoscópio?",
+  "unidade": "ano",
+  "resposta": 1816,
+  "fonte": "Wikipédia: Estetoscópio"
+ },
+ {
+  "id": "c1203",
+  "q": "Quantos bilhões de pares de bases tem o genoma humano?",
+  "unidade": "bilhões de pares de bases",
+  "resposta": 3,
+  "fonte": "Projeto Genoma Humano"
+ },
+ {
+  "id": "c1204",
+  "q": "Quantos trilhões de células tem o corpo humano adulto, segundo a estimativa de Bianconi e colegas em 2013?",
+  "unidade": "trilhões de células",
+  "resposta": 37.2,
+  "fonte": "Annals of Human Biology 2013"
+ },
+ {
+  "id": "c1205",
+  "q": "Qual é o máximo de sal por dia que a OMS recomenda para um adulto, em gramas?",
+  "unidade": "gramas",
+  "resposta": 5,
+  "fonte": "OMS"
+ },
+ {
+  "id": "c1206",
+  "q": "Segundo a OMS, o açúcar livre deve ser no máximo qual percentual da energia diária?",
+  "unidade": "%",
+  "resposta": 10,
+  "fonte": "OMS"
+ },
+ {
+  "id": "c1207",
+  "q": "Quantos minutos de atividade física moderada por semana a OMS recomenda para adultos, no mínimo?",
+  "unidade": "minutos",
+  "resposta": 150,
+  "fonte": "OMS 2020"
+ },
+ {
+  "id": "c1208",
+  "q": "Quantas horas de sono por noite a Academia Americana de Medicina do Sono recomenda, no mínimo, para um adulto?",
+  "unidade": "horas",
+  "resposta": 7,
+  "fonte": "AASM 2015"
+ },
+ {
+  "id": "c1209",
+  "q": "Quantas vértebras cervicais tem o pescoço de uma girafa?",
+  "unidade": "vértebras",
+  "resposta": 7,
+  "fonte": "Wikipédia: Girafa"
+ },
+ {
+  "id": "c1210",
+  "q": "Quantas costelas tem o corpo de um adulto, no total?",
+  "unidade": "costelas",
+  "resposta": 24,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1211",
+  "q": "Qual é o limite superior da frequência cardíaca de repouso considerada normal em adultos, em batimentos por minuto?",
+  "unidade": "bpm",
+  "resposta": 100,
+  "fonte": "American Heart Association"
+ },
+ {
+  "id": "c1212",
+  "q": "Qual é o valor da pressão arterial sistólica considerada ideal, em mmHg, o famoso \"12 por 8\" na linguagem popular?",
+  "unidade": "mmHg",
+  "resposta": 120,
+  "fonte": "Sociedade Brasileira de Cardiologia"
+ },
+ {
+  "id": "c1213",
+  "q": "Quantos litros de sangue o coração de um adulto em repouso bombeia por minuto, em média?",
+  "unidade": "litros",
+  "resposta": 5,
+  "fonte": "Fisiologia humana (Guyton)"
+ },
+ {
+  "id": "c1214",
+  "q": "Quantos milímetros por mês crescem, em média, as unhas das mãos?",
+  "unidade": "mm",
+  "resposta": 3,
+  "fonte": "Dermatologia (consenso)"
+ },
+ {
+  "id": "c1215",
+  "q": "Quantos fios de cabelo tem, em média, uma cabeça humana?",
+  "unidade": "fios",
+  "resposta": 100000,
+  "fonte": "Sociedade Brasileira de Dermatologia"
+ },
+ {
+  "id": "c1216",
+  "q": "Quantos dias dura, em média, um ciclo menstrual?",
+  "unidade": "dias",
+  "resposta": 28,
+  "fonte": "Ginecologia (consenso)"
+ },
+ {
+  "id": "c1217",
+  "q": "Se esticássemos o DNA de uma única célula humana, qual seria seu comprimento, em metros?",
+  "unidade": "metros",
+  "resposta": 2,
+  "fonte": "NIH / Genome.gov"
+ },
+ {
+  "id": "c1218",
+  "q": "Qual é a pontuação máxima na Escala de Coma de Glasgow?",
+  "unidade": "pontos",
+  "resposta": 15,
+  "fonte": "Wikipédia: Escala de coma de Glasgow"
+ },
+ {
+  "id": "c1219",
+  "q": "Qual é a nota máxima do teste de Apgar, aplicado nos recém-nascidos?",
+  "unidade": "pontos",
+  "resposta": 10,
+  "fonte": "Wikipédia: Índice de Apgar"
+ },
+ {
+  "id": "c1220",
+  "q": "Quantos aminoácidos essenciais o ser humano adulto precisa obter da alimentação?",
+  "unidade": "aminoácidos",
+  "resposta": 9,
+  "fonte": "Bioquímica (consenso)"
+ },
+ {
+  "id": "c1221",
+  "q": "Quantos mililitros de sangue são coletados, em média, em uma doação de sangue no Brasil?",
+  "unidade": "mL",
+  "resposta": 450,
+  "fonte": "Ministério da Saúde"
+ },
+ {
+  "id": "c1222",
+  "q": "Qual é o intervalo mínimo entre doações de sangue para um homem no Brasil, em dias?",
+  "unidade": "dias",
+  "resposta": 60,
+  "fonte": "Ministério da Saúde"
+ },
+ {
+  "id": "c1223",
+  "q": "Quantos minutos dura, em média, um ciclo completo de sono de um adulto?",
+  "unidade": "minutos",
+  "resposta": 90,
+  "fonte": "Medicina do sono (consenso)"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Em que ano o rei João Sem Terra, da Inglaterra, selou a Magna Carta?",
+  "unidade": "ano",
+  "resposta": 1215,
+  "fonte": "Wikipédia / British Library",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano ocorreu o acidente nuclear da usina de Chernobyl, na União Soviética?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "Wikipédia / AIEA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos presidentes dos Estados Unidos foram assassinados durante o mandato?",
+  "unidade": "presidentes",
+  "resposta": 4,
+  "fonte": "Wikipédia / Senado dos EUA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos tripulantes morreram na explosão do ônibus espacial Challenger, em 1986?",
+  "unidade": "pessoas",
+  "resposta": 7,
+  "fonte": "NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos filhos teve a rainha Vitória do Reino Unido?",
+  "unidade": "filhos",
+  "resposta": 9,
+  "fonte": "Royal Family / Britannica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos países eram membros fundadores da ONU, na sua criação em 1945?",
+  "unidade": "países",
+  "resposta": 51,
+  "fonte": "ONU (un.org)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos andares tinha cada uma das Torres Gêmeas do World Trade Center, em Nova York?",
+  "unidade": "andares",
+  "resposta": 110,
+  "fonte": "Wikipédia / Port Authority",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos países assinaram o Tratado de Roma de 1957, que criou a Comunidade Econômica Europeia?",
+  "unidade": "países",
+  "resposta": 6,
+  "fonte": "Wikipédia / União Europeia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas repúblicas faziam parte da União Soviética quando ela foi dissolvida, em 1991?",
+  "unidade": "repúblicas",
+  "resposta": 15,
+  "fonte": "Britannica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Anne Frank, autora do famoso diário?",
+  "unidade": "anos",
+  "resposta": 15,
+  "fonte": "Casa de Anne Frank",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou o papado de João Paulo I, em 1978, contando do dia da eleição ao dia da morte?",
+  "unidade": "dias",
+  "resposta": 33,
+  "fonte": "Vaticano / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual foi o número de ordem de Barack Obama na lista de presidentes dos Estados Unidos?",
+  "unidade": "º presidente",
+  "resposta": 44,
+  "fonte": "Casa Branca",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas de ouro o atleta americano Jesse Owens ganhou nas Olimpíadas de Berlim, em 1936?",
+  "unidade": "medalhas de ouro",
+  "resposta": 4,
+  "fonte": "COI",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos estados americanos se separaram da União para formar os Estados Confederados da América, na Guerra Civil?",
+  "unidade": "estados",
+  "resposta": 11,
+  "fonte": "Britannica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

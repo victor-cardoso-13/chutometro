@@ -1,0 +1,6 @@
+[
+{"id":"c1332","tipo":"numero-no-nome","motivo":"Pentágono tem 5 lados; a soma sai direto de (5-2)x180."},
+{"id":"c1335","tipo":"lista-itens","motivo":"A pergunta dá a conta 6x5x4x3x2x1; basta multiplicar."},
+{"id":"c1336","tipo":"lista-itens","motivo":"Dá 24 horas; basta multiplicar por 3600."},
+{"id":"c1319","tipo":"ambigua","motivo":"A massa da ISS varia com o tempo (cerca de 420 a 450 t conforme a fonte/data)."}
+]

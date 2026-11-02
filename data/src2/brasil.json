@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Em que ano foi inaugurada a cidade de Brasília?",
+  "unidade": "ano",
+  "resposta": 1960,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi assinada a Lei Áurea, que aboliu a escravidão no Brasil?",
+  "unidade": "ano",
+  "resposta": 1888,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano nasceu o escritor Machado de Assis?",
+  "unidade": "ano",
+  "resposta": 1839,
+  "fonte": "Academia Brasileira de Letras",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi fundada a cidade do Rio de Janeiro?",
+  "unidade": "ano",
+  "resposta": 1565,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi criada a Petrobras?",
+  "unidade": "ano",
+  "resposta": 1953,
+  "fonte": "Petrobras / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o Brasil declarou guerra à Alemanha nazista na Segunda Guerra Mundial?",
+  "unidade": "ano",
+  "resposta": 1942,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos títulos mundiais de Fórmula 1 Ayrton Senna conquistou?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "Fórmula 1 / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Somando Emerson Fittipaldi, Nelson Piquet e Ayrton Senna, quantos títulos mundiais de pilotos de Fórmula 1 o Brasil tem?",
+  "unidade": "títulos",
+  "resposta": 8,
+  "fonte": "Fórmula 1 / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas olímpicas a ginasta Rebeca Andrade tinha depois dos Jogos de Paris 2024?",
+  "unidade": "medalhas",
+  "resposta": 6,
+  "fonte": "COB / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols Ronaldo marcou na final da Copa do Mundo de 2002?",
+  "unidade": "gols",
+  "resposta": 2,
+  "fonte": "FIFA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em quantas Copas do Mundo diferentes Mário Zagallo foi campeão, somando as como jogador, técnico e coordenador técnico?",
+  "unidade": "Copas",
+  "resposta": 4,
+  "fonte": "CBF / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altitude do Pico da Bandeira, na divisa de Minas Gerais com o Espírito Santo, em metros?",
+  "unidade": "metros",
+  "resposta": 2892,
+  "fonte": "IBGE / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altitude do morro do Corcovado, no Rio de Janeiro, em metros?",
+  "unidade": "metros",
+  "resposta": 710,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a extensão total da Ponte Rio-Niterói, em quilômetros?",
+  "unidade": "km",
+  "resposta": 13.3,
+  "fonte": "Wikipédia / Ecoponte",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a área do estado do Amazonas, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 1559,
+  "fonte": "IBGE",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos municípios tem o estado de Minas Gerais, o recordista do Brasil em número de municípios, segundo o IBGE?",
+  "unidade": "municípios",
+  "resposta": 853,
+  "fonte": "IBGE",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos municípios tem o estado de Roraima, segundo o IBGE?",
+  "unidade": "municípios",
+  "resposta": 15,
+  "fonte": "IBGE",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o valor do salário mínimo nacional em 2025, em reais?",
+  "unidade": "reais",
+  "resposta": 1518,
+  "fonte": "Governo Federal / Decreto 12.342",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o Distrito Federal no Censo de 2022, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.8,
+  "fonte": "IBGE Censo 2022",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Manaus no Censo de 2022, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.06,
+  "fonte": "IBGE Censo 2022",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Curitiba no Censo de 2022, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1.77,
+  "fonte": "IBGE Censo 2022",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o Brasil no Censo de 2010, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 190.8,
+  "fonte": "IBGE Censo 2010",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o Brasil no primeiro recenseamento, em 1872?",
+  "unidade": "milhões de habitantes",
+  "resposta": 9.9,
+  "fonte": "IBGE",
+  "ano": 1872,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Que porcentagem da população brasileira vivia em áreas urbanas no Censo de 2010, segundo o IBGE?",
+  "unidade": "%",
+  "resposta": 84.4,
+  "fonte": "IBGE Censo 2010",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual foi o PIB do Brasil em 2023, segundo o IBGE, em trilhões de reais?",
+  "unidade": "trilhões de reais",
+  "resposta": 10.9,
+  "fonte": "IBGE Contas Nacionais",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Durante quantos anos Dom Pedro II foi imperador do Brasil?",
+  "unidade": "anos",
+  "resposta": 58,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Durante quantos anos durou o regime militar no Brasil, do golpe de 1964 ao fim do governo militar?",
+  "unidade": "anos",
+  "resposta": 21,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos artigos tem o texto principal da Constituição brasileira de 1988, sem contar as disposições transitórias?",
+  "unidade": "artigos",
+  "resposta": 250,
+  "fonte": "Constituição Federal de 1988",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos deputados federais o Brasil tem?",
+  "unidade": "deputados",
+  "resposta": 513,
+  "fonte": "Câmara dos Deputados",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos ministros compõem o Supremo Tribunal Federal?",
+  "unidade": "ministros",
+  "resposta": 11,
+  "fonte": "STF",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A partir de que idade o voto passa a ser facultativo para os idosos no Brasil?",
+  "unidade": "anos",
+  "resposta": 70,
+  "fonte": "Constituição Federal / TSE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos metros voou o 14-Bis de Santos Dumont no voo de novembro de 1906, que ficou reconhecido como recorde mundial?",
+  "unidade": "metros",
+  "resposta": 220,
+  "fonte": "Wikipédia / Museu Aeroespacial",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas línguas indígenas foram registradas pelo Censo de 2010 do IBGE?",
+  "unidade": "línguas",
+  "resposta": 274,
+  "fonte": "IBGE Censo 2010",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Por quantos milhões de euros Neymar foi transferido do Barcelona para o PSG em 2017?",
+  "unidade": "milhões de euros",
+  "resposta": 222,
+  "fonte": "Wikipédia / imprensa esportiva",
+  "ano": 2017,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a altura da Garganta do Diabo, nas Cataratas do Iguaçu, em metros?",
+  "unidade": "metros",
+  "resposta": 82,
+  "fonte": "Parque Nacional do Iguaçu / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou a Revolução Farroupilha, no Rio Grande do Sul?",
+  "unidade": "anos",
+  "resposta": 10,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos durou o Estado Novo de Getúlio Vargas?",
+  "unidade": "anos",
+  "resposta": 8,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas naus tinha a esquadra de Pedro Álvares Cabral que partiu de Lisboa em 1500?",
+  "unidade": "naus",
+  "resposta": 13,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o comprimento da pista do autódromo de Interlagos usada na Fórmula 1, em quilômetros?",
+  "unidade": "km",
+  "resposta": 4.309,
+  "fonte": "Fórmula 1",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas rodadas tem o Campeonato Brasileiro de pontos corridos da Série A, com 20 clubes?",
+  "unidade": "rodadas",
+  "resposta": 38,
+  "fonte": "CBF",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes o Brasil foi campeão da Copa América até 2019?",
+  "unidade": "títulos",
+  "resposta": 9,
+  "fonte": "CONMEBOL / Wikipédia",
+  "ano": 2019,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes o surfista Gabriel Medina foi campeão mundial?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "WSL",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com que idade a skatista Rayssa Leal ganhou a medalha de prata nos Jogos de Tóquio?",
+  "unidade": "anos",
+  "resposta": 13,
+  "fonte": "COI / Wikipédia",
+  "ano": 2021,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes Marta foi eleita a melhor jogadora do mundo pela FIFA?",
+  "unidade": "vezes",
+  "resposta": 6,
+  "fonte": "FIFA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual foi a marca de João do Pulo no salto triplo, recorde mundial de 1975 nos Jogos Pan-Americanos do México, em metros?",
+  "unidade": "metros",
+  "resposta": 17.89,
+  "fonte": "World Athletics / Wikipédia",
+  "ano": 1975,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols o Brasil marcou na final da Copa do Mundo de 1970, contra a Itália?",
+  "unidade": "gols",
+  "resposta": 4,
+  "fonte": "FIFA",
+  "ano": 1970,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Romário marcou na Copa do Mundo de 1994?",
+  "unidade": "gols",
+  "resposta": 5,
+  "fonte": "FIFA",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas finais de Copa do Mundo seguidas Cafu disputou, entre 1994 e 2002?",
+  "unidade": "finais",
+  "resposta": 3,
+  "fonte": "FIFA",
+  "ano": 2002,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi realizada no Rio de Janeiro a conferência da ONU sobre meio ambiente conhecida como Eco-92?",
+  "unidade": "ano",
+  "resposta": 1992,
+  "fonte": "ONU",
+  "ano": 1992,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano começou a Guerra do Paraguai para o Brasil?",
+  "unidade": "ano",
+  "resposta": 1864,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados brasileiros têm litoral?",
+  "unidade": "estados",
+  "resposta": 17,
+  "fonte": "IBGE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados fazem parte da Amazônia Legal, ao menos em parte?",
+  "unidade": "estados",
+  "resposta": 9,
+  "fonte": "IBGE / Sudam",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos estados formam a região Nordeste do Brasil?",
+  "unidade": "estados",
+  "resposta": 9,
+  "fonte": "IBGE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o maior valor de cédula do Real em circulação, em reais?",
+  "unidade": "reais",
+  "resposta": 200,
+  "fonte": "Banco Central do Brasil",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Com quantos anos morreu Santos Dumont?",
+  "unidade": "anos",
+  "resposta": 59,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Machado de Assis?",
+  "unidade": "anos",
+  "resposta": 69,
+  "fonte": "Academia Brasileira de Letras",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas medalhas o Brasil ganhou nos Jogos Olímpicos do Rio 2016?",
+  "unidade": "medalhas",
+  "resposta": 19,
+  "fonte": "COB",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual foi a marca de Maurren Maggi no salto em distância que lhe deu o ouro em Pequim 2008, em metros?",
+  "unidade": "metros",
+  "resposta": 7.04,
+  "fonte": "COI / Wikipédia",
+  "ano": 2008,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas corridas de Fórmula 1 Nelson Piquet venceu?",
+  "unidade": "vitórias",
+  "resposta": 23,
+  "fonte": "Fórmula 1 / Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Tiradentes foi executado?",
+  "unidade": "ano",
+  "resposta": 1792,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

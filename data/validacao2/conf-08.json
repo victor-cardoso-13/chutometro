@@ -1,0 +1,485 @@
+[
+ {
+  "id": "c1574",
+  "q": "Qual a altura da Sky Tower, em Auckland, na Nova Zelândia, em metros?",
+  "unidade": "metros",
+  "resposta": 328,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1575",
+  "q": "Qual a altura do arranha-céu The Shard, em Londres, em metros?",
+  "unidade": "metros",
+  "resposta": 310,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1576",
+  "q": "Qual a altura do arco da Ponte da Baía de Sydney, em metros?",
+  "unidade": "metros",
+  "resposta": 134,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1577",
+  "q": "Qual a altura das torres da ponte Golden Gate acima da água, em metros?",
+  "unidade": "metros",
+  "resposta": 227,
+  "fonte": "Golden Gate Bridge Authority"
+ },
+ {
+  "id": "c1578",
+  "q": "Qual a área da Cidade Proibida, em Pequim, em hectares?",
+  "unidade": "hectares",
+  "resposta": 72,
+  "fonte": "UNESCO"
+ },
+ {
+  "id": "c1579",
+  "q": "Quantas colunas externas tem o Lincoln Memorial, em Washington?",
+  "unidade": "colunas",
+  "resposta": 36,
+  "fonte": "National Park Service"
+ },
+ {
+  "id": "c1580",
+  "q": "Qual a altura do arco do Estádio de Wembley, em Londres, em metros?",
+  "unidade": "metros",
+  "resposta": 133,
+  "fonte": "Wembley Stadium"
+ },
+ {
+  "id": "c1581",
+  "q": "Qual o comprimento do vão central da ponte Verrazzano-Narrows, em Nova York, em metros?",
+  "unidade": "metros",
+  "resposta": 1298,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1582",
+  "q": "Qual a altura da roda-gigante Singapore Flyer, em metros?",
+  "unidade": "metros",
+  "resposta": 165,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1583",
+  "q": "Qual a altura do Grande Buda de Leshan, na China, em metros?",
+  "unidade": "metros",
+  "resposta": 71,
+  "fonte": "UNESCO"
+ },
+ {
+  "id": "c1584",
+  "q": "Em que ano a Wikipédia foi lançada na internet?",
+  "unidade": "ano",
+  "resposta": 2001,
+  "fonte": "Wikipédia / Wikimedia"
+ },
+ {
+  "id": "c1585",
+  "q": "Em que ano o Twitter foi lançado?",
+  "unidade": "ano",
+  "resposta": 2006,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1586",
+  "q": "Em que ano o Facebook foi fundado por Mark Zuckerberg e colegas de Harvard?",
+  "unidade": "ano",
+  "resposta": 2004,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1587",
+  "q": "Em que ano a Atari lançou o jogo Pong?",
+  "unidade": "ano",
+  "resposta": 1972,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1588",
+  "q": "Em que ano a Amazon foi fundada por Jeff Bezos?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Amazon / Wikipédia"
+ },
+ {
+  "id": "c1589",
+  "q": "Em que ano o ChatGPT foi aberto ao público pela OpenAI?",
+  "unidade": "ano",
+  "resposta": 2022,
+  "fonte": "OpenAI"
+ },
+ {
+  "id": "c1590",
+  "q": "Em que ano o WhatsApp foi fundado?",
+  "unidade": "ano",
+  "resposta": 2009,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1591",
+  "q": "Em que ano a oficial da Marinha dos EUA Grace Hopper e sua equipe encontraram o famoso inseto preso num computador Harvard Mark II, o 'bug' original?",
+  "unidade": "ano",
+  "resposta": 1947,
+  "fonte": "Smithsonian"
+ },
+ {
+  "id": "c1592",
+  "q": "Em que ano Ray Tomlinson enviou o primeiro e-mail entre computadores de uma rede, usando o símbolo @?",
+  "unidade": "ano",
+  "resposta": 1971,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1593",
+  "q": "Em quantos dias o ChatGPT chegou a 1 milhão de usuários após o lançamento, segundo Sam Altman?",
+  "unidade": "dias",
+  "resposta": 5,
+  "fonte": "Sam Altman (OpenAI), dezembro de 2022"
+ },
+ {
+  "id": "c1594",
+  "q": "Quantos bits tem um endereço IP na versão 6 do protocolo da internet?",
+  "unidade": "bits",
+  "resposta": 128,
+  "fonte": "IETF RFC 8200"
+ },
+ {
+  "id": "c1595",
+  "q": "Quantos anos tinha Mark Zuckerberg quando fundou o Facebook, em 2004?",
+  "unidade": "anos",
+  "resposta": 19,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1596",
+  "q": "Quantos anos tinha Steve Jobs quando morreu, em 2011?",
+  "unidade": "anos",
+  "resposta": 56,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1597",
+  "q": "Quantos anos tinha Bill Gates quando fundou a Microsoft, em 1975?",
+  "unidade": "anos",
+  "resposta": 19,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1598",
+  "q": "Quantas partidas o programa AlphaGo venceu contra o campeão Lee Sedol, num match de cinco jogos em 2016?",
+  "unidade": "partidas",
+  "resposta": 4,
+  "fonte": "DeepMind"
+ },
+ {
+  "id": "c1599",
+  "q": "Quantos milhões de cópias do Minecraft haviam sido vendidas em outubro de 2023, segundo a Microsoft?",
+  "unidade": "milhões de cópias",
+  "resposta": 300,
+  "fonte": "Microsoft / Mojang, outubro de 2023"
+ },
+ {
+  "id": "c1600",
+  "q": "Quantos milhões de consoles Nintendo Wii foram vendidos no mundo, segundo a Nintendo?",
+  "unidade": "milhões de consoles",
+  "resposta": 101.6,
+  "fonte": "Nintendo (dados até 2023)"
+ },
+ {
+  "id": "c1601",
+  "q": "Quantos milhões de consoles Nintendo DS foram vendidos no mundo, segundo a Nintendo?",
+  "unidade": "milhões de consoles",
+  "resposta": 154,
+  "fonte": "Nintendo (dados até 2023)"
+ },
+ {
+  "id": "c1602",
+  "q": "Quantos bilhões de pessoas usavam o Facebook por mês no fim de 2023, segundo a Meta?",
+  "unidade": "bilhões de pessoas",
+  "resposta": 3.07,
+  "fonte": "Meta, resultados do 4º trimestre de 2023"
+ },
+ {
+  "id": "c1603",
+  "q": "Em fevereiro de 2020, quantos bilhões de usuários o WhatsApp dizia ter, segundo a própria empresa?",
+  "unidade": "bilhões de usuários",
+  "resposta": 2,
+  "fonte": "WhatsApp / Meta, fevereiro de 2020"
+ },
+ {
+  "id": "c1604",
+  "q": "Quantos bilhões de dólares a Microsoft pagou pela rede LinkedIn, anunciada em 2016?",
+  "unidade": "bilhões de dólares",
+  "resposta": 26.2,
+  "fonte": "Microsoft, 2016"
+ },
+ {
+  "id": "c1605",
+  "q": "Quantos bilhões de dólares Elon Musk pagou pelo Twitter, em 2022?",
+  "unidade": "bilhões de dólares",
+  "resposta": 44,
+  "fonte": "Twitter / SEC, 2022"
+ },
+ {
+  "id": "c1606",
+  "q": "Quantos bilhões de dólares o Facebook pagou pela empresa de óculos de realidade virtual Oculus, em 2014?",
+  "unidade": "bilhões de dólares",
+  "resposta": 2,
+  "fonte": "Facebook, 2014"
+ },
+ {
+  "id": "c1607",
+  "q": "Quantos bilhões de dólares a Microsoft pagou pelo Skype, em 2011?",
+  "unidade": "bilhões de dólares",
+  "resposta": 8.5,
+  "fonte": "Microsoft, 2011"
+ },
+ {
+  "id": "c1608",
+  "q": "Pela famosa Lei de Moore, na versão de 1975, a cada quantos meses dobra o número de transistores num chip?",
+  "unidade": "meses",
+  "resposta": 24,
+  "fonte": "Gordon Moore, 1975"
+ },
+ {
+  "id": "c1609",
+  "q": "Quantos caracteres diferentes tem a tabela ASCII original?",
+  "unidade": "caracteres",
+  "resposta": 128,
+  "fonte": "ANSI / Wikipédia"
+ },
+ {
+  "id": "c1610",
+  "q": "Quantos milhões de cores diferentes pode mostrar uma tela com 24 bits de cor? Responda com uma casa decimal.",
+  "unidade": "milhões de cores",
+  "resposta": 16.8,
+  "fonte": "Matemática (2 elevado a 24)"
+ },
+ {
+  "id": "c1611",
+  "q": "Quantos milhões de assinantes pagantes a Netflix tinha no fim de 2023, segundo a própria empresa?",
+  "unidade": "milhões de assinantes",
+  "resposta": 260,
+  "fonte": "Netflix, 4º trimestre de 2023"
+ },
+ {
+  "id": "c1612",
+  "q": "Quantos milhões de bitcoins podem existir, no máximo, segundo as regras do protocolo?",
+  "unidade": "milhões de bitcoins",
+  "resposta": 21,
+  "fonte": "Whitepaper / protocolo Bitcoin"
+ },
+ {
+  "id": "c1613",
+  "q": "Quantos bitcoins o programador Laszlo Hanyecz pagou por duas pizzas, em maio de 2010?",
+  "unidade": "bitcoins",
+  "resposta": 10000,
+  "fonte": "Bitcoin Talk / Wikipédia"
+ },
+ {
+  "id": "c1614",
+  "q": "Quantos quilos pesava, aproximadamente, o primeiro celular comercial da Motorola, o DynaTAC 8000X? Responda com uma casa decimal.",
+  "unidade": "kg",
+  "resposta": 1.1,
+  "fonte": "Motorola / Wikipédia"
+ },
+ {
+  "id": "c1615",
+  "q": "Quantos minutos de conversa dava a bateria do primeiro celular comercial da Motorola, o DynaTAC 8000X?",
+  "unidade": "minutos",
+  "resposta": 30,
+  "fonte": "Motorola / Wikipédia"
+ },
+ {
+  "id": "c1616",
+  "q": "Quanto custava, em dólares, o preço inicial do IBM PC no lançamento, em 1981?",
+  "unidade": "dólares",
+  "resposta": 1565,
+  "fonte": "IBM / Wikipédia"
+ },
+ {
+  "id": "c1617",
+  "q": "Quanto custava, em dólares, o Macintosh no lançamento, em 1984?",
+  "unidade": "dólares",
+  "resposta": 2495,
+  "fonte": "Apple / Wikipédia"
+ },
+ {
+  "id": "c1618",
+  "q": "Quanto custava, em dólares, o modelo mais barato do primeiro iPad, lançado em 2010?",
+  "unidade": "dólares",
+  "resposta": 499,
+  "fonte": "Apple, 2010"
+ },
+ {
+  "id": "c1619",
+  "q": "Quanto custava, em dólares, o minicomputador Raspberry Pi no lançamento, em 2012?",
+  "unidade": "dólares",
+  "resposta": 35,
+  "fonte": "Raspberry Pi Foundation"
+ },
+ {
+  "id": "c1620",
+  "q": "Quantos anos tinha o matemático Alan Turing quando morreu, em 1954?",
+  "unidade": "anos",
+  "resposta": 41,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1621",
+  "q": "Quantos anos tinha Linus Torvalds quando anunciou o sistema Linux, em 1991?",
+  "unidade": "anos",
+  "resposta": 21,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1622",
+  "q": "Em quantos dias o jogo GTA V faturou 1 bilhão de dólares depois do lançamento, em 2013?",
+  "unidade": "dias",
+  "resposta": 3,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1623",
+  "q": "Quantas horas de vídeo eram enviadas ao YouTube a cada minuto, em 2019, segundo a empresa?",
+  "unidade": "horas",
+  "resposta": 500,
+  "fonte": "YouTube, 2019"
+ },
+ {
+  "id": "c1624",
+  "q": "Quantos bilhões de parâmetros tinha o modelo de linguagem GPT-3, apresentado em 2020?",
+  "unidade": "bilhões de parâmetros",
+  "resposta": 175,
+  "fonte": "OpenAI, artigo de 2020"
+ },
+ {
+  "id": "c1625",
+  "q": "Quantos bilhões de dólares era o valor de mercado do Facebook na oferta inicial de ações, em maio de 2012?",
+  "unidade": "bilhões de dólares",
+  "resposta": 104,
+  "fonte": "Wikipédia / imprensa financeira"
+ },
+ {
+  "id": "c1626",
+  "q": "Quantos gigabytes de espaço grátis o Gmail oferecia a cada usuário no lançamento, em 2004?",
+  "unidade": "gigabytes",
+  "resposta": 1,
+  "fonte": "Google, 2004"
+ },
+ {
+  "id": "c1627",
+  "q": "Por quantos milhões de dólares a Microsoft comprou o Hotmail, em 1997?",
+  "unidade": "milhões de dólares",
+  "resposta": 400,
+  "fonte": "Microsoft / Wikipédia"
+ },
+ {
+  "id": "c1628",
+  "q": "Quantos funcionários tinha o Instagram quando foi vendido ao Facebook, em 2012?",
+  "unidade": "funcionários",
+  "resposta": 13,
+  "fonte": "Imprensa financeira, 2012"
+ },
+ {
+  "id": "c1629",
+  "q": "Quantos funcionários tinha o WhatsApp quando foi comprado pelo Facebook, em 2014?",
+  "unidade": "funcionários",
+  "resposta": 55,
+  "fonte": "Imprensa financeira, 2014"
+ },
+ {
+  "id": "c1630",
+  "q": "Quantas teclas de função, como F1 e F2, tem um teclado de computador padrão?",
+  "unidade": "teclas",
+  "resposta": 12,
+  "fonte": "Padrão de teclados"
+ },
+ {
+  "id": "c1631",
+  "q": "Quanto custava, em dólares, o Game Boy no lançamento nos Estados Unidos, em 1989?",
+  "unidade": "dólares",
+  "resposta": 89.99,
+  "fonte": "Nintendo / Wikipédia"
+ },
+ {
+  "id": "c1632",
+  "q": "Quanto custava, em dólares, o primeiro PlayStation no lançamento nos Estados Unidos, em 1995?",
+  "unidade": "dólares",
+  "resposta": 299,
+  "fonte": "Sony / Wikipédia"
+ },
+ {
+  "id": "c1633",
+  "q": "Quantos milhões de cópias o jogo Super Mario Bros. vendeu no console NES, segundo a Nintendo?",
+  "unidade": "milhões de cópias",
+  "resposta": 40.24,
+  "fonte": "Nintendo / Guinness"
+ },
+ {
+  "id": "c1634",
+  "q": "Quantos dólares por ano era o salário de Steve Jobs como CEO da Apple?",
+  "unidade": "dólares",
+  "resposta": 1,
+  "fonte": "Apple / imprensa"
+ },
+ {
+  "id": "c1635",
+  "q": "Quanto custava, em dólares, o Apple Vision Pro no lançamento nos Estados Unidos, em 2024?",
+  "unidade": "dólares",
+  "resposta": 3499,
+  "fonte": "Apple, 2024"
+ },
+ {
+  "id": "c1636",
+  "q": "Quanto custava, em dólares, o Nintendo Switch no lançamento nos Estados Unidos, em 2017?",
+  "unidade": "dólares",
+  "resposta": 299,
+  "fonte": "Nintendo, 2017"
+ },
+ {
+  "id": "c1637",
+  "q": "Quanto custava, em dólares, o console Atari 2600 no lançamento, em 1977?",
+  "unidade": "dólares",
+  "resposta": 199,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1638",
+  "q": "Quanto custava, em dólares, o computador Commodore 64 no lançamento, em 1982?",
+  "unidade": "dólares",
+  "resposta": 595,
+  "fonte": "Commodore / Wikipédia"
+ },
+ {
+  "id": "c1639",
+  "q": "Quanto custava, em dólares, o Apple II no lançamento, em 1977, na versão mais barata?",
+  "unidade": "dólares",
+  "resposta": 1298,
+  "fonte": "Apple / Wikipédia"
+ },
+ {
+  "id": "c1640",
+  "q": "Quanto custava, em dólares, o computador Apple Lisa, lançado em 1983?",
+  "unidade": "dólares",
+  "resposta": 9995,
+  "fonte": "Apple / Wikipédia"
+ },
+ {
+  "id": "c1641",
+  "q": "Quanto custava, em dólares, o Google Glass para os primeiros compradores, em 2013?",
+  "unidade": "dólares",
+  "resposta": 1500,
+  "fonte": "Google, 2013"
+ },
+ {
+  "id": "c1642",
+  "q": "Quantos anos tinha Ada Lovelace, considerada a primeira programadora, quando morreu?",
+  "unidade": "anos",
+  "resposta": 36,
+  "fonte": "Wikipédia"
+ }
+]

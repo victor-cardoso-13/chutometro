@@ -1,0 +1,492 @@
+[
+ {
+  "id": "c1224",
+  "q": "Quantos centímetros mede, em média, o esôfago de um adulto?",
+  "unidade": "cm",
+  "resposta": 25,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1225",
+  "q": "Quantos metros mede, em média, o intestino grosso de um adulto?",
+  "unidade": "metros",
+  "resposta": 1.5,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1226",
+  "q": "Quantos dentes incisivos tem um adulto com a dentição completa?",
+  "unidade": "dentes",
+  "resposta": 8,
+  "fonte": "Odontologia"
+ },
+ {
+  "id": "c1227",
+  "q": "Quantos sisos um adulto pode ter, no máximo?",
+  "unidade": "dentes",
+  "resposta": 12,
+  "fonte": "Odontologia"
+ },
+ {
+  "id": "c1228",
+  "q": "Quantas costelas flutuantes tem o corpo humano, somando os dois lados?",
+  "unidade": "costelas",
+  "resposta": 4,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1229",
+  "q": "Quantos pares de nervos saem da medula espinhal?",
+  "unidade": "pares",
+  "resposta": 31,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1230",
+  "q": "Quantas vértebras tem a coluna de um recém-nascido, contando as que depois se fundem?",
+  "unidade": "vértebras",
+  "resposta": 33,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1231",
+  "q": "Abaixo de qual temperatura corporal, em graus Celsius, se considera hipotermia?",
+  "unidade": "°C",
+  "resposta": 35,
+  "fonte": "Medicina (consenso)"
+ },
+ {
+  "id": "c1232",
+  "q": "A partir de qual valor de hemoglobina glicada, em %, se diagnostica diabetes?",
+  "unidade": "%",
+  "resposta": 6.5,
+  "fonte": "Sociedade Brasileira de Diabetes"
+ },
+ {
+  "id": "c1233",
+  "q": "Quantos miligramas de cálcio por dia um adulto de 19 a 50 anos precisa, segundo o NIH?",
+  "unidade": "mg",
+  "resposta": 1000,
+  "fonte": "NIH"
+ },
+ {
+  "id": "c1234",
+  "q": "Quantas calorias tem 100 gramas de macarrão cozido?",
+  "unidade": "kcal",
+  "resposta": 158,
+  "fonte": "USDA"
+ },
+ {
+  "id": "c1235",
+  "q": "Quantas calorias tem 100 gramas de brócolis cru?",
+  "unidade": "kcal",
+  "resposta": 34,
+  "fonte": "USDA"
+ },
+ {
+  "id": "c1236",
+  "q": "Quantas calorias tem 100 gramas de aveia em flocos?",
+  "unidade": "kcal",
+  "resposta": 389,
+  "fonte": "USDA"
+ },
+ {
+  "id": "c1237",
+  "q": "Quantos gramas pesa uma bola oficial de tênis de mesa?",
+  "unidade": "gramas",
+  "resposta": 2.7,
+  "fonte": "ITTF"
+ },
+ {
+  "id": "c1238",
+  "q": "Quantos quilos pesa a barra olímpica masculina de levantamento de peso, sem anilhas?",
+  "unidade": "kg",
+  "resposta": 20,
+  "fonte": "IWF"
+ },
+ {
+  "id": "c1239",
+  "q": "Quantos minutos dura cada quarto de uma partida da NBA?",
+  "unidade": "minutos",
+  "resposta": 12,
+  "fonte": "NBA"
+ },
+ {
+  "id": "c1240",
+  "q": "Quantas válvulas tem o coração humano?",
+  "unidade": "válvulas",
+  "resposta": 4,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1241",
+  "q": "Quantos metros tem uma volta completa na pista oficial de atletismo?",
+  "unidade": "metros",
+  "resposta": 400,
+  "fonte": "World Athletics"
+ },
+ {
+  "id": "c1242",
+  "q": "Quantos ossinhos existem no ouvido médio de cada orelha?",
+  "unidade": "ossículos",
+  "resposta": 3,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1243",
+  "q": "Quantos pares de costelas se ligam diretamente ao osso esterno?",
+  "unidade": "pares",
+  "resposta": 7,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1244",
+  "q": "Quantos quilômetros de natação tem a prova de triatlo olímpico?",
+  "unidade": "km",
+  "resposta": 1.5,
+  "fonte": "World Triathlon"
+ },
+ {
+  "id": "c1245",
+  "q": "Quantos gramas pesa, no máximo, uma bola de futebol de campo oficial da FIFA?",
+  "unidade": "gramas",
+  "resposta": 450,
+  "fonte": "IFAB Regras do Jogo"
+ },
+ {
+  "id": "c1246",
+  "q": "Quantos metros mede uma piscina olímpica de comprimento?",
+  "unidade": "metros",
+  "resposta": 50,
+  "fonte": "World Aquatics"
+ },
+ {
+  "id": "c1247",
+  "q": "Quantos pares de cromossomos sexuais tem uma célula humana comum?",
+  "unidade": "pares",
+  "resposta": 1,
+  "fonte": "Genética (consenso)"
+ },
+ {
+  "id": "c1248",
+  "q": "Quantas fases principais tem a divisão celular chamada mitose?",
+  "unidade": "fases",
+  "resposta": 4,
+  "fonte": "Biologia celular (consenso)"
+ },
+ {
+  "id": "c1249",
+  "q": "Quantos pares de glândulas salivares principais existem na boca humana?",
+  "unidade": "pares",
+  "resposta": 3,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1250",
+  "q": "Quantas cordas tem um violino?",
+  "unidade": "cordas",
+  "resposta": 4,
+  "fonte": "Organologia (instrumentos musicais)"
+ },
+ {
+  "id": "c1251",
+  "q": "Quantos volumes tem a obra Em Busca do Tempo Perdido, de Marcel Proust?",
+  "unidade": "volumes",
+  "resposta": 7,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1252",
+  "q": "Quantos Oscars ganhou o filme Ben-Hur (1959)?",
+  "unidade": "Oscars",
+  "resposta": 11,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1253",
+  "q": "Quantos Oscars ganhou o filme La La Land (2016)?",
+  "unidade": "Oscars",
+  "resposta": 6,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1254",
+  "q": "Quantos Oscars de atuação ganhou a atriz Katharine Hepburn, recorde da categoria?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1255",
+  "q": "Quantos Oscars de melhor ator ganhou Daniel Day-Lewis?",
+  "unidade": "Oscars",
+  "resposta": 3,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1256",
+  "q": "Com quantos anos Anna Paquin ganhou o Oscar de atriz coadjuvante, uma das mais jovens vencedoras da história?",
+  "unidade": "anos",
+  "resposta": 11,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1257",
+  "q": "Qual a altura da estátua de Davi, de Michelangelo, sem contar o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 5.17,
+  "fonte": "Galleria dell'Accademia, Florença"
+ },
+ {
+  "id": "c1258",
+  "q": "Com quantos anos morreu a pintora Frida Kahlo?",
+  "unidade": "anos",
+  "resposta": 47,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1259",
+  "q": "Com quantos anos morreu Freddie Mercury, vocalista do Queen?",
+  "unidade": "anos",
+  "resposta": 45,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1260",
+  "q": "Quantos segundos dura a música Hey Jude, dos Beatles, na versão de single de 1968?",
+  "unidade": "segundos",
+  "resposta": 431,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1261",
+  "q": "Quantos álbuns de estúdio o Pink Floyd lançou ao todo?",
+  "unidade": "álbuns",
+  "resposta": 15,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1262",
+  "q": "Quantas faixas tem o álbum Back in Black, do AC/DC?",
+  "unidade": "faixas",
+  "resposta": 10,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1263",
+  "q": "Quantos dias durou a primeira edição do Rock in Rio, em 1985?",
+  "unidade": "dias",
+  "resposta": 10,
+  "fonte": "Rock in Rio / Wikipédia"
+ },
+ {
+  "id": "c1264",
+  "q": "Quantos integrantes tinha a banda brasileira Mamonas Assassinas?",
+  "unidade": "integrantes",
+  "resposta": 5,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1265",
+  "q": "Quantas cordas tem um cavaquinho tradicional?",
+  "unidade": "cordas",
+  "resposta": 4,
+  "fonte": "Organologia (instrumentos musicais)"
+ },
+ {
+  "id": "c1266",
+  "q": "Quantas cordas tem uma viola caipira tradicional?",
+  "unidade": "cordas",
+  "resposta": 10,
+  "fonte": "Organologia (instrumentos musicais)"
+ },
+ {
+  "id": "c1267",
+  "q": "Quantas notas diferentes existem na escala cromática ocidental?",
+  "unidade": "notas",
+  "resposta": 12,
+  "fonte": "Teoria musical"
+ },
+ {
+  "id": "c1268",
+  "q": "Quantas integrantes tinha o grupo Spice Girls?",
+  "unidade": "integrantes",
+  "resposta": 5,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1269",
+  "q": "Quantos integrantes tem o grupo sul-coreano BTS?",
+  "unidade": "integrantes",
+  "resposta": 7,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1270",
+  "q": "Quantos anos tinha Julieta, na peça Romeu e Julieta, de Shakespeare?",
+  "unidade": "anos",
+  "resposta": 13,
+  "fonte": "Shakespeare, Romeu e Julieta"
+ },
+ {
+  "id": "c1271",
+  "q": "Quantos dedos tem cada mão do Mickey Mouse nos desenhos clássicos?",
+  "unidade": "dedos",
+  "resposta": 4,
+  "fonte": "Disney"
+ },
+ {
+  "id": "c1272",
+  "q": "Quantos capítulos tem o romance Dom Casmurro, de Machado de Assis?",
+  "unidade": "capítulos",
+  "resposta": 148,
+  "fonte": "Machado de Assis, Dom Casmurro"
+ },
+ {
+  "id": "c1273",
+  "q": "Em que ano Vincent van Gogh pintou A Noite Estrelada?",
+  "unidade": "ano",
+  "resposta": 1889,
+  "fonte": "MoMA"
+ },
+ {
+  "id": "c1274",
+  "q": "Em que ano a Mona Lisa foi roubada do Louvre?",
+  "unidade": "ano",
+  "resposta": 1911,
+  "fonte": "Museu do Louvre"
+ },
+ {
+  "id": "c1275",
+  "q": "Em que ano foi lançado o primeiro jogo The Legend of Zelda, no Japão?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1276",
+  "q": "Em que ano foi lançada oficialmente a versão completa do jogo Minecraft?",
+  "unidade": "ano",
+  "resposta": 2011,
+  "fonte": "Mojang"
+ },
+ {
+  "id": "c1277",
+  "q": "Em que ano foi publicado o livro O Hobbit, de Tolkien?",
+  "unidade": "ano",
+  "resposta": 1937,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1278",
+  "q": "Em que ano estreou na TV americana a série Os Simpsons, em formato de série própria?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Fox / Wikipédia"
+ },
+ {
+  "id": "c1279",
+  "q": "Em que ano estreou a série Friends?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "NBC / Wikipédia"
+ },
+ {
+  "id": "c1280",
+  "q": "Quantos minutos dura o filme E o Vento Levou (1939), na versão de cinema?",
+  "unidade": "minutos",
+  "resposta": 238,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1281",
+  "q": "Quantos minutos dura o filme Casablanca (1942)?",
+  "unidade": "minutos",
+  "resposta": 102,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1282",
+  "q": "Quantos minutos dura o filme Matrix (1999), na versão de cinema?",
+  "unidade": "minutos",
+  "resposta": 136,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1283",
+  "q": "Quantos minutos dura o filme Avatar (2009), na versão original de cinema?",
+  "unidade": "minutos",
+  "resposta": 162,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1284",
+  "q": "Quantos minutos dura o filme Parasita (2019)?",
+  "unidade": "minutos",
+  "resposta": 132,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1285",
+  "q": "Quantos minutos dura o filme Star Wars (1977), o primeiro da série?",
+  "unidade": "minutos",
+  "resposta": 121,
+  "fonte": "IMDb"
+ },
+ {
+  "id": "c1286",
+  "q": "Quantos Oscars ganhou o filme Gladiador (2000)?",
+  "unidade": "Oscars",
+  "resposta": 5,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1287",
+  "q": "Quantos Oscars ganhou o filme Forrest Gump (1994)?",
+  "unidade": "Oscars",
+  "resposta": 6,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1288",
+  "q": "Quantos Oscars ganhou o musical West Side Story (1961)?",
+  "unidade": "Oscars",
+  "resposta": 10,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1289",
+  "q": "Quantos Oscars ganhou o filme Amadeus (1984)?",
+  "unidade": "Oscars",
+  "resposta": 8,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1290",
+  "q": "Quantos Oscars ganhou o filme O Silêncio dos Inocentes (1991)?",
+  "unidade": "Oscars",
+  "resposta": 5,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1291",
+  "q": "Quantos Oscars ganhou o filme Bohemian Rhapsody (2018)?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1292",
+  "q": "Quantos Oscars ganhou o filme Tudo em Todo o Lugar ao Mesmo Tempo (2022)?",
+  "unidade": "Oscars",
+  "resposta": 7,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ },
+ {
+  "id": "c1293",
+  "q": "Quantos Oscars ganhou o filme O Poderoso Chefão (1972)?",
+  "unidade": "Oscars",
+  "resposta": 3,
+  "fonte": "Academy of Motion Picture Arts and Sciences"
+ }
+]
