@@ -60,13 +60,10 @@ const parteNome = (n: string): Parte => { const g = nomeGravado(n); return g ? {
 const partesNomes = (nomes: string[]): Parte[] => (nomes.length <= 1 ? nomes.map(parteNome) : [...nomes.slice(0, -1).map(parteNome), fixa('e'), parteNome(nomes[nomes.length - 1])]);
 const pontosParte = (n: number, cada: boolean): Parte => ({ t: cada ? textoPontosCada(n) : textoPontos(n), ...(n <= MAX_PONTOS_GRAVADO ? { clip: `${cada ? 'ptsc' : 'pts'}-${n}` } : {}) });
 
-/** A resposta certa (gravada) e quem ganhou a rodada. `dist` só importa se foi 0 (cravou). */
-export function partesResposta(q: Pergunta, vencedores: string[], dist: number | null): Parte[] {
+/** Fim de cada pergunta: só a resposta certa (gravada). Quem ganhou aparece na tela, sem narrar nomes. */
+export function partesResposta(q: Pergunta, vencedores: string[]): Parte[] {
   const certa: Parte = { t: textoCerta(q), clip: `r-${q.id}` };
-  if (!vencedores.length) return [certa, fixa('ninguem-chutou')];
-  const quem = partesNomes(vencedores);
-  if (vencedores.length > 1) return [certa, ...quem, fixa('chegaram-juntos')];
-  return [certa, ...quem, fixa(dist === 0 ? 'cravou' : 'chegou-mais-perto')];
+  return vencedores.length ? [certa] : [certa, fixa('ninguem-chutou')];
 }
 
 export function partesFim(nomes: string[], pontos: number, acabaram = false): Parte[] {

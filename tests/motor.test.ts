@@ -113,18 +113,11 @@ describe('narrador (modo TV)', () => {
     expect(partesPergunta(301, q).map((p) => p.clip)).toEqual([undefined, 'q-x']); // sem áudio gravado: voz do aparelho
     expect(textoDasPartes(partesPergunta(2, { ...q, u: 'ano' }))).toMatch(/Responda com o ano\.$/);
   });
-  it('fala a resposta e o vencedor, tudo com clip quando o nome é conhecido', () => {
-    expect(partesResposta(q, ['Maria'], 6)).toEqual([
-      { t: 'A resposta certa é 330 metros.', clip: 'r-x' },
-      { t: 'Maria' },
-      { t: 'chegou mais perto. Um ponto!', clip: 'chegou-mais-perto' },
-    ]);
-    const s = partesResposta(q, ['samuel'], 6); // grafia livre → grafia gravada
-    expect(s[1]).toEqual({ t: 'Samuel', clip: 'nome-samuel' });
-    expect(partesResposta(q, ['Giovanna'], 0).map((p) => p.clip)).toEqual(['r-x', 'nome-giovanna', 'cravou']);
-    expect(partesResposta(q, ['Celinha', 'Edinho'], 2).map((p) => p.clip)).toEqual(['r-x', 'nome-celinha', 'e', 'nome-edinho', 'chegaram-juntos']);
-    expect(partesResposta(q, [], null)[1].clip).toBe('ninguem-chutou');
-    expect(textoDasPartes(partesResposta({ ...q, u: 'ano', r: 1969 }, ['Bia'], 1))).toContain('o ano de 1969. Bia chegou mais perto.');
+  it('no fim de cada pergunta fala só a resposta certa (sem nome de vencedor)', () => {
+    expect(partesResposta(q, ['Samuel'])).toEqual([{ t: 'A resposta certa é 330 metros.', clip: 'r-x' }]);
+    expect(partesResposta(q, ['Celinha', 'Edinho']).map((p) => p.clip)).toEqual(['r-x']);
+    expect(partesResposta(q, []).map((p) => p.clip)).toEqual(['r-x', 'ninguem-chutou']);
+    expect(textoDasPartes(partesResposta({ ...q, u: 'ano', r: 1969 }, ['Bia']))).toBe('A resposta certa é o ano de 1969.');
   });
   it('fala o fim do jogo e quem entrou', () => {
     expect(textoDasPartes(partesFim(['Victor'], 8))).toBe('Fim de jogo! Vitória de Victor com 8 pontos. Parabéns!');
@@ -152,8 +145,8 @@ describe('áudios gravados do narrador', () => {
   it('toda parte com clip tem mp3 e o texto gravado é o texto de hoje (senão regrave: scripts/gerar-narracao.py)', () => {
     const perguntas: Pergunta[] = JSON.parse(readFileSync(new URL('../public/questions.json', import.meta.url), 'utf8'));
     const partes = [
-      ...partesFim(['A'], 1, true), ...partesFim(['Victor', 'Carla'], 3), ...partesFim(['Edinho'], 300), ...partesEntrou(['Samuel']), ...partesResposta(perguntas[0], ['Celinha'], 0), ...partesBoasVindas(), ...partesTempoEsgotado(), ...partesPergunta(1, perguntas[0]),
-      ...perguntas.flatMap((q) => [...partesPergunta(2, q), ...partesResposta(q, [], null)]),
+      ...partesFim(['A'], 1, true), ...partesFim(['Victor', 'Carla'], 3), ...partesFim(['Edinho'], 300), ...partesEntrou(['Samuel']), ...partesResposta(perguntas[0], ['Celinha']), ...partesBoasVindas(), ...partesTempoEsgotado(), ...partesPergunta(1, perguntas[0]),
+      ...perguntas.flatMap((q) => [...partesPergunta(2, q), ...partesResposta(q, [])]),
     ].filter((p) => p.clip);
     expect(partes.length).toBeGreaterThan(1800);
     for (const p of partes) {
