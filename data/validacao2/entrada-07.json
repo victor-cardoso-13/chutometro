@@ -1,0 +1,352 @@
+[
+ {
+  "id": "c1504",
+  "q": "Quantas caixas de chá foram jogadas ao mar na Festa do Chá de Boston, em 1773?",
+  "unidade": "caixas"
+ },
+ {
+  "id": "c1505",
+  "q": "Quantos prisioneiros estavam na Bastilha quando ela foi tomada pelo povo?",
+  "unidade": "prisioneiros"
+ },
+ {
+  "id": "c1506",
+  "q": "Qual era a massa do Sputnik 1, o primeiro satélite artificial, em kg?",
+  "unidade": "kg"
+ },
+ {
+  "id": "c1507",
+  "q": "Quantos minutos durou o voo de Yuri Gagarin ao redor da Terra, em 1961?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c1508",
+  "q": "Segundo a estimativa mais comum, quantos milhões de blocos de pedra foram usados na Grande Pirâmide de Quéops?",
+  "unidade": "milhões de blocos"
+ },
+ {
+  "id": "c1509",
+  "q": "Quantas colunas externas tem o Partenon, em Atenas?",
+  "unidade": "colunas"
+ },
+ {
+  "id": "c1510",
+  "q": "Quantas patentes nos Estados Unidos Thomas Edison registrou em vida?",
+  "unidade": "patentes"
+ },
+ {
+  "id": "c1511",
+  "q": "Quantos metros Santos Dumont voou com o 14-Bis em 12 de novembro de 1906, seu voo mais longo daquele ano?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1512",
+  "q": "Quantos anos durou o xogunato Tokugawa no Japão, do início ao fim?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1513",
+  "q": "A que altitude fica a cidadela inca de Machu Picchu, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1514",
+  "q": "Quantas pessoas já caminharam na superfície da Lua?",
+  "unidade": "pessoas"
+ },
+ {
+  "id": "c1515",
+  "q": "Quantos delegados assinaram a Declaração de Independência dos Estados Unidos?",
+  "unidade": "assinaturas"
+ },
+ {
+  "id": "c1516",
+  "q": "Quantos delegados assinaram a Constituição dos Estados Unidos em 1787?",
+  "unidade": "assinaturas"
+ },
+ {
+  "id": "c1517",
+  "q": "Quantos filhos teve o último czar da Rússia, Nicolau II?",
+  "unidade": "filhos"
+ },
+ {
+  "id": "c1518",
+  "q": "Quantos anos funcionou a prisão federal de Alcatraz?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1519",
+  "q": "Quantos milhões de imigrantes passaram pela ilha de Ellis Island, em Nova York, entre 1892 e 1954?",
+  "unidade": "milhões"
+ },
+ {
+  "id": "c1520",
+  "q": "Quantos artigos tem o Código Civil de Napoleão, de 1804?",
+  "unidade": "artigos"
+ },
+ {
+  "id": "c1521",
+  "q": "Quantos dias durou a viagem de balsa Kon-Tiki, de Thor Heyerdahl, pelo Pacífico em 1947?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c1522",
+  "q": "Quantos homens havia na expedição Endurance, de Shackleton, ao Antártico?",
+  "unidade": "homens"
+ },
+ {
+  "id": "c1523",
+  "q": "Quantos anos durou a viagem de Charles Darwin a bordo do Beagle, arredondado em anos inteiros?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1524",
+  "q": "Quantos passageiros, sem contar a tripulação, estavam a bordo do Mayflower que chegou à América em 1620?",
+  "unidade": "passageiros"
+ },
+ {
+  "id": "c1525",
+  "q": "Quantos navios Cristóvão Colombo levou em sua primeira viagem à América?",
+  "unidade": "navios"
+ },
+ {
+  "id": "c1526",
+  "q": "Quantas leis tem o Código de Hamurábi, da Babilônia?",
+  "unidade": "leis"
+ },
+ {
+  "id": "c1527",
+  "q": "Qual é a altura da Grande Esfinge de Gizé, no Egito, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1528",
+  "q": "Quantos Prêmios Nobel ganhou a cientista Marie Curie?",
+  "unidade": "prêmios"
+ },
+ {
+  "id": "c1529",
+  "q": "Em que ano foi inaugurada a ponte Golden Gate, em San Francisco?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1530",
+  "q": "Em que ano foi inaugurado o Coliseu de Roma? Use anos d.C.",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1531",
+  "q": "Em que ano foi aberta ao público a primeira linha do metrô de Londres, o mais antigo do mundo?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1532",
+  "q": "Em que ano foi inaugurado o metrô de São Paulo, com a primeira viagem de passageiros?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1533",
+  "q": "Em que ano começou a operar o primeiro trem-bala Shinkansen do Japão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1534",
+  "q": "Em que ano foi inaugurado o Empire State Building?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1535",
+  "q": "Qual a altura da Space Needle, torre símbolo de Seattle, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1536",
+  "q": "Qual a altura do Gateway Arch, o grande arco de St. Louis, nos EUA, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1537",
+  "q": "Qual a altura do Monumento a Washington, o obelisco de Washington D.C., em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1538",
+  "q": "Quantos andares tem o Edifício Chrysler, em Nova York?",
+  "unidade": "andares"
+ },
+ {
+  "id": "c1539",
+  "q": "Qual a altura do hotel Burj Al Arab, em Dubai, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1540",
+  "q": "Qual a altura da Catedral de Colônia, na Alemanha, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1541",
+  "q": "Qual o comprimento do vão central da ponte Akashi Kaikyo, no Japão, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1542",
+  "q": "Qual o comprimento do vão central da Ponte do Brooklyn, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1543",
+  "q": "Qual a altura do mastro da Ponte Octávio Frias de Oliveira, em São Paulo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1544",
+  "q": "Qual o comprimento do túnel ferroviário de Seikan, no Japão, em quilômetros?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1545",
+  "q": "Qual o comprimento do túnel rodoviário do Monte Branco, entre França e Itália, em quilômetros?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1546",
+  "q": "Qual a largura do Canal de Corinto, na Grécia, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1547",
+  "q": "Qual a altura da barragem das Três Gargantas, na China, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1548",
+  "q": "Qual a altura da represa Hoover, nos EUA, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1549",
+  "q": "Qual a altura do Taj Mahal, da base ao topo do pináculo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1550",
+  "q": "Qual o diâmetro interno da cúpula do Panteão de Roma, em metros, arredondado para o inteiro?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1551",
+  "q": "Quantos degraus tem a escada até a coroa da Estátua da Liberdade?",
+  "unidade": "degraus"
+ },
+ {
+  "id": "c1552",
+  "q": "Quantos degraus tem a escadaria interna do Monumento a Washington?",
+  "unidade": "degraus"
+ },
+ {
+  "id": "c1553",
+  "q": "Quantos andares tem a Willis Tower, em Chicago?",
+  "unidade": "andares"
+ },
+ {
+  "id": "c1554",
+  "q": "Qual a altura do One World Trade Center, em Nova York, em metros, contando o pináculo?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1555",
+  "q": "Qual a altura da Lotte World Tower, em Seul, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1556",
+  "q": "Qual a altura da Makkah Royal Clock Tower, na Arábia Saudita, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1557",
+  "q": "Qual a altura da Torre de Tóquio, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1558",
+  "q": "Quantos cômodos tem o Palácio de Buckingham, em Londres?",
+  "unidade": "cômodos"
+ },
+ {
+  "id": "c1559",
+  "q": "Quantos cômodos tem a Casa Branca, nos EUA?",
+  "unidade": "cômodos"
+ },
+ {
+  "id": "c1560",
+  "q": "Qual o recorde mundial de velocidade de um trem, alcançado pelo maglev japonês L0 em 2015, em km/h?",
+  "unidade": "km/h"
+ },
+ {
+  "id": "c1561",
+  "q": "Qual a altura do Atomium, em Bruxelas, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1562",
+  "q": "Qual o peso do sino principal do Big Ben, em toneladas?",
+  "unidade": "toneladas"
+ },
+ {
+  "id": "c1563",
+  "q": "Qual o comprimento da Grande Esfinge de Gizé, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1564",
+  "q": "Qual a altura de cada rosto esculpido no Monte Rushmore, nos EUA, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1565",
+  "q": "Qual a altura da estátua Pátria-Mãe Chama, em Volgogrado, na Rússia, em metros, incluindo a espada?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1566",
+  "q": "Qual a altura do Arco do Triunfo, em Paris, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1567",
+  "q": "Quantas plataformas tem a Grand Central Terminal, em Nova York?",
+  "unidade": "plataformas"
+ },
+ {
+  "id": "c1568",
+  "q": "Qual a envergadura dos braços abertos do Cristo Redentor, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1569",
+  "q": "Qual o comprimento de cada lado da base da Grande Pirâmide de Gizé, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1570",
+  "q": "Qual a área do Central Park, em Nova York, em hectares?",
+  "unidade": "hectares"
+ },
+ {
+  "id": "c1571",
+  "q": "Qual o peso da estátua do Cristo Redentor, em toneladas?",
+  "unidade": "toneladas"
+ },
+ {
+  "id": "c1572",
+  "q": "Qual a capacidade instalada da usina das Três Gargantas, na China, em gigawatts?",
+  "unidade": "GW"
+ },
+ {
+  "id": "c1573",
+  "q": "Qual a altura da torre de TV de Berlim, em metros?",
+  "unidade": "metros"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantas peças, somando as duas cores, tem um jogo de gamão (backgammon) no início da partida?",
+  "unidade": "peças",
+  "resposta": 30,
+  "fonte": "Regras do gamão (15 por jogador)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos painéis (gomos) tem a bola de futebol clássica de pentágonos pretos e hexágonos brancos?",
+  "unidade": "painéis",
+  "resposta": 32,
+  "fonte": "Truncated icosahedron / bola Telstar (FIFA)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos de casamento completam as bodas de ouro?",
+  "unidade": "anos",
+  "resposta": 50,
+  "fonte": "Tradição das bodas",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas cartas cada jogador recebe no início de uma partida de Uno?",
+  "unidade": "cartas",
+  "resposta": 7,
+  "fonte": "Regras oficiais do Uno (Mattel)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cordas tem um violino?",
+  "unidade": "cordas",
+  "resposta": 4,
+  "fonte": "Organologia (instrumento padrão)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas cordas tem um bandolim tradicional, contando as duplas como duas?",
+  "unidade": "cordas",
+  "resposta": 8,
+  "fonte": "Instrumento padrão (4 pares)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem uma célula comum do corpo de uma vaca?",
+  "unidade": "cromossomos",
+  "resposta": 60,
+  "fonte": "Genoma bovino (Bos taurus, 2n=60)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem uma célula comum do corpo de um porco doméstico?",
+  "unidade": "cromossomos",
+  "resposta": 38,
+  "fonte": "Genoma suíno (Sus scrofa, 2n=38)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos números (contando o zero) tem a roleta europeia de cassino?",
+  "unidade": "números",
+  "resposta": 37,
+  "fonte": "Regras da roleta europeia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "De quantas maneiras diferentes uma pessoa pode receber 5 cartas de um baralho de 52 cartas, sem importar a ordem?",
+  "unidade": "maneiras",
+  "resposta": 2598960,
+  "fonte": "Combinatória: C(52,5)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos movimentos, no mínimo, são necessários para resolver a Torre de Hanói com 8 discos?",
+  "unidade": "movimentos",
+  "resposta": 255,
+  "fonte": "Matemática recreativa (2^n - 1)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas onças tem uma libra, na medida inglesa de peso?",
+  "unidade": "onças",
+  "resposta": 16,
+  "fonte": "Sistema inglês (avoirdupois)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a cadela Laika foi lançada ao espaço a bordo do Sputnik 2?",
+  "unidade": "ano",
+  "resposta": 1957,
+  "fonte": "NASA / história da exploração espacial",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o brinquedo eletrônico Tamagotchi foi lançado no Japão?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Bandai (Wikipédia)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1198",
+  "q": "Quantas corridas de Fórmula 1 Nelson Piquet venceu?",
+  "unidade": "vitórias",
+  "resposta": 23,
+  "fonte": "Fórmula 1 / Wikipédia"
+ },
+ {
+  "id": "c1199",
+  "q": "Em que ano Alexander Fleming observou o efeito da penicilina?",
+  "unidade": "ano",
+  "resposta": 1928,
+  "fonte": "Wikipédia: Penicilina"
+ },
+ {
+  "id": "c1200",
+  "q": "Em que ano Karl Landsteiner descobriu os grupos sanguíneos do sistema ABO?",
+  "unidade": "ano",
+  "resposta": 1901,
+  "fonte": "Wikipédia: Karl Landsteiner"
+ },
+ {
+  "id": "c1201",
+  "q": "Em que ano foi feita a primeira demonstração pública de cirurgia com anestesia por éter, em Boston?",
+  "unidade": "ano",
+  "resposta": 1846,
+  "fonte": "Wikipédia: Anestesia"
+ },
+ {
+  "id": "c1202",
+  "q": "Em que ano o médico René Laennec inventou o estetoscópio?",
+  "unidade": "ano",
+  "resposta": 1816,
+  "fonte": "Wikipédia: Estetoscópio"
+ },
+ {
+  "id": "c1203",
+  "q": "Quantos bilhões de pares de bases tem o genoma humano?",
+  "unidade": "bilhões de pares de bases",
+  "resposta": 3,
+  "fonte": "Projeto Genoma Humano"
+ },
+ {
+  "id": "c1204",
+  "q": "Quantos trilhões de células tem o corpo humano adulto, segundo a estimativa de Bianconi e colegas em 2013?",
+  "unidade": "trilhões de células",
+  "resposta": 37.2,
+  "fonte": "Annals of Human Biology 2013"
+ },
+ {
+  "id": "c1205",
+  "q": "Qual é o máximo de sal por dia que a OMS recomenda para um adulto, em gramas?",
+  "unidade": "gramas",
+  "resposta": 5,
+  "fonte": "OMS"
+ },
+ {
+  "id": "c1206",
+  "q": "Segundo a OMS, o açúcar livre deve ser no máximo qual percentual da energia diária?",
+  "unidade": "%",
+  "resposta": 10,
+  "fonte": "OMS"
+ },
+ {
+  "id": "c1207",
+  "q": "Quantos minutos de atividade física moderada por semana a OMS recomenda para adultos, no mínimo?",
+  "unidade": "minutos",
+  "resposta": 150,
+  "fonte": "OMS 2020"
+ },
+ {
+  "id": "c1208",
+  "q": "Quantas horas de sono por noite a Academia Americana de Medicina do Sono recomenda, no mínimo, para um adulto?",
+  "unidade": "horas",
+  "resposta": 7,
+  "fonte": "AASM 2015"
+ },
+ {
+  "id": "c1209",
+  "q": "Quantas vértebras cervicais tem o pescoço de uma girafa?",
+  "unidade": "vértebras",
+  "resposta": 7,
+  "fonte": "Wikipédia: Girafa"
+ },
+ {
+  "id": "c1210",
+  "q": "Quantas costelas tem o corpo de um adulto, no total?",
+  "unidade": "costelas",
+  "resposta": 24,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1211",
+  "q": "Qual é o limite superior da frequência cardíaca de repouso considerada normal em adultos, em batimentos por minuto?",
+  "unidade": "bpm",
+  "resposta": 100,
+  "fonte": "American Heart Association"
+ },
+ {
+  "id": "c1212",
+  "q": "Qual é o valor da pressão arterial sistólica considerada ideal, em mmHg, o famoso \"12 por 8\" na linguagem popular?",
+  "unidade": "mmHg",
+  "resposta": 120,
+  "fonte": "Sociedade Brasileira de Cardiologia"
+ },
+ {
+  "id": "c1213",
+  "q": "Quantos litros de sangue o coração de um adulto em repouso bombeia por minuto, em média?",
+  "unidade": "litros",
+  "resposta": 5,
+  "fonte": "Fisiologia humana (Guyton)"
+ },
+ {
+  "id": "c1214",
+  "q": "Quantos milímetros por mês crescem, em média, as unhas das mãos?",
+  "unidade": "mm",
+  "resposta": 3,
+  "fonte": "Dermatologia (consenso)"
+ },
+ {
+  "id": "c1215",
+  "q": "Quantos fios de cabelo tem, em média, uma cabeça humana?",
+  "unidade": "fios",
+  "resposta": 100000,
+  "fonte": "Sociedade Brasileira de Dermatologia"
+ },
+ {
+  "id": "c1216",
+  "q": "Quantos dias dura, em média, um ciclo menstrual?",
+  "unidade": "dias",
+  "resposta": 28,
+  "fonte": "Ginecologia (consenso)"
+ },
+ {
+  "id": "c1217",
+  "q": "Se esticássemos o DNA de uma única célula humana, qual seria seu comprimento, em metros?",
+  "unidade": "metros",
+  "resposta": 2,
+  "fonte": "NIH / Genome.gov"
+ },
+ {
+  "id": "c1218",
+  "q": "Qual é a pontuação máxima na Escala de Coma de Glasgow?",
+  "unidade": "pontos",
+  "resposta": 15,
+  "fonte": "Wikipédia: Escala de coma de Glasgow"
+ },
+ {
+  "id": "c1219",
+  "q": "Qual é a nota máxima do teste de Apgar, aplicado nos recém-nascidos?",
+  "unidade": "pontos",
+  "resposta": 10,
+  "fonte": "Wikipédia: Índice de Apgar"
+ },
+ {
+  "id": "c1220",
+  "q": "Quantos aminoácidos essenciais o ser humano adulto precisa obter da alimentação?",
+  "unidade": "aminoácidos",
+  "resposta": 9,
+  "fonte": "Bioquímica (consenso)"
+ },
+ {
+  "id": "c1221",
+  "q": "Quantos mililitros de sangue são coletados, em média, em uma doação de sangue no Brasil?",
+  "unidade": "mL",
+  "resposta": 450,
+  "fonte": "Ministério da Saúde"
+ },
+ {
+  "id": "c1222",
+  "q": "Qual é o intervalo mínimo entre doações de sangue para um homem no Brasil, em dias?",
+  "unidade": "dias",
+  "resposta": 60,
+  "fonte": "Ministério da Saúde"
+ },
+ {
+  "id": "c1223",
+  "q": "Quantos minutos dura, em média, um ciclo completo de sono de um adulto?",
+  "unidade": "minutos",
+  "resposta": 90,
+  "fonte": "Medicina do sono (consenso)"
+ },
+ {
+  "id": "c1224",
+  "q": "Quantos centímetros mede, em média, o esôfago de um adulto?",
+  "unidade": "cm",
+  "resposta": 25,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1225",
+  "q": "Quantos metros mede, em média, o intestino grosso de um adulto?",
+  "unidade": "metros",
+  "resposta": 1.5,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1226",
+  "q": "Quantos dentes incisivos tem um adulto com a dentição completa?",
+  "unidade": "dentes",
+  "resposta": 8,
+  "fonte": "Odontologia"
+ },
+ {
+  "id": "c1227",
+  "q": "Quantos sisos um adulto pode ter, no máximo?",
+  "unidade": "dentes",
+  "resposta": 12,
+  "fonte": "Odontologia"
+ },
+ {
+  "id": "c1228",
+  "q": "Quantas costelas flutuantes tem o corpo humano, somando os dois lados?",
+  "unidade": "costelas",
+  "resposta": 4,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1229",
+  "q": "Quantos pares de nervos saem da medula espinhal?",
+  "unidade": "pares",
+  "resposta": 31,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1230",
+  "q": "Quantas vértebras tem a coluna de um recém-nascido, contando as que depois se fundem?",
+  "unidade": "vértebras",
+  "resposta": 33,
+  "fonte": "Anatomia humana"
+ },
+ {
+  "id": "c1231",
+  "q": "Abaixo de qual temperatura corporal, em graus Celsius, se considera hipotermia?",
+  "unidade": "°C",
+  "resposta": 35,
+  "fonte": "Medicina (consenso)"
+ },
+ {
+  "id": "c1232",
+  "q": "A partir de qual valor de hemoglobina glicada, em %, se diagnostica diabetes?",
+  "unidade": "%",
+  "resposta": 6.5,
+  "fonte": "Sociedade Brasileira de Diabetes"
+ },
+ {
+  "id": "c1233",
+  "q": "Quantos miligramas de cálcio por dia um adulto de 19 a 50 anos precisa, segundo o NIH?",
+  "unidade": "mg",
+  "resposta": 1000,
+  "fonte": "NIH"
+ },
+ {
+  "id": "c1234",
+  "q": "Quantas calorias tem 100 gramas de macarrão cozido?",
+  "unidade": "kcal",
+  "resposta": 158,
+  "fonte": "USDA"
+ },
+ {
+  "id": "c1235",
+  "q": "Quantas calorias tem 100 gramas de brócolis cru?",
+  "unidade": "kcal",
+  "resposta": 34,
+  "fonte": "USDA"
+ }
+]

@@ -1,0 +1,191 @@
+[
+ {
+  "id": "c1616",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer",
+  "obs": "US$1,565 base 16KB"
+ },
+ {
+  "id": "c1617",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+  "obs": "US$2,495"
+ },
+ {
+  "id": "c1618",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+  "obs": "US$499 Wi-Fi 16GB"
+ },
+ {
+  "id": "c1619",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
+  "obs": "US$35 Model B"
+ },
+ {
+  "id": "c1620",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "obs": "23/6/1912-7/6/1954"
+ },
+ {
+  "id": "c1621",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+  "obs": "nasc. 28/12/1969; anúncio 25/8/1991"
+ },
+ {
+  "id": "c1622",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+  "obs": "US$1 bi em 3 dias"
+ },
+ {
+  "id": "c1623",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/YouTube",
+  "obs": "500+ h/min em maio 2019"
+ },
+ {
+  "id": "c1624",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/GPT-3",
+  "obs": "175 bi"
+ },
+ {
+  "id": "c1625",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook",
+  "obs": "~US$104 bi no preço da oferta"
+ },
+ {
+  "id": "c1626",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Gmail",
+  "obs": "1 GB"
+ },
+ {
+  "id": "c1627",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Outlook.com",
+  "obs": "estimado US$400 mi"
+ },
+ {
+  "id": "c1628",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.businessinsider.nl/instagram-first-13-employees-full-list-2020-4",
+  "obs": "13 funcionários em abril 2012"
+ },
+ {
+  "id": "c1629",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.npr.org/sections/thetwo-way/2014/02/19/279763675/facebook-will-buy-whatsapp-message-service-for-19-billion",
+  "obs": "55 funcionários (Forbes/NPR)"
+ },
+ {
+  "id": "c1630",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Function_key",
+  "obs": "12 teclas F1-F12"
+ },
+ {
+  "id": "c1631",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Game_Boy",
+  "obs": "infobox 89,99; texto 89,95"
+ },
+ {
+  "id": "c1632",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+  "obs": "US$299"
+ },
+ {
+  "id": "c1633",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+  "obs": "40,24 mi NES"
+ },
+ {
+  "id": "c1634",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://www.nbcnews.com/id/wbna18140941",
+  "obs": "US$1 de salário"
+ },
+ {
+  "id": "c1635",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+  "obs": "US$3,499"
+ },
+ {
+  "id": "c1636",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+  "obs": "US$299,99 (299 ok)"
+ },
+ {
+  "id": "c1637",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Atari_2600",
+  "obs": "US$199 (infobox 189,95)"
+ },
+ {
+  "id": "c1638",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Commodore_64",
+  "obs": "US$595"
+ },
+ {
+  "id": "c1639",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Apple_II",
+  "obs": "US$1,298 4KB"
+ },
+ {
+  "id": "c1640",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Apple_Lisa",
+  "obs": "US$9,995"
+ },
+ {
+  "id": "c1641",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Google_Glass",
+  "obs": "US$1.500"
+ },
+ {
+  "id": "c1642",
+  "status": "confirmada",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+  "obs": "10/12/1815-27/11/1852"
+ }
+]

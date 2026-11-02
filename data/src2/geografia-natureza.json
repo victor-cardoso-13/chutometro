@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Qual a altitude do Monte Kinabalu, na ilha de Bornéu (Malásia), em metros?",
+  "unidade": "metros",
+  "resposta": 4095,
+  "fonte": "Wikipédia / Sabah Parks",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Aoraki (Monte Cook), o ponto mais alto da Nova Zelândia, em metros?",
+  "unidade": "metros",
+  "resposta": 3724,
+  "fonte": "Wikipédia / Land Information NZ",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Kangchenjunga, a terceira montanha mais alta do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 8586,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do Salto Angel, na Venezuela, a cachoeira mais alta do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 979,
+  "fonte": "Wikipédia / Guinness",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a profundidade máxima do Lago Tanganica, na África, em metros?",
+  "unidade": "metros",
+  "resposta": 1470,
+  "fonte": "Wikipédia / Britannica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude fica Quito, capital do Equador, em metros?",
+  "unidade": "metros",
+  "resposta": 2850,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que altitude fica a Cidade do México, em metros?",
+  "unidade": "metros",
+  "resposta": 2240,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Monte Quênia, na África, em metros?",
+  "unidade": "metros",
+  "resposta": 5199,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Monte Ararate, na Turquia, em metros?",
+  "unidade": "metros",
+  "resposta": 5137,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do Pico del Teide, nas Ilhas Canárias, em metros?",
+  "unidade": "metros",
+  "resposta": 3715,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altitude do vulcão Mauna Loa, no Havaí, em metros?",
+  "unidade": "metros",
+  "resposta": 4169,
+  "fonte": "USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a velocidade do vento mais forte já medida em terra nos Estados Unidos, no Monte Washington em 1934, em km/h?",
+  "unidade": "km/h",
+  "resposta": 372,
+  "fonte": "NOAA / Mount Washington Observatory",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a menor temperatura já registrada na Terra, na estação russa de Vostok, na Antártida, em 1983, em °C?",
+  "unidade": "°C",
+  "resposta": -89.2,
+  "fonte": "OMM (WMO)",
+  "ano": 1983,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que latitude norte fica o Círculo Polar Ártico, em graus (com uma casa decimal)?",
+  "unidade": "graus",
+  "resposta": 66.5,
+  "fonte": "Britannica / NOAA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos graus de longitude a Terra gira a cada hora?",
+  "unidade": "graus",
+  "resposta": 15,
+  "fonte": "Astronomia básica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Que porcentagem da superfície da Terra é coberta por água?",
+  "unidade": "%",
+  "resposta": 71,
+  "fonte": "USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em média, quantos gramas de sal há em cada litro de água do mar?",
+  "unidade": "gramas",
+  "resposta": 35,
+  "fonte": "NOAA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Há quantos milhões de anos os dinossauros não aviários foram extintos?",
+  "unidade": "milhões de anos",
+  "resposta": 66,
+  "fonte": "Consenso científico",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o diâmetro, em centímetros, da maior pedra de granizo registrada nos EUA, em Vivian (Dakota do Sul), em 2010?",
+  "unidade": "cm",
+  "resposta": 20.3,
+  "fonte": "NOAA / NWS",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Que porcentagem dos vulcões ativos do mundo fica no chamado Círculo de Fogo do Pacífico, segundo o USGS?",
+  "unidade": "%",
+  "resposta": 75,
+  "fonte": "USGS",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área da Argentina, em milhões de km²?",
+  "unidade": "milhões de km²",
+  "resposta": 2.78,
+  "fonte": "Wikipédia / IGN Argentina",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Japão, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 378,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Itália, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 301,
+  "fonte": "Wikipédia / ISTAT",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área de Portugal, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 92,
+  "fonte": "Wikipédia / INE",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a área de Malta, em km²?",
+  "unidade": "km²",
+  "resposta": 316,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Liechtenstein, em km²?",
+  "unidade": "km²",
+  "resposta": 160,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Espanha, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 506,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Nova Zelândia, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 268,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Finlândia, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 338,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área de Cuba, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 110,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Suíça, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 41,
+  "fonte": "Wikipédia / Escritório Federal de Estatística",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Irlanda, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 70,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Grécia, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 132,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Chile, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 756,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Uruguai, em milhares de km²?",
+  "unidade": "milhares de km²",
+  "resposta": 176,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinham os Estados Unidos no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 331.4,
+  "fonte": "US Census Bureau",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a Índia no Censo de 2011?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1211,
+  "fonte": "Census of India",
+  "ano": 2011,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o Canadá no Censo de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 37,
+  "fonte": "Statistics Canada",
+  "ano": 2021,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha Portugal nos Censos de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 10.3,
+  "fonte": "INE Portugal",
+  "ano": 2021,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a Argentina no Censo de 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 46,
+  "fonte": "INDEC",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o México no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 126,
+  "fonte": "INEGI",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade do México (sem a região metropolitana) no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 9.2,
+  "fonte": "INEGI",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Buenos Aires (sem a região metropolitana) no Censo de 2022?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.1,
+  "fonte": "INDEC",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Los Angeles no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 3.9,
+  "fonte": "US Census Bureau",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Chicago no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.7,
+  "fonte": "US Census Bureau",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a cidade de Toronto no Censo de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.8,
+  "fonte": "Statistics Canada",
+  "ano": 2021,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a China no Censo de 2020, sem contar Hong Kong e Macau?",
+  "unidade": "milhões de habitantes",
+  "resposta": 1411.8,
+  "fonte": "Escritório Nacional de Estatísticas da China",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha o Japão no Censo de 2020?",
+  "unidade": "milhões de habitantes",
+  "resposta": 126.1,
+  "fonte": "Statistics Bureau of Japan",
+  "ano": 2020,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos milhões de habitantes tinha a Austrália no Censo de 2021?",
+  "unidade": "milhões de habitantes",
+  "resposta": 25.4,
+  "fonte": "ABS",
+  "ano": 2021,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em quantas prefeituras (divisões administrativas) o Japão é dividido?",
+  "unidade": "prefeituras",
+  "resposta": 47,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas comunidades autônomas tem a Espanha?",
+  "unidade": "comunidades",
+  "resposta": 17,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em quantas regiões administrativas a Itália é dividida?",
+  "unidade": "regiões",
+  "resposta": 20,
+  "fonte": "Wikipédia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em quantas regiões administrativas a França metropolitana é dividida desde 2016?",
+  "unidade": "regiões",
+  "resposta": 13,
+  "fonte": "Wikipédia / Governo francês",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos meses dura a gestação de uma elefanta?",
+  "unidade": "meses",
+  "resposta": 22,
+  "fonte": "Britannica / WWF",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o comprimento máximo de uma baleia-azul, o maior animal do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 30,
+  "fonte": "NOAA / Britannica",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano o Parque Nacional de Yellowstone, o primeiro do mundo, foi criado?",
+  "unidade": "ano",
+  "resposta": 1872,
+  "fonte": "National Park Service",
+  "ano": 1872,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano morreu em cativeiro o último tilacino (tigre-da-tasmânia) conhecido?",
+  "unidade": "ano",
+  "resposta": 1936,
+  "fonte": "Museu Australiano / Wikipédia",
+  "ano": 1936,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o vulcão Monte Pelée destruiu a cidade de Saint-Pierre, na Martinica?",
+  "unidade": "ano",
+  "resposta": 1902,
+  "fonte": "Wikipédia / USGS",
+  "ano": 1902,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano o furacão Katrina atingiu Nova Orleans, nos EUA?",
+  "unidade": "ano",
+  "resposta": 2005,
+  "fonte": "NOAA",
+  "ano": 2005,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano um terremoto devastou o Haiti, perto de Porto Príncipe?",
+  "unidade": "ano",
+  "resposta": 2010,
+  "fonte": "USGS",
+  "ano": 2010,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

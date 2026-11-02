@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantos graus Celsius abaixo de zero fica o zero absoluto, a menor temperatura possível (arredonde para número inteiro)?",
+  "unidade": "°C abaixo de zero",
+  "resposta": 273,
+  "fonte": "Física (273,15 K = 0 °C)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a temperatura da radiação cósmica de fundo, o eco do Big Bang que preenche o Universo, em kelvins (com uma casa decimal)?",
+  "unidade": "K",
+  "resposta": 2.7,
+  "fonte": "NASA / COBE e Planck (2,725 K)",
+  "ano": 2018,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos vértices tem um tesseract, o hipercubo de quatro dimensões?",
+  "unidade": "vértices",
+  "resposta": 16,
+  "fonte": "Geometria (2^4)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos números primos existem abaixo de 10.000?",
+  "unidade": "números primos",
+  "resposta": 1229,
+  "fonte": "Teoria dos números (função π(10^4))",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos segundos a luz leva para ir da Lua até a Terra, em média (com uma casa decimal)?",
+  "unidade": "segundos",
+  "resposta": 1.3,
+  "fonte": "NASA (384.400 km / velocidade da luz)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a densidade do ósmio, o elemento mais denso que existe, em g/cm³ (arredondado a uma casa decimal)?",
+  "unidade": "g/cm³",
+  "resposta": 22.6,
+  "fonte": "CRC Handbook / Wikipédia (22,59 g/cm³)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura o ouro derrete, em °C (arredondado para inteiro)?",
+  "unidade": "°C",
+  "resposta": 1064,
+  "fonte": "CRC Handbook (1064,18 °C)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quanto vale o número pi com cinco casas decimais?",
+  "unidade": "número",
+  "resposta": 3.14159,
+  "fonte": "Matemática (3,14159265...)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano o astrônomo Clyde Tombaugh descobriu Plutão?",
+  "unidade": "ano",
+  "resposta": 1930,
+  "fonte": "Lowell Observatory / NASA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "A que temperatura ferve o hélio, o gás que enche balões de festa, em kelvins (com uma casa decimal)?",
+  "unidade": "K",
+  "resposta": 4.2,
+  "fonte": "CRC Handbook (4,22 K)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a densidade do mercúrio, o metal líquido, em g/cm³ (arredondado a uma casa decimal)?",
+  "unidade": "g/cm³",
+  "resposta": 13.5,
+  "fonte": "CRC Handbook (13,534 g/cm³)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos leva para que metade do carbono-14 de um fóssil se desintegre (meia-vida usada na datação por radiocarbono)?",
+  "unidade": "anos",
+  "resposta": 5730,
+  "fonte": "Física nuclear (valor de Cambridge, 5.730 anos)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos prótons tem o núcleo de um átomo de carbono, a base da vida na Terra?",
+  "unidade": "prótons",
+  "resposta": 6,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é o número atômico do neônio, o gás das placas luminosas, isto é, quantos prótons tem um átomo dele?",
+  "unidade": "prótons",
+  "resposta": 10,
+  "fonte": "Tabela periódica (IUPAC)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

@@ -1,7 +1,8 @@
 /** Funções puras do Chutômetro (sem tela, sem internet). Regras e números: src/motor/regras.ts. */
 import { ANO_REF, LIMITE_DIGITOS, PONTOS, RODADAS_INATIVO } from './regras.ts';
 
-export interface Pergunta { id: string; q: string; u: string; r: number; cat: string; d: number }
+/** `v: 1` = pergunta "veterana" (já saiu muito): só aparece depois que as outras acabarem. */
+export interface Pergunta { id: string; q: string; u: string; r: number; cat: string; d: number; v?: 1 }
 
 const arred = (n: number, casas = 6) => Math.round(n * 10 ** casas) / 10 ** casas;
 
@@ -58,12 +59,14 @@ export function ganhadoresDaPartida(js: { id: string; pts: number }[]): string[]
 }
 
 /**
- * Próxima pergunta: nunca uma já usada nesta partida/sala (`usadas`); prefere as que a pessoa ainda
+ * Próxima pergunta: nunca uma já usada nesta partida/sala (`usadas`); deixa as veteranas (`v`) por último; prefere as que a pessoa ainda
  * não viu (`vistas`) e evita repetir a categoria da anterior. `undefined` = acabaram.
  */
 export function sortearPergunta(todas: Pergunta[], usadas: Set<string>, vistas: Set<string>, ultimaCat?: string, rnd = Math.random): Pergunta | undefined {
   let pool = todas.filter((q) => !usadas.has(q.id));
   if (!pool.length) return undefined;
+  const frescas = pool.filter((q) => !q.v); // veteranas ficam em segundo plano
+  if (frescas.length) pool = frescas;
   const novas = pool.filter((q) => !vistas.has(q.id));
   if (novas.length) pool = novas;
   const outraCat = pool.filter((q) => q.cat !== ultimaCat);

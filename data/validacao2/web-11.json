@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1464",
+  "q": "Em quantas prefeituras o Japão é dividido?",
+  "unidade": "prefeituras",
+  "resposta": 47,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1465",
+  "q": "Quantas comunidades autônomas tem a Espanha?",
+  "unidade": "comunidades",
+  "resposta": 17,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1466",
+  "q": "Em quantas regiões administrativas a Itália é dividida?",
+  "unidade": "regiões",
+  "resposta": 20,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1467",
+  "q": "Em quantas regiões administrativas a França metropolitana é dividida desde 2016?",
+  "unidade": "regiões",
+  "resposta": 13,
+  "fonte": "Wikipédia / Governo francês"
+ },
+ {
+  "id": "c1468",
+  "q": "Qual o comprimento máximo de uma baleia-azul, o maior animal do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 30,
+  "fonte": "NOAA / Britannica"
+ },
+ {
+  "id": "c1469",
+  "q": "Em que ano o Parque Nacional de Yellowstone, o primeiro do mundo, foi criado?",
+  "unidade": "ano",
+  "resposta": 1872,
+  "fonte": "National Park Service"
+ },
+ {
+  "id": "c1470",
+  "q": "Em que ano morreu em cativeiro o último tilacino conhecido?",
+  "unidade": "ano",
+  "resposta": 1936,
+  "fonte": "Museu Australiano / Wikipédia"
+ },
+ {
+  "id": "c1471",
+  "q": "Em que ano o vulcão Monte Pelée destruiu a cidade de Saint-Pierre, na Martinica?",
+  "unidade": "ano",
+  "resposta": 1902,
+  "fonte": "Wikipédia / USGS"
+ },
+ {
+  "id": "c1472",
+  "q": "Em que ano o furacão Katrina atingiu Nova Orleans, nos EUA?",
+  "unidade": "ano",
+  "resposta": 2005,
+  "fonte": "NOAA"
+ },
+ {
+  "id": "c1473",
+  "q": "Em que ano um terremoto devastou o Haiti, perto de Porto Príncipe?",
+  "unidade": "ano",
+  "resposta": 2010,
+  "fonte": "USGS"
+ },
+ {
+  "id": "c1474",
+  "q": "Em que ano os revolucionários franceses tomaram a prisão da Bastilha, em Paris?",
+  "unidade": "ano",
+  "resposta": 1789,
+  "fonte": "Wikipédia: Tomada da Bastilha"
+ },
+ {
+  "id": "c1475",
+  "q": "Em que ano caiu o Muro de Berlim?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Wikipédia: Queda do Muro de Berlim"
+ },
+ {
+  "id": "c1476",
+  "q": "Em que ano Cristóvão Colombo chegou pela primeira vez à América?",
+  "unidade": "ano",
+  "resposta": 1492,
+  "fonte": "Wikipédia: Cristóvão Colombo"
+ },
+ {
+  "id": "c1477",
+  "q": "Em que ano as Treze Colônias norte-americanas declararam independência da Inglaterra?",
+  "unidade": "ano",
+  "resposta": 1776,
+  "fonte": "Wikipédia: Declaração de Independência dos EUA"
+ },
+ {
+  "id": "c1478",
+  "q": "Em que ano o Japão atacou a base americana de Pearl Harbor?",
+  "unidade": "ano",
+  "resposta": 1941,
+  "fonte": "Wikipédia: Ataque a Pearl Harbor"
+ },
+ {
+  "id": "c1479",
+  "q": "Em que ano Napoleão foi derrotado em sua batalha final, na Bélgica?",
+  "unidade": "ano",
+  "resposta": 1815,
+  "fonte": "Wikipédia: Batalha de Waterloo"
+ },
+ {
+  "id": "c1480",
+  "q": "Em que ano a União Soviética foi oficialmente dissolvida?",
+  "unidade": "ano",
+  "resposta": 1991,
+  "fonte": "Wikipédia: Dissolução da União Soviética"
+ },
+ {
+  "id": "c1481",
+  "q": "Em que ano os bolcheviques tomaram o poder na Revolução Russa de outubro?",
+  "unidade": "ano",
+  "resposta": 1917,
+  "fonte": "Wikipédia: Revolução de Outubro"
+ },
+ {
+  "id": "c1482",
+  "q": "Em que ano ocorreu o acidente nuclear de Chernobyl?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "Wikipédia: Desastre de Chernobyl"
+ },
+ {
+  "id": "c1483",
+  "q": "Quantos botes salva-vidas o Titanic tinha?",
+  "unidade": "botes",
+  "resposta": 20,
+  "fonte": "Wikipédia: RMS Titanic"
+ },
+ {
+  "id": "c1484",
+  "q": "Quantos minutos o Titanic levou para afundar depois de bater no iceberg?",
+  "unidade": "minutos",
+  "resposta": 160,
+  "fonte": "Wikipédia: Naufrágio do Titanic (2h40)"
+ },
+ {
+  "id": "c1485",
+  "q": "Quantos degraus tem a escada interna da Estátua da Liberdade até a coroa?",
+  "unidade": "degraus",
+  "resposta": 354,
+  "fonte": "National Park Service"
+ },
+ {
+  "id": "c1486",
+  "q": "Quantos anos reinou a rainha Vitória do Reino Unido?",
+  "unidade": "anos",
+  "resposta": 63,
+  "fonte": "Wikipédia: Vitória do Reino Unido (63 anos e 216 dias)"
+ },
+ {
+  "id": "c1487",
+  "q": "Quantos anos o rei francês Luís XIV ficou no trono, o reinado mais longo da Europa?",
+  "unidade": "anos",
+  "resposta": 72,
+  "fonte": "Wikipédia: Luís XIV (72 anos e 110 dias)"
+ },
+ {
+  "id": "c1488",
+  "q": "Quantos anos durou o reinado da rainha Elizabeth II do Reino Unido?",
+  "unidade": "anos",
+  "resposta": 70,
+  "fonte": "Wikipédia: Elizabeth II (70 anos e 214 dias)"
+ },
+ {
+  "id": "c1489",
+  "q": "Quantos dias durou a missão Apollo 11, da decolagem à volta à Terra?",
+  "unidade": "dias",
+  "resposta": 8,
+  "fonte": "NASA: Apollo 11 (8 d 3 h)"
+ },
+ {
+  "id": "c1490",
+  "q": "Quantas horas durou a travessia do Atlântico de Charles Lindbergh sem escalas, de Nova York a Paris?",
+  "unidade": "horas",
+  "resposta": 33.5,
+  "fonte": "Wikipédia: Charles Lindbergh (33 h 30 min)"
+ },
+ {
+  "id": "c1491",
+  "q": "Quantos tripulantes sobreviveram e voltaram à Espanha no navio Victoria, na primeira volta ao mundo de Magalhães e Elcano?",
+  "unidade": "homens",
+  "resposta": 18,
+  "fonte": "Wikipédia: Expedição Magalhães-Elcano"
+ },
+ {
+  "id": "c1492",
+  "q": "Qual era o comprimento do Muro de Berlim em torno de Berlim Ocidental, em km?",
+  "unidade": "km",
+  "resposta": 155,
+  "fonte": "Wikipédia: Muro de Berlim (155 km)"
+ },
+ {
+  "id": "c1493",
+  "q": "Quantos anos o Muro de Berlim ficou de pé, da construção à queda?",
+  "unidade": "anos",
+  "resposta": 28,
+  "fonte": "Wikipédia: Muro de Berlim (1961-1989)"
+ },
+ {
+  "id": "c1494",
+  "q": "Qual era o comprimento da Muralha de Adriano, construída pelos romanos na Britânia, em km?",
+  "unidade": "km",
+  "resposta": 117,
+  "fonte": "Wikipédia: Muralha de Adriano (73 milhas)"
+ },
+ {
+  "id": "c1495",
+  "q": "Segundo o historiador Suetônio, quantas facadas Júlio César levou ao ser assassinado?",
+  "unidade": "facadas",
+  "resposta": 23,
+  "fonte": "Suetônio, Vida dos Doze Césares"
+ },
+ {
+  "id": "c1496",
+  "q": "Quantos anos Marco Polo ficou fora de Veneza em sua viagem à Ásia?",
+  "unidade": "anos",
+  "resposta": 24,
+  "fonte": "Wikipédia: Marco Polo"
+ },
+ {
+  "id": "c1497",
+  "q": "Qual é o comprimento da ferrovia Transiberiana, de Moscou a Vladivostok, em km?",
+  "unidade": "km",
+  "resposta": 9289,
+  "fonte": "Wikipédia: Ferrovia Transiberiana"
+ },
+ {
+  "id": "c1498",
+  "q": "Qual é o raio da zona de exclusão em volta da usina de Chernobyl, em km?",
+  "unidade": "km",
+  "resposta": 30,
+  "fonte": "Wikipédia: Zona de exclusão de Chernobyl"
+ },
+ {
+  "id": "c1499",
+  "q": "Qual era a altura do presidente americano Abraham Lincoln, em centímetros?",
+  "unidade": "cm",
+  "resposta": 193,
+  "fonte": "Wikipédia: Abraham Lincoln (6 pés 4 pol)"
+ },
+ {
+  "id": "c1500",
+  "q": "Quantos aviões japoneses participaram do ataque a Pearl Harbor nas duas ondas?",
+  "unidade": "aviões",
+  "resposta": 353,
+  "fonte": "Wikipédia: Ataque a Pearl Harbor"
+ },
+ {
+  "id": "c1501",
+  "q": "Quantos dias durou a Crise dos Mísseis de Cuba, em 1962, entre EUA e URSS?",
+  "unidade": "dias",
+  "resposta": 13,
+  "fonte": "Wikipédia: Crise dos mísseis de Cuba"
+ }
+]

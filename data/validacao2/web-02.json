@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1122",
+  "q": "Quantas senhas secretas diferentes são possíveis no Mastermind clássico, com repetição de cores?",
+  "unidade": "combinações",
+  "resposta": 1296,
+  "fonte": "Combinatória (6 elevado a 4)"
+ },
+ {
+  "id": "c1123",
+  "q": "Quantas salas tem a mansão do jogo Detetive?",
+  "unidade": "salas",
+  "resposta": 9,
+  "fonte": "Hasbro"
+ },
+ {
+  "id": "c1124",
+  "q": "Quantas partidas diferentes de jogo da velha são possíveis, contando todas as sequências de jogadas?",
+  "unidade": "partidas",
+  "resposta": 255168,
+  "fonte": "Combinatória (Wolfram MathWorld)"
+ },
+ {
+  "id": "c1125",
+  "q": "Quantas bolas, contando a branca, tem uma mesa de snooker?",
+  "unidade": "bolas",
+  "resposta": 22,
+  "fonte": "World Snooker"
+ },
+ {
+  "id": "c1126",
+  "q": "Quantos pontos vale a maior sequência possível numa tacada de snooker?",
+  "unidade": "pontos",
+  "resposta": 147,
+  "fonte": "World Snooker"
+ },
+ {
+  "id": "c1127",
+  "q": "Quantos pontos vale uma partida perfeita de boliche?",
+  "unidade": "pontos",
+  "resposta": 300,
+  "fonte": "World Bowling"
+ },
+ {
+  "id": "c1128",
+  "q": "Qual a maior pontuação possível numa rodada de três dardos?",
+  "unidade": "pontos",
+  "resposta": 180,
+  "fonte": "World Darts Federation"
+ },
+ {
+  "id": "c1129",
+  "q": "Qual o diâmetro oficial, em milímetros, de uma bola de tênis de mesa?",
+  "unidade": "mm",
+  "resposta": 40,
+  "fonte": "Federação Internacional de Tênis de Mesa"
+ },
+ {
+  "id": "c1130",
+  "q": "Quantas peças tem o set Millennium Falcon da Lego (referência 75192)?",
+  "unidade": "peças",
+  "resposta": 7541,
+  "fonte": "Lego"
+ },
+ {
+  "id": "c1131",
+  "q": "Quantos pontos fez a partida perfeita de Pac-Man, em 1999, feita por Billy Mitchell?",
+  "unidade": "pontos",
+  "resposta": 3333360,
+  "fonte": "Twin Galaxies"
+ },
+ {
+  "id": "c1132",
+  "q": "Quantos pontos tem uma cela do alfabeto braille?",
+  "unidade": "pontos",
+  "resposta": 6,
+  "fonte": "Sistema braille (Louis Braille)"
+ },
+ {
+  "id": "c1133",
+  "q": "Quantos minutos dura cada ciclo de foco na técnica Pomodoro?",
+  "unidade": "minutos",
+  "resposta": 25,
+  "fonte": "Francesco Cirillo"
+ },
+ {
+  "id": "c1134",
+  "q": "Quantos megabytes cabem num CD-R padrão de dados?",
+  "unidade": "MB",
+  "resposta": 700,
+  "fonte": "Padrão Orange Book"
+ },
+ {
+  "id": "c1135",
+  "q": "Em que ano foi lançado o Pac-Man?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "Namco"
+ },
+ {
+  "id": "c1136",
+  "q": "Em que ano foram lançados os primeiros carrinhos Hot Wheels?",
+  "unidade": "ano",
+  "resposta": 1968,
+  "fonte": "Mattel"
+ },
+ {
+  "id": "c1137",
+  "q": "Em que ano foram lançados os primeiros jogos de Pokémon, no Japão?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1138",
+  "q": "Em que ano foi lançado o Game Boy original, no Japão?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1139",
+  "q": "Em que ano foi lançado o Super Mario Bros. para o Nintendo de 8 bits no Japão?",
+  "unidade": "ano",
+  "resposta": 1985,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1140",
+  "q": "Em que ano foi lançado o primeiro PlayStation, no Japão?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Sony"
+ },
+ {
+  "id": "c1141",
+  "q": "Quantas calorias tem 100 gramas de açúcar refinado?",
+  "unidade": "kcal",
+  "resposta": 387,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1142",
+  "q": "Em que ano foi inaugurada a cidade de Brasília?",
+  "unidade": "ano",
+  "resposta": 1960,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1143",
+  "q": "Em que ano foi assinada a Lei Áurea, que aboliu a escravidão no Brasil?",
+  "unidade": "ano",
+  "resposta": 1888,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1144",
+  "q": "Em que ano nasceu o escritor Machado de Assis?",
+  "unidade": "ano",
+  "resposta": 1839,
+  "fonte": "Academia Brasileira de Letras"
+ },
+ {
+  "id": "c1145",
+  "q": "Em que ano foi fundada a cidade do Rio de Janeiro?",
+  "unidade": "ano",
+  "resposta": 1565,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1146",
+  "q": "Em que ano foi criada a Petrobras?",
+  "unidade": "ano",
+  "resposta": 1953,
+  "fonte": "Petrobras / Wikipédia"
+ },
+ {
+  "id": "c1147",
+  "q": "Em que ano o Brasil declarou guerra à Alemanha nazista na Segunda Guerra Mundial?",
+  "unidade": "ano",
+  "resposta": 1942,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1148",
+  "q": "Quantos títulos mundiais de Fórmula 1 Ayrton Senna conquistou?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "Fórmula 1 / Wikipédia"
+ },
+ {
+  "id": "c1149",
+  "q": "Somando Emerson Fittipaldi, Nelson Piquet e Ayrton Senna, quantos títulos mundiais de pilotos de Fórmula 1 o Brasil tem?",
+  "unidade": "títulos",
+  "resposta": 8,
+  "fonte": "Fórmula 1 / Wikipédia"
+ },
+ {
+  "id": "c1150",
+  "q": "Quantas medalhas olímpicas a ginasta Rebeca Andrade tinha depois dos Jogos de Paris 2024?",
+  "unidade": "medalhas",
+  "resposta": 6,
+  "fonte": "COB / Wikipédia"
+ },
+ {
+  "id": "c1151",
+  "q": "Quantos gols Ronaldo marcou na final da Copa do Mundo de 2002?",
+  "unidade": "gols",
+  "resposta": 2,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1152",
+  "q": "Em quantas Copas do Mundo diferentes Mário Zagallo foi campeão, somando as como jogador, técnico e coordenador técnico?",
+  "unidade": "Copas",
+  "resposta": 4,
+  "fonte": "CBF / Wikipédia"
+ },
+ {
+  "id": "c1153",
+  "q": "Qual é a altitude do Pico da Bandeira, na divisa de Minas Gerais com o Espírito Santo, em metros?",
+  "unidade": "metros",
+  "resposta": 2892,
+  "fonte": "IBGE / Wikipédia"
+ },
+ {
+  "id": "c1154",
+  "q": "Qual é a altitude do morro do Corcovado, no Rio de Janeiro, em metros?",
+  "unidade": "metros",
+  "resposta": 710,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1155",
+  "q": "Qual é a extensão total da Ponte Rio-Niterói, em quilômetros?",
+  "unidade": "km",
+  "resposta": 13.3,
+  "fonte": "Wikipédia / Ecoponte"
+ },
+ {
+  "id": "c1156",
+  "q": "Quantos municípios tem o estado de Minas Gerais, o recordista do Brasil em número de municípios, segundo o IBGE?",
+  "unidade": "municípios",
+  "resposta": 853,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1157",
+  "q": "Quantos municípios tem o estado de Roraima, segundo o IBGE?",
+  "unidade": "municípios",
+  "resposta": 15,
+  "fonte": "IBGE"
+ },
+ {
+  "id": "c1158",
+  "q": "Qual era o valor do salário mínimo nacional em 2025, em reais?",
+  "unidade": "reais",
+  "resposta": 1518,
+  "fonte": "Governo Federal / Decreto 12.342"
+ },
+ {
+  "id": "c1159",
+  "q": "Quantos milhões de habitantes tinha o Distrito Federal no Censo de 2022, segundo o IBGE?",
+  "unidade": "milhões de habitantes",
+  "resposta": 2.8,
+  "fonte": "IBGE Censo 2022"
+ }
+]

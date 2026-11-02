@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Em que ano foi inaugurada a ponte Golden Gate, em San Francisco?",
+  "unidade": "ano",
+  "resposta": 1937,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi inaugurado o Coliseu de Roma (Anfiteatro Flaviano)? Use anos d.C.",
+  "unidade": "ano",
+  "resposta": 80,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a Estátua da Liberdade foi inaugurada em Nova York?",
+  "unidade": "ano",
+  "resposta": 1886,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi aberta ao público a primeira linha do metrô de Londres, o mais antigo do mundo?",
+  "unidade": "ano",
+  "resposta": 1863,
+  "fonte": "Transport for London",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi inaugurada a cidade de Brasília?",
+  "unidade": "ano",
+  "resposta": 1960,
+  "fonte": "Governo do DF / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi inaugurada a Ópera de Sydney?",
+  "unidade": "ano",
+  "resposta": 1973,
+  "fonte": "Sydney Opera House",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi inaugurado o metrô de São Paulo, com a primeira viagem de passageiros?",
+  "unidade": "ano",
+  "resposta": 1974,
+  "fonte": "Metrô SP",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano começou a operar o primeiro trem-bala Shinkansen do Japão?",
+  "unidade": "ano",
+  "resposta": 1964,
+  "fonte": "JR Central / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi inaugurado o Empire State Building?",
+  "unidade": "ano",
+  "resposta": 1931,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura da Space Needle, torre símbolo de Seattle, em metros?",
+  "unidade": "metros",
+  "resposta": 184,
+  "fonte": "Space Needle / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura do Gateway Arch, o grande arco de St. Louis, nos EUA, em metros?",
+  "unidade": "metros",
+  "resposta": 192,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura do Monumento a Washington, o obelisco de Washington D.C., em metros?",
+  "unidade": "metros",
+  "resposta": 169,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos andares tem o Edifício Chrysler, em Nova York?",
+  "unidade": "andares",
+  "resposta": 77,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do hotel Burj Al Arab, em Dubai, em metros?",
+  "unidade": "metros",
+  "resposta": 321,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da Catedral de Colônia, na Alemanha, em metros?",
+  "unidade": "metros",
+  "resposta": 157,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do vão central da ponte Akashi Kaikyo, no Japão, em metros?",
+  "unidade": "metros",
+  "resposta": 1991,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do vão central da Ponte do Brooklyn, em metros?",
+  "unidade": "metros",
+  "resposta": 486,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do mastro da Ponte Octávio Frias de Oliveira (Ponte Estaiada), em São Paulo, em metros?",
+  "unidade": "metros",
+  "resposta": 138,
+  "fonte": "Prefeitura de São Paulo / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do túnel ferroviário de Seikan, no Japão, em quilômetros?",
+  "unidade": "km",
+  "resposta": 54,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do túnel rodoviário do Monte Branco, entre França e Itália, em quilômetros?",
+  "unidade": "km",
+  "resposta": 11.6,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a largura do Canal de Corinto, na Grécia, em metros?",
+  "unidade": "metros",
+  "resposta": 21,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da barragem das Três Gargantas, na China, em metros?",
+  "unidade": "metros",
+  "resposta": 185,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da represa Hoover, nos EUA, em metros?",
+  "unidade": "metros",
+  "resposta": 221,
+  "fonte": "US Bureau of Reclamation",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do Taj Mahal, da base ao topo do pináculo, em metros?",
+  "unidade": "metros",
+  "resposta": 73,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o diâmetro interno da cúpula do Panteão de Roma, em metros, arredondado para o inteiro?",
+  "unidade": "metros",
+  "resposta": 43,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos degraus tem a escada até a coroa da Estátua da Liberdade?",
+  "unidade": "degraus",
+  "resposta": 354,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos degraus tem a escadaria interna do Monumento a Washington?",
+  "unidade": "degraus",
+  "resposta": 897,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos andares tem a Willis Tower (antiga Sears Tower), em Chicago?",
+  "unidade": "andares",
+  "resposta": 108,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos andares tem o Empire State Building?",
+  "unidade": "andares",
+  "resposta": 102,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual a altura do One World Trade Center, em Nova York, em metros, contando o pináculo?",
+  "unidade": "metros",
+  "resposta": 541,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura da Lotte World Tower, em Seul, em metros?",
+  "unidade": "metros",
+  "resposta": 555,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da Makkah Royal Clock Tower, na Arábia Saudita, em metros?",
+  "unidade": "metros",
+  "resposta": 601,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da Torre de Tóquio, em metros?",
+  "unidade": "metros",
+  "resposta": 333,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos cômodos tem o Palácio de Buckingham, em Londres?",
+  "unidade": "cômodos",
+  "resposta": 775,
+  "fonte": "Royal Family / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cômodos tem a Casa Branca, nos EUA?",
+  "unidade": "cômodos",
+  "resposta": 132,
+  "fonte": "White House Historical Association",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o recorde mundial de velocidade de um trem, alcançado pelo maglev japonês L0 em 2015, em km/h?",
+  "unidade": "km/h",
+  "resposta": 603,
+  "fonte": "JR Central / Guinness",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura do Atomium, em Bruxelas, em metros?",
+  "unidade": "metros",
+  "resposta": 102,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o peso do sino principal do Big Ben, em toneladas?",
+  "unidade": "toneladas",
+  "resposta": 13.7,
+  "fonte": "Parlamento do Reino Unido",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento da Grande Esfinge de Gizé, em metros?",
+  "unidade": "metros",
+  "resposta": 73,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura de cada rosto esculpido no Monte Rushmore, nos EUA, em metros?",
+  "unidade": "metros",
+  "resposta": 18,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da estátua Pátria-Mãe Chama, em Volgogrado, na Rússia, em metros, incluindo a espada?",
+  "unidade": "metros",
+  "resposta": 85,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do Arco do Triunfo, em Paris, em metros?",
+  "unidade": "metros",
+  "resposta": 50,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas plataformas tem a Grand Central Terminal, em Nova York?",
+  "unidade": "plataformas",
+  "resposta": 44,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a envergadura dos braços abertos do Cristo Redentor, em metros?",
+  "unidade": "metros",
+  "resposta": 28,
+  "fonte": "Santuário Cristo Redentor",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o comprimento de cada lado da base da Grande Pirâmide de Gizé, em metros?",
+  "unidade": "metros",
+  "resposta": 230,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área do Central Park, em Nova York, em hectares?",
+  "unidade": "hectares",
+  "resposta": 341,
+  "fonte": "Central Park Conservancy",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o peso da estátua do Cristo Redentor, em toneladas?",
+  "unidade": "toneladas",
+  "resposta": 635,
+  "fonte": "Santuário Cristo Redentor",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a capacidade instalada da usina das Três Gargantas, na China, em gigawatts?",
+  "unidade": "GW",
+  "resposta": 22.5,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da torre de TV de Berlim, em metros?",
+  "unidade": "metros",
+  "resposta": 368,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da Sky Tower, em Auckland, na Nova Zelândia, em metros?",
+  "unidade": "metros",
+  "resposta": 328,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do arranha-céu The Shard, em Londres, em metros?",
+  "unidade": "metros",
+  "resposta": 310,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do arco da Ponte da Baía de Sydney (Sydney Harbour Bridge), em metros?",
+  "unidade": "metros",
+  "resposta": 134,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura das torres da ponte Golden Gate acima da água, em metros?",
+  "unidade": "metros",
+  "resposta": 227,
+  "fonte": "Golden Gate Bridge Authority",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a área da Cidade Proibida, em Pequim, em hectares?",
+  "unidade": "hectares",
+  "resposta": 72,
+  "fonte": "UNESCO",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas colunas externas tem o Lincoln Memorial, em Washington?",
+  "unidade": "colunas",
+  "resposta": 36,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas colunas externas tem o Partenon, em Atenas?",
+  "unidade": "colunas",
+  "resposta": 46,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do arco do Estádio de Wembley, em Londres, em metros?",
+  "unidade": "metros",
+  "resposta": 133,
+  "fonte": "Wembley Stadium",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual o comprimento do vão central da ponte Verrazzano-Narrows, em Nova York, em metros?",
+  "unidade": "metros",
+  "resposta": 1298,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da roda-gigante Singapore Flyer, em metros?",
+  "unidade": "metros",
+  "resposta": 165,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura do Grande Buda de Leshan, na China, em metros?",
+  "unidade": "metros",
+  "resposta": 71,
+  "fonte": "UNESCO",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

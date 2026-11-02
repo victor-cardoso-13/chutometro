@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quantos cromossomos tem um chimpanzé?",
+  "unidade": "cromossomos",
+  "resposta": 48,
+  "fonte": "Genética comparada (NIH)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem a mosca-da-fruta (Drosophila), usada em laboratórios?",
+  "unidade": "cromossomos",
+  "resposta": 8,
+  "fonte": "Genética (NIH)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cromossomos tem uma galinha doméstica?",
+  "unidade": "cromossomos",
+  "resposta": 78,
+  "fonte": "Genoma da galinha (Nature, 2004)",
+  "ano": 2004,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias dura a gestação de uma coelha?",
+  "unidade": "dias",
+  "resposta": 31,
+  "fonte": "Veterinária (Merck Manual)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias dura, em média, a gestação de uma porca?",
+  "unidade": "dias",
+  "resposta": 114,
+  "fonte": "Zootecnia (Embrapa)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dedos tem cada pé de um avestruz?",
+  "unidade": "dedos",
+  "resposta": 2,
+  "fonte": "Zoológico de San Diego",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos braços e tentáculos, ao todo, tem uma lula comum?",
+  "unidade": "membros",
+  "resposta": 10,
+  "fonte": "Biologia marinha (Britannica)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas patas tem uma formiga?",
+  "unidade": "patas",
+  "resposta": 6,
+  "fonte": "Entomologia (Britannica)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas câmaras tem o coração de um peixe ósseo?",
+  "unidade": "câmaras",
+  "resposta": 2,
+  "fonte": "Anatomia comparada (Britannica)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas asas tem uma libélula?",
+  "unidade": "asas",
+  "resposta": 4,
+  "fonte": "Entomologia (Britannica)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos viveu Bluey, o cachorro australiano mais velho já registrado pelo Guinness?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "Guinness World Records",
+  "ano": 1939,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos anos viveu Creme Puff, a gata mais velha já registrada pelo Guinness?",
+  "unidade": "anos",
+  "resposta": 38,
+  "fonte": "Guinness World Records",
+  "ano": 2005,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos anos viveu Old Billy, o cavalo mais velho já registrado pelo Guinness, morto em 1822?",
+  "unidade": "anos",
+  "resposta": 62,
+  "fonte": "Guinness World Records",
+  "ano": 1822,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era a altura, em centímetros, até os ombros, do cão Zeus, o mais alto do mundo pelo Guinness em 2012?",
+  "unidade": "cm",
+  "resposta": 111.8,
+  "fonte": "Guinness World Records",
+  "ano": 2012,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano nasceu Dolly, a ovelha clonada?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Instituto Roslin",
+  "ano": 1996,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de arroz branco cozido?",
+  "unidade": "kcal",
+  "resposta": 130,
+  "fonte": "USDA FoodData Central",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de maçã com casca?",
+  "unidade": "kcal",
+  "resposta": 52,
+  "fonte": "USDA FoodData Central",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de abacate?",
+  "unidade": "kcal",
+  "resposta": 160,
+  "fonte": "USDA FoodData Central",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de mel?",
+  "unidade": "kcal",
+  "resposta": 304,
+  "fonte": "USDA FoodData Central",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de azeite de oliva?",
+  "unidade": "kcal",
+  "resposta": 884,
+  "fonte": "USDA FoodData Central",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos milhões de unidades Scoville tem a capsaicina pura, a substância que dá ardência à pimenta?",
+  "unidade": "milhões de SHU",
+  "resposta": 16,
+  "fonte": "Escala Scoville (Britannica)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "A que temperatura, em °C, deve ficar o congelador segundo as recomendações de segurança alimentar?",
+  "unidade": "°C",
+  "resposta": -18,
+  "fonte": "FDA/USDA",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos quilos de gás cabem no botijão doméstico mais comum no Brasil?",
+  "unidade": "kg",
+  "resposta": 13,
+  "fonte": "ANP",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos litros tem o galão de água mineral mais comum nas casas brasileiras?",
+  "unidade": "litros",
+  "resposta": 20,
+  "fonte": "Mercado de água mineral (ABINAM)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas folhas tem uma resma de papel de escritório?",
+  "unidade": "folhas",
+  "resposta": 500,
+  "fonte": "Padrão do mercado de papel",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos centímetros tem uma régua escolar comum?",
+  "unidade": "cm",
+  "resposta": 30,
+  "fonte": "Material escolar padrão",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos mililitros tem uma caixa de leite longa vida comum?",
+  "unidade": "mL",
+  "resposta": 1000,
+  "fonte": "Padrão do mercado de laticínios",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas letras tem o alfabeto da língua portuguesa desde o Acordo Ortográfico?",
+  "unidade": "letras",
+  "resposta": 26,
+  "fonte": "Acordo Ortográfico (2009)",
+  "ano": 2009,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos quadrados de todos os tamanhos dá para contar num tabuleiro de xadrez?",
+  "unidade": "quadrados",
+  "resposta": 204,
+  "fonte": "Matemática recreativa (soma dos quadrados de 1 a 8)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas peças tem um jogo de xadrez chinês (xiangqi)?",
+  "unidade": "peças",
+  "resposta": 32,
+  "fonte": "Federação Mundial de Xiangqi",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cartas tem um baralho japonês de hanafuda?",
+  "unidade": "cartas",
+  "resposta": 48,
+  "fonte": "Nintendo (história do hanafuda)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cartas tem um baralho de truco?",
+  "unidade": "cartas",
+  "resposta": 40,
+  "fonte": "Regras do truco",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cartas tem o baralho padrão de um jogador de Pokémon TCG?",
+  "unidade": "cartas",
+  "resposta": 60,
+  "fonte": "Regras oficiais do Pokémon TCG",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cartas tem um deck de Commander no Magic: The Gathering?",
+  "unidade": "cartas",
+  "resposta": 100,
+  "fonte": "Regras oficiais do Magic",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas cartas tem, no mínimo, um deck de Yu-Gi-Oh!?",
+  "unidade": "cartas",
+  "resposta": 40,
+  "fonte": "Regras oficiais do Yu-Gi-Oh!",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas peças tem o jogo Rummikub, contando os curingas?",
+  "unidade": "peças",
+  "resposta": 106,
+  "fonte": "Fabricante do Rummikub",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas interseções tem o tabuleiro padrão do jogo Go?",
+  "unidade": "interseções",
+  "resposta": 361,
+  "fonte": "Federação Internacional de Go",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos personagens existem no jogo Cara a Cara original?",
+  "unidade": "personagens",
+  "resposta": 24,
+  "fonte": "Hasbro",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos navios cada jogador tem na Batalha Naval clássica da Hasbro?",
+  "unidade": "navios",
+  "resposta": 5,
+  "fonte": "Hasbro",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas peças de terreno hexagonais formam o tabuleiro de Catan?",
+  "unidade": "peças",
+  "resposta": 19,
+  "fonte": "Regras de Catan",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas senhas secretas diferentes são possíveis no Mastermind clássico, com repetição de cores?",
+  "unidade": "combinações",
+  "resposta": 1296,
+  "fonte": "Combinatória (6 elevado a 4)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas salas tem a mansão do jogo Detetive (Clue)?",
+  "unidade": "salas",
+  "resposta": 9,
+  "fonte": "Hasbro",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas partidas diferentes de jogo da velha são possíveis, contando todas as sequências de jogadas?",
+  "unidade": "partidas",
+  "resposta": 255168,
+  "fonte": "Combinatória (Wolfram MathWorld)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas bolas, contando a branca, tem uma mesa de snooker?",
+  "unidade": "bolas",
+  "resposta": 22,
+  "fonte": "World Snooker",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos vale a maior sequência possível numa tacada de snooker (o break máximo)?",
+  "unidade": "pontos",
+  "resposta": 147,
+  "fonte": "World Snooker",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos vale uma partida perfeita de boliche?",
+  "unidade": "pontos",
+  "resposta": 300,
+  "fonte": "World Bowling",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a maior pontuação possível numa rodada de três dardos?",
+  "unidade": "pontos",
+  "resposta": 180,
+  "fonte": "World Darts Federation",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual o diâmetro oficial, em milímetros, de uma bola de tênis de mesa?",
+  "unidade": "mm",
+  "resposta": 40,
+  "fonte": "Federação Internacional de Tênis de Mesa",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas peças tem o set Millennium Falcon da Lego (referência 75192)?",
+  "unidade": "peças",
+  "resposta": 7541,
+  "fonte": "Lego",
+  "ano": 2017,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos fez a partida perfeita de Pac-Man, em 1999, feita por Billy Mitchell?",
+  "unidade": "pontos",
+  "resposta": 3333360,
+  "fonte": "Twin Galaxies",
+  "ano": 1999,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos tem uma cela do alfabeto braille?",
+  "unidade": "pontos",
+  "resposta": 6,
+  "fonte": "Sistema braille (Louis Braille)",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura cada ciclo de foco na técnica Pomodoro?",
+  "unidade": "minutos",
+  "resposta": 25,
+  "fonte": "Francesco Cirillo",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos megabytes cabem num CD-R padrão de dados?",
+  "unidade": "MB",
+  "resposta": 700,
+  "fonte": "Padrão Orange Book",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi lançado o Pac-Man?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "Namco",
+  "ano": 1980,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foram lançados os primeiros carrinhos Hot Wheels?",
+  "unidade": "ano",
+  "resposta": 1968,
+  "fonte": "Mattel",
+  "ano": 1968,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foram lançados os primeiros jogos de Pokémon, no Japão?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Nintendo",
+  "ano": 1996,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi lançado o Game Boy original, no Japão?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Nintendo",
+  "ano": 1989,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi lançado o Super Mario Bros. para o Nintendo de 8 bits no Japão?",
+  "unidade": "ano",
+  "resposta": 1985,
+  "fonte": "Nintendo",
+  "ano": 1985,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi lançado o primeiro PlayStation, no Japão?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Sony",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas calorias (kcal) tem 100 gramas de açúcar refinado?",
+  "unidade": "kcal",
+  "resposta": 387,
+  "fonte": "USDA FoodData Central",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ }
+]

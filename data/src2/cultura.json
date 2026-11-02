@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quantas cordas tem um violino?",
+  "unidade": "cordas",
+  "resposta": 4,
+  "fonte": "Organologia (instrumentos musicais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos volumes tem a obra Em Busca do Tempo Perdido, de Marcel Proust?",
+  "unidade": "volumes",
+  "resposta": 7,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Ben-Hur (1959)?",
+  "unidade": "Oscars",
+  "resposta": 11,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme La La Land (2016)?",
+  "unidade": "Oscars",
+  "resposta": 6,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Oscars de atuação ganhou a atriz Katharine Hepburn, recorde da categoria?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars de melhor ator ganhou Daniel Day-Lewis?",
+  "unidade": "Oscars",
+  "resposta": 3,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos Anna Paquin ganhou o Oscar de atriz coadjuvante, uma das mais jovens vencedoras da história?",
+  "unidade": "anos",
+  "resposta": 11,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da estátua de Davi, de Michelangelo, sem contar o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 5.17,
+  "fonte": "Galleria dell'Accademia, Florença",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu a pintora Frida Kahlo?",
+  "unidade": "anos",
+  "resposta": 47,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Freddie Mercury, vocalista do Queen?",
+  "unidade": "anos",
+  "resposta": 45,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos segundos dura a música Hey Jude, dos Beatles, na versão de single de 1968?",
+  "unidade": "segundos",
+  "resposta": 431,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos álbuns de estúdio o Pink Floyd lançou ao todo?",
+  "unidade": "álbuns",
+  "resposta": 15,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o álbum Back in Black, do AC/DC?",
+  "unidade": "faixas",
+  "resposta": 10,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos dias durou a primeira edição do Rock in Rio, em 1985?",
+  "unidade": "dias",
+  "resposta": 10,
+  "fonte": "Rock in Rio / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos integrantes tinha a banda brasileira Mamonas Assassinas?",
+  "unidade": "integrantes",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cordas tem um cavaquinho tradicional?",
+  "unidade": "cordas",
+  "resposta": 4,
+  "fonte": "Organologia (instrumentos musicais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cordas tem uma viola caipira tradicional?",
+  "unidade": "cordas",
+  "resposta": 10,
+  "fonte": "Organologia (instrumentos musicais)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas notas diferentes (contando as pretas) existem na escala cromática ocidental?",
+  "unidade": "notas",
+  "resposta": 12,
+  "fonte": "Teoria musical",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas integrantes tinha o grupo Spice Girls?",
+  "unidade": "integrantes",
+  "resposta": 5,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos integrantes tem o grupo sul-coreano BTS?",
+  "unidade": "integrantes",
+  "resposta": 7,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos anos tinha Julieta, na peça Romeu e Julieta, de Shakespeare?",
+  "unidade": "anos",
+  "resposta": 13,
+  "fonte": "Shakespeare, Romeu e Julieta",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos dedos tem cada mão do Mickey Mouse nos desenhos clássicos?",
+  "unidade": "dedos",
+  "resposta": 4,
+  "fonte": "Disney",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos capítulos tem o romance Dom Casmurro, de Machado de Assis?",
+  "unidade": "capítulos",
+  "resposta": 148,
+  "fonte": "Machado de Assis, Dom Casmurro",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Vincent van Gogh pintou A Noite Estrelada?",
+  "unidade": "ano",
+  "resposta": 1889,
+  "fonte": "MoMA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a Mona Lisa foi roubada do Louvre?",
+  "unidade": "ano",
+  "resposta": 1911,
+  "fonte": "Museu do Louvre",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi lançado o primeiro jogo The Legend of Zelda, no Japão?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "Nintendo",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foi lançada oficialmente a versão completa do jogo Minecraft?",
+  "unidade": "ano",
+  "resposta": 2011,
+  "fonte": "Mojang",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi publicado o livro O Hobbit, de Tolkien?",
+  "unidade": "ano",
+  "resposta": 1937,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano estreou na TV americana a série Os Simpsons, em formato de série própria?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Fox / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano estreou a série Friends?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "NBC / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura o filme E o Vento Levou (1939), na versão de cinema?",
+  "unidade": "minutos",
+  "resposta": 238,
+  "fonte": "IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Casablanca (1942)?",
+  "unidade": "minutos",
+  "resposta": 102,
+  "fonte": "IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Matrix (1999), na versão de cinema?",
+  "unidade": "minutos",
+  "resposta": 136,
+  "fonte": "IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Avatar (2009), na versão original de cinema?",
+  "unidade": "minutos",
+  "resposta": 162,
+  "fonte": "IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Parasita (2019)?",
+  "unidade": "minutos",
+  "resposta": 132,
+  "fonte": "IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos minutos dura o filme Star Wars (1977), o primeiro da série?",
+  "unidade": "minutos",
+  "resposta": 121,
+  "fonte": "IMDb",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Gladiador (2000)?",
+  "unidade": "Oscars",
+  "resposta": 5,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Forrest Gump (1994)?",
+  "unidade": "Oscars",
+  "resposta": 6,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos Oscars ganhou o musical West Side Story (1961)?",
+  "unidade": "Oscars",
+  "resposta": 10,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Amadeus (1984)?",
+  "unidade": "Oscars",
+  "resposta": 8,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme O Silêncio dos Inocentes (1991)?",
+  "unidade": "Oscars",
+  "resposta": 5,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Bohemian Rhapsody (2018)?",
+  "unidade": "Oscars",
+  "resposta": 4,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme Tudo em Todo o Lugar ao Mesmo Tempo (2022)?",
+  "unidade": "Oscars",
+  "resposta": 7,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Oscars ganhou o filme O Poderoso Chefão (1972)?",
+  "unidade": "Oscars",
+  "resposta": 3,
+  "fonte": "Academy of Motion Picture Arts and Sciences",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos Grammys Adele ganhou numa só noite, em 2012?",
+  "unidade": "Grammys",
+  "resposta": 6,
+  "fonte": "Recording Academy",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu John Lennon?",
+  "unidade": "anos",
+  "resposta": 40,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu Kurt Cobain, do Nirvana?",
+  "unidade": "anos",
+  "resposta": 27,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Com quantos anos morreu a atriz Marilyn Monroe?",
+  "unidade": "anos",
+  "resposta": 36,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Walt Disney?",
+  "unidade": "anos",
+  "resposta": 65,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Leonardo da Vinci?",
+  "unidade": "anos",
+  "resposta": 67,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu o pintor Vincent van Gogh?",
+  "unidade": "anos",
+  "resposta": 37,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Com quantos anos morreu Machado de Assis?",
+  "unidade": "anos",
+  "resposta": 69,
+  "fonte": "Academia Brasileira de Letras",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos tipos de Pokémon (como fogo, água e planta) existem nos jogos atuais?",
+  "unidade": "tipos",
+  "resposta": 18,
+  "fonte": "Pokémon Company / Bulbapedia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas sílabas tem um haicai tradicional japonês, somando seus três versos?",
+  "unidade": "sílabas",
+  "resposta": 17,
+  "fonte": "Poesia japonesa",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos versos tem um soneto tradicional?",
+  "unidade": "versos",
+  "resposta": 14,
+  "fonte": "Teoria literária",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas letras tem o alfabeto grego?",
+  "unidade": "letras",
+  "resposta": 24,
+  "fonte": "Alfabeto grego",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos tempos tem cada compasso de uma valsa?",
+  "unidade": "tempos",
+  "resposta": 3,
+  "fonte": "Teoria musical",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas cores diferentes de adesivos tem o cubo mágico clássico?",
+  "unidade": "cores",
+  "resposta": 6,
+  "fonte": "Rubik's Cube",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas faixas tem o álbum Back to Black, de Amy Winehouse, na edição original britânica?",
+  "unidade": "faixas",
+  "resposta": 11,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas faixas tem o álbum The Wall, do Pink Floyd?",
+  "unidade": "faixas",
+  "resposta": 26,
+  "fonte": "Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

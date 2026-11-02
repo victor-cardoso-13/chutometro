@@ -1,0 +1,1366 @@
+{
+ "c1643": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 30,
+  "cego": 30,
+  "web": 30,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1644": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 32,
+  "cego": 32,
+  "web": 32,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1645": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 50,
+  "cego": 50,
+  "web": 50,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1646": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1647": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1648": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 60,
+  "cego": 60,
+  "web": 60,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1649": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 38,
+  "cego": 38,
+  "web": 38,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1650": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 37,
+  "cego": 37,
+  "web": 37,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1651": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:lista-itens"
+  ],
+  "autor": 2598960,
+  "cego": 2598960,
+  "web": 2598960,
+  "webfonte": "memoria",
+  "dica": "Pede conta direta C(52,5) com os números do texto; ninguém chuta por noção de grandeza.",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1652": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:lista-itens"
+  ],
+  "autor": 255,
+  "cego": 255,
+  "web": 255,
+  "webfonte": "memoria",
+  "dica": "Conta direta 2^8-1 com o número de discos dado no texto.",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1653": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 16,
+  "cego": 16,
+  "web": 16,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1654": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1957,
+  "cego": 1957,
+  "web": 1957,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1655": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1996,
+  "cego": 1996,
+  "web": 1996,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1656": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2,
+  "cego": 2,
+  "web": 2,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "vice em 1950 e 1998"
+ },
+ "c1657": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 38,
+  "cego": 38,
+  "web": 38,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "30 m, 38 m com pedestal"
+ },
+ "c1658": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1659": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 12,
+  "cego": 12,
+  "web": 12,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1660": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 17,
+  "cego": 17,
+  "web": 17,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "17 anos (nasc. 23/10/1940, final 29/06/1958)"
+ },
+ "c1661": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 41,
+  "cego": 41,
+  "web": 41,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "41 vitórias"
+ },
+ "c1662": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "6 vitórias em Mônaco"
+ },
+ "c1663": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1664": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1792,
+  "cego": 1792,
+  "web": 1792,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1665": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 14,
+  "cego": 14,
+  "web": 14,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1666": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 396,
+  "cego": 396,
+  "web": 396,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "396 m"
+ },
+ "c1667": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "15º gol em Copas em 2006 (recorde)"
+ },
+ "c1668": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1669": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1670": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1980,
+  "cego": 1980,
+  "web": 1980,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1671": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 122,
+  "cego": 122,
+  "web": 122,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "122 anos e 164 dias"
+ },
+ "c1672": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 64,
+  "cego": 64,
+  "web": 64,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1673": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "dica:ambigua"
+  ],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "webfonte": "memoria",
+  "dica": "Nutrição clássica cita 8 aminoácidos essenciais (antigo) e 9 (atual); critério pouco claro.",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1674": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": 3,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1675": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1676": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": 10,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1677": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 40,
+  "cego": 40,
+  "web": 40,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1678": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 272,
+  "cego": 272,
+  "web": 272,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "272,0 cm"
+ },
+ "c1679": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 264,
+  "cego": 264,
+  "web": 264,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "264,4 h"
+ },
+ "c1680": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1681": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 88,
+  "cego": 88,
+  "web": 88,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1682": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 11,
+  "cego": 11,
+  "web": 11,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "11 Oscars"
+ },
+ "c1683": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1684": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1685": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1980,
+  "cego": 1980,
+  "web": 1980,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1686": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1899,
+  "cego": 1899,
+  "web": 1899,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conhecimento geral, sem fonte aberta"
+ },
+ "c1687": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 151,
+  "cego": 151,
+  "web": 151,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1688": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 21,
+  "cego": 21,
+  "web": 21,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "21 indicações"
+ },
+ "c1689": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1690": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1691": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1692": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": 4,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1693": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 50,
+  "cego": 50,
+  "web": 50,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1694": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 273,
+  "cego": 273.15,
+  "web": 273,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1695": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 2.7,
+  "cego": 2.725,
+  "web": 2.7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1696": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:dica-indireta"
+  ],
+  "autor": 16,
+  "cego": 16,
+  "web": 16,
+  "webfonte": "memoria",
+  "dica": "'Quatro dimensões' permite deduzir 2^4 = 16 vértices.",
+  "webobs": "conferido de memória"
+ },
+ "c1697": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1229,
+  "cego": 1229,
+  "web": 1229,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1698": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 1.3,
+  "cego": 1.28,
+  "web": 1.3,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1699": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 22.6,
+  "cego": 22.59,
+  "web": 22.6,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1700": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1064,
+  "cego": 1064,
+  "web": 1064,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1701": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:dica-indireta"
+  ],
+  "autor": 3.14159,
+  "cego": 3.14159,
+  "web": 3.14159,
+  "webfonte": "memoria",
+  "dica": "Valor de pi é conhecido de cor; não é chute, é lembrança direta.",
+  "webobs": "conferido de memória"
+ },
+ "c1702": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1930,
+  "cego": 1930,
+  "web": 1930,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1703": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4.2,
+  "cego": 4.22,
+  "web": 4.2,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1704": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13.5,
+  "cego": 13.53,
+  "web": 13.5,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1705": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 5730,
+  "cego": 5730,
+  "web": 5730,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1706": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1707": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": 10,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1708": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 28,
+  "cego": 28,
+  "web": 28,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1709": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:numero-no-nome"
+  ],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "webfonte": "memoria",
+  "dica": "O texto diz 'rugby de 15', entregando a resposta.",
+  "webobs": "conferido de memória"
+ },
+ "c1710": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 18,
+  "cego": 18,
+  "web": 18,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1711": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1712": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 19,
+  "cego": 19,
+  "web": 19,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "12 gols nos jogos vistos + 4-1 Tchecoslováquia e 3-2 Romênia (memória) = 19"
+ },
+ "c1713": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 40,
+  "cego": 40,
+  "web": 40,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "40 ouros"
+ },
+ "c1714": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": 10,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1715": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 58,
+  "cego": 58,
+  "web": 58,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "58 voltas"
+ },
+ "c1716": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 65,
+  "cego": 65,
+  "web": 65,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1717": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:ambigua"
+  ],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "webfonte": "memoria",
+  "dica": "'Até quantos pontos vai, no mínimo' é confuso; o set decisivo vai a 15 com 2 de vantagem, mas a redação induz a erro de interpretação.",
+  "webobs": "conferido de memória"
+ },
+ "c1718": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": 13,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1719": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1720": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1991,
+  "cego": 1991,
+  "web": 1991,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1721": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1722": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 14,
+  "cego": 14,
+  "web": 14,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1723": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1724": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1725": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "8 vizinhos"
+ },
+ "c1726": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1727": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 14,
+  "cego": 14,
+  "web": 14,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1728": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 89.2,
+  "cego": 89.2,
+  "web": 89.2,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1729": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2010,
+  "cego": 2010,
+  "web": 2010,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1730": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1902,
+  "cego": 1902,
+  "web": 1902,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferido de memória"
+ },
+ "c1731": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 36,
+  "cego": 36,
+  "web": 36,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 36"
+ },
+ "c1732": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": 13,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 13"
+ },
+ "c1733": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 32,
+  "cego": 32,
+  "web": 32,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 32"
+ },
+ "c1734": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 17,
+  "cego": 17,
+  "web": 17,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 17"
+ },
+ "c1735": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1215,
+  "cego": 1215,
+  "web": 1215,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1736": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1986,
+  "cego": 1986,
+  "web": 1986,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1737": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": 4,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1738": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 7"
+ },
+ "c1739": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 9"
+ },
+ "c1740": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 51,
+  "cego": 51,
+  "web": 51,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1741": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 110,
+  "cego": 110,
+  "web": 110,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1742": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1743": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1744": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1745": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "dica:ambigua"
+  ],
+  "autor": 33,
+  "cego": 33,
+  "web": 33,
+  "webfonte": "web",
+  "dica": "Contagem de dias do papado de João Paulo I varia entre 33 e 34 conforme se inclua ou não o dia da eleição.",
+  "webobs": "Wikipedia bate com 33"
+ },
+ "c1746": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 44,
+  "cego": 44,
+  "web": 44,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1747": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": 4,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1748": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 11,
+  "cego": 11,
+  "web": 11,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1749": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 102,
+  "cego": 102,
+  "web": 102,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1750": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 163,
+  "cego": 163,
+  "web": 163,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 163"
+ },
+ "c1751": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 30,
+  "cego": 30,
+  "web": 30,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 30"
+ },
+ "c1752": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 221,
+  "cego": 221,
+  "web": 221,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 221"
+ },
+ "c1753": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 634,
+  "cego": 634,
+  "web": 634,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 634"
+ },
+ "c1754": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 9"
+ },
+ "c1755": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 91,
+  "cego": 91,
+  "web": 91,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 91"
+ },
+ "c1756": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 132,
+  "cego": 132,
+  "web": 132,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 132"
+ },
+ "c1757": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1973,
+  "cego": 1973,
+  "web": 1973,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1758": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1964,
+  "cego": 1964,
+  "web": 1964,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1759": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 343,
+  "cego": 343,
+  "web": 343,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 343"
+ },
+ "c1760": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 88,
+  "cego": 88,
+  "web": 88,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1761": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 192,
+  "cego": 192,
+  "web": 192,
+  "webfonte": "web",
+  "dica": "",
+  "webobs": "Wikipedia bate com 192"
+ },
+ "c1762": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1763": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 140,
+  "cego": 140,
+  "web": 140,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1764": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 32,
+  "cego": 32,
+  "web": 32,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1765": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 128,
+  "cego": 128,
+  "web": 128,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1766": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1920,
+  "cego": 1920,
+  "web": 1920,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1767": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1768": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1769": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 160,
+  "cego": 160,
+  "web": 160,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1770": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 160,
+  "cego": 160,
+  "web": 160,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1771": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:numero-no-nome"
+  ],
+  "autor": 16,
+  "cego": 16,
+  "web": 16,
+  "webfonte": "memoria",
+  "dica": "'Hexadecimal' (hexa + decimal = 6 + 10) permite deduzir 16.",
+  "webobs": "conferida pela memoria"
+ },
+ "c1772": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2005,
+  "cego": 2005,
+  "web": 2005,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ },
+ "c1773": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2006,
+  "cego": 2006,
+  "web": 2006,
+  "webfonte": "memoria",
+  "dica": "",
+  "webobs": "conferida pela memoria"
+ }
+}

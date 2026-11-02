@@ -1,0 +1,128 @@
+[
+ {
+  "q": "Quantos andares tem o Empire State Building, em Nova York?",
+  "unidade": "andares",
+  "resposta": 102,
+  "fonte": "Empire State Building (site oficial)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos andares tem o Burj Khalifa, em Dubai, segundo o projeto oficial?",
+  "unidade": "andares",
+  "resposta": 163,
+  "fonte": "Emaar / Skidmore, Owings & Merrill",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura da estátua do Cristo Redentor, sem contar o pedestal, em metros?",
+  "unidade": "metros",
+  "resposta": 30,
+  "fonte": "Santuário Cristo Redentor / Arquidiocese do Rio",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura da barragem Hoover, nos Estados Unidos, da base ao topo, em metros?",
+  "unidade": "metros",
+  "resposta": 221,
+  "fonte": "U.S. Bureau of Reclamation",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual a altura da Tokyo Skytree, torre de transmissão de Tóquio, em metros?",
+  "unidade": "metros",
+  "resposta": 634,
+  "fonte": "Tokyo Skytree (site oficial)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos andares tem a Willis Tower (antiga Sears Tower), em Chicago?",
+  "unidade": "andares",
+  "resposta": 110,
+  "fonte": "Skidmore, Owings & Merrill / Willis Tower",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas esferas tem o Atomium, monumento de Bruxelas?",
+  "unidade": "esferas",
+  "resposta": 9,
+  "fonte": "Atomium (site oficial)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos degraus tem cada uma das quatro escadarias da pirâmide El Castillo, em Chichén Itzá, no México?",
+  "unidade": "degraus",
+  "resposta": 91,
+  "fonte": "INAH / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos cômodos tem a Casa Branca, residência do presidente dos EUA?",
+  "unidade": "cômodos",
+  "resposta": 132,
+  "fonte": "Casa Branca (whitehouse.gov)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano foi inaugurada a Ópera de Sydney, na Austrália?",
+  "unidade": "ano",
+  "resposta": 1973,
+  "fonte": "Sydney Opera House",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano começou a funcionar o primeiro trem-bala Shinkansen, no Japão?",
+  "unidade": "ano",
+  "resposta": 1964,
+  "fonte": "JR Central / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura do ponto mais alto do Viaduto de Millau, na França, o topo dos mastros do pilar mais alto, em metros?",
+  "unidade": "metros",
+  "resposta": 343,
+  "fonte": "Eiffage / Wikipédia",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos andares tem cada uma das Torres Petronas, em Kuala Lumpur?",
+  "unidade": "andares",
+  "resposta": 88,
+  "fonte": "Petronas (site oficial)",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual a altura do Gateway Arch, o grande arco de aço de St. Louis, nos Estados Unidos, em metros?",
+  "unidade": "metros",
+  "resposta": 192,
+  "fonte": "National Park Service",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ }
+]

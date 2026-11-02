@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1388",
+  "q": "Quantos gols Neymar tinha marcado pela seleção brasileira até o fim de 2025?",
+  "unidade": "gols",
+  "resposta": 79,
+  "fonte": "CBF"
+ },
+ {
+  "id": "c1389",
+  "q": "Qual jogador brasileiro tem mais partidas pela seleção: quantos jogos Cafu disputou com a camisa do Brasil?",
+  "unidade": "jogos",
+  "resposta": 142,
+  "fonte": "CBF"
+ },
+ {
+  "id": "c1390",
+  "q": "Em que ano Maradona marcou o gol com a mão contra a Inglaterra, na Copa do Mundo?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1391",
+  "q": "Em que ano a seleção masculina do Brasil conquistou o primeiro ouro olímpico no futebol?",
+  "unidade": "ano",
+  "resposta": 2016,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1392",
+  "q": "Em que ano Ayrton Senna morreu no circuito de Ímola?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1393",
+  "q": "Em que ano foi disputada a primeira Copa do Mundo de futebol feminino?",
+  "unidade": "ano",
+  "resposta": 1991,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1394",
+  "q": "Em que ano foram disputados os primeiros Jogos Olímpicos de Inverno, em Chamonix?",
+  "unidade": "ano",
+  "resposta": 1924,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1395",
+  "q": "Quantas medalhas de ouro olímpicas o velocista americano Carl Lewis conquistou na carreira?",
+  "unidade": "medalhas",
+  "resposta": 9,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1396",
+  "q": "Qual é a altura da rede de tênis no centro da quadra, em centímetros?",
+  "unidade": "cm",
+  "resposta": 91.4,
+  "fonte": "ITF"
+ },
+ {
+  "id": "c1397",
+  "q": "Qual é a extensão do circuito de rua de Mônaco usado na Fórmula 1, em quilômetros?",
+  "unidade": "km",
+  "resposta": 3.337,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1398",
+  "q": "Qual é a extensão do autódromo de Interlagos, em quilômetros?",
+  "unidade": "km",
+  "resposta": 4.309,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1399",
+  "q": "Quantos gols Kylian Mbappé marcou na Copa do Mundo de 2022, incluindo os da final?",
+  "unidade": "gols",
+  "resposta": 8,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1400",
+  "q": "Quantos minutos dura a prorrogação completa num jogo de mata-mata de futebol?",
+  "unidade": "minutos",
+  "resposta": 30,
+  "fonte": "IFAB"
+ },
+ {
+  "id": "c1401",
+  "q": "Quantos jogadores de cada time ficam em quadra no handebol, incluindo o goleiro?",
+  "unidade": "jogadores",
+  "resposta": 7,
+  "fonte": "IHF"
+ },
+ {
+  "id": "c1402",
+  "q": "Em quantos segundos o brasileiro Cesar Cielo ganhou os 50 metros livres nos Jogos de Pequim 2008?",
+  "unidade": "segundos",
+  "resposta": 21.3,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1403",
+  "q": "Quantos gols o Brasil marcou ao todo na campanha do tricampeonato da Copa do Mundo de 1970?",
+  "unidade": "gols",
+  "resposta": 19,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1404",
+  "q": "Até quantos pontos vai um set normal, que não é o decisivo, numa partida de vôlei de quadra?",
+  "unidade": "pontos",
+  "resposta": 25,
+  "fonte": "FIVB"
+ },
+ {
+  "id": "c1405",
+  "q": "Quantos pontos vale a bola preta no snooker?",
+  "unidade": "pontos",
+  "resposta": 7,
+  "fonte": "World Snooker"
+ },
+ {
+  "id": "c1406",
+  "q": "Qual é o comprimento de um campo de futebol americano entre as duas linhas de gol, em jardas?",
+  "unidade": "jardas",
+  "resposta": 100,
+  "fonte": "NFL"
+ },
+ {
+  "id": "c1407",
+  "q": "Quantos títulos mundiais de Fórmula 1 o argentino Juan Manuel Fangio conquistou?",
+  "unidade": "títulos",
+  "resposta": 5,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1408",
+  "q": "Quantos títulos mundiais de Fórmula 1 Lewis Hamilton conquistou até 2025?",
+  "unidade": "títulos",
+  "resposta": 7,
+  "fonte": "Fórmula 1"
+ },
+ {
+  "id": "c1409",
+  "q": "Quantas medalhas ao todo o Brasil ganhou nos Jogos Olímpicos do Rio de Janeiro em 2016?",
+  "unidade": "medalhas",
+  "resposta": 19,
+  "fonte": "COI"
+ },
+ {
+  "id": "c1410",
+  "q": "Quantas vezes a brasileira Marta foi eleita a melhor jogadora do mundo pela FIFA?",
+  "unidade": "vezes",
+  "resposta": 6,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1411",
+  "q": "Quantos títulos de Wimbledon individuais masculinos Roger Federer conquistou?",
+  "unidade": "títulos",
+  "resposta": 8,
+  "fonte": "ATP / Wimbledon"
+ },
+ {
+  "id": "c1412",
+  "q": "Quantas Bolas de Ouro Cristiano Ronaldo conquistou?",
+  "unidade": "prêmios",
+  "resposta": 5,
+  "fonte": "France Football"
+ },
+ {
+  "id": "c1413",
+  "q": "Quantas vezes a seleção brasileira masculina foi campeã da Copa América, até a edição de 2019?",
+  "unidade": "títulos",
+  "resposta": 9,
+  "fonte": "CONMEBOL"
+ },
+ {
+  "id": "c1414",
+  "q": "Quantas vezes o Brasil já sediou uma Copa do Mundo masculina de futebol?",
+  "unidade": "vezes",
+  "resposta": 2,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1415",
+  "q": "Quantos jogadores de cada equipe ficam em quadra numa partida de vôlei de quadra?",
+  "unidade": "jogadores",
+  "resposta": 6,
+  "fonte": "FIVB"
+ },
+ {
+  "id": "c1416",
+  "q": "Quantos minutos tem cada tempo regulamentar de uma partida de futebol?",
+  "unidade": "minutos",
+  "resposta": 45,
+  "fonte": "IFAB"
+ },
+ {
+  "id": "c1417",
+  "q": "Qual a altitude do Monte Kinabalu, na ilha de Bornéu, em metros?",
+  "unidade": "metros",
+  "resposta": 4095,
+  "fonte": "Wikipédia / Sabah Parks"
+ },
+ {
+  "id": "c1418",
+  "q": "Qual a altitude do Aoraki, o ponto mais alto da Nova Zelândia, em metros?",
+  "unidade": "metros",
+  "resposta": 3724,
+  "fonte": "Wikipédia / Land Information NZ"
+ },
+ {
+  "id": "c1419",
+  "q": "Qual a altitude do Kangchenjunga, a terceira montanha mais alta do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 8586,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1420",
+  "q": "Qual a altura do Salto Angel, na Venezuela, a cachoeira mais alta do mundo, em metros?",
+  "unidade": "metros",
+  "resposta": 979,
+  "fonte": "Wikipédia / Guinness"
+ },
+ {
+  "id": "c1421",
+  "q": "Qual a profundidade máxima do Lago Tanganica, na África, em metros?",
+  "unidade": "metros",
+  "resposta": 1470,
+  "fonte": "Wikipédia / Britannica"
+ },
+ {
+  "id": "c1422",
+  "q": "A que altitude fica Quito, capital do Equador, em metros?",
+  "unidade": "metros",
+  "resposta": 2850,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1423",
+  "q": "A que altitude fica a Cidade do México, em metros?",
+  "unidade": "metros",
+  "resposta": 2240,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1424",
+  "q": "Qual a altitude do Monte Quênia, na África, em metros?",
+  "unidade": "metros",
+  "resposta": 5199,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1425",
+  "q": "Qual a altitude do Monte Ararate, na Turquia, em metros?",
+  "unidade": "metros",
+  "resposta": 5137,
+  "fonte": "Wikipédia"
+ }
+]

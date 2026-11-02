@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1312",
+  "status": "confirmada",
+  "valor_correto": 464,
+  "fonte_url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1313",
+  "status": "confirmada",
+  "valor_correto": 5500,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1314",
+  "status": "confirmada",
+  "valor_correto": 4.6,
+  "fonte_url": "https://www.giss.nasa.gov/pubs/abs/ja08200c.html",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1315",
+  "status": "confirmada",
+  "valor_correto": 13.8,
+  "fonte_url": "https://en.wikipedia.org/wiki/Planck/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1316",
+  "status": "confirmada",
+  "valor_correto": 79,
+  "fonte_url": "https://en.wikipedia.org/wiki/Tabela",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1317",
+  "status": "confirmada",
+  "valor_correto": 26,
+  "fonte_url": "https://en.wikipedia.org/wiki/Tabela",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1318",
+  "status": "confirmada",
+  "valor_correto": 92,
+  "fonte_url": "https://en.wikipedia.org/wiki/Tabela",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1319",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/List_of_heaviest_spacecraft",
+  "obs": "Fontes: 419,7 t (montada) a 450 t (com naves acopladas); varia no tempo"
+ },
+ {
+  "id": "c1320",
+  "status": "confirmada",
+  "valor_correto": 1961,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1321",
+  "status": "confirmada",
+  "valor_correto": 1990,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1322",
+  "status": "confirmada",
+  "valor_correto": 1977,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1323",
+  "status": "confirmada",
+  "valor_correto": 1687,
+  "fonte_url": "https://en.wikipedia.org/wiki/Royal",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1324",
+  "status": "confirmada",
+  "valor_correto": 1859,
+  "fonte_url": "https://en.wikipedia.org/wiki/Enciclopédia",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1325",
+  "status": "confirmada",
+  "valor_correto": 6779,
+  "fonte_url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1326",
+  "status": "confirmada",
+  "valor_correto": 4879,
+  "fonte_url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1327",
+  "status": "confirmada",
+  "valor_correto": 4.5,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1328",
+  "status": "confirmada",
+  "valor_correto": 778,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1329",
+  "status": "confirmada",
+  "valor_correto": 228,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1330",
+  "status": "confirmada",
+  "valor_correto": 24.8,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1331",
+  "status": "confirmada",
+  "valor_correto": 3.7,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1332",
+  "status": "confirmada",
+  "valor_correto": 540,
+  "fonte_url": "https://en.wikipedia.org/wiki/Geometria",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1333",
+  "status": "confirmada",
+  "valor_correto": 12,
+  "fonte_url": "https://en.wikipedia.org/wiki/Geometria",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1334",
+  "status": "confirmada",
+  "valor_correto": 25,
+  "fonte_url": "https://en.wikipedia.org/wiki/Matemática",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1335",
+  "status": "confirmada",
+  "valor_correto": 720,
+  "fonte_url": "https://en.wikipedia.org/wiki/Matemática",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1336",
+  "status": "confirmada",
+  "valor_correto": 86400,
+  "fonte_url": "https://en.wikipedia.org/wiki/Matemática",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1337",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Fisiologia",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1338",
+  "status": "confirmada",
+  "valor_correto": 12,
+  "fonte_url": "https://en.wikipedia.org/wiki/Anatomia",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1339",
+  "status": "confirmada",
+  "valor_correto": 86,
+  "fonte_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4053853/",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1340",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://en.wikipedia.org/wiki/African_elephant",
+  "obs": "Africana ~22 meses; asiática 18-22; pergunta nao especifica"
+ },
+ {
+  "id": "c1341",
+  "status": "confirmada",
+  "valor_correto": 373,
+  "fonte_url": "https://en.wikipedia.org/wiki/Física",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1342",
+  "status": "confirmada",
+  "valor_correto": 1.5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Eletrônica",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1343",
+  "status": "confirmada",
+  "valor_correto": 20000,
+  "fonte_url": "https://en.wikipedia.org/wiki/Acústica",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1344",
+  "status": "confirmada",
+  "valor_correto": 1013,
+  "fonte_url": "https://en.wikipedia.org/wiki/Meteorologia",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1345",
+  "status": "confirmada",
+  "valor_correto": 19.3,
+  "fonte_url": "https://en.wikipedia.org/wiki/Química",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1346",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://www.nasa.gov/missions/apollo/apollo-11/apollo-11-mission-overview/",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1347",
+  "status": "confirmada",
+  "valor_correto": 108,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1348",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ },
+ {
+  "id": "c1349",
+  "status": "confirmada",
+  "valor_correto": 6.5,
+  "fonte_url": "https://en.wikipedia.org/wiki/NASA",
+  "obs": "bate com fontes"
+ }
+]

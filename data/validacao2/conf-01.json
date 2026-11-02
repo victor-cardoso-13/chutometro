@@ -1,0 +1,492 @@
+[
+ {
+  "id": "c1084",
+  "q": "Quantos cromossomos tem a mosca-da-fruta, usada em laboratórios?",
+  "unidade": "cromossomos",
+  "resposta": 8,
+  "fonte": "Genética (NIH)"
+ },
+ {
+  "id": "c1085",
+  "q": "Quantos cromossomos tem uma galinha doméstica?",
+  "unidade": "cromossomos",
+  "resposta": 78,
+  "fonte": "Genoma da galinha (Nature, 2004)"
+ },
+ {
+  "id": "c1086",
+  "q": "Quantos dias dura a gestação de uma coelha?",
+  "unidade": "dias",
+  "resposta": 31,
+  "fonte": "Veterinária (Merck Manual)"
+ },
+ {
+  "id": "c1087",
+  "q": "Quantos dias dura, em média, a gestação de uma porca?",
+  "unidade": "dias",
+  "resposta": 114,
+  "fonte": "Zootecnia (Embrapa)"
+ },
+ {
+  "id": "c1088",
+  "q": "Quantos dedos tem cada pé de um avestruz?",
+  "unidade": "dedos",
+  "resposta": 2,
+  "fonte": "Zoológico de San Diego"
+ },
+ {
+  "id": "c1089",
+  "q": "Quantos braços e tentáculos, ao todo, tem uma lula comum?",
+  "unidade": "membros",
+  "resposta": 10,
+  "fonte": "Biologia marinha (Britannica)"
+ },
+ {
+  "id": "c1090",
+  "q": "Quantas patas tem uma formiga?",
+  "unidade": "patas",
+  "resposta": 6,
+  "fonte": "Entomologia (Britannica)"
+ },
+ {
+  "id": "c1091",
+  "q": "Quantas câmaras tem o coração de um peixe ósseo?",
+  "unidade": "câmaras",
+  "resposta": 2,
+  "fonte": "Anatomia comparada (Britannica)"
+ },
+ {
+  "id": "c1092",
+  "q": "Quantas asas tem uma libélula?",
+  "unidade": "asas",
+  "resposta": 4,
+  "fonte": "Entomologia (Britannica)"
+ },
+ {
+  "id": "c1093",
+  "q": "Quantos anos viveu Bluey, o cachorro australiano mais velho já registrado pelo Guinness?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1094",
+  "q": "Quantos anos viveu Creme Puff, a gata mais velha já registrada pelo Guinness?",
+  "unidade": "anos",
+  "resposta": 38,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1095",
+  "q": "Quantos anos viveu Old Billy, o cavalo mais velho já registrado pelo Guinness, morto em 1822?",
+  "unidade": "anos",
+  "resposta": 62,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1096",
+  "q": "Qual era a altura, em centímetros, até os ombros, do cão Zeus, o mais alto do mundo pelo Guinness em 2012?",
+  "unidade": "cm",
+  "resposta": 111.8,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1097",
+  "q": "Em que ano nasceu Dolly, a ovelha clonada?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Instituto Roslin"
+ },
+ {
+  "id": "c1098",
+  "q": "Quantas calorias tem 100 gramas de arroz branco cozido?",
+  "unidade": "kcal",
+  "resposta": 130,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1099",
+  "q": "Quantas calorias tem 100 gramas de maçã com casca?",
+  "unidade": "kcal",
+  "resposta": 52,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1100",
+  "q": "Quantas calorias tem 100 gramas de abacate?",
+  "unidade": "kcal",
+  "resposta": 160,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1101",
+  "q": "Quantas calorias tem 100 gramas de mel?",
+  "unidade": "kcal",
+  "resposta": 304,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1102",
+  "q": "Quantas calorias tem 100 gramas de azeite de oliva?",
+  "unidade": "kcal",
+  "resposta": 884,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1103",
+  "q": "Quantos milhões de unidades Scoville tem a capsaicina pura, a substância que dá ardência à pimenta?",
+  "unidade": "milhões de SHU",
+  "resposta": 16,
+  "fonte": "Escala Scoville (Britannica)"
+ },
+ {
+  "id": "c1104",
+  "q": "Quantos quilos de gás cabem no botijão doméstico mais comum no Brasil?",
+  "unidade": "kg",
+  "resposta": 13,
+  "fonte": "ANP"
+ },
+ {
+  "id": "c1105",
+  "q": "Quantos litros tem o galão de água mineral mais comum nas casas brasileiras?",
+  "unidade": "litros",
+  "resposta": 20,
+  "fonte": "Mercado de água mineral (ABINAM)"
+ },
+ {
+  "id": "c1106",
+  "q": "Quantas folhas tem uma resma de papel de escritório?",
+  "unidade": "folhas",
+  "resposta": 500,
+  "fonte": "Padrão do mercado de papel"
+ },
+ {
+  "id": "c1107",
+  "q": "Quantos centímetros tem uma régua escolar comum?",
+  "unidade": "cm",
+  "resposta": 30,
+  "fonte": "Material escolar padrão"
+ },
+ {
+  "id": "c1108",
+  "q": "Quantos mililitros tem uma caixa de leite longa vida comum?",
+  "unidade": "mL",
+  "resposta": 1000,
+  "fonte": "Padrão do mercado de laticínios"
+ },
+ {
+  "id": "c1109",
+  "q": "Quantas letras tem o alfabeto da língua portuguesa desde o Acordo Ortográfico?",
+  "unidade": "letras",
+  "resposta": 26,
+  "fonte": "Acordo Ortográfico (2009)"
+ },
+ {
+  "id": "c1110",
+  "q": "Quantos quadrados de todos os tamanhos dá para contar num tabuleiro de xadrez?",
+  "unidade": "quadrados",
+  "resposta": 204,
+  "fonte": "Matemática recreativa (soma dos quadrados de 1 a 8)"
+ },
+ {
+  "id": "c1111",
+  "q": "Quantas peças tem um jogo de xadrez chinês?",
+  "unidade": "peças",
+  "resposta": 32,
+  "fonte": "Federação Mundial de Xiangqi"
+ },
+ {
+  "id": "c1112",
+  "q": "Quantas cartas tem um baralho japonês de hanafuda?",
+  "unidade": "cartas",
+  "resposta": 48,
+  "fonte": "Nintendo (história do hanafuda)"
+ },
+ {
+  "id": "c1113",
+  "q": "Quantas cartas tem um baralho de truco?",
+  "unidade": "cartas",
+  "resposta": 40,
+  "fonte": "Regras do truco"
+ },
+ {
+  "id": "c1114",
+  "q": "Quantas cartas tem o baralho padrão de um jogador de Pokémon TCG?",
+  "unidade": "cartas",
+  "resposta": 60,
+  "fonte": "Regras oficiais do Pokémon TCG"
+ },
+ {
+  "id": "c1115",
+  "q": "Quantas cartas tem um deck de Commander no Magic: The Gathering?",
+  "unidade": "cartas",
+  "resposta": 100,
+  "fonte": "Regras oficiais do Magic"
+ },
+ {
+  "id": "c1116",
+  "q": "Quantas cartas tem, no mínimo, um deck de Yu-Gi-Oh!?",
+  "unidade": "cartas",
+  "resposta": 40,
+  "fonte": "Regras oficiais do Yu-Gi-Oh!"
+ },
+ {
+  "id": "c1117",
+  "q": "Quantas peças tem o jogo Rummikub, contando os curingas?",
+  "unidade": "peças",
+  "resposta": 106,
+  "fonte": "Fabricante do Rummikub"
+ },
+ {
+  "id": "c1118",
+  "q": "Quantas interseções tem o tabuleiro padrão do jogo Go?",
+  "unidade": "interseções",
+  "resposta": 361,
+  "fonte": "Federação Internacional de Go"
+ },
+ {
+  "id": "c1119",
+  "q": "Quantos personagens existem no jogo Cara a Cara original?",
+  "unidade": "personagens",
+  "resposta": 24,
+  "fonte": "Hasbro"
+ },
+ {
+  "id": "c1120",
+  "q": "Quantos navios cada jogador tem na Batalha Naval clássica da Hasbro?",
+  "unidade": "navios",
+  "resposta": 5,
+  "fonte": "Hasbro"
+ },
+ {
+  "id": "c1121",
+  "q": "Quantas peças de terreno hexagonais formam o tabuleiro de Catan?",
+  "unidade": "peças",
+  "resposta": 19,
+  "fonte": "Regras de Catan"
+ },
+ {
+  "id": "c1122",
+  "q": "Quantas senhas secretas diferentes são possíveis no Mastermind clássico, com repetição de cores?",
+  "unidade": "combinações",
+  "resposta": 1296,
+  "fonte": "Combinatória (6 elevado a 4)"
+ },
+ {
+  "id": "c1123",
+  "q": "Quantas salas tem a mansão do jogo Detetive?",
+  "unidade": "salas",
+  "resposta": 9,
+  "fonte": "Hasbro"
+ },
+ {
+  "id": "c1124",
+  "q": "Quantas partidas diferentes de jogo da velha são possíveis, contando todas as sequências de jogadas?",
+  "unidade": "partidas",
+  "resposta": 255168,
+  "fonte": "Combinatória (Wolfram MathWorld)"
+ },
+ {
+  "id": "c1125",
+  "q": "Quantas bolas, contando a branca, tem uma mesa de snooker?",
+  "unidade": "bolas",
+  "resposta": 22,
+  "fonte": "World Snooker"
+ },
+ {
+  "id": "c1126",
+  "q": "Quantos pontos vale a maior sequência possível numa tacada de snooker?",
+  "unidade": "pontos",
+  "resposta": 147,
+  "fonte": "World Snooker"
+ },
+ {
+  "id": "c1127",
+  "q": "Quantos pontos vale uma partida perfeita de boliche?",
+  "unidade": "pontos",
+  "resposta": 300,
+  "fonte": "World Bowling"
+ },
+ {
+  "id": "c1128",
+  "q": "Qual a maior pontuação possível numa rodada de três dardos?",
+  "unidade": "pontos",
+  "resposta": 180,
+  "fonte": "World Darts Federation"
+ },
+ {
+  "id": "c1129",
+  "q": "Qual o diâmetro oficial, em milímetros, de uma bola de tênis de mesa?",
+  "unidade": "mm",
+  "resposta": 40,
+  "fonte": "Federação Internacional de Tênis de Mesa"
+ },
+ {
+  "id": "c1130",
+  "q": "Quantas peças tem o set Millennium Falcon da Lego (referência 75192)?",
+  "unidade": "peças",
+  "resposta": 7541,
+  "fonte": "Lego"
+ },
+ {
+  "id": "c1131",
+  "q": "Quantos pontos fez a partida perfeita de Pac-Man, em 1999, feita por Billy Mitchell?",
+  "unidade": "pontos",
+  "resposta": 3333360,
+  "fonte": "Twin Galaxies"
+ },
+ {
+  "id": "c1132",
+  "q": "Quantos pontos tem uma cela do alfabeto braille?",
+  "unidade": "pontos",
+  "resposta": 6,
+  "fonte": "Sistema braille (Louis Braille)"
+ },
+ {
+  "id": "c1133",
+  "q": "Quantos minutos dura cada ciclo de foco na técnica Pomodoro?",
+  "unidade": "minutos",
+  "resposta": 25,
+  "fonte": "Francesco Cirillo"
+ },
+ {
+  "id": "c1134",
+  "q": "Quantos megabytes cabem num CD-R padrão de dados?",
+  "unidade": "MB",
+  "resposta": 700,
+  "fonte": "Padrão Orange Book"
+ },
+ {
+  "id": "c1135",
+  "q": "Em que ano foi lançado o Pac-Man?",
+  "unidade": "ano",
+  "resposta": 1980,
+  "fonte": "Namco"
+ },
+ {
+  "id": "c1136",
+  "q": "Em que ano foram lançados os primeiros carrinhos Hot Wheels?",
+  "unidade": "ano",
+  "resposta": 1968,
+  "fonte": "Mattel"
+ },
+ {
+  "id": "c1137",
+  "q": "Em que ano foram lançados os primeiros jogos de Pokémon, no Japão?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1138",
+  "q": "Em que ano foi lançado o Game Boy original, no Japão?",
+  "unidade": "ano",
+  "resposta": 1989,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1139",
+  "q": "Em que ano foi lançado o Super Mario Bros. para o Nintendo de 8 bits no Japão?",
+  "unidade": "ano",
+  "resposta": 1985,
+  "fonte": "Nintendo"
+ },
+ {
+  "id": "c1140",
+  "q": "Em que ano foi lançado o primeiro PlayStation, no Japão?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Sony"
+ },
+ {
+  "id": "c1141",
+  "q": "Quantas calorias tem 100 gramas de açúcar refinado?",
+  "unidade": "kcal",
+  "resposta": 387,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1142",
+  "q": "Em que ano foi inaugurada a cidade de Brasília?",
+  "unidade": "ano",
+  "resposta": 1960,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1143",
+  "q": "Em que ano foi assinada a Lei Áurea, que aboliu a escravidão no Brasil?",
+  "unidade": "ano",
+  "resposta": 1888,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1144",
+  "q": "Em que ano nasceu o escritor Machado de Assis?",
+  "unidade": "ano",
+  "resposta": 1839,
+  "fonte": "Academia Brasileira de Letras"
+ },
+ {
+  "id": "c1145",
+  "q": "Em que ano foi fundada a cidade do Rio de Janeiro?",
+  "unidade": "ano",
+  "resposta": 1565,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1146",
+  "q": "Em que ano foi criada a Petrobras?",
+  "unidade": "ano",
+  "resposta": 1953,
+  "fonte": "Petrobras / Wikipédia"
+ },
+ {
+  "id": "c1147",
+  "q": "Em que ano o Brasil declarou guerra à Alemanha nazista na Segunda Guerra Mundial?",
+  "unidade": "ano",
+  "resposta": 1942,
+  "fonte": "Wikipédia"
+ },
+ {
+  "id": "c1148",
+  "q": "Quantos títulos mundiais de Fórmula 1 Ayrton Senna conquistou?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "Fórmula 1 / Wikipédia"
+ },
+ {
+  "id": "c1149",
+  "q": "Somando Emerson Fittipaldi, Nelson Piquet e Ayrton Senna, quantos títulos mundiais de pilotos de Fórmula 1 o Brasil tem?",
+  "unidade": "títulos",
+  "resposta": 8,
+  "fonte": "Fórmula 1 / Wikipédia"
+ },
+ {
+  "id": "c1150",
+  "q": "Quantas medalhas olímpicas a ginasta Rebeca Andrade tinha depois dos Jogos de Paris 2024?",
+  "unidade": "medalhas",
+  "resposta": 6,
+  "fonte": "COB / Wikipédia"
+ },
+ {
+  "id": "c1151",
+  "q": "Quantos gols Ronaldo marcou na final da Copa do Mundo de 2002?",
+  "unidade": "gols",
+  "resposta": 2,
+  "fonte": "FIFA"
+ },
+ {
+  "id": "c1152",
+  "q": "Em quantas Copas do Mundo diferentes Mário Zagallo foi campeão, somando as como jogador, técnico e coordenador técnico?",
+  "unidade": "Copas",
+  "resposta": 4,
+  "fonte": "CBF / Wikipédia"
+ },
+ {
+  "id": "c1153",
+  "q": "Qual é a altitude do Pico da Bandeira, na divisa de Minas Gerais com o Espírito Santo, em metros?",
+  "unidade": "metros",
+  "resposta": 2892,
+  "fonte": "IBGE / Wikipédia"
+ }
+]

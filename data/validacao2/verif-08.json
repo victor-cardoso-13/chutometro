@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1350",
+  "status": "confirmada",
+  "valor_correto": 110,
+  "fonte_url": "https://en.wikipedia.org/wiki/Saturn_V",
+  "obs": ""
+ },
+ {
+  "id": "c1351",
+  "status": "confirmada",
+  "valor_correto": 135,
+  "fonte_url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+  "obs": ""
+ },
+ {
+  "id": "c1352",
+  "status": "confirmada",
+  "valor_correto": 100000,
+  "fonte_url": "https://imagine.gsfc.nasa.gov/ask_astro/galaxies.html",
+  "obs": ""
+ },
+ {
+  "id": "c1353",
+  "status": "confirmada",
+  "valor_correto": 2.5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+  "obs": ""
+ },
+ {
+  "id": "c1354",
+  "status": "confirmada",
+  "valor_correto": 8.6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Sirius",
+  "obs": ""
+ },
+ {
+  "id": "c1355",
+  "status": "confirmada",
+  "valor_correto": 243,
+  "fonte_url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+  "obs": ""
+ },
+ {
+  "id": "c1356",
+  "status": "confirmada",
+  "valor_correto": 92,
+  "fonte_url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+  "obs": ""
+ },
+ {
+  "id": "c1357",
+  "status": "confirmada",
+  "valor_correto": 21,
+  "fonte_url": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth",
+  "obs": ""
+ },
+ {
+  "id": "c1358",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://en.wikipedia.org/wiki/Brazil_v_Germany_(2014_FIFA_World_Cup)",
+  "obs": ""
+ },
+ {
+  "id": "c1359",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Basketball",
+  "obs": ""
+ },
+ {
+  "id": "c1360",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Volleyball",
+  "obs": ""
+ },
+ {
+  "id": "c1361",
+  "status": "confirmada",
+  "valor_correto": 1.98,
+  "fonte_url": "https://www.nba.com/stats/player/893/career",
+  "obs": ""
+ },
+ {
+  "id": "c1362",
+  "status": "confirmada",
+  "valor_correto": 10,
+  "fonte_url": "https://en.wikipedia.org/wiki/110_metres_hurdles",
+  "obs": ""
+ },
+ {
+  "id": "c1363",
+  "status": "confirmada",
+  "valor_correto": 9.69,
+  "fonte_url": "https://en.wikipedia.org/wiki/Athletics_at_the_2008_Summer_Olympics_–_Men's_100_metres",
+  "obs": ""
+ },
+ {
+  "id": "c1364",
+  "status": "confirmada",
+  "valor_correto": 15,
+  "fonte_url": "https://en.wikipedia.org/wiki/Real_Madrid_CF",
+  "obs": ""
+ },
+ {
+  "id": "c1365",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://en.wikipedia.org/wiki/2025_Ballon_d%27Or",
+  "obs": ""
+ },
+ {
+  "id": "c1366",
+  "status": "confirmada",
+  "valor_correto": 91,
+  "fonte_url": "https://guinnessworldrecords.com/world-records/106274-most-football-goals-scored-in-a-calendar-year",
+  "obs": ""
+ },
+ {
+  "id": "c1367",
+  "status": "confirmada",
+  "valor_correto": 18,
+  "fonte_url": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+  "obs": ""
+ },
+ {
+  "id": "c1368",
+  "status": "confirmada",
+  "valor_correto": 21,
+  "fonte_url": "https://en.wikipedia.org/wiki/2024_Tour_de_France",
+  "obs": ""
+ },
+ {
+  "id": "c1369",
+  "status": "confirmada",
+  "valor_correto": 15,
+  "fonte_url": "https://en.wikipedia.org/wiki/Rugby_union",
+  "obs": ""
+ },
+ {
+  "id": "c1370",
+  "status": "confirmada",
+  "valor_correto": 9,
+  "fonte_url": "https://en.wikipedia.org/wiki/Baseball",
+  "obs": ""
+ },
+ {
+  "id": "c1371",
+  "status": "confirmada",
+  "valor_correto": 6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Touchdown",
+  "obs": ""
+ },
+ {
+  "id": "c1372",
+  "status": "confirmada",
+  "valor_correto": 20,
+  "fonte_url": "https://en.wikipedia.org/wiki/Barbell",
+  "obs": ""
+ },
+ {
+  "id": "c1373",
+  "status": "confirmada",
+  "valor_correto": 98.48,
+  "fonte_url": "https://en.wikipedia.org/wiki/Javelin_throw",
+  "obs": ""
+ },
+ {
+  "id": "c1374",
+  "status": "confirmada",
+  "valor_correto": 6.3,
+  "fonte_url": "https://en.wikipedia.org/wiki/Armand_Duplantis",
+  "obs": ""
+ },
+ {
+  "id": "c1375",
+  "status": "confirmada",
+  "valor_correto": 23,
+  "fonte_url": "https://en.wikipedia.org/wiki/Michael_Phelps",
+  "obs": ""
+ },
+ {
+  "id": "c1376",
+  "status": "confirmada",
+  "valor_correto": 72,
+  "fonte_url": "https://en.wikipedia.org/wiki/1995–96_Chicago_Bulls_season",
+  "obs": ""
+ },
+ {
+  "id": "c1377",
+  "status": "confirmada",
+  "valor_correto": 81,
+  "fonte_url": "https://en.wikipedia.org/wiki/Kobe_Bryant's_81-point_game",
+  "obs": ""
+ },
+ {
+  "id": "c1378",
+  "status": "confirmada",
+  "valor_correto": 14,
+  "fonte_url": "https://en.wikipedia.org/wiki/Rafael_Nadal",
+  "obs": ""
+ },
+ {
+  "id": "c1379",
+  "status": "confirmada",
+  "valor_correto": 24,
+  "fonte_url": "https://en.wikipedia.org/wiki/Novak_Djokovic",
+  "obs": ""
+ },
+ {
+  "id": "c1380",
+  "status": "confirmada",
+  "valor_correto": 3,
+  "fonte_url": "https://en.wikipedia.org/wiki/Gustavo_Kuerten",
+  "obs": ""
+ },
+ {
+  "id": "c1381",
+  "status": "confirmada",
+  "valor_correto": 65,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+  "obs": ""
+ },
+ {
+  "id": "c1382",
+  "status": "confirmada",
+  "valor_correto": 19,
+  "fonte_url": "https://en.wikipedia.org/wiki/2023_Formula_One_World_Championship",
+  "obs": ""
+ },
+ {
+  "id": "c1383",
+  "status": "confirmada",
+  "valor_correto": 32,
+  "fonte_url": "https://en.wikipedia.org/wiki/2023_FIFA_Women's_World_Cup",
+  "obs": ""
+ },
+ {
+  "id": "c1384",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://www.opovo.com.br/esportes/olimpiadas/2024/08/10/brasil-fecha-paris-2024-com-20-medalhas-e-tem-segundo-melhor-numero-em-olimpiadas.html",
+  "obs": ""
+ },
+ {
+  "id": "c1385",
+  "status": "confirmada",
+  "valor_correto": 3,
+  "fonte_url": "https://www.opovo.com.br/esportes/olimpiadas/2024/08/10/brasil-fecha-paris-2024-com-20-medalhas-e-tem-segundo-melhor-numero-em-olimpiadas.html",
+  "obs": ""
+ },
+ {
+  "id": "c1386",
+  "status": "confirmada",
+  "valor_correto": 15,
+  "fonte_url": "https://en.wikipedia.org/wiki/Saint_Silvester_Road_Race",
+  "obs": ""
+ },
+ {
+  "id": "c1387",
+  "status": "confirmada",
+  "valor_correto": 30.1,
+  "fonte_url": "https://www.nba.com/stats/player/893/career",
+  "obs": ""
+ }
+]

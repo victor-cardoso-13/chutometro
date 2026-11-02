@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1198",
+  "status": "confirmada",
+  "valor_correto": 23,
+  "fonte_url": "https://en.wikipedia.org/wiki/Nelson_Piquet",
+  "obs": "Wikipédia: 23 vitórias"
+ },
+ {
+  "id": "c1199",
+  "status": "confirmada",
+  "valor_correto": 1928,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1200",
+  "status": "confirmada",
+  "valor_correto": 1901,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1201",
+  "status": "confirmada",
+  "valor_correto": 1846,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1202",
+  "status": "confirmada",
+  "valor_correto": 1816,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1203",
+  "status": "confirmada",
+  "valor_correto": 3,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1204",
+  "status": "confirmada",
+  "valor_correto": 37.2,
+  "fonte_url": "https://www.eppendorf.com/br-pt/beyond-science/health-medicine/how-many-cells-are-in-your-body-probably-more-than-you-think",
+  "obs": "Bianconi 2013: 37,2 trilhões"
+ },
+ {
+  "id": "c1205",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+  "obs": "OMS: <5 g sal; <10% energia"
+ },
+ {
+  "id": "c1206",
+  "status": "confirmada",
+  "valor_correto": 10,
+  "fonte_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+  "obs": "OMS: <5 g sal; <10% energia"
+ },
+ {
+  "id": "c1207",
+  "status": "confirmada",
+  "valor_correto": 150,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1208",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1209",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1210",
+  "status": "confirmada",
+  "valor_correto": 24,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1211",
+  "status": "confirmada",
+  "valor_correto": 100,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1212",
+  "status": "confirmada",
+  "valor_correto": 120,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1213",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1214",
+  "status": "confirmada",
+  "valor_correto": 3,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1215",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "fontes dão 80 mil a 150 mil; 100 mil é aproximação"
+ },
+ {
+  "id": "c1216",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "média 28 d é convenção; estudos dão ~29"
+ },
+ {
+  "id": "c1217",
+  "status": "confirmada",
+  "valor_correto": 2,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1218",
+  "status": "confirmada",
+  "valor_correto": 15,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1219",
+  "status": "confirmada",
+  "valor_correto": 10,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1220",
+  "status": "confirmada",
+  "valor_correto": 9,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1221",
+  "status": "confirmada",
+  "valor_correto": 450,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "cerca de 450 mL (alguns dizem 400-450)"
+ },
+ {
+  "id": "c1222",
+  "status": "confirmada",
+  "valor_correto": 60,
+  "fonte_url": "https://www.gov.br/saude/pt-br/campanhas-da-saude/2024/doacao-de-sangue",
+  "obs": "60 dias homens (Min. Saúde)"
+ },
+ {
+  "id": "c1223",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "ciclo de sono varia 90-110 min conforme fonte"
+ },
+ {
+  "id": "c1224",
+  "status": "confirmada",
+  "valor_correto": 25,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1225",
+  "status": "confirmada",
+  "valor_correto": 1.5,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1226",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1227",
+  "status": "errada",
+  "valor_correto": 4,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Dente_do_siso",
+  "obs": "siso = terceiro molar, no máximo 4 (resposta 12 está errada)"
+ },
+ {
+  "id": "c1228",
+  "status": "confirmada",
+  "valor_correto": 4,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1229",
+  "status": "confirmada",
+  "valor_correto": 31,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1230",
+  "status": "confirmada",
+  "valor_correto": 33,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1231",
+  "status": "confirmada",
+  "valor_correto": 35,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1232",
+  "status": "confirmada",
+  "valor_correto": 6.5,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1233",
+  "status": "confirmada",
+  "valor_correto": 1000,
+  "fonte_url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+  "obs": "NIH/IOM 1000 mg para 19-50"
+ },
+ {
+  "id": "c1234",
+  "status": "confirmada",
+  "valor_correto": 158,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ {
+  "id": "c1235",
+  "status": "confirmada",
+  "valor_correto": 34,
+  "fonte_url": "https://fdc.nal.usda.gov/",
+  "obs": "USDA 34 kcal (outros registros 28-35)"
+ }
+]

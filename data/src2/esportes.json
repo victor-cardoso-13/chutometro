@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Quantos gols a Alemanha marcou sobre o Brasil na semifinal da Copa do Mundo de 2014?",
+  "unidade": "gols",
+  "resposta": 7,
+  "fonte": "FIFA",
+  "ano": 2014,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos jogadores de cada time ficam em quadra ao mesmo tempo numa partida de basquete?",
+  "unidade": "jogadores",
+  "resposta": 5,
+  "fonte": "FIBA",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos sets, no máximo, podem ser jogados numa partida de vôlei de quadra?",
+  "unidade": "sets",
+  "resposta": 5,
+  "fonte": "FIVB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Qual é a altura de Michael Jordan, em metros?",
+  "unidade": "metros",
+  "resposta": 1.98,
+  "fonte": "NBA / Hall da Fama",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos metros tem uma volta completa na pista oficial de atletismo?",
+  "unidade": "metros",
+  "resposta": 400,
+  "fonte": "World Athletics",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas barreiras os atletas precisam saltar na prova dos 110 metros com barreiras?",
+  "unidade": "barreiras",
+  "resposta": 10,
+  "fonte": "World Athletics",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em quanto tempo, em segundos, Usain Bolt ganhou os 100 metros rasos nos Jogos de Pequim 2008?",
+  "unidade": "segundos",
+  "resposta": 9.69,
+  "fonte": "COI / World Athletics",
+  "ano": 2008,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes o Real Madrid foi campeão da Liga dos Campeões, até a edição de 2025?",
+  "unidade": "títulos",
+  "resposta": 15,
+  "fonte": "UEFA",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas Bolas de Ouro Lionel Messi tinha conquistado até a premiação de 2025?",
+  "unidade": "prêmios",
+  "resposta": 8,
+  "fonte": "France Football",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos gols Lionel Messi marcou no ano civil de 2012, recorde reconhecido pelo Guinness?",
+  "unidade": "gols",
+  "resposta": 91,
+  "fonte": "Guinness / FIFA",
+  "ano": 2012,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols o Brasil marcou ao todo na campanha do título da Copa do Mundo de 2002?",
+  "unidade": "gols",
+  "resposta": 18,
+  "fonte": "FIFA",
+  "ano": 2002,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas etapas teve o Tour de France de 2024?",
+  "unidade": "etapas",
+  "resposta": 21,
+  "fonte": "Tour de France (organização)",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos jogadores de cada equipe ficam em campo numa partida de rúgbi union?",
+  "unidade": "jogadores",
+  "resposta": 15,
+  "fonte": "World Rugby",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas entradas (innings) tem um jogo regulamentar de beisebol?",
+  "unidade": "entradas",
+  "resposta": 9,
+  "fonte": "MLB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos pontos vale um touchdown no futebol americano, sem contar o ponto extra?",
+  "unidade": "pontos",
+  "resposta": 6,
+  "fonte": "NFL",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quanto pesa, em quilos, a barra olímpica masculina usada na halterofilia?",
+  "unidade": "kg",
+  "resposta": 20,
+  "fonte": "Federação Internacional de Halterofilia",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é o recorde mundial de lançamento de dardo masculino, do tcheco Jan Železný, em metros, até 2025?",
+  "unidade": "metros",
+  "resposta": 98.48,
+  "fonte": "World Athletics",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual era o recorde mundial de salto com vara, de Armand Duplantis, em metros, após o Mundial de Tóquio em setembro de 2025?",
+  "unidade": "metros",
+  "resposta": 6.3,
+  "fonte": "World Athletics",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas de ouro olímpicas Michael Phelps ganhou ao todo na carreira?",
+  "unidade": "medalhas",
+  "resposta": 23,
+  "fonte": "COI",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vitórias o Chicago Bulls teve na temporada regular da NBA de 1995-96, a de melhor campanha da época?",
+  "unidade": "vitórias",
+  "resposta": 72,
+  "fonte": "NBA",
+  "ano": 1996,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos pontos Kobe Bryant marcou num único jogo da NBA contra o Toronto Raptors em 2006?",
+  "unidade": "pontos",
+  "resposta": 81,
+  "fonte": "NBA",
+  "ano": 2006,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes Rafael Nadal ganhou o torneio de Roland Garros?",
+  "unidade": "títulos",
+  "resposta": 14,
+  "fonte": "ATP / Roland Garros",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos de Grand Slam individuais Novak Djokovic tinha conquistado até o fim de 2025?",
+  "unidade": "títulos",
+  "resposta": 24,
+  "fonte": "ATP",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes o brasileiro Gustavo Kuerten ganhou o torneio de Roland Garros?",
+  "unidade": "títulos",
+  "resposta": 3,
+  "fonte": "ATP / Roland Garros",
+  "ano": 2001,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantas pole positions Ayrton Senna conquistou na Fórmula 1?",
+  "unidade": "poles",
+  "resposta": 65,
+  "fonte": "Fórmula 1",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas corridas Max Verstappen venceu na temporada de Fórmula 1 de 2023?",
+  "unidade": "vitórias",
+  "resposta": 19,
+  "fonte": "Fórmula 1",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas seleções disputaram a Copa do Mundo Feminina de 2023?",
+  "unidade": "seleções",
+  "resposta": 32,
+  "fonte": "FIFA",
+  "ano": 2023,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas de ouro o Brasil ganhou nos Jogos Olímpicos do Rio de Janeiro em 2016?",
+  "unidade": "medalhas",
+  "resposta": 7,
+  "fonte": "COI",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas de ouro o Brasil ganhou nos Jogos Olímpicos de Paris 2024?",
+  "unidade": "medalhas",
+  "resposta": 3,
+  "fonte": "COI",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é a distância, em quilômetros, da Corrida de São Silvestre nas edições recentes?",
+  "unidade": "km",
+  "resposta": 15,
+  "fonte": "Fundação Cásper Líbero / Gazeta Esportiva",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual foi a média de pontos por jogo de Michael Jordan na carreira regular da NBA?",
+  "unidade": "pontos",
+  "resposta": 30.1,
+  "fonte": "NBA",
+  "ano": 2003,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols Neymar tinha marcado pela seleção brasileira até o fim de 2025?",
+  "unidade": "gols",
+  "resposta": 79,
+  "fonte": "CBF",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual jogador brasileiro tem mais partidas pela seleção: quantos jogos Cafu disputou com a camisa do Brasil?",
+  "unidade": "jogos",
+  "resposta": 142,
+  "fonte": "CBF",
+  "ano": 2006,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano Maradona marcou o gol com a mão contra a Inglaterra, na Copa do Mundo?",
+  "unidade": "ano",
+  "resposta": 1986,
+  "fonte": "FIFA",
+  "ano": 1986,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em que ano a seleção masculina do Brasil conquistou o primeiro ouro olímpico no futebol?",
+  "unidade": "ano",
+  "resposta": 2016,
+  "fonte": "COI",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano Ayrton Senna morreu no circuito de Ímola?",
+  "unidade": "ano",
+  "resposta": 1994,
+  "fonte": "Fórmula 1",
+  "ano": 1994,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Em que ano foi disputada a primeira Copa do Mundo de futebol feminino?",
+  "unidade": "ano",
+  "resposta": 1991,
+  "fonte": "FIFA",
+  "ano": 1991,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Em que ano foram disputados os primeiros Jogos Olímpicos de Inverno, em Chamonix?",
+  "unidade": "ano",
+  "resposta": 1924,
+  "fonte": "COI",
+  "ano": 1924,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas medalhas de ouro olímpicas o velocista americano Carl Lewis conquistou na carreira?",
+  "unidade": "medalhas",
+  "resposta": 9,
+  "fonte": "COI",
+  "ano": 1996,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a altura da rede de tênis no centro da quadra, em centímetros?",
+  "unidade": "cm",
+  "resposta": 91.4,
+  "fonte": "ITF",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a extensão do circuito de rua de Mônaco usado na Fórmula 1, em quilômetros?",
+  "unidade": "km",
+  "resposta": 3.337,
+  "fonte": "Fórmula 1",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Qual é a extensão do autódromo de Interlagos, em quilômetros?",
+  "unidade": "km",
+  "resposta": 4.309,
+  "fonte": "Fórmula 1",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols Kylian Mbappé marcou na Copa do Mundo de 2022, incluindo os da final?",
+  "unidade": "gols",
+  "resposta": 8,
+  "fonte": "FIFA",
+  "ano": 2022,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos minutos dura a prorrogação completa num jogo de mata-mata de futebol?",
+  "unidade": "minutos",
+  "resposta": 30,
+  "fonte": "IFAB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos jogadores de cada time ficam em quadra no handebol, incluindo o goleiro?",
+  "unidade": "jogadores",
+  "resposta": 7,
+  "fonte": "IHF",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Em quantos segundos o brasileiro Cesar Cielo ganhou os 50 metros livres nos Jogos de Pequim 2008?",
+  "unidade": "segundos",
+  "resposta": 21.3,
+  "fonte": "COI",
+  "ano": 2008,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos gols o Brasil marcou ao todo na campanha do tricampeonato da Copa do Mundo de 1970?",
+  "unidade": "gols",
+  "resposta": 19,
+  "fonte": "FIFA",
+  "ano": 1970,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Até quantos pontos vai um set normal, que não é o decisivo, numa partida de vôlei de quadra?",
+  "unidade": "pontos",
+  "resposta": 25,
+  "fonte": "FIVB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos pontos vale a bola preta no snooker?",
+  "unidade": "pontos",
+  "resposta": 7,
+  "fonte": "World Snooker",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Qual é o comprimento de um campo de futebol americano entre as duas linhas de gol, em jardas?",
+  "unidade": "jardas",
+  "resposta": 100,
+  "fonte": "NFL",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos mundiais de Fórmula 1 o argentino Juan Manuel Fangio conquistou?",
+  "unidade": "títulos",
+  "resposta": 5,
+  "fonte": "Fórmula 1",
+  "ano": 1957,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantos títulos mundiais de Fórmula 1 Lewis Hamilton conquistou até 2025?",
+  "unidade": "títulos",
+  "resposta": 7,
+  "fonte": "Fórmula 1",
+  "ano": 2025,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas medalhas ao todo o Brasil ganhou nos Jogos Olímpicos do Rio de Janeiro em 2016?",
+  "unidade": "medalhas",
+  "resposta": 19,
+  "fonte": "COI",
+  "ano": 2016,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes a brasileira Marta foi eleita a melhor jogadora do mundo pela FIFA?",
+  "unidade": "vezes",
+  "resposta": 6,
+  "fonte": "FIFA",
+  "ano": 2018,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantos títulos de Wimbledon individuais masculinos Roger Federer conquistou?",
+  "unidade": "títulos",
+  "resposta": 8,
+  "fonte": "ATP / Wimbledon",
+  "ano": 2017,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas Bolas de Ouro Cristiano Ronaldo conquistou?",
+  "unidade": "prêmios",
+  "resposta": 5,
+  "fonte": "France Football",
+  "ano": 2017,
+  "atualizavel": false,
+  "dificuldade": 2
+ },
+ {
+  "q": "Quantas vezes a seleção brasileira masculina foi campeã da Copa América, até a edição de 2019?",
+  "unidade": "títulos",
+  "resposta": 9,
+  "fonte": "CONMEBOL",
+  "ano": 2019,
+  "atualizavel": false,
+  "dificuldade": 3
+ },
+ {
+  "q": "Quantas vezes o Brasil já sediou uma Copa do Mundo masculina de futebol?",
+  "unidade": "vezes",
+  "resposta": 2,
+  "fonte": "FIFA",
+  "ano": 2014,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos jogadores de cada equipe ficam em quadra numa partida de vôlei de quadra?",
+  "unidade": "jogadores",
+  "resposta": 6,
+  "fonte": "FIVB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ },
+ {
+  "q": "Quantos minutos tem cada tempo regulamentar de uma partida de futebol?",
+  "unidade": "minutos",
+  "resposta": 45,
+  "fonte": "IFAB",
+  "ano": 2024,
+  "atualizavel": false,
+  "dificuldade": 1
+ }
+]

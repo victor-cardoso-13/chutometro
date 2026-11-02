@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1084",
+  "status": "confirmada",
+  "valor_correto": 8,
+  "fonte_url": "https://en.wikipedia.org/wiki/Drosophila_melanogaster",
+  "obs": ""
+ },
+ {
+  "id": "c1085",
+  "status": "confirmada",
+  "valor_correto": 78,
+  "fonte_url": "https://en.wikipedia.org/wiki/Chicken",
+  "obs": ""
+ },
+ {
+  "id": "c1086",
+  "status": "confirmada",
+  "valor_correto": 31,
+  "fonte_url": "https://en.wikipedia.org/wiki/European_rabbit",
+  "obs": "Merck: 31-33 dias; 31 e o valor tipico"
+ },
+ {
+  "id": "c1087",
+  "status": "confirmada",
+  "valor_correto": 114,
+  "fonte_url": "https://en.wikipedia.org/wiki/Domestic_pig",
+  "obs": ""
+ },
+ {
+  "id": "c1088",
+  "status": "confirmada",
+  "valor_correto": 2,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ostrich",
+  "obs": ""
+ },
+ {
+  "id": "c1089",
+  "status": "confirmada",
+  "valor_correto": 10,
+  "fonte_url": "https://en.wikipedia.org/wiki/Squid",
+  "obs": ""
+ },
+ {
+  "id": "c1090",
+  "status": "confirmada",
+  "valor_correto": 6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Ant",
+  "obs": ""
+ },
+ {
+  "id": "c1091",
+  "status": "confirmada",
+  "valor_correto": 2,
+  "fonte_url": "https://en.wikipedia.org/wiki/Fish_anatomy",
+  "obs": ""
+ },
+ {
+  "id": "c1092",
+  "status": "confirmada",
+  "valor_correto": 4,
+  "fonte_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "obs": ""
+ },
+ {
+  "id": "c1093",
+  "status": "confirmada",
+  "valor_correto": 29,
+  "fonte_url": "https://en.wikipedia.org/wiki/Bluey_(long-lived_dog)",
+  "obs": ""
+ },
+ {
+  "id": "c1094",
+  "status": "confirmada",
+  "valor_correto": 38,
+  "fonte_url": "https://en.wikipedia.org/wiki/Creme_Puff_(cat)",
+  "obs": ""
+ },
+ {
+  "id": "c1095",
+  "status": "confirmada",
+  "valor_correto": 62,
+  "fonte_url": "https://en.wikipedia.org/wiki/Old_Billy",
+  "obs": ""
+ },
+ {
+  "id": "c1096",
+  "status": "confirmada",
+  "valor_correto": 111.8,
+  "fonte_url": "https://en.wikipedia.org/wiki/Zeus_(dog)",
+  "obs": ""
+ },
+ {
+  "id": "c1097",
+  "status": "confirmada",
+  "valor_correto": 1996,
+  "fonte_url": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+  "obs": ""
+ },
+ {
+  "id": "c1098",
+  "status": "confirmada",
+  "valor_correto": 130,
+  "fonte_url": "https://fdc.nal.usda.gov/",
+  "obs": ""
+ },
+ {
+  "id": "c1099",
+  "status": "confirmada",
+  "valor_correto": 52,
+  "fonte_url": "https://fdc.nal.usda.gov/",
+  "obs": ""
+ },
+ {
+  "id": "c1100",
+  "status": "confirmada",
+  "valor_correto": 160,
+  "fonte_url": "https://fdc.nal.usda.gov/",
+  "obs": ""
+ },
+ {
+  "id": "c1101",
+  "status": "confirmada",
+  "valor_correto": 304,
+  "fonte_url": "https://fdc.nal.usda.gov/",
+  "obs": ""
+ },
+ {
+  "id": "c1102",
+  "status": "confirmada",
+  "valor_correto": 884,
+  "fonte_url": "https://fdc.nal.usda.gov/",
+  "obs": ""
+ },
+ {
+  "id": "c1103",
+  "status": "confirmada",
+  "valor_correto": 16,
+  "fonte_url": "https://en.wikipedia.org/wiki/Capsaicin",
+  "obs": ""
+ },
+ {
+  "id": "c1104",
+  "status": "confirmada",
+  "valor_correto": 13,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "Padrao de mercado amplamente conhecido"
+ },
+ {
+  "id": "c1105",
+  "status": "confirmada",
+  "valor_correto": 20,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "Padrao de mercado amplamente conhecido"
+ },
+ {
+  "id": "c1106",
+  "status": "confirmada",
+  "valor_correto": 500,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "Padrao de mercado amplamente conhecido"
+ },
+ {
+  "id": "c1107",
+  "status": "incerta",
+  "valor_correto": null,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "Reguas escolares comuns existem em 15, 20 e 30 cm; 30 cm e a mais tipica mas criterio ambiguo"
+ },
+ {
+  "id": "c1108",
+  "status": "confirmada",
+  "valor_correto": 1000,
+  "fonte_url": "https://pt.wikipedia.org/",
+  "obs": "Padrao de mercado amplamente conhecido"
+ },
+ {
+  "id": "c1109",
+  "status": "confirmada",
+  "valor_correto": 26,
+  "fonte_url": "https://en.wikipedia.org/wiki/Portuguese_alphabet",
+  "obs": ""
+ },
+ {
+  "id": "c1110",
+  "status": "confirmada",
+  "valor_correto": 204,
+  "fonte_url": "https://en.wikipedia.org/wiki/Square_pyramidal_number",
+  "obs": ""
+ },
+ {
+  "id": "c1111",
+  "status": "confirmada",
+  "valor_correto": 32,
+  "fonte_url": "https://en.wikipedia.org/wiki/Xiangqi",
+  "obs": ""
+ },
+ {
+  "id": "c1112",
+  "status": "confirmada",
+  "valor_correto": 48,
+  "fonte_url": "https://en.wikipedia.org/wiki/Hanafuda",
+  "obs": ""
+ },
+ {
+  "id": "c1113",
+  "status": "confirmada",
+  "valor_correto": 40,
+  "fonte_url": "https://en.wikipedia.org/wiki/Truco",
+  "obs": ""
+ },
+ {
+  "id": "c1114",
+  "status": "confirmada",
+  "valor_correto": 60,
+  "fonte_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game",
+  "obs": ""
+ },
+ {
+  "id": "c1115",
+  "status": "confirmada",
+  "valor_correto": 100,
+  "fonte_url": "https://en.wikipedia.org/wiki/Commander_(Magic:_The_Gathering)",
+  "obs": ""
+ },
+ {
+  "id": "c1116",
+  "status": "confirmada",
+  "valor_correto": 40,
+  "fonte_url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game",
+  "obs": ""
+ },
+ {
+  "id": "c1117",
+  "status": "confirmada",
+  "valor_correto": 106,
+  "fonte_url": "https://en.wikipedia.org/wiki/Rummikub",
+  "obs": ""
+ },
+ {
+  "id": "c1118",
+  "status": "confirmada",
+  "valor_correto": 361,
+  "fonte_url": "https://en.wikipedia.org/wiki/Go_(game)",
+  "obs": ""
+ },
+ {
+  "id": "c1119",
+  "status": "confirmada",
+  "valor_correto": 24,
+  "fonte_url": "https://en.wikipedia.org/wiki/Guess_Who%3F",
+  "obs": ""
+ },
+ {
+  "id": "c1120",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://en.wikipedia.org/wiki/Battleship_(game)",
+  "obs": ""
+ },
+ {
+  "id": "c1121",
+  "status": "confirmada",
+  "valor_correto": 19,
+  "fonte_url": "https://en.wikipedia.org/wiki/Catan",
+  "obs": ""
+ }
+]

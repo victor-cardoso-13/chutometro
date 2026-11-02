@@ -1,0 +1,352 @@
+[
+ {
+  "id": "c1364",
+  "q": "Quantas vezes o Real Madrid foi campeão da Liga dos Campeões, até a edição de 2025?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1365",
+  "q": "Quantas Bolas de Ouro Lionel Messi tinha conquistado até a premiação de 2025?",
+  "unidade": "prêmios"
+ },
+ {
+  "id": "c1366",
+  "q": "Quantos gols Lionel Messi marcou no ano civil de 2012, recorde reconhecido pelo Guinness?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1367",
+  "q": "Quantos gols o Brasil marcou ao todo na campanha do título da Copa do Mundo de 2002?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1368",
+  "q": "Quantas etapas teve o Tour de France de 2024?",
+  "unidade": "etapas"
+ },
+ {
+  "id": "c1369",
+  "q": "Quantos jogadores de cada equipe ficam em campo numa partida de rúgbi union?",
+  "unidade": "jogadores"
+ },
+ {
+  "id": "c1370",
+  "q": "Quantas entradas tem um jogo regulamentar de beisebol?",
+  "unidade": "entradas"
+ },
+ {
+  "id": "c1371",
+  "q": "Quantos pontos vale um touchdown no futebol americano, sem contar o ponto extra?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1372",
+  "q": "Quanto pesa, em quilos, a barra olímpica masculina usada na halterofilia?",
+  "unidade": "kg"
+ },
+ {
+  "id": "c1373",
+  "q": "Qual é o recorde mundial de lançamento de dardo masculino, do tcheco Jan Železný, em metros, até 2025?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1374",
+  "q": "Qual era o recorde mundial de salto com vara, de Armand Duplantis, em metros, após o Mundial de Tóquio em setembro de 2025?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1375",
+  "q": "Quantas medalhas de ouro olímpicas Michael Phelps ganhou ao todo na carreira?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c1376",
+  "q": "Quantas vitórias o Chicago Bulls teve na temporada regular da NBA de 1995-96, a de melhor campanha da época?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c1377",
+  "q": "Quantos pontos Kobe Bryant marcou num único jogo da NBA contra o Toronto Raptors em 2006?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1378",
+  "q": "Quantas vezes Rafael Nadal ganhou o torneio de Roland Garros?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1379",
+  "q": "Quantos títulos de Grand Slam individuais Novak Djokovic tinha conquistado até o fim de 2025?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1380",
+  "q": "Quantas vezes o brasileiro Gustavo Kuerten ganhou o torneio de Roland Garros?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1381",
+  "q": "Quantas pole positions Ayrton Senna conquistou na Fórmula 1?",
+  "unidade": "poles"
+ },
+ {
+  "id": "c1382",
+  "q": "Quantas corridas Max Verstappen venceu na temporada de Fórmula 1 de 2023?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c1383",
+  "q": "Quantas seleções disputaram a Copa do Mundo Feminina de 2023?",
+  "unidade": "seleções"
+ },
+ {
+  "id": "c1384",
+  "q": "Quantas medalhas de ouro o Brasil ganhou nos Jogos Olímpicos do Rio de Janeiro em 2016?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c1385",
+  "q": "Quantas medalhas de ouro o Brasil ganhou nos Jogos Olímpicos de Paris 2024?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c1386",
+  "q": "Qual é a distância, em quilômetros, da Corrida de São Silvestre nas edições recentes?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1387",
+  "q": "Qual foi a média de pontos por jogo de Michael Jordan na carreira regular da NBA?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1388",
+  "q": "Quantos gols Neymar tinha marcado pela seleção brasileira até o fim de 2025?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1389",
+  "q": "Qual jogador brasileiro tem mais partidas pela seleção: quantos jogos Cafu disputou com a camisa do Brasil?",
+  "unidade": "jogos"
+ },
+ {
+  "id": "c1390",
+  "q": "Em que ano Maradona marcou o gol com a mão contra a Inglaterra, na Copa do Mundo?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1391",
+  "q": "Em que ano a seleção masculina do Brasil conquistou o primeiro ouro olímpico no futebol?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1392",
+  "q": "Em que ano Ayrton Senna morreu no circuito de Ímola?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1393",
+  "q": "Em que ano foi disputada a primeira Copa do Mundo de futebol feminino?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1394",
+  "q": "Em que ano foram disputados os primeiros Jogos Olímpicos de Inverno, em Chamonix?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1395",
+  "q": "Quantas medalhas de ouro olímpicas o velocista americano Carl Lewis conquistou na carreira?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c1396",
+  "q": "Qual é a altura da rede de tênis no centro da quadra, em centímetros?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c1397",
+  "q": "Qual é a extensão do circuito de rua de Mônaco usado na Fórmula 1, em quilômetros?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1398",
+  "q": "Qual é a extensão do autódromo de Interlagos, em quilômetros?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1399",
+  "q": "Quantos gols Kylian Mbappé marcou na Copa do Mundo de 2022, incluindo os da final?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1400",
+  "q": "Quantos minutos dura a prorrogação completa num jogo de mata-mata de futebol?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c1401",
+  "q": "Quantos jogadores de cada time ficam em quadra no handebol, incluindo o goleiro?",
+  "unidade": "jogadores"
+ },
+ {
+  "id": "c1402",
+  "q": "Em quantos segundos o brasileiro Cesar Cielo ganhou os 50 metros livres nos Jogos de Pequim 2008?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c1403",
+  "q": "Quantos gols o Brasil marcou ao todo na campanha do tricampeonato da Copa do Mundo de 1970?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1404",
+  "q": "Até quantos pontos vai um set normal, que não é o decisivo, numa partida de vôlei de quadra?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1405",
+  "q": "Quantos pontos vale a bola preta no snooker?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1406",
+  "q": "Qual é o comprimento de um campo de futebol americano entre as duas linhas de gol, em jardas?",
+  "unidade": "jardas"
+ },
+ {
+  "id": "c1407",
+  "q": "Quantos títulos mundiais de Fórmula 1 o argentino Juan Manuel Fangio conquistou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1408",
+  "q": "Quantos títulos mundiais de Fórmula 1 Lewis Hamilton conquistou até 2025?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1409",
+  "q": "Quantas medalhas ao todo o Brasil ganhou nos Jogos Olímpicos do Rio de Janeiro em 2016?",
+  "unidade": "medalhas"
+ },
+ {
+  "id": "c1410",
+  "q": "Quantas vezes a brasileira Marta foi eleita a melhor jogadora do mundo pela FIFA?",
+  "unidade": "vezes"
+ },
+ {
+  "id": "c1411",
+  "q": "Quantos títulos de Wimbledon individuais masculinos Roger Federer conquistou?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1412",
+  "q": "Quantas Bolas de Ouro Cristiano Ronaldo conquistou?",
+  "unidade": "prêmios"
+ },
+ {
+  "id": "c1413",
+  "q": "Quantas vezes a seleção brasileira masculina foi campeã da Copa América, até a edição de 2019?",
+  "unidade": "títulos"
+ },
+ {
+  "id": "c1414",
+  "q": "Quantas vezes o Brasil já sediou uma Copa do Mundo masculina de futebol?",
+  "unidade": "vezes"
+ },
+ {
+  "id": "c1415",
+  "q": "Quantos jogadores de cada equipe ficam em quadra numa partida de vôlei de quadra?",
+  "unidade": "jogadores"
+ },
+ {
+  "id": "c1416",
+  "q": "Quantos minutos tem cada tempo regulamentar de uma partida de futebol?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c1417",
+  "q": "Qual a altitude do Monte Kinabalu, na ilha de Bornéu, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1418",
+  "q": "Qual a altitude do Aoraki, o ponto mais alto da Nova Zelândia, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1419",
+  "q": "Qual a altitude do Kangchenjunga, a terceira montanha mais alta do mundo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1420",
+  "q": "Qual a altura do Salto Angel, na Venezuela, a cachoeira mais alta do mundo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1421",
+  "q": "Qual a profundidade máxima do Lago Tanganica, na África, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1422",
+  "q": "A que altitude fica Quito, capital do Equador, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1423",
+  "q": "A que altitude fica a Cidade do México, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1424",
+  "q": "Qual a altitude do Monte Quênia, na África, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1425",
+  "q": "Qual a altitude do Monte Ararate, na Turquia, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1426",
+  "q": "Qual a altitude do Pico del Teide, nas Ilhas Canárias, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1427",
+  "q": "Qual a altitude do vulcão Mauna Loa, no Havaí, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1428",
+  "q": "Qual a velocidade do vento mais forte já medida em terra nos Estados Unidos, no Monte Washington em 1934, em km/h?",
+  "unidade": "km/h"
+ },
+ {
+  "id": "c1429",
+  "q": "Em que latitude norte fica o Círculo Polar Ártico, em graus?",
+  "unidade": "graus"
+ },
+ {
+  "id": "c1430",
+  "q": "Quantos graus de longitude a Terra gira a cada hora?",
+  "unidade": "graus"
+ },
+ {
+  "id": "c1431",
+  "q": "Em média, quantos gramas de sal há em cada litro de água do mar?",
+  "unidade": "gramas"
+ },
+ {
+  "id": "c1432",
+  "q": "Há quantos milhões de anos os dinossauros não aviários foram extintos?",
+  "unidade": "milhões de anos"
+ },
+ {
+  "id": "c1433",
+  "q": "Qual o diâmetro, em centímetros, da maior pedra de granizo registrada nos EUA, em Vivian, em 2010?",
+  "unidade": "cm"
+ }
+]

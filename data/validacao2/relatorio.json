@@ -1,0 +1,5323 @@
+{
+ "c1084": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1085": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 78,
+  "cego": 78,
+  "web": 78,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1086": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 31,
+  "cego": 31,
+  "web": 31,
+  "dica": "",
+  "webobs": "Merck: 31-33 dias; 31 e o valor tipico"
+ },
+ "c1087": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 114,
+  "cego": 114,
+  "web": 114,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1088": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2,
+  "cego": 2,
+  "web": 2,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1089": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": 10,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1090": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1091": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2,
+  "cego": 2,
+  "web": 2,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1092": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": 4,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1093": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 29,
+  "cego": 29,
+  "web": 29,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1094": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 38,
+  "cego": 38,
+  "web": 38,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1095": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 62,
+  "cego": 62,
+  "web": 62,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1096": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 111.8,
+  "cego": 112,
+  "web": 111.8,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1097": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1996,
+  "cego": 1996,
+  "web": 1996,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1098": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 130,
+  "cego": 130,
+  "web": 130,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1099": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 52,
+  "cego": 52,
+  "web": 52,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1100": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 160,
+  "cego": 160,
+  "web": 160,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1101": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 304,
+  "cego": 304,
+  "web": 304,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1102": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 884,
+  "cego": 884,
+  "web": 884,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1103": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 16,
+  "cego": 16,
+  "web": 16,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1104": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": 13,
+  "dica": "",
+  "webobs": "Padrao de mercado amplamente conhecido"
+ },
+ "c1105": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 20,
+  "cego": 20,
+  "web": 20,
+  "dica": "",
+  "webobs": "Padrao de mercado amplamente conhecido"
+ },
+ "c1106": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 500,
+  "cego": 500,
+  "web": 500,
+  "dica": "",
+  "webobs": "Padrao de mercado amplamente conhecido"
+ },
+ "c1107": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:ambigua",
+   "web-incerta"
+  ],
+  "autor": 30,
+  "cego": 30,
+  "web": null,
+  "dica": "Réguas escolares comuns têm 15, 20 ou 30 cm; critério pouco claro.",
+  "webobs": "Reguas escolares comuns existem em 15, 20 e 30 cm; 30 cm e a mais tipica mas criterio ambiguo"
+ },
+ "c1108": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1000,
+  "cego": 1000,
+  "web": 1000,
+  "dica": "",
+  "webobs": "Padrao de mercado amplamente conhecido"
+ },
+ "c1109": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 26,
+  "cego": 26,
+  "web": 26,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1110": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 204,
+  "cego": 204,
+  "web": 204,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1111": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:ambigua"
+  ],
+  "autor": 32,
+  "cego": 32,
+  "web": 32,
+  "dica": "Xadrez chinês também designa damas chinesas no Brasil (outra contagem de peças).",
+  "webobs": ""
+ },
+ "c1112": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 48,
+  "cego": 48,
+  "web": 48,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1113": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 40,
+  "cego": 40,
+  "web": 40,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1114": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 60,
+  "cego": 60,
+  "web": 60,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1115": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 100,
+  "cego": 100,
+  "web": 100,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1116": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 40,
+  "cego": 40,
+  "web": 40,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1117": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 106,
+  "cego": 106,
+  "web": 106,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1118": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 361,
+  "cego": 361,
+  "web": 361,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1119": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 24,
+  "cego": 24,
+  "web": 24,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1120": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1121": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 19,
+  "cego": 19,
+  "web": 19,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1122": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1296,
+  "cego": 1296,
+  "web": 1296,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1123": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1124": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 255168,
+  "cego": 255168,
+  "web": 255168,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1125": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 22,
+  "cego": 22,
+  "web": 22,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1126": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 147,
+  "cego": 147,
+  "web": 147,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1127": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 300,
+  "cego": 300,
+  "web": 300,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1128": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 180,
+  "cego": 180,
+  "web": 180,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1129": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 40,
+  "cego": 40,
+  "web": 40,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1130": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7541,
+  "cego": 7541,
+  "web": 7541,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1131": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3333360,
+  "cego": 3333360,
+  "web": 3333360,
+  "dica": "",
+  "webobs": "3.333.360 em 1/7/1999; Twin Galaxies/Guinness retiraram em 2018, scores repostos em 2024; valor do placar correto"
+ },
+ "c1132": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1133": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 25,
+  "cego": 25,
+  "web": 25,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1134": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 700,
+  "cego": 700,
+  "web": 700,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1135": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1980,
+  "cego": 1980,
+  "web": 1980,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1136": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1968,
+  "cego": 1968,
+  "web": 1968,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1137": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1996,
+  "cego": 1996,
+  "web": 1996,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1138": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1989,
+  "cego": 1989,
+  "web": 1989,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1139": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1985,
+  "cego": 1985,
+  "web": 1985,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1140": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1994,
+  "cego": 1994,
+  "web": 1994,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1141": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 387,
+  "cego": 387,
+  "web": 387,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1142": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1960,
+  "cego": 1960,
+  "web": 1960,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1143": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1888,
+  "cego": 1888,
+  "web": 1888,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1144": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1839,
+  "cego": 1839,
+  "web": 1839,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1145": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1565,
+  "cego": 1565,
+  "web": 1565,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1146": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1953,
+  "cego": 1953,
+  "web": 1953,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1147": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1942,
+  "cego": 1942,
+  "web": 1942,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1148": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": 3,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1149": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:lista-itens"
+  ],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "Cita os três pilotos, o que limita o chute à soma de poucos títulos de cada um.",
+  "webobs": "confere"
+ },
+ "c1150": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1151": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2,
+  "cego": 2,
+  "web": 2,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1152": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": 4,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1153": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2892,
+  "cego": 2892,
+  "web": 2892,
+  "dica": "",
+  "webobs": "IBGE 2004: 2891,98 m"
+ },
+ "c1154": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 710,
+  "cego": 710,
+  "web": 710,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1155": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 13.3,
+  "cego": 13.3,
+  "web": 13.3,
+  "dica": "",
+  "webobs": "13,29 km"
+ },
+ "c1156": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 853,
+  "cego": 853,
+  "web": 853,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1157": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1158": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1518,
+  "cego": 1518,
+  "web": 1518,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1159": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 2.8,
+  "cego": 2.82,
+  "web": 2.8,
+  "dica": "",
+  "webobs": "confere"
+ },
+ "c1160": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2.06,
+  "cego": 2.06,
+  "web": null,
+  "dica": "",
+  "webobs": "2.063.689 (Censo 2022)"
+ },
+ "c1161": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1.77,
+  "cego": 1.77,
+  "web": null,
+  "dica": "",
+  "webobs": "1.773.718"
+ },
+ "c1162": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 190.8,
+  "cego": 190.7,
+  "web": null,
+  "dica": "",
+  "webobs": "190.755.799"
+ },
+ "c1163": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9.9,
+  "cego": 9.93,
+  "web": null,
+  "dica": "",
+  "webobs": "9.930.478 em 1872"
+ },
+ "c1164": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 84.4,
+  "cego": 84.4,
+  "web": null,
+  "dica": "",
+  "webobs": "84,36%"
+ },
+ "c1165": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10.9,
+  "cego": 10.9,
+  "web": null,
+  "dica": "",
+  "webobs": "R$ 10,9 tri nas duas versoes do IBGE"
+ },
+ "c1166": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 58,
+  "cego": 58,
+  "web": null,
+  "dica": "",
+  "webobs": "1831-1889, 58 anos (memoria + padrao Wikipedia; pagina nao reaberta)"
+ },
+ "c1167": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 21,
+  "cego": 21,
+  "web": null,
+  "dica": "",
+  "webobs": "1964-1985; pagina nao reaberta"
+ },
+ "c1168": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 250,
+  "cego": 250,
+  "web": null,
+  "dica": "",
+  "webobs": "250 artigos"
+ },
+ "c1169": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 513,
+  "cego": 513,
+  "web": null,
+  "dica": "",
+  "webobs": "513; conhecimento consolidado, nao reaberto"
+ },
+ "c1170": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 11,
+  "cego": 11,
+  "web": null,
+  "dica": "",
+  "webobs": "11; conhecimento consolidado, nao reaberto"
+ },
+ "c1171": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 70,
+  "cego": 70,
+  "web": null,
+  "dica": "",
+  "webobs": "70 anos facultativo; nao reaberto"
+ },
+ "c1172": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 220,
+  "cego": 220,
+  "web": null,
+  "dica": "",
+  "webobs": "220 m em 12/11/1906"
+ },
+ "c1173": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 274,
+  "cego": 274,
+  "web": null,
+  "dica": "",
+  "webobs": "274 idiomas"
+ },
+ "c1174": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 222,
+  "cego": 222,
+  "web": null,
+  "dica": "",
+  "webobs": "222 milhoes de euros"
+ },
+ "c1175": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "cego-ambigua",
+   "cego-baixa",
+   "dica:ambigua",
+   "web-incerta"
+  ],
+  "autor": 82,
+  "cego": 80,
+  "web": null,
+  "dica": "Altura da Garganta do Diabo varia por fonte (80 a 90 m).",
+  "webobs": "pt.wikipedia diz 80 m; outras fontes citam 82 m"
+ },
+ "c1176": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 10,
+  "cego": 10,
+  "web": null,
+  "dica": "",
+  "webobs": "1835-1845; nao reaberto"
+ },
+ "c1177": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": null,
+  "dica": "",
+  "webobs": "1937-1945; nao reaberto"
+ },
+ "c1178": {
+  "status": "reprovada",
+  "motivos": [
+   "web-incerta"
+  ],
+  "autor": 13,
+  "cego": 13,
+  "web": null,
+  "dica": "",
+  "webobs": "13 navios, mas so 10 sao naus e 3 caravelas; pergunta diz naus"
+ },
+ "c1179": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4.309,
+  "cego": 4.309,
+  "web": null,
+  "dica": "",
+  "webobs": "4,309 km"
+ },
+ "c1180": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:lista-itens"
+  ],
+  "autor": 38,
+  "cego": 38,
+  "web": null,
+  "dica": "20 clubes em turno e returno dá 38 rodadas por conta simples.",
+  "webobs": "20 clubes x 2 turnos = 38; aritmetica"
+ },
+ "c1181": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": null,
+  "dica": "",
+  "webobs": "9 titulos ate 2019"
+ },
+ "c1182": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:ambigua"
+  ],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "Sem data na pergunta; o número de títulos pode mudar.",
+  "webobs": "2014, 2018, 2021; sem 4o titulo ate nov/2026"
+ },
+ "c1183": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": null,
+  "dica": "",
+  "webobs": "13 anos e 203 dias"
+ },
+ "c1184": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": null,
+  "dica": "",
+  "webobs": "2006-2010 e 2018 = 6"
+ },
+ "c1185": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 17.89,
+  "cego": 17.89,
+  "web": null,
+  "dica": "",
+  "webobs": "17,89 m, Pan 1975 Cidade do Mexico"
+ },
+ "c1186": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "4x1 Italia; nao reaberto"
+ },
+ "c1187": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": null,
+  "dica": "",
+  "webobs": "5 gols em 1994; nao reaberto"
+ },
+ "c1188": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:lista-itens"
+  ],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "1994 a 2002 de 4 em 4 anos deixa óbvio que são 3 Copas.",
+  "webobs": "finais 1994, 1998, 2002; nao reaberto"
+ },
+ "c1189": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:numero-no-nome"
+  ],
+  "autor": 1992,
+  "cego": 1992,
+  "web": null,
+  "dica": "Eco-92 traz o ano 1992 no nome.",
+  "webobs": "1992"
+ },
+ "c1190": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1864,
+  "cego": 1864,
+  "web": null,
+  "dica": "",
+  "webobs": "1864; nao reaberto"
+ },
+ "c1191": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 17,
+  "cego": 17,
+  "web": null,
+  "dica": "",
+  "webobs": "17 estados litoraneos; nao reaberto"
+ },
+ "c1192": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 9,
+  "cego": 9,
+  "web": null,
+  "dica": "",
+  "webobs": "9 estados"
+ },
+ "c1193": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": null,
+  "dica": "",
+  "webobs": "9; nao reaberto"
+ },
+ "c1194": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 200,
+  "cego": 200,
+  "web": null,
+  "dica": "",
+  "webobs": "R$200; nao reaberto"
+ },
+ "c1195": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 59,
+  "cego": 59,
+  "web": null,
+  "dica": "",
+  "webobs": "20/07/1873 a 23/07/1932 = 59 anos"
+ },
+ "c1196": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 19,
+  "cego": 19,
+  "web": null,
+  "dica": "",
+  "webobs": "7 ouro, 6 prata, 6 bronze = 19"
+ },
+ "c1197": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7.04,
+  "cego": 7.04,
+  "web": null,
+  "dica": "",
+  "webobs": "7,04 m"
+ },
+ "c1198": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 23,
+  "cego": 23,
+  "web": 23,
+  "dica": "",
+  "webobs": "Wikipédia: 23 vitórias"
+ },
+ "c1199": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1928,
+  "cego": 1928,
+  "web": 1928,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1200": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1901,
+  "cego": 1901,
+  "web": 1901,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1201": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1846,
+  "cego": 1846,
+  "web": 1846,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1202": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1816,
+  "cego": 1816,
+  "web": 1816,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1203": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "cego-ambigua",
+   "dica:ambigua"
+  ],
+  "autor": 3,
+  "cego": 3.1,
+  "web": 3,
+  "dica": "Genoma haploide (~3 bi) ou diploide (~6 bi) pode confundir.",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1204": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 37.2,
+  "cego": 37.2,
+  "web": 37.2,
+  "dica": "",
+  "webobs": "Bianconi 2013: 37,2 trilhões"
+ },
+ "c1205": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": "OMS: <5 g sal; <10% energia"
+ },
+ "c1206": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": 10,
+  "dica": "",
+  "webobs": "OMS: <5 g sal; <10% energia"
+ },
+ "c1207": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 150,
+  "cego": 150,
+  "web": 150,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1208": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1209": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1210": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 24,
+  "cego": 24,
+  "web": 24,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1211": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 100,
+  "cego": 100,
+  "web": 100,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1212": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:numero-no-nome"
+  ],
+  "autor": 120,
+  "cego": 120,
+  "web": 120,
+  "dica": "\"12 por 8\" entrega diretamente 120 mmHg.",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1213": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1214": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 3,
+  "cego": 3,
+  "web": 3,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1215": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "web-incerta"
+  ],
+  "autor": 100000,
+  "cego": 100000,
+  "web": null,
+  "dica": "",
+  "webobs": "fontes dão 80 mil a 150 mil; 100 mil é aproximação"
+ },
+ "c1216": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "web-incerta"
+  ],
+  "autor": 28,
+  "cego": 28,
+  "web": null,
+  "dica": "",
+  "webobs": "média 28 d é convenção; estudos dão ~29"
+ },
+ "c1217": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2,
+  "cego": 2,
+  "web": 2,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1218": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1219": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": 10,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1220": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1221": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 450,
+  "cego": 450,
+  "web": 450,
+  "dica": "",
+  "webobs": "cerca de 450 mL (alguns dizem 400-450)"
+ },
+ "c1222": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 60,
+  "cego": 60,
+  "web": 60,
+  "dica": "",
+  "webobs": "60 dias homens (Min. Saúde)"
+ },
+ "c1223": {
+  "status": "reprovada",
+  "motivos": [
+   "web-incerta"
+  ],
+  "autor": 90,
+  "cego": 90,
+  "web": null,
+  "dica": "",
+  "webobs": "ciclo de sono varia 90-110 min conforme fonte"
+ },
+ "c1224": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 25,
+  "cego": 25,
+  "web": 25,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1225": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1.5,
+  "cego": 1.5,
+  "web": 1.5,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1226": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1227": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "dica:ambigua",
+   "web-errada"
+  ],
+  "autor": 12,
+  "cego": 4,
+  "web": 4,
+  "dica": "Resposta 12 contradiz o senso comum (4 sisos); critério confuso.",
+  "webobs": "siso = terceiro molar, no máximo 4 (resposta 12 está errada)"
+ },
+ "c1228": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": 4,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1229": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 31,
+  "cego": 31,
+  "web": 31,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1230": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 33,
+  "cego": 33,
+  "web": 33,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1231": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 35,
+  "cego": 35,
+  "web": 35,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1232": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6.5,
+  "cego": 6.5,
+  "web": 6.5,
+  "dica": "",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1233": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1000,
+  "cego": 1000,
+  "web": 1000,
+  "dica": "",
+  "webobs": "NIH/IOM 1000 mg para 19-50"
+ },
+ "c1234": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "dica:ambigua"
+  ],
+  "autor": 158,
+  "cego": 158,
+  "web": 158,
+  "dica": "Calorias de macarrão cozido variam bastante conforme tipo e fonte (131 a 158 kcal).",
+  "webobs": "valor consagrado; não rechecado na busca (limite de buscas)"
+ },
+ "c1235": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 34,
+  "cego": 34,
+  "web": 34,
+  "dica": "",
+  "webobs": "USDA 34 kcal (outros registros 28-35)"
+ },
+ "c1236": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "cego-ambigua"
+  ],
+  "autor": 389,
+  "cego": 380,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1237": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2.7,
+  "cego": 2.7,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1238": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 20,
+  "cego": 20,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1239": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 12,
+  "cego": 12,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1240": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1241": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 400,
+  "cego": 400,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1242": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1243": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1244": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1.5,
+  "cego": 1.5,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1245": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 450,
+  "cego": 450,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1246": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 50,
+  "cego": 50,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1247": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1,
+  "cego": 1,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1248": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "web-incerta"
+  ],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "4 fases clássicas (prófase, metáfase, anáfase, telófase); alguns livros incluem prometáfase"
+ },
+ "c1249": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1250": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1251": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1252": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 11,
+  "cego": 11,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1253": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1254": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1255": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1256": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 11,
+  "cego": 11,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1257": {
+  "status": "reprovada",
+  "motivos": [
+   "web-incerta"
+  ],
+  "autor": 5.17,
+  "cego": 5.17,
+  "web": null,
+  "dica": "",
+  "webobs": "Wikipédia/Accademia: 5,17 m sem pedestal; algumas fontes dão 4,97 m sem a base de rocha"
+ },
+ "c1258": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 47,
+  "cego": 47,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1259": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 45,
+  "cego": 45,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1260": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 431,
+  "cego": 431,
+  "web": null,
+  "dica": "",
+  "webobs": "Wikipédia: 7:11; busca falhou nesta rodada, baseado em conhecimento firme"
+ },
+ "c1261": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "dica:ambigua"
+  ],
+  "autor": 15,
+  "cego": 15,
+  "web": null,
+  "dica": "Contagem de álbuns de estúdio do Pink Floyd varia (14 ou 15) conforme o critério.",
+  "webobs": "The Endless River é o 15º"
+ },
+ "c1262": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1263": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": null,
+  "dica": "",
+  "webobs": "11 a 20 jan 1985"
+ },
+ "c1264": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": null,
+  "dica": "",
+  "webobs": "Dinho, Bento, Júlio, Samuel, Sérgio"
+ },
+ "c1265": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1266": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 10,
+  "cego": 10,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1267": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 12,
+  "cego": 12,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1268": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1269": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1270": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1271": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1272": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 148,
+  "cego": 148,
+  "web": null,
+  "dica": "",
+  "webobs": "Várias fontes: 148 capítulos"
+ },
+ "c1273": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1889,
+  "cego": 1889,
+  "web": null,
+  "dica": "",
+  "webobs": "ok"
+ },
+ "c1274": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1911,
+  "cego": 1911,
+  "web": null,
+  "dica": "",
+  "webobs": "roubada em ago/1911"
+ },
+ "c1275": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1986,
+  "cego": 1986,
+  "web": null,
+  "dica": "",
+  "webobs": "Japão, fev/1986"
+ },
+ "c1276": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2011,
+  "cego": 2011,
+  "web": null,
+  "dica": "",
+  "webobs": "versão 1.0, 18/11/2011"
+ },
+ "c1277": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1937,
+  "cego": 1937,
+  "web": null,
+  "dica": "",
+  "webobs": "set/1937"
+ },
+ "c1278": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1989,
+  "cego": 1989,
+  "web": null,
+  "dica": "",
+  "webobs": "dez/1989"
+ },
+ "c1279": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1994,
+  "cego": 1994,
+  "web": null,
+  "dica": "",
+  "webobs": "set/1994"
+ },
+ "c1280": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "dica:ambigua"
+  ],
+  "autor": 238,
+  "cego": 238,
+  "web": null,
+  "dica": "Duração de E o Vento Levou varia entre fontes e versões (221 a 238 min, com ou sem intervalo).",
+  "webobs": "238 min"
+ },
+ "c1281": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 102,
+  "cego": 102,
+  "web": null,
+  "dica": "",
+  "webobs": "102 min"
+ },
+ "c1282": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 136,
+  "cego": 136,
+  "web": null,
+  "dica": "",
+  "webobs": "136 min"
+ },
+ "c1283": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 162,
+  "cego": 162,
+  "web": null,
+  "dica": "",
+  "webobs": "162 min cinema"
+ },
+ "c1284": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 132,
+  "cego": 132,
+  "web": null,
+  "dica": "",
+  "webobs": "132 min"
+ },
+ "c1285": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 121,
+  "cego": 121,
+  "web": null,
+  "dica": "",
+  "webobs": "121 min (busca confirmou)"
+ },
+ "c1286": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": null,
+  "dica": "",
+  "webobs": "5 Oscars"
+ },
+ "c1287": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": null,
+  "dica": "",
+  "webobs": "6 Oscars"
+ },
+ "c1288": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": null,
+  "dica": "",
+  "webobs": "10 Oscars (busca confirmou)"
+ },
+ "c1289": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": null,
+  "dica": "",
+  "webobs": "8 Oscars"
+ },
+ "c1290": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": null,
+  "dica": "",
+  "webobs": "5 Oscars"
+ },
+ "c1291": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "",
+  "webobs": "4 Oscars"
+ },
+ "c1292": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": null,
+  "dica": "",
+  "webobs": "7 Oscars"
+ },
+ "c1293": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "",
+  "webobs": "3 Oscars"
+ },
+ "c1294": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": null,
+  "dica": "",
+  "webobs": "6 Grammys em 2012"
+ },
+ "c1295": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 36,
+  "cego": 36,
+  "web": null,
+  "dica": "",
+  "webobs": "1926-1962, 36 anos"
+ },
+ "c1296": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 65,
+  "cego": 65,
+  "web": null,
+  "dica": "",
+  "webobs": "1901-1966, 65 anos"
+ },
+ "c1297": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 37,
+  "cego": 37,
+  "web": null,
+  "dica": "",
+  "webobs": "1853-1890, 37 anos"
+ },
+ "c1298": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 18,
+  "cego": 18,
+  "web": null,
+  "dica": "",
+  "webobs": "18 tipos"
+ },
+ "c1299": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 17,
+  "cego": 17,
+  "web": null,
+  "dica": "",
+  "webobs": "5-7-5 = 17"
+ },
+ "c1300": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 14,
+  "cego": 14,
+  "web": null,
+  "dica": "",
+  "webobs": "14 versos"
+ },
+ "c1301": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 24,
+  "cego": 24,
+  "web": null,
+  "dica": "",
+  "webobs": "24 letras"
+ },
+ "c1302": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "",
+  "webobs": "3 tempos"
+ },
+ "c1303": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": null,
+  "dica": "",
+  "webobs": "6 cores"
+ },
+ "c1304": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 11,
+  "cego": 11,
+  "web": null,
+  "dica": "",
+  "webobs": "UK: 10 + Addicted = 11 (busca confirmou)"
+ },
+ "c1305": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 26,
+  "cego": 26,
+  "web": null,
+  "dica": "",
+  "webobs": "26 faixas (busca confirmou)"
+ },
+ "c1306": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 225,
+  "cego": 224.7,
+  "web": null,
+  "dica": "",
+  "webobs": "224,7 d (NASA)"
+ },
+ "c1307": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 88,
+  "cego": 88,
+  "web": null,
+  "dica": "",
+  "webobs": "87,97 d"
+ },
+ "c1308": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 12,
+  "cego": 11.86,
+  "web": null,
+  "dica": "",
+  "webobs": "11,86 anos"
+ },
+ "c1309": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 29,
+  "cego": 29.5,
+  "web": null,
+  "dica": "",
+  "webobs": "29,45 anos"
+ },
+ "c1310": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 165,
+  "cego": 164.8,
+  "web": null,
+  "dica": "",
+  "webobs": "164,8 anos"
+ },
+ "c1311": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 10,
+  "cego": 9.9,
+  "web": null,
+  "dica": "",
+  "webobs": "9,925 h (NASA)"
+ },
+ "c1312": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 464,
+  "cego": 464,
+  "web": 464,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1313": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 5500,
+  "cego": 5500,
+  "web": 5500,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1314": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4.6,
+  "cego": 4.6,
+  "web": 4.6,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1315": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13.8,
+  "cego": 13.8,
+  "web": 13.8,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1316": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 79,
+  "cego": 79,
+  "web": 79,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1317": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 26,
+  "cego": 26,
+  "web": 26,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1318": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 92,
+  "cego": 92,
+  "web": 92,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1319": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "dica:ambigua",
+   "web-incerta"
+  ],
+  "autor": 420,
+  "cego": 420,
+  "web": null,
+  "dica": "A massa da ISS varia com o tempo (cerca de 420 a 450 t conforme a fonte/data).",
+  "webobs": "Fontes: 419,7 t (montada) a 450 t (com naves acopladas); varia no tempo"
+ },
+ "c1320": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1961,
+  "cego": 1961,
+  "web": 1961,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1321": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1990,
+  "cego": 1990,
+  "web": 1990,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1322": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1977,
+  "cego": 1977,
+  "web": 1977,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1323": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1687,
+  "cego": 1687,
+  "web": 1687,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1324": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1859,
+  "cego": 1859,
+  "web": 1859,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1325": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 6779,
+  "cego": 6779,
+  "web": 6779,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1326": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4879,
+  "cego": 4879,
+  "web": 4879,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1327": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4.5,
+  "cego": 4.5,
+  "web": 4.5,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1328": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 778,
+  "cego": 778,
+  "web": 778,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1329": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 228,
+  "cego": 228,
+  "web": 228,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1330": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 24.8,
+  "cego": 24.8,
+  "web": 24.8,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1331": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3.7,
+  "cego": 3.71,
+  "web": 3.7,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1332": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:numero-no-nome"
+  ],
+  "autor": 540,
+  "cego": 540,
+  "web": 540,
+  "dica": "Pentágono tem 5 lados; a soma sai direto de (5-2)x180.",
+  "webobs": "bate com fontes"
+ },
+ "c1333": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 12,
+  "cego": 12,
+  "web": 12,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1334": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 25,
+  "cego": 25,
+  "web": 25,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1335": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:lista-itens"
+  ],
+  "autor": 720,
+  "cego": 720,
+  "web": 720,
+  "dica": "A pergunta dá a conta 6x5x4x3x2x1; basta multiplicar.",
+  "webobs": "bate com fontes"
+ },
+ "c1336": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:lista-itens"
+  ],
+  "autor": 86400,
+  "cego": 86400,
+  "web": 86400,
+  "dica": "Dá 24 horas; basta multiplicar por 3600.",
+  "webobs": "bate com fontes"
+ },
+ "c1337": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1338": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 12,
+  "cego": 12,
+  "web": 12,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1339": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 86,
+  "cego": 86,
+  "web": 86,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1340": {
+  "status": "reprovada",
+  "motivos": [
+   "web-incerta"
+  ],
+  "autor": 22,
+  "cego": 22,
+  "web": null,
+  "dica": "",
+  "webobs": "Africana ~22 meses; asiática 18-22; pergunta nao especifica"
+ },
+ "c1341": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 373,
+  "cego": 373.15,
+  "web": 373,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1342": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1.5,
+  "cego": 1.5,
+  "web": 1.5,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1343": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 20000,
+  "cego": 20000,
+  "web": 20000,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1344": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1013,
+  "cego": 1013.25,
+  "web": 1013,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1345": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 19.3,
+  "cego": 19.3,
+  "web": 19.3,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1346": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1347": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 108,
+  "cego": 108,
+  "web": 108,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1348": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1349": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6.5,
+  "cego": 6.5,
+  "web": 6.5,
+  "dica": "",
+  "webobs": "bate com fontes"
+ },
+ "c1350": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "cego-ambigua"
+  ],
+  "autor": 110,
+  "cego": 110.6,
+  "web": 110,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1351": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 135,
+  "cego": 135,
+  "web": 135,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1352": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 100000,
+  "cego": 100000,
+  "web": 100000,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1353": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2.5,
+  "cego": 2.5,
+  "web": 2.5,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1354": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8.6,
+  "cego": 8.6,
+  "web": 8.6,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1355": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 243,
+  "cego": 243,
+  "web": 243,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1356": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 92,
+  "cego": 92,
+  "web": 92,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1357": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 21,
+  "cego": 21,
+  "web": 21,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1358": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1359": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1360": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1361": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1.98,
+  "cego": 1.98,
+  "web": 1.98,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1362": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10,
+  "cego": 10,
+  "web": 10,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1363": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9.69,
+  "cego": 9.69,
+  "web": 9.69,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1364": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1365": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1366": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 91,
+  "cego": 91,
+  "web": 91,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1367": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 18,
+  "cego": 18,
+  "web": 18,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1368": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 21,
+  "cego": 21,
+  "web": 21,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1369": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1370": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1371": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1372": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 20,
+  "cego": 20,
+  "web": 20,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1373": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 98.48,
+  "cego": 98.48,
+  "web": 98.48,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1374": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6.3,
+  "cego": 6.3,
+  "web": 6.3,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1375": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 23,
+  "cego": 23,
+  "web": 23,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1376": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 72,
+  "cego": 72,
+  "web": 72,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1377": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 81,
+  "cego": 81,
+  "web": 81,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1378": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 14,
+  "cego": 14,
+  "web": 14,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1379": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 24,
+  "cego": 24,
+  "web": 24,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1380": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": 3,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1381": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 65,
+  "cego": 65,
+  "web": 65,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1382": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 19,
+  "cego": 19,
+  "web": 19,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1383": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 32,
+  "cego": 32,
+  "web": 32,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1384": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1385": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": 3,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1386": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 15,
+  "cego": 15,
+  "web": 15,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1387": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 30.1,
+  "cego": 30.1,
+  "web": 30.1,
+  "dica": "",
+  "webobs": ""
+ },
+ "c1388": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 79,
+  "cego": 79,
+  "web": 79,
+  "dica": "",
+  "webobs": "FIFA/CBF 79; uma matéria cita 80 (provável contagem diferente)"
+ },
+ "c1389": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 142,
+  "cego": 142,
+  "web": 142,
+  "dica": "",
+  "webobs": "142 jogos, 5 gols"
+ },
+ "c1390": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1986,
+  "cego": 1986,
+  "web": 1986,
+  "dica": "",
+  "webobs": "Copa 1986"
+ },
+ "c1391": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2016,
+  "cego": 2016,
+  "web": 2016,
+  "dica": "",
+  "webobs": "Rio 2016, primeiro ouro masculino"
+ },
+ "c1392": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1994,
+  "cego": 1994,
+  "web": 1994,
+  "dica": "",
+  "webobs": "1 maio 1994"
+ },
+ "c1393": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1991,
+  "cego": 1991,
+  "web": 1991,
+  "dica": "",
+  "webobs": "China 1991"
+ },
+ "c1394": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1924,
+  "cego": 1924,
+  "web": 1924,
+  "dica": "",
+  "webobs": "Chamonix 1924"
+ },
+ "c1395": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "dica": "",
+  "webobs": "9 ouros"
+ },
+ "c1396": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 91.4,
+  "cego": 91.4,
+  "web": 91.4,
+  "dica": "",
+  "webobs": "0,914 m no centro (3 pés)"
+ },
+ "c1397": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3.337,
+  "cego": 3.337,
+  "web": 3.337,
+  "dica": "",
+  "webobs": "3,337 km"
+ },
+ "c1398": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 4.309,
+  "cego": 4.309,
+  "web": 4.309,
+  "dica": "",
+  "webobs": "4,309 km"
+ },
+ "c1399": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "",
+  "webobs": "8 gols em 2022 (4 da final incl. 3 na final)"
+ },
+ "c1400": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 30,
+  "cego": 30,
+  "web": 30,
+  "dica": "",
+  "webobs": "2x15 min"
+ },
+ "c1401": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": "6 de linha + goleiro"
+ },
+ "c1402": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 21.3,
+  "cego": 21.3,
+  "web": 21.3,
+  "dica": "",
+  "webobs": "21,30 s"
+ },
+ "c1403": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 19,
+  "cego": 19,
+  "web": 19,
+  "dica": "",
+  "webobs": "19 gols em 6 jogos"
+ },
+ "c1404": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 25,
+  "cego": 25,
+  "web": 25,
+  "dica": "",
+  "webobs": "sets 1-4 até 25"
+ },
+ "c1405": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": "bola preta 7"
+ },
+ "c1406": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 100,
+  "cego": 100,
+  "web": 100,
+  "dica": "",
+  "webobs": "100 jardas entre linhas de gol"
+ },
+ "c1407": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": "5 títulos"
+ },
+ "c1408": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": "7 títulos até 2025"
+ },
+ "c1409": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 19,
+  "cego": 19,
+  "web": 19,
+  "dica": "",
+  "webobs": "7 ouros, 6 pratas, 6 bronzes"
+ },
+ "c1410": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "dica": "",
+  "webobs": "6 prêmios FIFA 2006-2010, 2018"
+ },
+ "c1411": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "",
+  "webobs": "8 Wimbledon"
+ },
+ "c1412": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": "5 Bolas de Ouro"
+ },
+ "c1413": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9,
+  "cego": 9,
+  "web": 9,
+  "dica": "",
+  "webobs": "9 títulos até 2019"
+ },
+ "c1414": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2,
+  "cego": 2,
+  "web": 2,
+  "dica": "",
+  "webobs": "1950 e 2014"
+ },
+ "c1415": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 6,
+  "cego": 6,
+  "web": 6,
+  "dica": "",
+  "webobs": "6 em quadra"
+ },
+ "c1416": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 45,
+  "cego": 45,
+  "web": 45,
+  "dica": "",
+  "webobs": "2x45"
+ },
+ "c1417": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 4095,
+  "cego": 4095,
+  "web": 4095,
+  "dica": "",
+  "webobs": "4.095 m"
+ },
+ "c1418": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 3724,
+  "cego": 3724,
+  "web": 3724,
+  "dica": "",
+  "webobs": "3.724 m desde 2014 (antes 3.754)"
+ },
+ "c1419": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 8586,
+  "cego": 8586,
+  "web": 8586,
+  "dica": "",
+  "webobs": "8.586 m"
+ },
+ "c1420": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 979,
+  "cego": 979,
+  "web": 979,
+  "dica": "",
+  "webobs": "979 m"
+ },
+ "c1421": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 1470,
+  "cego": 1470,
+  "web": 1470,
+  "dica": "",
+  "webobs": "1.470 m (algumas fontes 1.471)"
+ },
+ "c1422": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2850,
+  "cego": 2850,
+  "web": 2850,
+  "dica": "",
+  "webobs": "2.850 m"
+ },
+ "c1423": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2240,
+  "cego": 2240,
+  "web": 2240,
+  "dica": "",
+  "webobs": "2.240 m"
+ },
+ "c1424": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 5199,
+  "cego": 5199,
+  "web": 5199,
+  "dica": "",
+  "webobs": "5.199 m"
+ },
+ "c1425": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "web-incerta"
+  ],
+  "autor": 5137,
+  "cego": 5137,
+  "web": null,
+  "dica": "",
+  "webobs": "Wikipédia 5.137 m; outras obras 5.165 m"
+ },
+ "c1426": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 3715,
+  "cego": 3715,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1427": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 4169,
+  "cego": 4169,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1428": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 372,
+  "cego": 372,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1429": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 66.5,
+  "cego": 66.5,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1430": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:dica-indireta"
+  ],
+  "autor": 15,
+  "cego": 15,
+  "web": null,
+  "dica": "Dedutível por 360 graus dividido por 24 horas, cálculo simples que entrega a resposta.",
+  "webobs": "bate com fonte"
+ },
+ "c1431": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 35,
+  "cego": 35,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1432": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 66,
+  "cego": 66,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1433": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 20.3,
+  "cego": 20.3,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1434": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 75,
+  "cego": 75,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1435": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2.78,
+  "cego": 2.78,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1436": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 378,
+  "cego": 378,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1437": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 301,
+  "cego": 301,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1438": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 92,
+  "cego": 92,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1439": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 316,
+  "cego": 316,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1440": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 160,
+  "cego": 160,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1441": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 506,
+  "cego": 506,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1442": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 268,
+  "cego": 268,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1443": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 338,
+  "cego": 338,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1444": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 110,
+  "cego": 111,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1445": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 41,
+  "cego": 41.3,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1446": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 70,
+  "cego": 70.3,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1447": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 132,
+  "cego": 132,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1448": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 756,
+  "cego": 756,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1449": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 176,
+  "cego": 176,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1450": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 331.4,
+  "cego": 331.4,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1451": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1211,
+  "cego": 1210,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1452": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 37,
+  "cego": 37,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1453": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10.3,
+  "cego": 10.3,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1454": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 46,
+  "cego": 46,
+  "web": null,
+  "dica": "",
+  "webobs": "Censo 2022 preliminar 46,04M; definitivo 46,23M; ambos arredondam ~46"
+ },
+ "c1455": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 126,
+  "cego": 126,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1456": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:ambigua"
+  ],
+  "autor": 9.2,
+  "cego": 9.2,
+  "web": null,
+  "dica": "Cidade do México: município/cidade (9,2 mi) vs área metropolitana (~21 mi) são defensáveis.",
+  "webobs": "bate com fonte"
+ },
+ "c1457": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 3.1,
+  "cego": 3.12,
+  "web": null,
+  "dica": "",
+  "webobs": "3,12M (CABA)"
+ },
+ "c1458": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3.9,
+  "cego": 3.9,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1459": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "cego-ambigua",
+   "cego-baixa"
+  ],
+  "autor": 2.7,
+  "cego": 2.75,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1460": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2.8,
+  "cego": 2.79,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1461": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 1411.8,
+  "cego": 1411.8,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1462": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 126.1,
+  "cego": 126.1,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1463": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 25.4,
+  "cego": 25.4,
+  "web": null,
+  "dica": "",
+  "webobs": "bate com fonte"
+ },
+ "c1464": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 47,
+  "cego": 47,
+  "web": 47,
+  "dica": "",
+  "webobs": "47 prefeituras"
+ },
+ "c1465": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 17,
+  "cego": 17,
+  "web": 17,
+  "dica": "",
+  "webobs": "17 comunidades (mais 2 cidades autonomas)"
+ },
+ "c1466": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 20,
+  "cego": 20,
+  "web": 20,
+  "dica": "",
+  "webobs": "20 regioes"
+ },
+ "c1467": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": 13,
+  "dica": "",
+  "webobs": "13 regioes metropolitanas desde 2016"
+ },
+ "c1468": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 30,
+  "cego": 30,
+  "web": 30,
+  "dica": "",
+  "webobs": "Maximo validado ~30 m (29,9); relatos de 33 m nao confiaveis"
+ },
+ "c1469": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1872,
+  "cego": 1872,
+  "web": 1872,
+  "dica": "",
+  "webobs": "1872"
+ },
+ "c1470": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1936,
+  "cego": 1936,
+  "web": 1936,
+  "dica": "",
+  "webobs": "Benjamin morreu em 1936"
+ },
+ "c1471": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1902,
+  "cego": 1902,
+  "web": 1902,
+  "dica": "",
+  "webobs": "1902"
+ },
+ "c1472": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2005,
+  "cego": 2005,
+  "web": 2005,
+  "dica": "",
+  "webobs": "2005"
+ },
+ "c1473": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2010,
+  "cego": 2010,
+  "web": 2010,
+  "dica": "",
+  "webobs": "2010"
+ },
+ "c1474": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1789,
+  "cego": 1789,
+  "web": 1789,
+  "dica": "",
+  "webobs": "1789"
+ },
+ "c1475": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1989,
+  "cego": 1989,
+  "web": 1989,
+  "dica": "",
+  "webobs": "1989"
+ },
+ "c1476": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1492,
+  "cego": 1492,
+  "web": 1492,
+  "dica": "",
+  "webobs": "1492"
+ },
+ "c1477": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1776,
+  "cego": 1776,
+  "web": 1776,
+  "dica": "",
+  "webobs": "1776"
+ },
+ "c1478": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1941,
+  "cego": 1941,
+  "web": 1941,
+  "dica": "",
+  "webobs": "1941"
+ },
+ "c1479": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1815,
+  "cego": 1815,
+  "web": 1815,
+  "dica": "",
+  "webobs": "1815"
+ },
+ "c1480": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1991,
+  "cego": 1991,
+  "web": 1991,
+  "dica": "",
+  "webobs": "1991"
+ },
+ "c1481": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1917,
+  "cego": 1917,
+  "web": 1917,
+  "dica": "",
+  "webobs": "1917"
+ },
+ "c1482": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1986,
+  "cego": 1986,
+  "web": 1986,
+  "dica": "",
+  "webobs": "1986"
+ },
+ "c1483": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 20,
+  "cego": 20,
+  "web": 20,
+  "dica": "",
+  "webobs": "20 botes (14+4+2)"
+ },
+ "c1484": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 160,
+  "cego": 160,
+  "web": 160,
+  "dica": "",
+  "webobs": "23h40 a 2h20 = 2h40"
+ },
+ "c1485": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 354,
+  "cego": 354,
+  "web": 354,
+  "dica": "",
+  "webobs": "354 degraus ate a coroa"
+ },
+ "c1486": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 63,
+  "cego": 63,
+  "web": 63,
+  "dica": "",
+  "webobs": "63 anos e 216 dias"
+ },
+ "c1487": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 72,
+  "cego": 72,
+  "web": 72,
+  "dica": "",
+  "webobs": "72 anos"
+ },
+ "c1488": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 70,
+  "cego": 70,
+  "web": 70,
+  "dica": "",
+  "webobs": "70 anos e 214 dias"
+ },
+ "c1489": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8,
+  "cego": 8,
+  "web": 8,
+  "dica": "",
+  "webobs": "8 dias 3 h"
+ },
+ "c1490": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 33.5,
+  "cego": 33.5,
+  "web": 33.5,
+  "dica": "",
+  "webobs": "33 h 30 min"
+ },
+ "c1491": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 18,
+  "cego": 18,
+  "web": 18,
+  "dica": "",
+  "webobs": "18 chegaram a Sanlucar em 1522 no Victoria"
+ },
+ "c1492": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 155,
+  "cego": 155,
+  "web": 155,
+  "dica": "",
+  "webobs": "155 km (alguns citam 160)"
+ },
+ "c1493": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 28,
+  "cego": 28,
+  "web": 28,
+  "dica": "",
+  "webobs": "1961-1989: 28 anos"
+ },
+ "c1494": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "cego-ambigua"
+  ],
+  "autor": 117,
+  "cego": 118,
+  "web": 117,
+  "dica": "",
+  "webobs": "73 milhas = 117 km (Britannica 118)"
+ },
+ "c1495": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 23,
+  "cego": 23,
+  "web": 23,
+  "dica": "",
+  "webobs": "Suetonio: 23 ferimentos"
+ },
+ "c1496": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 24,
+  "cego": 24,
+  "web": 24,
+  "dica": "",
+  "webobs": "1271-1295 = 24 anos"
+ },
+ "c1497": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 9289,
+  "cego": 9289,
+  "web": 9289,
+  "dica": "",
+  "webobs": "9289 km (Britannica 9288)"
+ },
+ "c1498": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 30,
+  "cego": 30,
+  "web": 30,
+  "dica": "",
+  "webobs": "raio 30 km"
+ },
+ "c1499": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 193,
+  "cego": 193,
+  "web": 193,
+  "dica": "",
+  "webobs": "6 pes 4 pol = 193 cm"
+ },
+ "c1500": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 353,
+  "cego": 353,
+  "web": 353,
+  "dica": "",
+  "webobs": "353 avioes (183+170)"
+ },
+ "c1501": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": 13,
+  "dica": "",
+  "webobs": "16 a 28 de outubro de 1962: 13 dias"
+ },
+ "c1502": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 27,
+  "cego": 27,
+  "web": 27,
+  "dica": "",
+  "webobs": "27 anos (1962-1990)"
+ },
+ "c1503": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 25,
+  "cego": 25,
+  "web": 25,
+  "dica": "",
+  "webobs": "6/7/1942 a 4/8/1944 = ~25 meses"
+ },
+ "c1504": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 342,
+  "cego": 342,
+  "web": 342,
+  "dica": "",
+  "webobs": "342 caixas"
+ },
+ "c1505": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 7,
+  "cego": 7,
+  "web": 7,
+  "dica": "",
+  "webobs": "7 prisioneiros"
+ },
+ "c1506": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 83.6,
+  "cego": 83.6,
+  "web": 83.6,
+  "dica": "",
+  "webobs": "83,6 kg"
+ },
+ "c1507": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 108,
+  "cego": 108,
+  "web": 108,
+  "dica": "",
+  "webobs": "108 min"
+ },
+ "c1508": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2.3,
+  "cego": 2.3,
+  "web": 2.3,
+  "dica": "",
+  "webobs": "~2,3 milhões"
+ },
+ "c1509": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 46,
+  "cego": 46,
+  "web": 46,
+  "dica": "",
+  "webobs": "46 colunas (8x17)"
+ },
+ "c1510": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1093,
+  "cego": 1093,
+  "web": 1093,
+  "dica": "",
+  "webobs": "1093 patentes dos EUA"
+ },
+ "c1511": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 220,
+  "cego": 220,
+  "web": 220,
+  "dica": "",
+  "webobs": "220 m em 12/11/1906"
+ },
+ "c1512": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 265,
+  "cego": 265,
+  "web": 265,
+  "dica": "",
+  "webobs": "1603-1868"
+ },
+ "c1513": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 2430,
+  "cego": 2430,
+  "web": 2430,
+  "dica": "",
+  "webobs": "2430 m"
+ },
+ "c1514": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 12,
+  "cego": 12,
+  "web": 12,
+  "dica": "",
+  "webobs": "12 homens"
+ },
+ "c1515": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 56,
+  "cego": 56,
+  "web": 56,
+  "dica": "",
+  "webobs": "56 signatários"
+ },
+ "c1516": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 39,
+  "cego": 39,
+  "web": 39,
+  "dica": "",
+  "webobs": "39 signatários"
+ },
+ "c1517": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "",
+  "webobs": "5 filhos"
+ },
+ "c1518": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 29,
+  "cego": 29,
+  "web": 29,
+  "dica": "",
+  "webobs": "1934-1963"
+ },
+ "c1519": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 12,
+  "cego": 12,
+  "web": 12,
+  "dica": "",
+  "webobs": "~12 milhões"
+ },
+ "c1520": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2281,
+  "cego": 2281,
+  "web": 2281,
+  "dica": "",
+  "webobs": "2281 artigos"
+ },
+ "c1521": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 101,
+  "cego": 101,
+  "web": 101,
+  "dica": "",
+  "webobs": "101 dias"
+ },
+ "c1522": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 28,
+  "cego": 28,
+  "web": 28,
+  "dica": "",
+  "webobs": "28 homens"
+ },
+ "c1523": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:ambigua"
+  ],
+  "autor": 5,
+  "cego": 5,
+  "web": 5,
+  "dica": "A viagem durou 4 anos e 10 meses; o pedido de arredondar em anos inteiros restringe a faixa e o critério é confuso.",
+  "webobs": "dez/1831 a out/1836, ~5 anos"
+ },
+ "c1524": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 102,
+  "cego": 102,
+  "web": 102,
+  "dica": "",
+  "webobs": "102 passageiros"
+ },
+ "c1525": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": 3,
+  "dica": "",
+  "webobs": "3 navios"
+ },
+ "c1526": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 282,
+  "cego": 282,
+  "web": 282,
+  "dica": "",
+  "webobs": "282 leis"
+ },
+ "c1527": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 20,
+  "cego": 20,
+  "web": 20,
+  "dica": "",
+  "webobs": "20,2 m"
+ },
+ "c1528": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2,
+  "cego": 2,
+  "web": 2,
+  "dica": "",
+  "webobs": "Nobel 1903 e 1911"
+ },
+ "c1529": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1937,
+  "cego": 1937,
+  "web": 1937,
+  "dica": "",
+  "webobs": "1937"
+ },
+ "c1530": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 80,
+  "cego": 80,
+  "web": 80,
+  "dica": "",
+  "webobs": "inaugurado em 80 d.C."
+ },
+ "c1531": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1863,
+  "cego": 1863,
+  "web": 1863,
+  "dica": "",
+  "webobs": "10/1/1863"
+ },
+ "c1532": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1974,
+  "cego": 1974,
+  "web": 1974,
+  "dica": "",
+  "webobs": "14/9/1974"
+ },
+ "c1533": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1964,
+  "cego": 1964,
+  "web": 1964,
+  "dica": "",
+  "webobs": "1/10/1964"
+ },
+ "c1534": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1931,
+  "cego": 1931,
+  "web": 1931,
+  "dica": "",
+  "webobs": "1931"
+ },
+ "c1535": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 184,
+  "cego": 184,
+  "web": 184,
+  "dica": "",
+  "webobs": "184 m"
+ },
+ "c1536": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 192,
+  "cego": 192,
+  "web": 192,
+  "dica": "",
+  "webobs": "192 m"
+ },
+ "c1537": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 169,
+  "cego": 169,
+  "web": 169,
+  "dica": "",
+  "webobs": "169 m"
+ },
+ "c1538": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 77,
+  "cego": 77,
+  "web": 77,
+  "dica": "",
+  "webobs": "77 andares"
+ },
+ "c1539": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 321,
+  "cego": 321,
+  "web": 321,
+  "dica": "",
+  "webobs": "321 m"
+ },
+ "c1540": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 157,
+  "cego": 157,
+  "web": 157,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1541": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1991,
+  "cego": 1991,
+  "web": 1991,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1542": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 486,
+  "cego": 486,
+  "web": 486,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1543": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 138,
+  "cego": 138,
+  "web": 138,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1544": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 54,
+  "cego": 53.85,
+  "web": 54,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1545": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 11.6,
+  "cego": 11.6,
+  "web": 11.6,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1546": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "cego-ambigua",
+   "cego-baixa",
+   "web-incerta"
+  ],
+  "autor": 21,
+  "cego": 24,
+  "web": null,
+  "dica": "",
+  "webobs": "24,6 m na superfície, 21 m no fundo; critério ambíguo"
+ },
+ "c1547": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge",
+   "web-incerta"
+  ],
+  "autor": 185,
+  "cego": 181,
+  "web": 181,
+  "dica": "",
+  "webobs": "Altura da barragem 181 m; 185 m é a cota da crista"
+ },
+ "c1548": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 221,
+  "cego": 221,
+  "web": 221,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1549": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 73,
+  "cego": 73,
+  "web": 73,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1550": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 43,
+  "cego": 43,
+  "web": 43,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1551": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 354,
+  "cego": 354,
+  "web": 354,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1552": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 897,
+  "cego": 896,
+  "web": 897,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1553": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 108,
+  "cego": 110,
+  "web": 108,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1554": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 541,
+  "cego": 541,
+  "web": 541,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1555": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 555,
+  "cego": 555,
+  "web": 555,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1556": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 601,
+  "cego": 601,
+  "web": 601,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1557": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 333,
+  "cego": 333,
+  "web": 333,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1558": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 775,
+  "cego": 775,
+  "web": 775,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1559": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 132,
+  "cego": 132,
+  "web": 132,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1560": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 603,
+  "cego": 603,
+  "web": 603,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1561": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 102,
+  "cego": 102,
+  "web": 102,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1562": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-diverge"
+  ],
+  "autor": 13.7,
+  "cego": 13.8,
+  "web": 13.7,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1563": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 73,
+  "cego": 73,
+  "web": 73,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1564": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 18,
+  "cego": 18,
+  "web": 18,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1565": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 85,
+  "cego": 85,
+  "web": 85,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1566": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 50,
+  "cego": 50,
+  "web": 50,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1567": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 44,
+  "cego": 44,
+  "web": 44,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1568": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 28,
+  "cego": 28,
+  "web": 28,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1569": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 230,
+  "cego": 230,
+  "web": 230,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1570": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 341,
+  "cego": 341,
+  "web": 341,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1571": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 635,
+  "cego": 635,
+  "web": 635,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1572": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 22.5,
+  "cego": 22.5,
+  "web": 22.5,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1573": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 368,
+  "cego": 368,
+  "web": 368,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1574": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 328,
+  "cego": 328,
+  "web": 328,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1575": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 310,
+  "cego": 310,
+  "web": 310,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1576": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 134,
+  "cego": 134,
+  "web": 134,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1577": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 227,
+  "cego": 227,
+  "web": 227,
+  "dica": "",
+  "webobs": "bate com Wikipédia/fontes oficiais"
+ },
+ "c1578": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 72,
+  "cego": 72,
+  "web": null,
+  "dica": "",
+  "webobs": "Wikipédia/Britannica: 72 ha"
+ },
+ "c1579": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 36,
+  "cego": 36,
+  "web": null,
+  "dica": "",
+  "webobs": "36 colunas externas"
+ },
+ "c1580": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 133,
+  "cego": 133,
+  "web": null,
+  "dica": "",
+  "webobs": "133 m acima da esplanada (intro diz 134)"
+ },
+ "c1581": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1298,
+  "cego": 1298,
+  "web": null,
+  "dica": "",
+  "webobs": "4260 ft = 1298 m"
+ },
+ "c1582": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 165,
+  "cego": 165,
+  "web": null,
+  "dica": "",
+  "webobs": "165 m"
+ },
+ "c1583": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 71,
+  "cego": 71,
+  "web": null,
+  "dica": "",
+  "webobs": "71 m (Wikipédia, Britannica)"
+ },
+ "c1584": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2001,
+  "cego": 2001,
+  "web": null,
+  "dica": "",
+  "webobs": "15/jan/2001; conhecimento firme"
+ },
+ "c1585": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2006,
+  "cego": 2006,
+  "web": null,
+  "dica": "",
+  "webobs": "lançado jul/2006; conhecimento firme"
+ },
+ "c1586": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2004,
+  "cego": 2004,
+  "web": null,
+  "dica": "",
+  "webobs": "fundado 2004"
+ },
+ "c1587": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1972,
+  "cego": 1972,
+  "web": null,
+  "dica": "",
+  "webobs": "Pong 1972; conhecimento firme"
+ },
+ "c1588": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1994,
+  "cego": 1994,
+  "web": null,
+  "dica": "",
+  "webobs": "fundada 1994; conhecimento firme"
+ },
+ "c1589": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2022,
+  "cego": 2022,
+  "web": null,
+  "dica": "",
+  "webobs": "30/nov/2022"
+ },
+ "c1590": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2009,
+  "cego": 2009,
+  "web": null,
+  "dica": "",
+  "webobs": "fundado 2009; conhecimento firme"
+ },
+ "c1591": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1947,
+  "cego": 1947,
+  "web": null,
+  "dica": "",
+  "webobs": "Mariposa em 9/set/1947 no Mark II; autoria de Hopper é discutida, ano certo"
+ },
+ "c1592": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1971,
+  "cego": 1971,
+  "web": null,
+  "dica": "",
+  "webobs": "1971; conhecimento firme"
+ },
+ "c1593": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 5,
+  "cego": 5,
+  "web": null,
+  "dica": "",
+  "webobs": "1 milhão em 5 dias"
+ },
+ "c1594": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 128,
+  "cego": 128,
+  "web": null,
+  "dica": "",
+  "webobs": "128 bits; conhecimento firme"
+ },
+ "c1595": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 19,
+  "cego": 19,
+  "web": null,
+  "dica": "",
+  "webobs": "nasc. mai/1984, fund. fev/2004"
+ },
+ "c1596": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 56,
+  "cego": 56,
+  "web": null,
+  "dica": "",
+  "webobs": "1955-2011, 56 anos"
+ },
+ "c1597": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 19,
+  "cego": 19,
+  "web": null,
+  "dica": "",
+  "webobs": "nasc. out/1955, Microsoft abr/1975"
+ },
+ "c1598": {
+  "status": "reprovada",
+  "motivos": [
+   "dica:dica-indireta"
+  ],
+  "autor": 4,
+  "cego": 4,
+  "web": null,
+  "dica": "Dizer que foi um match de cinco jogos limita a resposta a 0-5 e torna 4 quase dedutível.",
+  "webobs": "4-1; conhecimento firme"
+ },
+ "c1599": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 300,
+  "cego": 300,
+  "web": null,
+  "dica": "",
+  "webobs": "300 milhões anunciados em 15/out/2023"
+ },
+ "c1600": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 101.6,
+  "cego": 101.6,
+  "web": null,
+  "dica": "",
+  "webobs": "101,63 milhões"
+ },
+ "c1601": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 154,
+  "cego": 154,
+  "web": null,
+  "dica": "",
+  "webobs": "154,02 milhões"
+ },
+ "c1602": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3.07,
+  "cego": 3.07,
+  "web": null,
+  "dica": "",
+  "webobs": "3,07 bilhões"
+ },
+ "c1603": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2,
+  "cego": 2,
+  "web": null,
+  "dica": "",
+  "webobs": "2 bi em fev/2020; conhecimento firme"
+ },
+ "c1604": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 26.2,
+  "cego": 26.2,
+  "web": null,
+  "dica": "",
+  "webobs": "US$26,2 bi; conhecimento firme"
+ },
+ "c1605": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 44,
+  "cego": 44,
+  "web": null,
+  "dica": "",
+  "webobs": "US$44 bi; conhecimento firme"
+ },
+ "c1606": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2,
+  "cego": 2,
+  "web": null,
+  "dica": "",
+  "webobs": "US$2 bi; conhecimento firme"
+ },
+ "c1607": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 8.5,
+  "cego": 8.5,
+  "web": null,
+  "dica": "",
+  "webobs": "US$8,5 bi; conhecimento firme"
+ },
+ "c1608": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 24,
+  "cego": 24,
+  "web": null,
+  "dica": "",
+  "webobs": "1975: dobra a cada 2 anos; conhecimento firme"
+ },
+ "c1609": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 128,
+  "cego": 128,
+  "web": null,
+  "dica": "",
+  "webobs": "128 códigos"
+ },
+ "c1610": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 16.8,
+  "cego": 16.8,
+  "web": null,
+  "dica": "",
+  "webobs": "2^24=16.777.216"
+ },
+ "c1611": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 260,
+  "cego": 260,
+  "web": null,
+  "dica": "",
+  "webobs": "260,28 milhões (alguns sites dizem 260,8, erro)"
+ },
+ "c1612": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 21,
+  "cego": 21,
+  "web": null,
+  "dica": "",
+  "webobs": "21 milhões; conhecimento firme"
+ },
+ "c1613": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 10000,
+  "cego": 10000,
+  "web": null,
+  "dica": "",
+  "webobs": "10.000 BTC; conhecimento firme"
+ },
+ "c1614": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua",
+   "web-incerta"
+  ],
+  "autor": 1.1,
+  "cego": 1.1,
+  "web": 0.8,
+  "dica": "",
+  "webobs": "Wikipédia: 28 oz = 790 g (0,8 kg); outras fontes citam 2,5 lb=1,1 kg"
+ },
+ "c1615": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 30,
+  "cego": 30,
+  "web": null,
+  "dica": "",
+  "webobs": "30 min no texto principal (seção Variantes cita até 60)"
+ },
+ "c1616": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 1565,
+  "cego": 1565,
+  "web": null,
+  "dica": "",
+  "webobs": "US$1,565 base 16KB"
+ },
+ "c1617": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 2495,
+  "cego": 2495,
+  "web": null,
+  "dica": "",
+  "webobs": "US$2,495"
+ },
+ "c1618": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 499,
+  "cego": 499,
+  "web": null,
+  "dica": "",
+  "webobs": "US$499 Wi-Fi 16GB"
+ },
+ "c1619": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 35,
+  "cego": 35,
+  "web": null,
+  "dica": "",
+  "webobs": "US$35 Model B"
+ },
+ "c1620": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 41,
+  "cego": 41,
+  "web": null,
+  "dica": "",
+  "webobs": "23/6/1912-7/6/1954"
+ },
+ "c1621": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 21,
+  "cego": 21,
+  "web": null,
+  "dica": "",
+  "webobs": "nasc. 28/12/1969; anúncio 25/8/1991"
+ },
+ "c1622": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3,
+  "cego": 3,
+  "web": null,
+  "dica": "",
+  "webobs": "US$1 bi em 3 dias"
+ },
+ "c1623": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 500,
+  "cego": 500,
+  "web": null,
+  "dica": "",
+  "webobs": "500+ h/min em maio 2019"
+ },
+ "c1624": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 175,
+  "cego": 175,
+  "web": null,
+  "dica": "",
+  "webobs": "175 bi"
+ },
+ "c1625": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 104,
+  "cego": 104,
+  "web": null,
+  "dica": "",
+  "webobs": "~US$104 bi no preço da oferta"
+ },
+ "c1626": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1,
+  "cego": 1,
+  "web": null,
+  "dica": "",
+  "webobs": "1 GB"
+ },
+ "c1627": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 400,
+  "cego": 400,
+  "web": null,
+  "dica": "",
+  "webobs": "estimado US$400 mi"
+ },
+ "c1628": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 13,
+  "cego": 13,
+  "web": null,
+  "dica": "",
+  "webobs": "13 funcionários em abril 2012"
+ },
+ "c1629": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 55,
+  "cego": 55,
+  "web": null,
+  "dica": "",
+  "webobs": "55 funcionários (Forbes/NPR)"
+ },
+ "c1630": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 12,
+  "cego": 12,
+  "web": null,
+  "dica": "",
+  "webobs": "12 teclas F1-F12"
+ },
+ "c1631": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 89.99,
+  "cego": 89.99,
+  "web": null,
+  "dica": "",
+  "webobs": "infobox 89,99; texto 89,95"
+ },
+ "c1632": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 299,
+  "cego": 299,
+  "web": null,
+  "dica": "",
+  "webobs": "US$299"
+ },
+ "c1633": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 40.24,
+  "cego": 40.2,
+  "web": null,
+  "dica": "",
+  "webobs": "40,24 mi NES"
+ },
+ "c1634": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1,
+  "cego": 1,
+  "web": null,
+  "dica": "",
+  "webobs": "US$1 de salário"
+ },
+ "c1635": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 3499,
+  "cego": 3499,
+  "web": null,
+  "dica": "",
+  "webobs": "US$3,499"
+ },
+ "c1636": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 299,
+  "cego": 299.99,
+  "web": null,
+  "dica": "",
+  "webobs": "US$299,99 (299 ok)"
+ },
+ "c1637": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 199,
+  "cego": 199,
+  "web": null,
+  "dica": "",
+  "webobs": "US$199 (infobox 189,95)"
+ },
+ "c1638": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 595,
+  "cego": 595,
+  "web": null,
+  "dica": "",
+  "webobs": "US$595"
+ },
+ "c1639": {
+  "status": "reprovada",
+  "motivos": [
+   "cego-ambigua"
+  ],
+  "autor": 1298,
+  "cego": 1298,
+  "web": null,
+  "dica": "",
+  "webobs": "US$1,298 4KB"
+ },
+ "c1640": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 9995,
+  "cego": 9995,
+  "web": null,
+  "dica": "",
+  "webobs": "US$9,995"
+ },
+ "c1641": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 1500,
+  "cego": 1500,
+  "web": null,
+  "dica": "",
+  "webobs": "US$1.500"
+ },
+ "c1642": {
+  "status": "ok",
+  "motivos": [],
+  "autor": 36,
+  "cego": 36,
+  "web": null,
+  "dica": "",
+  "webobs": "10/12/1815-27/11/1852"
+ }
+}

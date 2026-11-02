@@ -1,0 +1,332 @@
+[
+ {
+  "id": "c1643",
+  "q": "Quantas peças, somando as duas cores, tem um jogo de gamão no início da partida?",
+  "unidade": "peças"
+ },
+ {
+  "id": "c1644",
+  "q": "Quantos painéis tem a bola de futebol clássica de pentágonos pretos e hexágonos brancos?",
+  "unidade": "painéis"
+ },
+ {
+  "id": "c1645",
+  "q": "Quantos anos de casamento completam as bodas de ouro?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1646",
+  "q": "Quantas cartas cada jogador recebe no início de uma partida de Uno?",
+  "unidade": "cartas"
+ },
+ {
+  "id": "c1647",
+  "q": "Quantas cordas tem um bandolim tradicional, contando as duplas como duas?",
+  "unidade": "cordas"
+ },
+ {
+  "id": "c1648",
+  "q": "Quantos cromossomos tem uma célula comum do corpo de uma vaca?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c1649",
+  "q": "Quantos cromossomos tem uma célula comum do corpo de um porco doméstico?",
+  "unidade": "cromossomos"
+ },
+ {
+  "id": "c1650",
+  "q": "Quantos números tem a roleta europeia de cassino?",
+  "unidade": "números"
+ },
+ {
+  "id": "c1651",
+  "q": "De quantas maneiras diferentes uma pessoa pode receber 5 cartas de um baralho de 52 cartas, sem importar a ordem?",
+  "unidade": "maneiras"
+ },
+ {
+  "id": "c1652",
+  "q": "Quantos movimentos, no mínimo, são necessários para resolver a Torre de Hanói com 8 discos?",
+  "unidade": "movimentos"
+ },
+ {
+  "id": "c1653",
+  "q": "Quantas onças tem uma libra, na medida inglesa de peso?",
+  "unidade": "onças"
+ },
+ {
+  "id": "c1654",
+  "q": "Em que ano a cadela Laika foi lançada ao espaço a bordo do Sputnik 2?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1655",
+  "q": "Em que ano o brinquedo eletrônico Tamagotchi foi lançado no Japão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1656",
+  "q": "Quantas vezes a seleção brasileira masculina de futebol terminou uma Copa do Mundo como vice-campeã, entre 1930 e 2022?",
+  "unidade": "vezes"
+ },
+ {
+  "id": "c1657",
+  "q": "Qual é a altura total do Cristo Redentor, no Rio de Janeiro, contando o pedestal, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1658",
+  "q": "Quantos estados formam a região Norte do Brasil?",
+  "unidade": "estados"
+ },
+ {
+  "id": "c1659",
+  "q": "Quantos gols Pelé marcou, ao todo, em Copas do Mundo?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1660",
+  "q": "Quantos anos tinha Pelé quando disputou a final da Copa do Mundo de 1958?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1661",
+  "q": "Quantas corridas de Fórmula 1 Ayrton Senna venceu em toda a carreira?",
+  "unidade": "vitórias"
+ },
+ {
+  "id": "c1662",
+  "q": "Quantas vezes Ayrton Senna venceu o Grande Prêmio de Mônaco de Fórmula 1?",
+  "unidade": "vezes"
+ },
+ {
+  "id": "c1663",
+  "q": "Quantos caracteres tem a placa de um carro brasileiro?",
+  "unidade": "caracteres"
+ },
+ {
+  "id": "c1664",
+  "q": "Em que ano foi executado Tiradentes, líder da Inconfidência Mineira?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1665",
+  "q": "Quantos anos tinha Dom Pedro II quando foi declarada sua maioridade e ele assumiu o governo do Império, em 1840?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1666",
+  "q": "Qual é a altura do Pão de Açúcar, no Rio de Janeiro, acima do nível do mar, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1667",
+  "q": "Quantos gols Ronaldo Fenômeno marcou em Copas do Mundo, somando todas as que disputou?",
+  "unidade": "gols"
+ },
+ {
+  "id": "c1668",
+  "q": "Quantas vértebras cervicais, as do pescoço, tem a coluna de um ser humano?",
+  "unidade": "vértebras"
+ },
+ {
+  "id": "c1669",
+  "q": "Quantas vértebras lombares, as da parte baixa das costas, tem a coluna de um adulto típico?",
+  "unidade": "vértebras"
+ },
+ {
+  "id": "c1670",
+  "q": "Em que ano a OMS declarou oficialmente a varíola erradicada no mundo?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1671",
+  "q": "Quantos anos viveu a francesa Jeanne Calment, a pessoa com idade comprovada mais longeva da história segundo o Guinness?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1672",
+  "q": "Quantos códons diferentes existem no código genético?",
+  "unidade": "códons"
+ },
+ {
+  "id": "c1673",
+  "q": "Quantos aminoácidos essenciais, que o corpo de um adulto não consegue produzir, são reconhecidos pela nutrição clássica?",
+  "unidade": "aminoácidos"
+ },
+ {
+  "id": "c1674",
+  "q": "Quantos ossinhos tem o ouvido médio de cada orelha?",
+  "unidade": "ossículos"
+ },
+ {
+  "id": "c1675",
+  "q": "Qual é a pontuação máxima possível na Escala de Coma de Glasgow?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1676",
+  "q": "Qual é a nota máxima possível no teste de Apgar, aplicado nos recém-nascidos?",
+  "unidade": "pontos"
+ },
+ {
+  "id": "c1677",
+  "q": "Quantas semanas dura uma gestação humana típica, contadas a partir do primeiro dia da última menstruação?",
+  "unidade": "semanas"
+ },
+ {
+  "id": "c1678",
+  "q": "Quantos centímetros media Robert Wadlow, o homem mais alto da história com altura comprovada, segundo o Guinness?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c1679",
+  "q": "Por quantas horas seguidas o estudante Randy Gardner ficou acordado em 1964, num dos recordes de privação de sono mais famosos da ciência?",
+  "unidade": "horas"
+ },
+ {
+  "id": "c1680",
+  "q": "Quantas vitaminas diferentes formam o chamado complexo B?",
+  "unidade": "vitaminas"
+ },
+ {
+  "id": "c1681",
+  "q": "Quantas teclas tem um piano acústico de tamanho padrão?",
+  "unidade": "teclas"
+ },
+ {
+  "id": "c1682",
+  "q": "Quantos Oscars ganhou o filme O Senhor dos Anéis: O Retorno do Rei?",
+  "unidade": "Oscars"
+ },
+ {
+  "id": "c1683",
+  "q": "Quantos integrantes tem o grupo sul-coreano de K-pop BTS?",
+  "unidade": "integrantes"
+ },
+ {
+  "id": "c1684",
+  "q": "Quantas temporadas teve a série Lost, do início ao fim?",
+  "unidade": "temporadas"
+ },
+ {
+  "id": "c1685",
+  "q": "Em que ano foi lançado o jogo Pac-Man, no Japão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1686",
+  "q": "Em que ano foi publicado o romance Dom Casmurro, de Machado de Assis?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1687",
+  "q": "Quantos Pokémon existem na primeira geração, a de Pokémon Red e Blue?",
+  "unidade": "Pokémon"
+ },
+ {
+  "id": "c1688",
+  "q": "Até a cerimônia de 2025, quantas indicações ao Oscar a atriz Meryl Streep recebeu na carreira?",
+  "unidade": "indicações"
+ },
+ {
+  "id": "c1689",
+  "q": "Quantos filmes tem a série principal de Harry Potter, contando a Parte 1 e a Parte 2 do último livro como dois?",
+  "unidade": "filmes"
+ },
+ {
+  "id": "c1690",
+  "q": "Quantos anos o personagem Chaves diz ter na série mexicana?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1691",
+  "q": "Quantos formatos diferentes de peças existem no Tetris clássico?",
+  "unidade": "formatos"
+ },
+ {
+  "id": "c1692",
+  "q": "Quantos Oscars de melhor direção ganhou o cineasta John Ford, recorde da categoria?",
+  "unidade": "Oscars"
+ },
+ {
+  "id": "c1693",
+  "q": "Quantos capítulos tem o livro do Gênesis na Bíblia?",
+  "unidade": "capítulos"
+ },
+ {
+  "id": "c1694",
+  "q": "Quantos graus Celsius abaixo de zero fica o zero absoluto, a menor temperatura possível?",
+  "unidade": "°C abaixo de zero"
+ },
+ {
+  "id": "c1695",
+  "q": "Qual é a temperatura da radiação cósmica de fundo, o eco do Big Bang que preenche o Universo, em kelvins?",
+  "unidade": "K"
+ },
+ {
+  "id": "c1696",
+  "q": "Quantos vértices tem um tesseract, o hipercubo de quatro dimensões?",
+  "unidade": "vértices"
+ },
+ {
+  "id": "c1697",
+  "q": "Quantos números primos existem abaixo de 10.000?",
+  "unidade": "números primos"
+ },
+ {
+  "id": "c1698",
+  "q": "Quantos segundos a luz leva para ir da Lua até a Terra, em média?",
+  "unidade": "segundos"
+ },
+ {
+  "id": "c1699",
+  "q": "Qual é a densidade do ósmio, o elemento mais denso que existe, em g/cm³?",
+  "unidade": "g/cm³"
+ },
+ {
+  "id": "c1700",
+  "q": "A que temperatura o ouro derrete, em °C?",
+  "unidade": "°C"
+ },
+ {
+  "id": "c1701",
+  "q": "Quanto vale o número pi com cinco casas decimais?",
+  "unidade": "número"
+ },
+ {
+  "id": "c1702",
+  "q": "Em que ano o astrônomo Clyde Tombaugh descobriu Plutão?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1703",
+  "q": "A que temperatura ferve o hélio, o gás que enche balões de festa, em kelvins?",
+  "unidade": "K"
+ },
+ {
+  "id": "c1704",
+  "q": "Qual é a densidade do mercúrio, o metal líquido, em g/cm³?",
+  "unidade": "g/cm³"
+ },
+ {
+  "id": "c1705",
+  "q": "Quantos anos leva para que metade do carbono-14 de um fóssil se desintegre?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1706",
+  "q": "Quantos prótons tem o núcleo de um átomo de carbono, a base da vida na Terra?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c1707",
+  "q": "Qual é o número atômico do neônio, o gás das placas luminosas, isto é, quantos prótons tem um átomo dele?",
+  "unidade": "prótons"
+ },
+ {
+  "id": "c1708",
+  "q": "Qual é o comprimento oficial de uma quadra de basquete segundo a FIBA, em metros?",
+  "unidade": "metros"
+ }
+]

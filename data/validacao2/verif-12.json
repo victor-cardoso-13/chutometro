@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1502",
+  "status": "confirmada",
+  "valor_correto": 27,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Nelson_Mandela",
+  "obs": "27 anos (1962-1990)"
+ },
+ {
+  "id": "c1503",
+  "status": "confirmada",
+  "valor_correto": 25,
+  "fonte_url": "https://www.britannica.com/print/article/2264581",
+  "obs": "6/7/1942 a 4/8/1944 = ~25 meses"
+ },
+ {
+  "id": "c1504",
+  "status": "confirmada",
+  "valor_correto": 342,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Festa_do_Chá_de_Boston",
+  "obs": "342 caixas"
+ },
+ {
+  "id": "c1505",
+  "status": "confirmada",
+  "valor_correto": 7,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Tomada_da_Bastilha",
+  "obs": "7 prisioneiros"
+ },
+ {
+  "id": "c1506",
+  "status": "confirmada",
+  "valor_correto": 83.6,
+  "fonte_url": "https://en.wikipedia.org/wiki/Sputnik_1",
+  "obs": "83,6 kg"
+ },
+ {
+  "id": "c1507",
+  "status": "confirmada",
+  "valor_correto": 108,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Vostok_1",
+  "obs": "108 min"
+ },
+ {
+  "id": "c1508",
+  "status": "confirmada",
+  "valor_correto": 2.3,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Grande_Pirâmide_de_Gizé",
+  "obs": "~2,3 milhões"
+ },
+ {
+  "id": "c1509",
+  "status": "confirmada",
+  "valor_correto": 46,
+  "fonte_url": "https://simple.wikipedia.org/wiki/Parthenon",
+  "obs": "46 colunas (8x17)"
+ },
+ {
+  "id": "c1510",
+  "status": "confirmada",
+  "valor_correto": 1093,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Thomas_Edison",
+  "obs": "1093 patentes dos EUA"
+ },
+ {
+  "id": "c1511",
+  "status": "confirmada",
+  "valor_correto": 220,
+  "fonte_url": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+  "obs": "220 m em 12/11/1906"
+ },
+ {
+  "id": "c1512",
+  "status": "confirmada",
+  "valor_correto": 265,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Xogunato_Tokugawa",
+  "obs": "1603-1868"
+ },
+ {
+  "id": "c1513",
+  "status": "confirmada",
+  "valor_correto": 2430,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Machu_Picchu",
+  "obs": "2430 m"
+ },
+ {
+  "id": "c1514",
+  "status": "confirmada",
+  "valor_correto": 12,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Programa_Apollo",
+  "obs": "12 homens"
+ },
+ {
+  "id": "c1515",
+  "status": "confirmada",
+  "valor_correto": 56,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Declaração_de_Independência_dos_Estados_Unidos",
+  "obs": "56 signatários"
+ },
+ {
+  "id": "c1516",
+  "status": "confirmada",
+  "valor_correto": 39,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Constituição_dos_Estados_Unidos",
+  "obs": "39 signatários"
+ },
+ {
+  "id": "c1517",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Nicolau_II_da_Rússia",
+  "obs": "5 filhos"
+ },
+ {
+  "id": "c1518",
+  "status": "confirmada",
+  "valor_correto": 29,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Alcatraz",
+  "obs": "1934-1963"
+ },
+ {
+  "id": "c1519",
+  "status": "confirmada",
+  "valor_correto": 12,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Ellis_Island",
+  "obs": "~12 milhões"
+ },
+ {
+  "id": "c1520",
+  "status": "confirmada",
+  "valor_correto": 2281,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Código_Napoleônico",
+  "obs": "2281 artigos"
+ },
+ {
+  "id": "c1521",
+  "status": "confirmada",
+  "valor_correto": 101,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Kon-Tiki",
+  "obs": "101 dias"
+ },
+ {
+  "id": "c1522",
+  "status": "confirmada",
+  "valor_correto": 28,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Expedição_Imperial_Transantártica",
+  "obs": "28 homens"
+ },
+ {
+  "id": "c1523",
+  "status": "confirmada",
+  "valor_correto": 5,
+  "fonte_url": "https://pt.wikipedia.org/wiki/HMS_Beagle",
+  "obs": "dez/1831 a out/1836, ~5 anos"
+ },
+ {
+  "id": "c1524",
+  "status": "confirmada",
+  "valor_correto": 102,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Mayflower",
+  "obs": "102 passageiros"
+ },
+ {
+  "id": "c1525",
+  "status": "confirmada",
+  "valor_correto": 3,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Cristóvão_Colombo",
+  "obs": "3 navios"
+ },
+ {
+  "id": "c1526",
+  "status": "confirmada",
+  "valor_correto": 282,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Código_de_Hamurábi",
+  "obs": "282 leis"
+ },
+ {
+  "id": "c1527",
+  "status": "confirmada",
+  "valor_correto": 20,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Grande_Esfinge_de_Gizé",
+  "obs": "20,2 m"
+ },
+ {
+  "id": "c1528",
+  "status": "confirmada",
+  "valor_correto": 2,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Marie_Curie",
+  "obs": "Nobel 1903 e 1911"
+ },
+ {
+  "id": "c1529",
+  "status": "confirmada",
+  "valor_correto": 1937,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Ponte_Golden_Gate",
+  "obs": "1937"
+ },
+ {
+  "id": "c1530",
+  "status": "confirmada",
+  "valor_correto": 80,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Coliseu",
+  "obs": "inaugurado em 80 d.C."
+ },
+ {
+  "id": "c1531",
+  "status": "confirmada",
+  "valor_correto": 1863,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Metropolitano_de_Londres",
+  "obs": "10/1/1863"
+ },
+ {
+  "id": "c1532",
+  "status": "confirmada",
+  "valor_correto": 1974,
+  "fonte_url": "https://diariodotransporte.com.br/2024/09/14/primeiro-metro-do-brasil-completa-50-anos-com-mais-de-30-bilhoes-de-passageiros-transportados/",
+  "obs": "14/9/1974"
+ },
+ {
+  "id": "c1533",
+  "status": "confirmada",
+  "valor_correto": 1964,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Shinkansen",
+  "obs": "1/10/1964"
+ },
+ {
+  "id": "c1534",
+  "status": "confirmada",
+  "valor_correto": 1931,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Empire_State_Building",
+  "obs": "1931"
+ },
+ {
+  "id": "c1535",
+  "status": "confirmada",
+  "valor_correto": 184,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Space_Needle",
+  "obs": "184 m"
+ },
+ {
+  "id": "c1536",
+  "status": "confirmada",
+  "valor_correto": 192,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Gateway_Arch",
+  "obs": "192 m"
+ },
+ {
+  "id": "c1537",
+  "status": "confirmada",
+  "valor_correto": 169,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Monumento_a_Washington",
+  "obs": "169 m"
+ },
+ {
+  "id": "c1538",
+  "status": "confirmada",
+  "valor_correto": 77,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Edifício_Chrysler",
+  "obs": "77 andares"
+ },
+ {
+  "id": "c1539",
+  "status": "confirmada",
+  "valor_correto": 321,
+  "fonte_url": "https://pt.wikipedia.org/wiki/Burj_Al_Arab",
+  "obs": "321 m"
+ }
+]

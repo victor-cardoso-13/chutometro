@@ -1,0 +1,352 @@
+[
+ {
+  "id": "c1434",
+  "q": "Que porcentagem dos vulcões ativos do mundo fica no chamado Círculo de Fogo do Pacífico, segundo o USGS?",
+  "unidade": "%"
+ },
+ {
+  "id": "c1435",
+  "q": "Qual a área da Argentina, em milhões de km²?",
+  "unidade": "milhões de km²"
+ },
+ {
+  "id": "c1436",
+  "q": "Qual a área do Japão, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1437",
+  "q": "Qual a área da Itália, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1438",
+  "q": "Qual a área de Portugal, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1439",
+  "q": "Qual a área de Malta, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c1440",
+  "q": "Qual a área do Liechtenstein, em km²?",
+  "unidade": "km²"
+ },
+ {
+  "id": "c1441",
+  "q": "Qual a área da Espanha, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1442",
+  "q": "Qual a área da Nova Zelândia, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1443",
+  "q": "Qual a área da Finlândia, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1444",
+  "q": "Qual a área de Cuba, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1445",
+  "q": "Qual a área da Suíça, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1446",
+  "q": "Qual a área da Irlanda, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1447",
+  "q": "Qual a área da Grécia, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1448",
+  "q": "Qual a área do Chile, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1449",
+  "q": "Qual a área do Uruguai, em milhares de km²?",
+  "unidade": "milhares de km²"
+ },
+ {
+  "id": "c1450",
+  "q": "Quantos milhões de habitantes tinham os Estados Unidos no Censo de 2020?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1451",
+  "q": "Quantos milhões de habitantes tinha a Índia no Censo de 2011?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1452",
+  "q": "Quantos milhões de habitantes tinha o Canadá no Censo de 2021?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1453",
+  "q": "Quantos milhões de habitantes tinha Portugal nos Censos de 2021?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1454",
+  "q": "Quantos milhões de habitantes tinha a Argentina no Censo de 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1455",
+  "q": "Quantos milhões de habitantes tinha o México no Censo de 2020?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1456",
+  "q": "Quantos milhões de habitantes tinha a cidade do México no Censo de 2020?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1457",
+  "q": "Quantos milhões de habitantes tinha a cidade de Buenos Aires no Censo de 2022?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1458",
+  "q": "Quantos milhões de habitantes tinha a cidade de Los Angeles no Censo de 2020?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1459",
+  "q": "Quantos milhões de habitantes tinha a cidade de Chicago no Censo de 2020?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1460",
+  "q": "Quantos milhões de habitantes tinha a cidade de Toronto no Censo de 2021?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1461",
+  "q": "Quantos milhões de habitantes tinha a China no Censo de 2020, sem contar Hong Kong e Macau?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1462",
+  "q": "Quantos milhões de habitantes tinha o Japão no Censo de 2020?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1463",
+  "q": "Quantos milhões de habitantes tinha a Austrália no Censo de 2021?",
+  "unidade": "milhões de habitantes"
+ },
+ {
+  "id": "c1464",
+  "q": "Em quantas prefeituras o Japão é dividido?",
+  "unidade": "prefeituras"
+ },
+ {
+  "id": "c1465",
+  "q": "Quantas comunidades autônomas tem a Espanha?",
+  "unidade": "comunidades"
+ },
+ {
+  "id": "c1466",
+  "q": "Em quantas regiões administrativas a Itália é dividida?",
+  "unidade": "regiões"
+ },
+ {
+  "id": "c1467",
+  "q": "Em quantas regiões administrativas a França metropolitana é dividida desde 2016?",
+  "unidade": "regiões"
+ },
+ {
+  "id": "c1468",
+  "q": "Qual o comprimento máximo de uma baleia-azul, o maior animal do mundo, em metros?",
+  "unidade": "metros"
+ },
+ {
+  "id": "c1469",
+  "q": "Em que ano o Parque Nacional de Yellowstone, o primeiro do mundo, foi criado?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1470",
+  "q": "Em que ano morreu em cativeiro o último tilacino conhecido?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1471",
+  "q": "Em que ano o vulcão Monte Pelée destruiu a cidade de Saint-Pierre, na Martinica?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1472",
+  "q": "Em que ano o furacão Katrina atingiu Nova Orleans, nos EUA?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1473",
+  "q": "Em que ano um terremoto devastou o Haiti, perto de Porto Príncipe?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1474",
+  "q": "Em que ano os revolucionários franceses tomaram a prisão da Bastilha, em Paris?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1475",
+  "q": "Em que ano caiu o Muro de Berlim?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1476",
+  "q": "Em que ano Cristóvão Colombo chegou pela primeira vez à América?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1477",
+  "q": "Em que ano as Treze Colônias norte-americanas declararam independência da Inglaterra?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1478",
+  "q": "Em que ano o Japão atacou a base americana de Pearl Harbor?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1479",
+  "q": "Em que ano Napoleão foi derrotado em sua batalha final, na Bélgica?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1480",
+  "q": "Em que ano a União Soviética foi oficialmente dissolvida?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1481",
+  "q": "Em que ano os bolcheviques tomaram o poder na Revolução Russa de outubro?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1482",
+  "q": "Em que ano ocorreu o acidente nuclear de Chernobyl?",
+  "unidade": "ano"
+ },
+ {
+  "id": "c1483",
+  "q": "Quantos botes salva-vidas o Titanic tinha?",
+  "unidade": "botes"
+ },
+ {
+  "id": "c1484",
+  "q": "Quantos minutos o Titanic levou para afundar depois de bater no iceberg?",
+  "unidade": "minutos"
+ },
+ {
+  "id": "c1485",
+  "q": "Quantos degraus tem a escada interna da Estátua da Liberdade até a coroa?",
+  "unidade": "degraus"
+ },
+ {
+  "id": "c1486",
+  "q": "Quantos anos reinou a rainha Vitória do Reino Unido?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1487",
+  "q": "Quantos anos o rei francês Luís XIV ficou no trono, o reinado mais longo da Europa?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1488",
+  "q": "Quantos anos durou o reinado da rainha Elizabeth II do Reino Unido?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1489",
+  "q": "Quantos dias durou a missão Apollo 11, da decolagem à volta à Terra?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c1490",
+  "q": "Quantas horas durou a travessia do Atlântico de Charles Lindbergh sem escalas, de Nova York a Paris?",
+  "unidade": "horas"
+ },
+ {
+  "id": "c1491",
+  "q": "Quantos tripulantes sobreviveram e voltaram à Espanha no navio Victoria, na primeira volta ao mundo de Magalhães e Elcano?",
+  "unidade": "homens"
+ },
+ {
+  "id": "c1492",
+  "q": "Qual era o comprimento do Muro de Berlim em torno de Berlim Ocidental, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1493",
+  "q": "Quantos anos o Muro de Berlim ficou de pé, da construção à queda?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1494",
+  "q": "Qual era o comprimento da Muralha de Adriano, construída pelos romanos na Britânia, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1495",
+  "q": "Segundo o historiador Suetônio, quantas facadas Júlio César levou ao ser assassinado?",
+  "unidade": "facadas"
+ },
+ {
+  "id": "c1496",
+  "q": "Quantos anos Marco Polo ficou fora de Veneza em sua viagem à Ásia?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1497",
+  "q": "Qual é o comprimento da ferrovia Transiberiana, de Moscou a Vladivostok, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1498",
+  "q": "Qual é o raio da zona de exclusão em volta da usina de Chernobyl, em km?",
+  "unidade": "km"
+ },
+ {
+  "id": "c1499",
+  "q": "Qual era a altura do presidente americano Abraham Lincoln, em centímetros?",
+  "unidade": "cm"
+ },
+ {
+  "id": "c1500",
+  "q": "Quantos aviões japoneses participaram do ataque a Pearl Harbor nas duas ondas?",
+  "unidade": "aviões"
+ },
+ {
+  "id": "c1501",
+  "q": "Quantos dias durou a Crise dos Mísseis de Cuba, em 1962, entre EUA e URSS?",
+  "unidade": "dias"
+ },
+ {
+  "id": "c1502",
+  "q": "Quantos anos Nelson Mandela passou preso na África do Sul?",
+  "unidade": "anos"
+ },
+ {
+  "id": "c1503",
+  "q": "Quantos meses a família de Anne Frank ficou escondida em Amsterdã antes de ser descoberta?",
+  "unidade": "meses"
+ }
+]

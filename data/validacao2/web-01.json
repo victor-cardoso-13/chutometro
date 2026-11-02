@@ -1,0 +1,268 @@
+[
+ {
+  "id": "c1084",
+  "q": "Quantos cromossomos tem a mosca-da-fruta, usada em laboratórios?",
+  "unidade": "cromossomos",
+  "resposta": 8,
+  "fonte": "Genética (NIH)"
+ },
+ {
+  "id": "c1085",
+  "q": "Quantos cromossomos tem uma galinha doméstica?",
+  "unidade": "cromossomos",
+  "resposta": 78,
+  "fonte": "Genoma da galinha (Nature, 2004)"
+ },
+ {
+  "id": "c1086",
+  "q": "Quantos dias dura a gestação de uma coelha?",
+  "unidade": "dias",
+  "resposta": 31,
+  "fonte": "Veterinária (Merck Manual)"
+ },
+ {
+  "id": "c1087",
+  "q": "Quantos dias dura, em média, a gestação de uma porca?",
+  "unidade": "dias",
+  "resposta": 114,
+  "fonte": "Zootecnia (Embrapa)"
+ },
+ {
+  "id": "c1088",
+  "q": "Quantos dedos tem cada pé de um avestruz?",
+  "unidade": "dedos",
+  "resposta": 2,
+  "fonte": "Zoológico de San Diego"
+ },
+ {
+  "id": "c1089",
+  "q": "Quantos braços e tentáculos, ao todo, tem uma lula comum?",
+  "unidade": "membros",
+  "resposta": 10,
+  "fonte": "Biologia marinha (Britannica)"
+ },
+ {
+  "id": "c1090",
+  "q": "Quantas patas tem uma formiga?",
+  "unidade": "patas",
+  "resposta": 6,
+  "fonte": "Entomologia (Britannica)"
+ },
+ {
+  "id": "c1091",
+  "q": "Quantas câmaras tem o coração de um peixe ósseo?",
+  "unidade": "câmaras",
+  "resposta": 2,
+  "fonte": "Anatomia comparada (Britannica)"
+ },
+ {
+  "id": "c1092",
+  "q": "Quantas asas tem uma libélula?",
+  "unidade": "asas",
+  "resposta": 4,
+  "fonte": "Entomologia (Britannica)"
+ },
+ {
+  "id": "c1093",
+  "q": "Quantos anos viveu Bluey, o cachorro australiano mais velho já registrado pelo Guinness?",
+  "unidade": "anos",
+  "resposta": 29,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1094",
+  "q": "Quantos anos viveu Creme Puff, a gata mais velha já registrada pelo Guinness?",
+  "unidade": "anos",
+  "resposta": 38,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1095",
+  "q": "Quantos anos viveu Old Billy, o cavalo mais velho já registrado pelo Guinness, morto em 1822?",
+  "unidade": "anos",
+  "resposta": 62,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1096",
+  "q": "Qual era a altura, em centímetros, até os ombros, do cão Zeus, o mais alto do mundo pelo Guinness em 2012?",
+  "unidade": "cm",
+  "resposta": 111.8,
+  "fonte": "Guinness World Records"
+ },
+ {
+  "id": "c1097",
+  "q": "Em que ano nasceu Dolly, a ovelha clonada?",
+  "unidade": "ano",
+  "resposta": 1996,
+  "fonte": "Instituto Roslin"
+ },
+ {
+  "id": "c1098",
+  "q": "Quantas calorias tem 100 gramas de arroz branco cozido?",
+  "unidade": "kcal",
+  "resposta": 130,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1099",
+  "q": "Quantas calorias tem 100 gramas de maçã com casca?",
+  "unidade": "kcal",
+  "resposta": 52,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1100",
+  "q": "Quantas calorias tem 100 gramas de abacate?",
+  "unidade": "kcal",
+  "resposta": 160,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1101",
+  "q": "Quantas calorias tem 100 gramas de mel?",
+  "unidade": "kcal",
+  "resposta": 304,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1102",
+  "q": "Quantas calorias tem 100 gramas de azeite de oliva?",
+  "unidade": "kcal",
+  "resposta": 884,
+  "fonte": "USDA FoodData Central"
+ },
+ {
+  "id": "c1103",
+  "q": "Quantos milhões de unidades Scoville tem a capsaicina pura, a substância que dá ardência à pimenta?",
+  "unidade": "milhões de SHU",
+  "resposta": 16,
+  "fonte": "Escala Scoville (Britannica)"
+ },
+ {
+  "id": "c1104",
+  "q": "Quantos quilos de gás cabem no botijão doméstico mais comum no Brasil?",
+  "unidade": "kg",
+  "resposta": 13,
+  "fonte": "ANP"
+ },
+ {
+  "id": "c1105",
+  "q": "Quantos litros tem o galão de água mineral mais comum nas casas brasileiras?",
+  "unidade": "litros",
+  "resposta": 20,
+  "fonte": "Mercado de água mineral (ABINAM)"
+ },
+ {
+  "id": "c1106",
+  "q": "Quantas folhas tem uma resma de papel de escritório?",
+  "unidade": "folhas",
+  "resposta": 500,
+  "fonte": "Padrão do mercado de papel"
+ },
+ {
+  "id": "c1107",
+  "q": "Quantos centímetros tem uma régua escolar comum?",
+  "unidade": "cm",
+  "resposta": 30,
+  "fonte": "Material escolar padrão"
+ },
+ {
+  "id": "c1108",
+  "q": "Quantos mililitros tem uma caixa de leite longa vida comum?",
+  "unidade": "mL",
+  "resposta": 1000,
+  "fonte": "Padrão do mercado de laticínios"
+ },
+ {
+  "id": "c1109",
+  "q": "Quantas letras tem o alfabeto da língua portuguesa desde o Acordo Ortográfico?",
+  "unidade": "letras",
+  "resposta": 26,
+  "fonte": "Acordo Ortográfico (2009)"
+ },
+ {
+  "id": "c1110",
+  "q": "Quantos quadrados de todos os tamanhos dá para contar num tabuleiro de xadrez?",
+  "unidade": "quadrados",
+  "resposta": 204,
+  "fonte": "Matemática recreativa (soma dos quadrados de 1 a 8)"
+ },
+ {
+  "id": "c1111",
+  "q": "Quantas peças tem um jogo de xadrez chinês?",
+  "unidade": "peças",
+  "resposta": 32,
+  "fonte": "Federação Mundial de Xiangqi"
+ },
+ {
+  "id": "c1112",
+  "q": "Quantas cartas tem um baralho japonês de hanafuda?",
+  "unidade": "cartas",
+  "resposta": 48,
+  "fonte": "Nintendo (história do hanafuda)"
+ },
+ {
+  "id": "c1113",
+  "q": "Quantas cartas tem um baralho de truco?",
+  "unidade": "cartas",
+  "resposta": 40,
+  "fonte": "Regras do truco"
+ },
+ {
+  "id": "c1114",
+  "q": "Quantas cartas tem o baralho padrão de um jogador de Pokémon TCG?",
+  "unidade": "cartas",
+  "resposta": 60,
+  "fonte": "Regras oficiais do Pokémon TCG"
+ },
+ {
+  "id": "c1115",
+  "q": "Quantas cartas tem um deck de Commander no Magic: The Gathering?",
+  "unidade": "cartas",
+  "resposta": 100,
+  "fonte": "Regras oficiais do Magic"
+ },
+ {
+  "id": "c1116",
+  "q": "Quantas cartas tem, no mínimo, um deck de Yu-Gi-Oh!?",
+  "unidade": "cartas",
+  "resposta": 40,
+  "fonte": "Regras oficiais do Yu-Gi-Oh!"
+ },
+ {
+  "id": "c1117",
+  "q": "Quantas peças tem o jogo Rummikub, contando os curingas?",
+  "unidade": "peças",
+  "resposta": 106,
+  "fonte": "Fabricante do Rummikub"
+ },
+ {
+  "id": "c1118",
+  "q": "Quantas interseções tem o tabuleiro padrão do jogo Go?",
+  "unidade": "interseções",
+  "resposta": 361,
+  "fonte": "Federação Internacional de Go"
+ },
+ {
+  "id": "c1119",
+  "q": "Quantos personagens existem no jogo Cara a Cara original?",
+  "unidade": "personagens",
+  "resposta": 24,
+  "fonte": "Hasbro"
+ },
+ {
+  "id": "c1120",
+  "q": "Quantos navios cada jogador tem na Batalha Naval clássica da Hasbro?",
+  "unidade": "navios",
+  "resposta": 5,
+  "fonte": "Hasbro"
+ },
+ {
+  "id": "c1121",
+  "q": "Quantas peças de terreno hexagonais formam o tabuleiro de Catan?",
+  "unidade": "peças",
+  "resposta": 19,
+  "fonte": "Regras de Catan"
+ }
+]

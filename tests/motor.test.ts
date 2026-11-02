@@ -163,3 +163,12 @@ describe('jogador inativo', () => {
     expect(estaInativo({ miss: 3 })).toBe(true);
   });
 });
+
+describe('perguntas veteranas (segundo plano)', () => {
+  it('só saem depois que as não-veteranas acabarem (ou já foram usadas)', () => {
+    const todas = [P('a', 1), { ...P('b', 2), v: 1 as const }, P('c', 3)];
+    for (let i = 0; i < 20; i++) expect(['a', 'c']).toContain(sortearPergunta(todas, new Set(), new Set())!.id);
+    expect(sortearPergunta(todas, new Set(['a', 'c']), new Set())!.id).toBe('b');
+    expect(sortearPergunta(todas, new Set(['a', 'b', 'c']), new Set())).toBeUndefined();
+  });
+});
