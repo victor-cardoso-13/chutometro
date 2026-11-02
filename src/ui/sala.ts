@@ -174,7 +174,6 @@ async function sairDaSala() {
 }
 
 // ---------- anfitrião: ciclo da partida ----------
-const nomesDe = (ids: string[]) => ids.map((id) => S?.players?.[id]?.name).filter((n): n is string => !!n);
 /** Ainda é a mesma partida e rodada (ninguém encerrou o jogo enquanto o narrador falava)? */
 const mesmaRodada = (game: number, n: number) => S?.status === 'playing' && S.game === game && cur()?.n === n;
 
@@ -254,8 +253,7 @@ async function fecharRodadaTV(game: number, n: number, esgotou: boolean) {
   }
   const q = perguntaAtual()!;
   const r = await revelar();
-  const venc = r.vencedores;
-  await ganchos.narrar(partesResposta(q, nomesDe(venc), venc.length ? r.dist[venc[0]] : null));
+  await ganchos.narrar(partesResposta(q, r.vencedores));
   if (mesmaRodada(game, n) && cur()!.phase === 'reveal' && cur()!.ends! > db.now()) { // não foi pulada
     await db.update(room('cur'), { ends: db.now() + PAUSA_TV_MS / VELOCIDADE });
   }
