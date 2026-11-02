@@ -14,7 +14,24 @@ export const TEXTOS_FIXOS: Record<string, string> = {
   'ninguem-chutou': 'Ninguém chutou desta vez.',
   'fim-de-jogo': 'Fim de jogo!',
   'acabaram': 'Acabaram as perguntas!',
+  'chegou-mais-perto': 'chegou mais perto. Um ponto!',
+  'chegaram-juntos': 'chegaram juntos e levam um ponto cada.',
+  'cravou': 'cravou o número exato e leva três pontos!',
+  'vitoria-de': 'Vitória de',
+  'empate-entre': 'Empate entre',
+  'e': 'e',
+  'entrou': 'entrou!',
+  'entraram': 'entraram!',
+  'ninguem-pontuou': 'Ninguém pontuou.',
 };
+/** Nomes gravados na voz do Antonio (frases com esses nomes saem 100% gravadas). Outro nome: voz do aparelho só nele. */
+export const NOMES_GRAVADOS = ['Samuel', 'Celinha', 'Victor', 'Carla', 'Giovanna', 'Andressa', 'Edinho'];
+/** "com N ponto(s)." (um vencedor) e "com N pontos cada." (empate), gravados de 0 até aqui. */
+export const MAX_PONTOS_GRAVADO = 300;
+export const textoPontos = (n: number) => `com ${n} ponto${n === 1 ? '' : 's'}. Parabéns!`;
+export const textoPontosCada = (n: number) => `com ${n} ponto${n === 1 ? '' : 's'} cada. Parabéns!`;
+export const slugNome = (n: string) => n.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+const nomeGravado = (n: string) => NOMES_GRAVADOS.find((g) => slugNome(g) === slugNome(n));
 /** "Pergunta N." gravada de 1 até aqui; depois disso, voz do aparelho. */
 export const MAX_NUMERO_GRAVADO = 300;
 
@@ -37,29 +54,30 @@ export function partesPergunta(n: number, q: Pergunta): Parte[] {
   ];
 }
 
-/** A resposta certa (gravada) e quem ganhou a rodada (voz do aparelho: tem nome). `dist` = quanto o vencedor errou. */
+/** Nome do jogador: gravado se for um dos conhecidos (texto = grafia gravada), senão voz do aparelho. */
+const parteNome = (n: string): Parte => { const g = nomeGravado(n); return g ? { t: g, clip: `nome-${slugNome(g)}` } : { t: n }; };
+/** "A B e C" (sem vírgulas: cada nome é um áudio, com uma pausa natural entre eles). */
+const partesNomes = (nomes: string[]): Parte[] => (nomes.length <= 1 ? nomes.map(parteNome) : [...nomes.slice(0, -1).map(parteNome), fixa('e'), parteNome(nomes[nomes.length - 1])]);
+const pontosParte = (n: number, cada: boolean): Parte => ({ t: cada ? textoPontosCada(n) : textoPontos(n), ...(n <= MAX_PONTOS_GRAVADO ? { clip: `${cada ? 'ptsc' : 'pts'}-${n}` } : {}) });
+
+/** A resposta certa (gravada) e quem ganhou a rodada. `dist` só importa se foi 0 (cravou). */
 export function partesResposta(q: Pergunta, vencedores: string[], dist: number | null): Parte[] {
   const certa: Parte = { t: textoCerta(q), clip: `r-${q.id}` };
   if (!vencedores.length) return [certa, fixa('ninguem-chutou')];
-  if (vencedores.length > 1) return [certa, { t: `${juntar(vencedores)} chegaram juntos e levam um ponto cada.` }];
-  if (dist === 0) return [certa, { t: `${vencedores[0]} cravou o número exato e leva três pontos!` }];
-  const erro = q.u === 'ano' ? `${formatar(dist ?? 0, '')} ${dist === 1 ? 'ano' : 'anos'}` : `${formatar(dist ?? 0, q.u)} ${q.u}`;
-  return [certa, { t: `${vencedores[0]} chegou mais perto, errou por ${erro}. Um ponto!` }];
+  const quem = partesNomes(vencedores);
+  if (vencedores.length > 1) return [certa, ...quem, fixa('chegaram-juntos')];
+  return [certa, ...quem, fixa(dist === 0 ? 'cravou' : 'chegou-mais-perto')];
 }
 
 export function partesFim(nomes: string[], pontos: number, acabaram = false): Parte[] {
-  const pts = `${pontos} ponto${pontos === 1 ? '' : 's'}`;
-  const fala = !nomes.length ? 'Ninguém pontuou.' : nomes.length > 1 ? `Empate entre ${juntar(nomes)}, com ${pts} cada. Parabéns!` : `Vitória de ${nomes[0]}, com ${pts}. Parabéns!`;
-  return [...(acabaram ? [fixa('acabaram')] : []), fixa('fim-de-jogo'), { t: fala }];
+  const ini = [...(acabaram ? [fixa('acabaram')] : []), fixa('fim-de-jogo')];
+  if (!nomes.length) return [...ini, fixa('ninguem-pontuou')];
+  if (nomes.length > 1) return [...ini, fixa('empate-entre'), ...partesNomes(nomes), pontosParte(pontos, true)];
+  return [...ini, fixa('vitoria-de'), parteNome(nomes[0]), pontosParte(pontos, false)];
 }
 
-export const falaEntrou = (nomes: string[]) => (nomes.length === 1 ? `${nomes[0]} entrou!` : `${juntar(nomes)} entraram!`);
+export const partesEntrou = (nomes: string[]): Parte[] => [...partesNomes(nomes), fixa(nomes.length === 1 ? 'entrou' : 'entraram')];
 export const textoDasPartes = (ps: Parte[]) => ps.map((p) => p.t).join(' ');
-
-function juntar(nomes: string[]): string {
-  if (nomes.length <= 1) return nomes.join('');
-  return `${nomes.slice(0, -1).join(', ')} e ${nomes[nomes.length - 1]}`;
-}
 
 /**
  * Melhor voz em português do Brasil entre as do aparelho. No Microsoft Edge aparecem as vozes neurais

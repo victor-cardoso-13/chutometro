@@ -6,7 +6,7 @@
 import qrcode from 'qrcode-generator';
 import '../tv.css';
 import { classificar, formatar, ganhadoresDaPartida } from '../motor/motor.ts';
-import { duracaoEstimada, escolherVoz, falaEntrou, partesBoasVindas, partesFim, textoDasPartes, type Parte } from '../motor/narracao.ts';
+import { duracaoEstimada, escolherVoz, partesEntrou, partesBoasVindas, partesFim, textoDasPartes, type Parte } from '../motor/narracao.ts';
 import { VELOCIDADE, carregarPerguntas, esc, fichaHTML, ui } from './comum.ts';
 import { comandoTV, criarSalaTV, estado, ganchos, linkDaSala, retomarSalaTV, type J } from './sala.ts';
 import { CATEGORIAS } from '../motor/regras.ts';
@@ -119,7 +119,7 @@ function aoMudar(s: ReturnType<typeof estado>['S']) {
   nomes.forEach((_, id) => conhecidos!.add(id));
   if (novos.length && s.status === 'lobby') {
     clearTimeout(aviso);
-    aviso = setTimeout(() => { if (!falando) void narrar([{ t: falaEntrou(novos) }]); }, 1200);
+    aviso = setTimeout(() => { if (!falando) void narrar(partesEntrou(novos)); }, 1200);
   }
   // Fim de jogo: anuncia o campeão.
   if (s.status === 'finished') {

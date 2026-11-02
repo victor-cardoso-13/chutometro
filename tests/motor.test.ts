@@ -4,7 +4,7 @@ import {
   aplicarTecla, classificar, comentario, erroRelativo, formatar, formatarDigitado, ganhadoresDaPartida, lerChute, notaSolo,
   resultadoRodada, sortearPergunta, type Pergunta,
 } from '../src/motor/motor.ts';
-import { escolherVoz, partesBoasVindas, partesFim, partesPergunta, partesResposta, partesTempoEsgotado, textoDasPartes } from '../src/motor/narracao.ts';
+import { escolherVoz, partesBoasVindas, partesEntrou, partesFim, partesPergunta, partesResposta, partesTempoEsgotado, textoDasPartes } from '../src/motor/narracao.ts';
 
 const P = (id: string, r: number, u = 'm', cat = 'a'): Pergunta => ({ id, q: id, u, r, cat, d: 1 });
 
@@ -113,20 +113,27 @@ describe('narrador (modo TV)', () => {
     expect(partesPergunta(301, q).map((p) => p.clip)).toEqual([undefined, 'q-x']); // sem áudio gravado: voz do aparelho
     expect(textoDasPartes(partesPergunta(2, { ...q, u: 'ano' }))).toMatch(/Responda com o ano\.$/);
   });
-  it('fala a resposta (gravada) e o vencedor (voz do aparelho, tem nome)', () => {
+  it('fala a resposta e o vencedor, tudo com clip quando o nome é conhecido', () => {
     expect(partesResposta(q, ['Maria'], 6)).toEqual([
       { t: 'A resposta certa é 330 metros.', clip: 'r-x' },
-      { t: 'Maria chegou mais perto, errou por 6 metros. Um ponto!' },
+      { t: 'Maria' },
+      { t: 'chegou mais perto. Um ponto!', clip: 'chegou-mais-perto' },
     ]);
-    expect(textoDasPartes(partesResposta(q, ['Maria'], 0))).toContain('cravou o número exato e leva três pontos');
-    expect(textoDasPartes(partesResposta(q, ['Ana', 'Léo'], 2))).toContain('Ana e Léo chegaram juntos');
+    const s = partesResposta(q, ['samuel'], 6); // grafia livre → grafia gravada
+    expect(s[1]).toEqual({ t: 'Samuel', clip: 'nome-samuel' });
+    expect(partesResposta(q, ['Giovanna'], 0).map((p) => p.clip)).toEqual(['r-x', 'nome-giovanna', 'cravou']);
+    expect(partesResposta(q, ['Celinha', 'Edinho'], 2).map((p) => p.clip)).toEqual(['r-x', 'nome-celinha', 'e', 'nome-edinho', 'chegaram-juntos']);
     expect(partesResposta(q, [], null)[1].clip).toBe('ninguem-chutou');
-    expect(textoDasPartes(partesResposta({ ...q, u: 'ano', r: 1969 }, ['Bia'], 1))).toContain('o ano de 1969. Bia chegou mais perto, errou por 1 ano.');
+    expect(textoDasPartes(partesResposta({ ...q, u: 'ano', r: 1969 }, ['Bia'], 1))).toContain('o ano de 1969. Bia chegou mais perto.');
   });
-  it('fala o fim do jogo', () => {
-    expect(textoDasPartes(partesFim(['Maria'], 8))).toBe('Fim de jogo! Vitória de Maria, com 8 pontos. Parabéns!');
-    expect(textoDasPartes(partesFim(['A', 'B', 'C'], 1))).toContain('A, B e C, com 1 ponto cada');
+  it('fala o fim do jogo e quem entrou', () => {
+    expect(textoDasPartes(partesFim(['Victor'], 8))).toBe('Fim de jogo! Vitória de Victor com 8 pontos. Parabéns!');
+    expect(partesFim(['Victor'], 8).map((p) => p.clip)).toEqual(['fim-de-jogo', 'vitoria-de', 'nome-victor', 'pts-8']);
+    expect(partesFim(['Carla', 'Andressa', 'Samuel'], 1).map((p) => p.clip)).toEqual(['fim-de-jogo', 'empate-entre', 'nome-carla', 'nome-andressa', 'e', 'nome-samuel', 'ptsc-1']);
     expect(textoDasPartes(partesFim([], 0, true))).toBe('Acabaram as perguntas! Fim de jogo! Ninguém pontuou.');
+    expect(partesFim(['Ana'], 301)[3].clip).toBeUndefined();
+    expect(partesEntrou(['Edinho']).map((p) => p.clip)).toEqual(['nome-edinho', 'entrou']);
+    expect(partesEntrou(['Ana', 'Léo']).map((p) => p.clip)).toEqual([undefined, 'e', undefined, 'entraram']);
   });
   it('prefere a voz neural do Edge em português do Brasil', () => {
     const vozes = [
@@ -145,7 +152,7 @@ describe('áudios gravados do narrador', () => {
   it('toda parte com clip tem mp3 e o texto gravado é o texto de hoje (senão regrave: scripts/gerar-narracao.py)', () => {
     const perguntas: Pergunta[] = JSON.parse(readFileSync(new URL('../public/questions.json', import.meta.url), 'utf8'));
     const partes = [
-      ...partesFim(['A'], 1, true), ...partesBoasVindas(), ...partesTempoEsgotado(), ...partesPergunta(1, perguntas[0]),
+      ...partesFim(['A'], 1, true), ...partesFim(['Victor', 'Carla'], 3), ...partesFim(['Edinho'], 300), ...partesEntrou(['Samuel']), ...partesResposta(perguntas[0], ['Celinha'], 0), ...partesBoasVindas(), ...partesTempoEsgotado(), ...partesPergunta(1, perguntas[0]),
       ...perguntas.flatMap((q) => [...partesPergunta(2, q), ...partesResposta(q, [], null)]),
     ].filter((p) => p.clip);
     expect(partes.length).toBeGreaterThan(1800);
