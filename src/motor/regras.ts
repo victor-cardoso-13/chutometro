@@ -10,11 +10,17 @@
 export const ANO_REF = 2026;
 export const PERGUNTAS_SOLO = 10;
 export const MAX_JOGADORES = 10;
-export const TAMANHOS = [5, 10, 15] as const;
+/** Sala com TV: a noite toda, mais gente. */
+export const MAX_JOGADORES_TV = 30;
+/** 0 = sem limite de perguntas (só termina quando o anfitrião encerra ou as perguntas acabam). */
+export const SEM_LIMITE = 0;
+export const TAMANHOS = [5, 10, 15, SEM_LIMITE] as const;
 export const TAMANHO_PADRAO = 10;
 export const TEMPOS = [15, 30, 60] as const;
 export const TEMPO_PADRAO = 30;
 export const REVELA_MS = 8000;
+/** Modo TV: pausa depois que o narrador termina de falar a resposta. */
+export const PAUSA_TV_MS = 5000;
 export const PONTOS = { perto: 1, cravou: 3 } as const;
 export const LIMITE_DIGITOS = 12;
 

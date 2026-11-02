@@ -1,0 +1,202 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chutômetro — Modo TV (mock)</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#0b0d12;font-family:Nunito,system-ui,sans-serif;font-weight:700;color:#f5f5f7;min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:12px;gap:10px}
+.barra{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;align-items:center;font-size:14px}
+.barra button{font:inherit;background:#262a35;color:#f5f5f7;border:2px solid #3b4150;border-radius:12px;padding:8px 14px;cursor:pointer}
+.barra button.on{background:#ffd21f;color:#171a22;border-color:#ffd21f}
+.barra span{opacity:.7}
+.tv{container-type:size;aspect-ratio:16/9;width:min(100%,calc((100vh - 110px)*16/9));border-radius:14px;border:6px solid #1b1d24;overflow:hidden;position:relative;
+ background:radial-gradient(circle at 50% 0%,#2f3340,#171a22 75%);font-family:Nunito,system-ui,sans-serif}
+.f{font-family:Fredoka,system-ui,sans-serif;font-weight:600}
+.tela{position:absolute;inset:0;display:none;padding:3cqw 4cqw 11cqh}
+.tela.on{display:flex}
+/* topo */
+.topo{position:absolute;left:4cqw;right:4cqw;top:2.2cqw;display:flex;justify-content:space-between;align-items:center;font-size:1.7cqw;opacity:.9}
+.topo .logo{font-family:Fredoka,system-ui;font-size:2.4cqw}
+.pill{background:#262a35;border:.15cqw solid #3b4150;border-radius:2cqw;padding:.5cqw 1.4cqw}
+/* narrador */
+.nar{position:absolute;left:4cqw;right:4cqw;bottom:2cqh;height:8cqh;background:#262a35;border:.15cqw solid #3b4150;border-radius:2cqw;display:flex;align-items:center;gap:1.6cqw;padding:0 2cqw;font-size:1.85cqw}
+.nar .ic{font-size:2.6cqw}
+.onda{display:flex;gap:.3cqw;align-items:center;height:3cqw}
+.onda i{width:.4cqw;background:#ffd21f;border-radius:1cqw;animation:o 0.9s ease-in-out infinite}
+.onda i:nth-child(1){height:30%}.onda i:nth-child(2){height:80%;animation-delay:.1s}.onda i:nth-child(3){height:55%;animation-delay:.2s}.onda i:nth-child(4){height:100%;animation-delay:.3s}.onda i:nth-child(5){height:45%;animation-delay:.4s}
+@keyframes o{50%{transform:scaleY(.35)}}
+.nar .tx{flex:1;line-height:1.2}.nar small{display:block;font-size:1.1cqw;opacity:.6;font-weight:600}
+/* lobby */
+.lobby{align-items:center;justify-content:space-between;gap:4cqw;padding-top:7cqw}
+.qrbox{background:#fff;border-radius:2cqw;padding:1.6cqw;text-align:center;color:#171a22;flex:none}
+.qrbox canvas{width:21cqw;height:21cqw;display:block;image-rendering:pixelated}
+.qrbox b{display:block;font-size:1.5cqw;margin-top:.6cqw;font-family:Fredoka,system-ui}
+.meio{flex:1;text-align:center}
+.meio h1{margin:0;font-size:4.4cqw;line-height:1.05}.meio h1 em{font-style:normal;color:#ffd21f}
+.meio p{font-size:1.9cqw;margin:1.2cqw 0;opacity:.85}
+.cod{display:inline-block;background:#ffd21f;color:#171a22;border-radius:1.6cqw;padding:.4cqw 2.4cqw;font-size:7cqw;letter-spacing:.8cqw;box-shadow:0 .5cqw 0 #a88400;margin-top:.8cqw}
+.jog{flex:none;width:23cqw;align-self:stretch;background:#262a35;border:.15cqw solid #3b4150;border-radius:2cqw;padding:1.4cqw;display:flex;flex-direction:column;gap:.7cqw;overflow:hidden}
+.jog h3{margin:0 0 .4cqw;font-size:1.7cqw;font-family:Fredoka,system-ui;font-weight:500;opacity:.85}
+.chip{background:#171a22;border-radius:1.2cqw;padding:.7cqw 1.1cqw;font-size:1.8cqw;display:flex;gap:.8cqw;align-items:center;animation:ent .4s both}
+@keyframes ent{from{transform:translateX(3cqw);opacity:0}}
+/* pergunta */
+.perg{gap:3cqw;padding-top:7cqw}
+.perg .pr{flex:1;display:flex;flex-direction:column;justify-content:center;gap:2cqw}
+.perg .n{font-size:1.8cqw;opacity:.75}
+.perg .q{font-family:Fredoka,system-ui;font-weight:500;font-size:4.3cqw;line-height:1.15}
+.perg .un{font-size:2cqw;opacity:.8}
+.rel{display:flex;align-items:center;gap:1.6cqw}
+.anel{width:9cqw;height:9cqw;border-radius:50%;background:conic-gradient(#ffd21f var(--p,70%),#3b4150 0);display:grid;place-items:center}
+.anel b{width:7.2cqw;height:7.2cqw;border-radius:50%;background:#1d2029;display:grid;place-items:center;font-family:Fredoka,system-ui;font-size:3.6cqw;color:#ffd21f}
+.quem{display:flex;gap:.7cqw;flex-wrap:wrap}
+.quem span{background:#262a35;border:.15cqw solid #3b4150;border-radius:1.2cqw;padding:.5cqw 1.1cqw;font-size:1.6cqw;opacity:.55}
+.quem span.ok{opacity:1;border-color:#ffd21f}.quem span.ok::after{content:" ✓";color:#ffd21f}
+/* placar lateral */
+.pl{flex:none;width:24cqw;align-self:stretch;background:#262a35;border:.15cqw solid #3b4150;border-radius:2cqw;padding:1.4cqw;display:flex;flex-direction:column;gap:.7cqw}
+.pl h3{margin:0 0 .3cqw;font-size:1.7cqw;font-family:Fredoka,system-ui;font-weight:500;opacity:.85;display:flex;justify-content:space-between}
+.pl h3 i{font-style:normal;color:#ffd21f;font-size:1.2cqw;font-family:Nunito}
+.li{display:flex;align-items:center;gap:.8cqw;background:#171a22;border-radius:1.2cqw;padding:.7cqw 1cqw;font-size:1.8cqw;transition:.3s}
+.li .nm{flex:1;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.li b{font-family:Fredoka,system-ui;font-size:2.1cqw}
+.li .pos{width:2cqw;opacity:.7}
+.li.up{background:#ffd21f;color:#171a22}
+.li .mais{font-size:1.3cqw;background:#171a22;color:#ffd21f;border-radius:1cqw;padding:.1cqw .6cqw}
+/* tempo esgotado */
+.fim{align-items:center;justify-content:center;flex-direction:column;text-align:center;gap:1.5cqw}
+.fim .g{font-size:15cqw;animation:bal .8s ease-in-out infinite alternate}
+@keyframes bal{to{transform:rotate(12deg) scale(1.05)}}
+.fim h1{margin:0;font-size:8cqw;color:#ffd21f}.fim p{margin:0;font-size:2.4cqw;opacity:.85}
+/* resposta */
+.resp{gap:3cqw;padding-top:7cqw}
+.resp .pr{flex:1;display:flex;flex-direction:column;justify-content:center;gap:1.2cqw}
+.resp .q2{font-size:1.9cqw;opacity:.75}
+.resp .a{font-size:1.9cqw}
+.resp .num{font-family:Fredoka,system-ui;font-size:12cqw;line-height:1;color:#ffd21f;text-shadow:0 .6cqw 0 #a88400}
+.resp .fonte{font-size:1.4cqw;opacity:.6;font-weight:600}
+.lista{display:flex;flex-direction:column;gap:.7cqw;margin-top:.8cqw}
+.cl{display:flex;align-items:center;gap:1cqw;background:#262a35;border:.15cqw solid #3b4150;border-radius:1.3cqw;padding:.7cqw 1.4cqw;font-size:2cqw}
+.cl .nm{flex:1}.cl b{font-family:Fredoka,system-ui;font-size:2.3cqw}.cl small{opacity:.7;font-size:1.4cqw;width:13cqw;text-align:right}
+.cl.w{background:#ffd21f;color:#171a22;border-color:#ffd21f}
+.cl.mudo{opacity:.55}
+.mosca{background:#ffd21f;color:#171a22;border-radius:1.4cqw;padding:.6cqw 1.6cqw;font-size:2cqw;font-family:Fredoka,system-ui;align-self:flex-start;margin-top:.6cqw}
+/* final */
+.podio{align-items:flex-end;justify-content:center;gap:2cqw;padding-top:9cqw;padding-bottom:12cqh}
+.degr{width:17cqw;text-align:center}
+.degr .av{font-size:4cqw}.degr .nm{font-size:2.2cqw;margin:.3cqw 0 .6cqw;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.degr .bl{background:#262a35;border:.15cqw solid #3b4150;border-radius:1.6cqw 1.6cqw 0 0;display:grid;place-items:center;font-family:Fredoka,system-ui;font-size:5cqw}
+.degr.p1 .bl{background:#ffd21f;color:#171a22;border-color:#ffd21f;height:21cqh}.degr.p2 .bl{height:14cqh}.degr.p3 .bl{height:9cqh}
+.degr .pt{font-size:1.7cqw;opacity:.85;margin-top:-.2cqw}
+.resto{position:absolute;right:4cqw;top:9cqw;width:19cqw}
+.conf{position:absolute;top:-4cqw;font-size:3cqw;animation:cai 4s linear infinite}
+@keyframes cai{to{transform:translateY(60cqw) rotate(360deg)}}
+.nota{max-width:min(100%,1100px);font-size:14px;line-height:1.5;opacity:.85;background:#171a22;border:2px solid #3b4150;border-radius:14px;padding:12px 18px}
+.nota b{color:#ffd21f}.nota ul{margin:6px 0 0;padding-left:20px}
+</style></head><body>
+<div class="barra" id="barra"><span>Passo a passo do mock:</span></div>
+
+<div class="tv" id="tv">
+ <div class="topo"><span class="logo">🎯 Chutômetro</span><span class="pill" id="info">Sala aberta</span></div>
+
+ <!-- 1 lobby -->
+ <section class="tela lobby" data-n="0">
+  <div class="qrbox"><canvas id="qr" width="29" height="29"></canvas><b>Aponte a câmera do celular</b></div>
+  <div class="meio">
+   <h1>Quem chega<br><em>mais perto?</em></h1>
+   <p>Ou entre em <b>victor-cardoso-13.github.io/chutometro</b><br>e digite o código:</p>
+   <div class="cod f">KZMT</div>
+  </div>
+  <div class="jog"><h3>Jogadores (<span id="nj">0</span>)</h3><div id="jl" style="display:flex;flex-direction:column;gap:.7cqw"></div></div>
+ </section>
+
+ <!-- 2 pergunta -->
+ <section class="tela perg" data-n="1">
+  <div class="pr">
+   <div class="n">Pergunta 3 de 10 · chute um número no celular</div>
+   <div class="q">Quantos metros tem de altura a Torre Eiffel, contando as antenas?</div>
+   <div class="un">Resposta em metros</div>
+   <div class="rel"><div class="anel" id="anel"><b id="seg">30</b></div>
+    <div class="quem" id="quem"></div></div>
+  </div>
+  <div class="pl"><h3>Placar <i>ao vivo</i></h3><div id="pl1" style="display:flex;flex-direction:column;gap:.7cqw"></div></div>
+ </section>
+
+ <!-- 3 tempo esgotado -->
+ <section class="tela fim" data-n="2">
+  <div class="g">⏰</div><h1 class="f">Tempo esgotado!</h1><p>Chutes trancados. Vamos ver quem chegou mais perto…</p>
+ </section>
+
+ <!-- 4 resposta -->
+ <section class="tela resp" data-n="3">
+  <div class="pr">
+   <div class="q2">Quantos metros tem de altura a Torre Eiffel, contando as antenas?</div>
+   <div class="a">A resposta certa é</div>
+   <div class="num">330 m</div>
+   <div class="fonte">Fonte: Société d'Exploitation de la Tour Eiffel · 2022</div>
+   <div class="lista">
+    <div class="cl w"><span>🥇</span><span class="nm">Maria Eduarda</span><b>324</b><small>errou por 6</small></div>
+    <div class="cl"><span>2º</span><span class="nm">Léo</span><b>300</b><small>errou por 30</small></div>
+    <div class="cl"><span>3º</span><span class="nm">Bia</span><b>400</b><small>errou por 70</small></div>
+    <div class="cl mudo"><span>—</span><span class="nm">Caio</span><b>…</b><small>não chutou</small></div>
+   </div>
+   <div class="mosca">🏆 Maria Eduarda ganha +1 ponto</div>
+  </div>
+  <div class="pl"><h3>Placar <i>ao vivo</i></h3><div id="pl2" style="display:flex;flex-direction:column;gap:.7cqw"></div></div>
+ </section>
+
+ <!-- 5 final -->
+ <section class="tela podio" data-n="4">
+  <div class="degr p2"><div class="av">🥈</div><div class="nm f">Léo</div><div class="bl">6</div></div>
+  <div class="degr p1"><div class="av">🥇</div><div class="nm f">Maria Eduarda</div><div class="bl">8</div></div>
+  <div class="degr p3"><div class="av">🥉</div><div class="nm f">Bia</div><div class="bl">4</div></div>
+  <div class="resto pl" style="width:19cqw;top:9cqw;position:absolute"><h3>Demais</h3><div class="li"><span class="pos">4º</span><span class="nm">Caio</span><b>2</b></div></div>
+  <span class="conf" style="left:12%;animation-delay:0s">🎉</span><span class="conf" style="left:30%;animation-delay:1.2s">✨</span><span class="conf" style="left:55%;animation-delay:.5s">🎊</span><span class="conf" style="left:78%;animation-delay:2s">🎉</span>
+ </section>
+
+ <div class="nar"><span class="ic">🎙️</span><div class="onda"><i></i><i></i><i></i><i></i><i></i></div>
+  <div class="tx"><span id="fala"></span><small>Narrador · voz Edge TTS pt-BR (Antonio) — legenda para quem não ouve</small></div></div>
+</div>
+
+<div class="nota"><b>Como o modo TV funcionaria (resumo):</b>
+ <ul>
+  <li>Na TV (ou no Chromecast/AirPlay do celular) abre-se a página <b>/tv</b>; ela cria a sala sozinha e mostra o QR + código.</li>
+  <li>Os jogadores escaneiam o QR e já caem na sala, com o teclado do Chutômetro no próprio celular. Ninguém precisa de TV para jogar além do anfitrião.</li>
+  <li>A TV conduz tudo sozinha (sem anfitrião): lê a pergunta, conta o tempo, fala “tempo esgotado”, revela a resposta e o placar atualiza ao vivo.</li>
+  <li>A voz é do Edge TTS: as falas fixas e as 941 perguntas viram áudio mp3 antes (grátis, funciona offline depois); nomes dos jogadores e placar são gerados na hora por um serviço pequeno.</li>
+ </ul></div>
+
+<script>
+const $=s=>document.querySelector(s);
+const NOMES=['Maria Eduarda','Léo','Bia','Caio'];
+// QR de mentira (desenho parecido; no jogo de verdade usa uma biblioteca)
+(()=>{const c=$('#qr'),x=c.getContext('2d'),N=29;let s=7;const r=()=>(s=(s*16807)%2147483647)/2147483647;
+ x.fillStyle='#fff';x.fillRect(0,0,N,N);x.fillStyle='#171a22';
+ for(let i=0;i<N;i++)for(let j=0;j<N;j++)if(r()>.5)x.fillRect(i,j,1,1);
+ const loc=(a,b)=>{x.fillStyle='#fff';x.fillRect(a-1,b-1,9,9);x.fillStyle='#171a22';x.fillRect(a,b,7,7);x.fillStyle='#fff';x.fillRect(a+1,b+1,5,5);x.fillStyle='#171a22';x.fillRect(a+2,b+2,3,3)};
+ loc(0,0);loc(N-7,0);loc(0,N-7)})();
+
+const passos=[
+ {t:'1 · Sala aberta',info:'Sala aberta',fala:'Bem-vindos ao Chutômetro! Escaneiem o QR code na tela para entrar. Quem chegar mais perto da resposta, ganha!'},
+ {t:'2 · Pergunta',info:'Pergunta 3 de 10',fala:'Pergunta três. Quantos metros tem de altura a Torre Eiffel, contando as antenas? Vocês têm trinta segundos!'},
+ {t:'3 · Tempo esgotado',info:'Pergunta 3 de 10',fala:'Tempo esgotado! Chutes encerrados.'},
+ {t:'4 · Resposta',info:'Pergunta 3 de 10',fala:'A resposta certa é trezentos e trinta metros! Maria Eduarda chegou mais perto, errou por apenas seis. Um ponto para ela!'},
+ {t:'5 · Fim de jogo',info:'Fim de jogo',fala:'Fim de jogo! A campeã é Maria Eduarda, com oito pontos. Parabéns! Quem quer jogar de novo?'}];
+const barra=$('#barra');
+passos.forEach((p,i)=>{const b=document.createElement('button');b.textContent=p.t;b.onclick=()=>ir(i);barra.append(b)});
+const auto=document.createElement('button');auto.textContent='▶ Tocar tudo';auto.onclick=()=>{ir(0);let i=0;clearInterval(window.tm);window.tm=setInterval(()=>{if(++i>4){clearInterval(window.tm);return}ir(i)},4500)};barra.append(auto);
+
+const placar=(ant,novo)=>[['Maria Eduarda',novo?5:4],['Léo',4],['Bia',2],['Caio',1]]
+ .sort((a,b)=>b[1]-a[1]).map((p,i)=>`<div class="li ${novo&&p[0]=='Maria Eduarda'?'up':''}"><span class="pos">${i+1}º</span><span class="nm">${p[0]}</span>${novo&&p[0]=='Maria Eduarda'?'<span class="mais">+1</span>':''}<b>${p[1]}</b></div>`).join('');
+$('#pl1').innerHTML=placar();$('#pl2').innerHTML=placar(0,1);
+
+let tl=[],tmp;
+function ir(n){
+ tl.forEach(clearTimeout);tl=[];clearInterval(tmp);
+ document.querySelectorAll('.tela').forEach(t=>t.classList.toggle('on',+t.dataset.n==n));
+ [...barra.querySelectorAll('button')].forEach((b,i)=>b.classList.toggle('on',i==n));
+ $('#info').textContent=passos[n].info;$('#fala').textContent=passos[n].fala;
+ if(n==0){$('#jl').innerHTML='';$('#nj').textContent=0;NOMES.forEach((m,i)=>tl.push(setTimeout(()=>{$('#jl').insertAdjacentHTML('beforeend',`<div class="chip"><span>📱</span>${m}</div>`);$('#nj').textContent=i+1},700*(i+1))))}
+ if(n==1){let s=30;const q=$('#quem');q.innerHTML=NOMES.map(m=>`<span>${m}</span>`).join('');
+  const pa=()=>{$('#seg').textContent=s;$('#anel').style.setProperty('--p',s/30*100+'%')};pa();
+  tmp=setInterval(()=>{if(s>0)s--;pa()},1000);
+  NOMES.slice(0,3).forEach((m,i)=>tl.push(setTimeout(()=>q.children[i].classList.add('ok'),900*(i+1))))}
+}
+ir(0);
+</script></body></html>

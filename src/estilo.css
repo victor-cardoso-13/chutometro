@@ -209,7 +209,7 @@ a.cta { text-decoration: none; color: inherit; }
   .dot { width: 26px; height: 26px; font-size: 13px; }
   .opc button { min-height: 40px; font-size: 18px; }
   .winner { font-size: 30px; }
-  .foot, .sec, .lobby .dica { display: none; }
+  .foot, .sec, .lobby .dica, .link[data-act=tv] { display: none; }
   .opc { flex-direction: row; align-items: center; }
   .opc small { flex: none; width: 90px; }
   .linkrow input { padding: 6px 10px; }
