@@ -54,9 +54,17 @@ function bancoLocal(): Db {
 }
 
 async function bancoFirebase(): Promise<Db> {
-  const { initializeApp } = await import('firebase/app');
+  const { getApps, initializeApp } = await import('firebase/app');
   const rt = await import('firebase/database');
-  const db = rt.getDatabase(initializeApp(salasConfig, 'salas'));
+  const db = rt.getDatabase(getApps().find((a) => a.name === 'salas') ?? initializeApp(salasConfig, 'salas'));
+  // Sem internet o Firebase "finge" que funciona (guarda só no aparelho, a sala nunca existe de verdade).
+  // Por isso só seguimos depois de conectar de verdade; se não der, quem chamou mostra o aviso de "sem internet".
+  rt.goOnline(db); // numa nova tentativa, reconecta já (sem esperar o intervalo do Firebase)
+  await new Promise<void>((ok, falha) => {
+    let parar = () => {};
+    const limite = setTimeout(() => { parar(); rt.goOffline(db); falha(new Error('sem conexão')); }, 8_000);
+    parar = rt.onValue(rt.ref(db, '.info/connected'), (s) => { if (s.val() === true) { clearTimeout(limite); parar(); ok(); } });
+  });
   let desvio = 0;
   rt.onValue(rt.ref(db, '.info/serverTimeOffset'), (s) => { desvio = s.val() || 0; });
   return {
@@ -72,5 +80,6 @@ async function bancoFirebase(): Promise<Db> {
 let aberto: Promise<Db> | null = null;
 export const local = import.meta.env.DEV && new URLSearchParams(location.search).has('local');
 export function abrirSalas(): Promise<Db> {
-  return (aberto ??= local ? Promise.resolve(bancoLocal()) : bancoFirebase());
+  // se não conectou, esquece a tentativa para a próxima vez tentar de novo
+  return (aberto ??= local ? Promise.resolve(bancoLocal()) : bancoFirebase().catch((e) => { aberto = null; throw e; }));
 }

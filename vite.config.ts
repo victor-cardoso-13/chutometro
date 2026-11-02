@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 // Entra só no site publicado (no "npm run dev" atrapalharia o recarregamento automático).
 const POLITICA = [
   "default-src 'self'",
-  "script-src 'self'",
+  "script-src 'self' https://*.firebaseio.com", // o banco das salas, sem WebSocket, usa "long polling" (carrega script de lá)
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob:",
   "font-src 'self' data:",
