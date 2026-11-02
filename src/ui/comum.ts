@@ -2,7 +2,7 @@
 import { aplicarTecla, formatarDigitado, type Pergunta } from '../motor/motor.ts';
 import { CATEGORIAS } from '../motor/regras.ts';
 
-export type Tela = 'inicio' | 'conta' | 'solo' | 'sala';
+export type Tela = 'inicio' | 'conta' | 'solo' | 'sala' | 'tv';
 
 /** Ponte entre as telas (cada uma só conhece isto, não as outras). */
 export const ui = {

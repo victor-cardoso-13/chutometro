@@ -3,6 +3,7 @@ import {
   aplicarTecla, classificar, comentario, erroRelativo, formatar, formatarDigitado, ganhadoresDaPartida, lerChute, notaSolo,
   resultadoRodada, sortearPergunta, type Pergunta,
 } from '../src/motor/motor.ts';
+import { escolherVoz, falaFim, falaPergunta, falaResposta } from '../src/motor/narracao.ts';
 
 const P = (id: string, r: number, u = 'm', cat = 'a'): Pergunta => ({ id, q: id, u, r, cat, d: 1 });
 
@@ -99,5 +100,35 @@ describe('teclado', () => {
     expect(formatar(4.54)).toBe('4,54');
     expect(formatarDigitado('1234567,5')).toBe('1.234.567,5');
     expect(formatarDigitado('1969', true)).toBe('1969');
+  });
+});
+
+describe('narrador (modo TV)', () => {
+  const q = { id: 'x', q: 'Quantos metros tem a Torre Eiffel?', u: 'metros', r: 330, cat: 'a', d: 1 };
+  it('a 1ª pergunta abre o jogo, as outras só numeram', () => {
+    expect(falaPergunta(1, q)).toMatch(/^Vamos começar! Pergunta 1\. Quantos metros/);
+    expect(falaPergunta(3, q)).toBe('Pergunta 3. Quantos metros tem a Torre Eiffel? Resposta em metros.');
+    expect(falaPergunta(2, { ...q, u: 'ano' })).toMatch(/Responda com o ano\.$/);
+  });
+  it('fala a resposta e o vencedor', () => {
+    expect(falaResposta(q, ['Maria'], 6)).toBe('A resposta certa é 330 metros. Maria chegou mais perto, errou por 6 metros. Um ponto!');
+    expect(falaResposta(q, ['Maria'], 0)).toContain('cravou o número exato e leva três pontos');
+    expect(falaResposta(q, ['Ana', 'Léo'], 2)).toContain('Ana e Léo chegaram juntos');
+    expect(falaResposta(q, [], null)).toContain('Ninguém chutou');
+    expect(falaResposta({ ...q, u: 'ano', r: 1969 }, ['Bia'], 1)).toContain('o ano de 1969. Bia chegou mais perto, errou por 1 ano.');
+  });
+  it('fala o fim do jogo', () => {
+    expect(falaFim(['Maria'], 8)).toBe('Fim de jogo! Vitória de Maria, com 8 pontos. Parabéns!');
+    expect(falaFim(['A', 'B', 'C'], 1)).toContain('A, B e C, com 1 ponto cada');
+    expect(falaFim([], 0, true)).toBe('Acabaram as perguntas! Fim de jogo! Ninguém pontuou.');
+  });
+  it('prefere a voz neural do Edge em português do Brasil', () => {
+    const vozes = [
+      { name: 'Luciana', lang: 'pt-BR' }, { name: 'Google português do Brasil', lang: 'pt-BR' },
+      { name: 'Microsoft Antonio Online (Natural) - Portuguese (Brazil)', lang: 'pt-BR' }, { name: 'Joana', lang: 'pt-PT' },
+    ];
+    expect(escolherVoz(vozes)?.name).toContain('Antonio');
+    expect(escolherVoz([{ name: 'Daniel', lang: 'en-GB' }])).toBeUndefined();
+    expect(escolherVoz([{ name: 'Joana', lang: 'pt-PT' }, { name: 'Luciana', lang: 'pt_BR' }])?.name).toBe('Luciana');
   });
 });

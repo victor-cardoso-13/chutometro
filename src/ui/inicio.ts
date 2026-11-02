@@ -25,6 +25,7 @@ export function inicioHTML() {
   <button class="cta big" data-act="solo"><span>Jogar sozinho</span><small>10 perguntas e uma nota no final</small></button>
   <button class="cta" data-act="criar"><span>Criar sala</span><small>Até 10 amigos, cada um no seu celular</small></button>
   <div class="entrar"><input id="codigo" maxlength="4" placeholder="CÓDIGO" autocomplete="off" autocapitalize="characters"><button class="cta sm" data-act="entrar">Entrar numa sala</button></div>
+  <button class="link centro" data-act="tv">📺 Modo TV: a TV narra e mostra o placar</button>
   <p class="foot">${aviso}</p></main>`;
 }
 

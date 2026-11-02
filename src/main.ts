@@ -4,17 +4,18 @@
  */
 import './estilo.css';
 import { atualizar, ler } from './ui/dados.ts';
-import { $app, carregarPerguntas, ui, type Tela } from './ui/comum.ts';
+import { $app, carregarPerguntas, params, ui, type Tela } from './ui/comum.ts';
 import { acaoConta, contaHTML, inicioHTML } from './ui/inicio.ts';
 import { acaoSala, abrirDaUrl, codigoDaUrl, criarSala, entrarNaSala, salaHTML } from './ui/sala.ts';
 import { acaoSolo, iniciarSolo, sairDoSolo, soloHTML } from './ui/solo.ts';
 import { iniciarNuvem, usuarioAtual } from './nuvem/sincronia.ts';
+import { abrirTV, acaoTV, desbloquearSom, tvHTML } from './ui/tv.ts';
 
 function desenhar() {
   const antes = { y: $app.querySelector('.vista')?.scrollTop ?? 0 };
   const foco = document.activeElement as HTMLInputElement | null;
   const guardar = foco && foco.tagName === 'INPUT' && foco.id ? { id: foco.id, v: foco.value, ini: foco.selectionStart, fim: foco.selectionEnd } : null;
-  const html = { inicio: inicioHTML, conta: contaHTML, solo: soloHTML, sala: salaHTML }[ui.tela]();
+  const html = { inicio: inicioHTML, conta: contaHTML, solo: soloHTML, sala: salaHTML, tv: tvHTML }[ui.tela]();
   $app.innerHTML = `<div class="vista tela-${ui.tela}">${html}</div>`;
   const v = $app.querySelector('.vista');
   if (v) v.scrollTop = antes.y;
@@ -40,8 +41,14 @@ $app.addEventListener('click', async (ev) => {
   const el = (ev.target as HTMLElement).closest<HTMLElement>('[data-act]');
   if (!el || (el as HTMLButtonElement).disabled) return;
   const act = el.dataset.act!;
+  if (ui.tela === 'tv') { // o som só liga dentro de um toque: chamar antes de qualquer espera
+    desbloquearSom();
+    try { await acaoTV(act); } catch { ui.msg = 'Sem internet agora. Confira a conexão e toque de novo.'; desenhar(); }
+    return;
+  }
   try {
     if (ui.tela === 'inicio') {
+      if (act === 'tv') { location.href = `${location.pathname}?tv`; return; }
       if (act === 'solo') { await carregarPerguntas(); nomeDigitado(); ui.tela = 'solo'; iniciarSolo(); return; }
       if (act === 'criar') { const n = nomeDigitado(); if (n) { await carregarPerguntas(); await criarSala(n); } return; }
       if (act === 'entrar') {
@@ -63,6 +70,7 @@ $app.addEventListener('click', async (ev) => {
 
 (async function iniciar() {
   desenhar();
+  if (params.has('tv')) { try { await abrirTV(); } catch { ui.msg = 'Sem internet agora. Confira a conexão e toque de novo.'; } desenhar(); return; }
   void iniciarNuvem(desenhar);
   try {
     await carregarPerguntas();
