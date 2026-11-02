@@ -6,7 +6,7 @@
 import {
   classificar, formatar, ganhadoresDaPartida, lerChute, resultadoRodada, sortearPergunta, type Pergunta,
 } from '../motor/motor.ts';
-import { falaPergunta, falaResposta, FALA_TEMPO_ESGOTADO } from '../motor/narracao.ts';
+import { partesPergunta, partesResposta, partesTempoEsgotado, type Parte } from '../motor/narracao.ts';
 import { MAX_JOGADORES, MAX_JOGADORES_TV, PAUSA_TV_MS, REVELA_MS, SEM_LIMITE, TAMANHOS, TAMANHO_PADRAO, TEMPOS, TEMPO_PADRAO } from '../motor/regras.ts';
 import { abrirSalas, local, type Db } from '../nuvem/salas-db.ts';
 import { atualizar, ler } from './dados.ts';
@@ -37,7 +37,7 @@ export type { Sala, J };
 
 /** Pontos de ligação com a TV (src/ui/tv.ts preenche): falar, calar, e avisar que a sala mudou. */
 export const ganchos = {
-  narrar: (_texto: string): Promise<void> => Promise.resolve(),
+  narrar: (_partes: Parte[]): Promise<void> => Promise.resolve(),
   parar: () => {},
   aoMudar: (_s: Sala | null) => {},
 };
@@ -227,7 +227,7 @@ async function encerrarPartida() {
 
 /** Modo TV: o narrador lê a pergunta e só então começa a contagem. */
 async function lerPergunta(game: number, n: number) {
-  await ganchos.narrar(falaPergunta(n, perguntaAtual()!));
+  await ganchos.narrar(partesPergunta(n, perguntaAtual()!));
   if (!mesmaRodada(game, n) || cur()!.phase !== 'read') return;
   const agora = db.now();
   await db.update(room('cur'), { phase: 'question', start: agora, ends: agora + (tempoSeg() * 1000) / VELOCIDADE });
@@ -237,13 +237,13 @@ async function lerPergunta(game: number, n: number) {
 async function fecharRodadaTV(game: number, n: number, esgotou: boolean) {
   if (esgotou) {
     await db.update(room('cur'), { phase: 'timeup', ends: db.now() + 60000 });
-    await ganchos.narrar(FALA_TEMPO_ESGOTADO);
+    await ganchos.narrar(partesTempoEsgotado());
     if (!mesmaRodada(game, n)) return;
   }
   const q = perguntaAtual()!;
   const r = await revelar();
   const venc = r.vencedores;
-  await ganchos.narrar(falaResposta(q, nomesDe(venc), venc.length ? r.dist[venc[0]] : null));
+  await ganchos.narrar(partesResposta(q, nomesDe(venc), venc.length ? r.dist[venc[0]] : null));
   if (mesmaRodada(game, n) && cur()!.phase === 'reveal' && cur()!.ends! > db.now()) { // não foi pulada
     await db.update(room('cur'), { ends: db.now() + PAUSA_TV_MS / VELOCIDADE });
   }
@@ -260,7 +260,7 @@ async function passoDoAnfitriao() {
     } else if (c.phase === 'question') {
       const ps = players();
       if (S.tv && !ps.length) return; // ninguém na sala: espera
-      if (S.tv && S.junto && chave !== lido) { lido = chave; void ganchos.narrar(falaPergunta(c.n, perguntaAtual()!)); } // lê sem segurar o relógio
+      if (S.tv && S.junto && chave !== lido) { lido = chave; void ganchos.narrar(partesPergunta(c.n, perguntaAtual()!)); } // lê sem segurar o relógio
       const todos = ps.every((p) => S!.in?.[p.id]?.n === c.n);
       if ((todos || agora >= c.ends!) && chave !== handled) {
         handled = chave;

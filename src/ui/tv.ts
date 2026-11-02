@@ -6,37 +6,83 @@
 import qrcode from 'qrcode-generator';
 import '../tv.css';
 import { classificar, formatar, ganhadoresDaPartida } from '../motor/motor.ts';
-import { duracaoEstimada, escolherVoz, falaEntrou, falaFim, FALA_BOAS_VINDAS } from '../motor/narracao.ts';
+import { duracaoEstimada, escolherVoz, falaEntrou, partesBoasVindas, partesFim, textoDasPartes, type Parte } from '../motor/narracao.ts';
 import { VELOCIDADE, carregarPerguntas, esc, fichaHTML, ui } from './comum.ts';
 import { comandoTV, criarSalaTV, estado, ganchos, linkDaSala, retomarSalaTV, type J } from './sala.ts';
 import { CATEGORIAS } from '../motor/regras.ts';
 
 // ---------- narrador ----------
+// Cada fala é uma lista de partes. Parte com áudio gravado (Edge TTS, public/voz/) toca o mp3; as outras (nomes, placar) e
+// qualquer áudio que faltar usam a voz do aparelho. Sem som nenhum, o jogo segue só com a legenda.
 let legenda = '';
 let falando: { fim: () => void } | null = null;
 let ativo = false;
+let indice: Record<string, string> = {};
+let rodada = 0;
+let cancelarParte: (() => void) | null = null;
+const audio = typeof Audio !== 'undefined' ? new Audio() : undefined; // um só, "destravado" pelo toque inicial
+const SILENCIO = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQAAAAA=';
 
 const sintese = () => (typeof window !== 'undefined' ? window.speechSynthesis : undefined);
 
+async function carregarIndiceVoz() {
+  try { indice = await (await fetch(`${import.meta.env.BASE_URL}voz/indice.json`)).json(); } catch { indice = {}; }
+}
+
 /** Chamar DENTRO de um toque: o navegador só libera o som depois de um toque da pessoa. */
 export function desbloquearSom() {
-  try { sintese()?.speak(new SpeechSynthesisUtterance('')); } catch { /* sem som: o jogo segue só com a legenda */ }
+  try { sintese()?.speak(new SpeechSynthesisUtterance('')); } catch { /* sem voz do aparelho */ }
+  if (audio) { audio.src = SILENCIO; audio.play().catch(() => { /* sem áudio: cai na voz do aparelho */ }); }
   document.documentElement.requestFullscreen?.().catch(() => { /* tela cheia é opcional */ });
   navigator.wakeLock?.request('screen').catch(() => { /* TV pode dormir; nada a fazer */ });
 }
 
 export function parar() {
+  rodada++;
   sintese()?.cancel();
+  audio?.pause();
+  cancelarParte?.();
   falando?.fim();
 }
 
-export function narrar(texto: string): Promise<void> {
+/** Toca um mp3 gravado. Resolve true se tocou até o fim, false se falhou (aí usa-se a voz do aparelho). */
+function tocar(clip: string): Promise<boolean> {
+  return new Promise((resolve) => {
+    if (!audio) return resolve(false);
+    const limpar = () => { audio.onended = audio.onerror = null; cancelarParte = null; };
+    audio.onended = () => { limpar(); resolve(true); };
+    audio.onerror = () => { limpar(); resolve(false); };
+    cancelarParte = () => { limpar(); resolve(true); };
+    audio.src = `${import.meta.env.BASE_URL}voz/${clip}.mp3`;
+    audio.play().catch(() => { limpar(); resolve(false); });
+  });
+}
+
+function falarAparelho(texto: string): Promise<void> {
+  const ss = sintese();
+  return new Promise((resolve) => {
+    // Se a voz falhar (sem voz, bloqueada), "dura" o tempo de leitura e o jogo segue com a legenda.
+    const tempo = setTimeout(() => fim(), (duracaoEstimada(texto) * (ss ? 2.2 : 1) + 2000) / VELOCIDADE);
+    const fim = () => { clearTimeout(tempo); cancelarParte = null; resolve(); };
+    cancelarParte = fim;
+    if (!ss) return;
+    const u = new SpeechSynthesisUtterance(texto);
+    u.lang = 'pt-BR';
+    const v = escolherVoz(ss.getVoices());
+    if (v) u.voice = v;
+    u.onend = fim; u.onerror = fim;
+    ss.speak(u);
+  });
+}
+
+export function narrar(partes: Parte[]): Promise<void> {
   parar();
+  const meu = rodada;
+  legenda = textoDasPartes(partes);
   return new Promise<void>((resolve) => {
     let feito = false;
-    const ss = sintese();
-    // Se o som falhar (sem voz, navegador bloqueou), a fala "dura" o tempo de leitura e o jogo segue com a legenda.
-    const tempo = setTimeout(() => fim(), (duracaoEstimada(texto) * (ss ? 2.2 : 1) + 3000) / VELOCIDADE);
+    const total = partes.reduce((s, p) => s + duracaoEstimada(p.t), 0);
+    const tempo = setTimeout(() => fim(), (total * 2.5 + 6000) / VELOCIDADE); // rede de segurança
     const fim = () => {
       if (feito) return;
       feito = true; clearTimeout(tempo);
@@ -44,15 +90,14 @@ export function narrar(texto: string): Promise<void> {
       resolve();
     };
     falando = { fim };
-    legenda = texto;
-    if (ss) {
-      const u = new SpeechSynthesisUtterance(texto);
-      u.lang = 'pt-BR';
-      const v = escolherVoz(ss.getVoices());
-      if (v) u.voice = v;
-      u.onend = fim; u.onerror = fim;
-      ss.speak(u);
-    }
+    void (async () => {
+      for (const p of partes) {
+        if (meu !== rodada) return;
+        const gravada = p.clip && indice[p.clip] === p.t && VELOCIDADE === 1; // texto mudou desde a gravação? usa a voz do aparelho
+        if (!(gravada && await tocar(p.clip!))) { if (meu === rodada) await falarAparelho(p.t); }
+      }
+      if (meu === rodada) fim();
+    })();
     if (ui.tela === 'tv') ui.desenhar();
   });
 }
@@ -74,7 +119,7 @@ function aoMudar(s: ReturnType<typeof estado>['S']) {
   nomes.forEach((_, id) => conhecidos!.add(id));
   if (novos.length && s.status === 'lobby') {
     clearTimeout(aviso);
-    aviso = setTimeout(() => { if (!falando) void narrar(falaEntrou(novos)); }, 1200);
+    aviso = setTimeout(() => { if (!falando) void narrar([{ t: falaEntrou(novos) }]); }, 1200);
   }
   // Fim de jogo: anuncia o campeão.
   if (s.status === 'finished') {
@@ -84,7 +129,7 @@ function aoMudar(s: ReturnType<typeof estado>['S']) {
       const todos = Object.entries(s.players ?? {}).map(([id, p]) => ({ id, pts: p.pts || 0 }));
       const ids = ganhadoresDaPartida(todos); // calcula aqui (não depende de `winners` já ter chegado)
       parar();
-      void narrar(falaFim(ids.map((id) => s.players?.[id]?.name).filter((n): n is string => !!n), todos.find((t) => t.id === ids[0])?.pts ?? 0, !!s.exhausted));
+      void narrar(partesFim(ids.map((id) => s.players?.[id]?.name).filter((n): n is string => !!n), todos.find((t) => t.id === ids[0])?.pts ?? 0, !!s.exhausted));
     }
   }
 }
@@ -107,6 +152,7 @@ export function iniciarTV() {
 export async function abrirTV(): Promise<void> {
   iniciarTV();
   ui.tela = 'tv';
+  void carregarIndiceVoz();
   if (estado().code) { await carregarPerguntas(); if (!(await retomarSalaTV())) ui.msg = ''; }
 }
 
@@ -115,7 +161,7 @@ export async function acaoTV(act: string): Promise<boolean> {
     ui.msg = '';
     await carregarPerguntas();
     await criarSalaTV();
-    void narrar(FALA_BOAS_VINDAS);
+    void narrar(partesBoasVindas());
     return true;
   }
   return false;
