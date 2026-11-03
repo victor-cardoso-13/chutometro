@@ -20,8 +20,37 @@ let ativo = false;
 let indice: Record<string, string> = {};
 let rodada = 0;
 let cancelarParte: (() => void) | null = null;
-const audio = typeof Audio !== 'undefined' ? new Audio() : undefined; // um só, "destravado" pelo toque inicial
-const SILENCIO = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQAAAAA=';
+// Os mp3 são decodificados na memória e tocados pelo Web Audio: o silêncio do começo/fim de cada gravação é cortado e o
+// próximo áudio já fica pronto, então as partes de uma fala (nome + frase + pontos) saem coladas, sem "buracos".
+const Contexto = typeof window !== 'undefined' ? (window.AudioContext ?? (window as unknown as { webkitAudioContext?: typeof AudioContext }).webkitAudioContext) : undefined;
+let ctx: AudioContext | undefined;
+let fonte: AudioBufferSourceNode | null = null;
+interface Gravacao { buf: AudioBuffer; ini: number; fim: number }
+const gravacoes = new Map<string, Promise<Gravacao | null>>();
+const LIMITE_SILENCIO = 0.012;
+
+function carregar(clip: string): Promise<Gravacao | null> {
+  let g = gravacoes.get(clip);
+  if (!g && ctx) {
+    const c = ctx;
+    g = (async () => {
+      try {
+        const r = await fetch(`${import.meta.env.BASE_URL}voz/${clip}.mp3`);
+        if (!r.ok) return null;
+        const buf = await c.decodeAudioData(await r.arrayBuffer());
+        const d = buf.getChannelData(0);
+        let i = 0, f = d.length - 1;
+        while (i < f && Math.abs(d[i]) < LIMITE_SILENCIO) i++;
+        while (f > i && Math.abs(d[f]) < LIMITE_SILENCIO) f--;
+        const m = buf.sampleRate;
+        return { buf, ini: Math.max(0, i - 0.02 * m) / m, fim: Math.min(d.length, f + 0.06 * m) / m };
+      } catch { return null; }
+    })();
+    gravacoes.set(clip, g);
+    void g.then((x) => { if (!x) gravacoes.delete(clip); });
+  }
+  return g ?? Promise.resolve(null);
+}
 
 const sintese = () => (typeof window !== 'undefined' ? window.speechSynthesis : undefined);
 
@@ -32,7 +61,8 @@ async function carregarIndiceVoz() {
 /** Chamar DENTRO de um toque: o navegador só libera o som depois de um toque da pessoa. */
 export function desbloquearSom() {
   try { sintese()?.speak(new SpeechSynthesisUtterance('')); } catch { /* sem voz do aparelho */ }
-  if (audio) { audio.src = SILENCIO; audio.play().catch(() => { /* sem áudio: cai na voz do aparelho */ }); }
+  if (!ctx && Contexto) { try { ctx = new Contexto(); } catch { ctx = undefined; } }
+  void ctx?.resume().catch(() => { /* sem áudio: cai na voz do aparelho */ });
   document.documentElement.requestFullscreen?.().catch(() => { /* tela cheia é opcional */ });
   navigator.wakeLock?.request('screen').catch(() => { /* TV pode dormir; nada a fazer */ });
 }
@@ -40,7 +70,8 @@ export function desbloquearSom() {
 export function parar() {
   rodada++;
   sintese()?.cancel();
-  audio?.pause();
+  try { fonte?.stop(); } catch { /* já parou */ }
+  fonte = null;
   cancelarParte?.();
   falando?.fim();
 }
@@ -48,13 +79,20 @@ export function parar() {
 /** Toca um mp3 gravado. Resolve true se tocou até o fim, false se falhou (aí usa-se a voz do aparelho). */
 function tocar(clip: string): Promise<boolean> {
   return new Promise((resolve) => {
-    if (!audio) return resolve(false);
-    const limpar = () => { audio.onended = audio.onerror = null; cancelarParte = null; };
-    audio.onended = () => { limpar(); resolve(true); };
-    audio.onerror = () => { limpar(); resolve(false); };
-    cancelarParte = () => { limpar(); resolve(true); };
-    audio.src = `${import.meta.env.BASE_URL}voz/${clip}.mp3`;
-    audio.play().catch(() => { limpar(); resolve(false); });
+    const c = ctx;
+    if (!c) return resolve(false);
+    let parado = false;
+    cancelarParte = () => { parado = true; cancelarParte = null; try { fonte?.stop(); } catch { /* já parou */ } resolve(true); };
+    void carregar(clip).then((g) => {
+      if (parado) return;
+      if (!g) { cancelarParte = null; return resolve(false); }
+      const src = c.createBufferSource();
+      src.buffer = g.buf;
+      src.connect(c.destination);
+      src.onended = () => { if (parado) return; cancelarParte = null; if (fonte === src) fonte = null; resolve(true); };
+      fonte = src;
+      try { src.start(0, g.ini, g.fim - g.ini); } catch { cancelarParte = null; resolve(false); }
+    });
   });
 }
 
@@ -91,8 +129,10 @@ export function narrar(partes: Parte[]): Promise<void> {
     };
     falando = { fim };
     void (async () => {
-      for (const p of partes) {
+      const pronta = (p?: Parte) => !!p?.clip && indice[p.clip] === p.t && VELOCIDADE === 1;
+      for (const [i, p] of partes.entries()) {
         if (meu !== rodada) return;
+        if (pronta(partes[i + 1])) void carregar(partes[i + 1].clip!); // já deixa a próxima parte decodificada
         const gravada = p.clip && indice[p.clip] === p.t && VELOCIDADE === 1; // texto mudou desde a gravação? usa a voz do aparelho
         if (!(gravada && await tocar(p.clip!))) { if (meu === rodada) await falarAparelho(p.t); }
       }
@@ -119,7 +159,7 @@ function aoMudar(s: ReturnType<typeof estado>['S']) {
   nomes.forEach((_, id) => conhecidos!.add(id));
   if (novos.length && s.status === 'lobby') {
     clearTimeout(aviso);
-    aviso = setTimeout(() => { if (!falando) void narrar(partesEntrou(novos)); }, 1200);
+    aviso = setTimeout(() => { const f = partesEntrou(novos); if (!falando && f.length) void narrar(f); }, 1200);
   }
   // Fim de jogo: anuncia o campeão.
   if (s.status === 'finished') {
@@ -186,11 +226,14 @@ function placarHTML(ps: J[], res: Record<string, { pts: number }> | undefined, m
   return `<div class="t-pl"><h3>Placar <i>ao vivo</i></h3><div class="t-lis">${linhas || '<p class="t-vazio">Sem jogadores</p>'}${resto > 0 ? `<p class="t-vazio">+ ${resto} jogador${resto > 1 ? 'es' : ''}</p>` : ''}</div></div>`;
 }
 
+/** Telas que já mostram por escrito o que o narrador diz (pergunta, tempo esgotado, resposta) ficam sem a barra de legenda. */
+const SEM_BARRA = ['t-perg', 't-resp', 't-fim'];
 function moldura(info: string, corpo: string, cls = '') {
+  const barra = !SEM_BARRA.includes(cls);
   return `<div class="t-raiz"><div class="t-tv"><div class="t-topo"><span class="t-logo">🎯 Chutômetro</span><span class="t-pill">${esc(info)}</span></div>
-  <section class="t-tela ${cls}">${corpo}</section>
-  <div class="t-nar"><span class="ic">🎙️</span><div class="t-onda ${falando ? 'on' : ''}"><i></i><i></i><i></i><i></i><i></i></div>
-  <div class="tx"><span>${esc(legenda || 'Pronto para narrar.')}</span><small>Narrador · voz pt-BR do navegador (no Microsoft Edge: Edge TTS, Antonio) — legenda para quem não ouve</small></div></div></div></div>`;
+  <section class="t-tela ${cls}${barra ? '' : ' sem-barra'}">${corpo}</section>
+  ${barra ? `<div class="t-nar"><span class="ic">🎙️</span><div class="t-onda ${falando ? 'on' : ''}"><i></i><i></i><i></i><i></i><i></i></div>
+  <div class="tx"><span>${esc(legenda || 'Pronto para narrar.')}</span></div></div>` : ''}</div></div>`;
 }
 
 function inicioTV() {

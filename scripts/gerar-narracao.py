@@ -9,6 +9,14 @@ import edge_tts
 RAIZ = Path(__file__).resolve().parent.parent
 SAIDA = RAIZ / 'public' / 'voz'
 VOZ = 'pt-BR-AntonioNeural'
+# Como a voz deve LER certas palavras (o texto mostrado/conferido no indice.json não muda).
+PRONUNCIA = {'Chutômetro': 'Chu-tômmetro'}
+
+def para_voz(texto):
+    for a, b in PRONUNCIA.items():
+        texto = texto.replace(a, b)
+    return texto
+
 SIMULTANEAS = int(sys.argv[1]) if len(sys.argv) > 1 else 10
 
 async def gravar(sem, clip, texto, falhas):
@@ -19,7 +27,7 @@ async def gravar(sem, clip, texto, falhas):
         for tentativa in range(4):
             try:
                 tmp = destino.with_suffix('.tmp')
-                await edge_tts.Communicate(texto, VOZ).save(str(tmp))
+                await edge_tts.Communicate(para_voz(texto), VOZ).save(str(tmp))
                 if tmp.stat().st_size < 500:
                     raise RuntimeError('arquivo vazio')
                 tmp.rename(destino)

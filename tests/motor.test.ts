@@ -120,13 +120,19 @@ describe('narrador (modo TV)', () => {
     expect(textoDasPartes(partesResposta({ ...q, u: 'ano', r: 1969 }, ['Bia']))).toBe('A resposta certa é o ano de 1969.');
   });
   it('fala o fim do jogo e quem entrou', () => {
-    expect(textoDasPartes(partesFim(['Victor'], 8))).toBe('Fim de jogo! Vitória de Victor com 8 pontos. Parabéns!');
-    expect(partesFim(['Victor'], 8).map((p) => p.clip)).toEqual(['fim-de-jogo', 'vitoria-de', 'nome-victor', 'pts-8']);
+    expect(textoDasPartes(partesFim(['Victor'], 8))).toBe('Fim de jogo! Vitória de Victor, com 8 pontos. Parabéns!');
+    expect(partesFim(['Victor'], 8).map((p) => p.clip)).toEqual(['vit-victor', 'pts-8']);
+    expect(partesFim(['Victor'], 8, true)[0].t).toBe('Acabaram as perguntas! Fim de jogo! Vitória de Victor,');
+    expect(partesFim(['Ana'], 8).map((p) => p.clip)).toEqual(['fim-de-jogo']); // sem nome gravado: nada de nome nem de pontos
+    expect(partesFim(['Victor', 'Ana'], 8, true).map((p) => p.clip)).toEqual(['acabaram', 'fim-de-jogo']);
     expect(partesFim(['Carla', 'Andressa', 'Samuel'], 1).map((p) => p.clip)).toEqual(['fim-de-jogo', 'empate-entre', 'nome-carla', 'nome-andressa', 'e', 'nome-samuel', 'ptsc-1']);
     expect(textoDasPartes(partesFim([], 0, true))).toBe('Acabaram as perguntas! Fim de jogo! Ninguém pontuou.');
-    expect(partesFim(['Ana'], 301)[3].clip).toBeUndefined();
-    expect(partesEntrou(['Edinho']).map((p) => p.clip)).toEqual(['nome-edinho', 'entrou']);
-    expect(partesEntrou(['Ana', 'Léo']).map((p) => p.clip)).toEqual([undefined, 'e', undefined, 'entraram']);
+    expect(partesFim(['Victor'], 301)[1].clip).toBeUndefined();
+    expect(partesEntrou(['Edinho']).map((p) => p.clip)).toEqual(['entrou-edinho']);
+    expect(partesEntrou(['Ana'])).toEqual([]);
+    expect(partesEntrou(['Victor', 'Léo'])).toEqual([]);
+    expect(partesEntrou(['Ana', 'Léo'])).toEqual([]);
+    expect(partesEntrou(['Zeca', 'Maurício']).map((p) => p.clip)).toEqual(['nome-zeca', 'e', 'nome-mauricio', 'entraram']);
   });
   it('prefere a voz neural do Edge em português do Brasil', () => {
     const vozes = [
@@ -145,7 +151,7 @@ describe('áudios gravados do narrador', () => {
   it('toda parte com clip tem mp3 e o texto gravado é o texto de hoje (senão regrave: scripts/gerar-narracao.py)', () => {
     const perguntas: Pergunta[] = JSON.parse(readFileSync(new URL('../public/questions.json', import.meta.url), 'utf8'));
     const partes = [
-      ...partesFim(['A'], 1, true), ...partesFim(['Victor', 'Carla'], 3), ...partesFim(['Edinho'], 300), ...partesEntrou(['Samuel']), ...partesResposta(perguntas[0], ['Celinha']), ...partesBoasVindas(), ...partesTempoEsgotado(), ...partesPergunta(1, perguntas[0]),
+      ...partesFim(['A'], 1, true), ...partesFim(['Victor', 'Carla'], 3), ...partesFim(['Edinho'], 300), ...partesEntrou(['Samuel']), ...partesFim(['Victor'], 2, true), ...partesFim(['Victor'], 2), ...partesResposta(perguntas[0], ['Celinha']), ...partesBoasVindas(), ...partesTempoEsgotado(), ...partesPergunta(1, perguntas[0]),
       ...perguntas.flatMap((q) => [...partesPergunta(2, q), ...partesResposta(q, [])]),
     ].filter((p) => p.clip);
     expect(partes.length).toBeGreaterThan(1800);

@@ -25,7 +25,7 @@ export const TEXTOS_FIXOS: Record<string, string> = {
   'ninguem-pontuou': 'Ninguém pontuou.',
 };
 /** Nomes gravados na voz do Antonio (frases com esses nomes saem 100% gravadas). Outro nome: voz do aparelho só nele. */
-export const NOMES_GRAVADOS = ['Samuel', 'Celinha', 'Victor', 'Carla', 'Giovanna', 'Andressa', 'Edinho'];
+export const NOMES_GRAVADOS = ['Samuel', 'Celinha', 'Victor', 'Carla', 'Giovanna', 'Andressa', 'Edinho', 'Camila', 'Paula', 'Gustavo', 'Rita', 'Zezinha', 'Zeca', 'Eliane', 'Maurício', 'Karol', 'Karoline'];
 /** "com N ponto(s)." (um vencedor) e "com N pontos cada." (empate), gravados de 0 até aqui. */
 export const MAX_PONTOS_GRAVADO = 300;
 export const textoPontos = (n: number) => `com ${n} ponto${n === 1 ? '' : 's'}. Parabéns!`;
@@ -54,7 +54,7 @@ export function partesPergunta(n: number, q: Pergunta): Parte[] {
   ];
 }
 
-/** Nome do jogador: gravado se for um dos conhecidos (texto = grafia gravada), senão voz do aparelho. */
+/** Nome do jogador: só existe fala com nome se ele for um dos gravados (texto = grafia gravada). */
 const parteNome = (n: string): Parte => { const g = nomeGravado(n); return g ? { t: g, clip: `nome-${slugNome(g)}` } : { t: n }; };
 /** "A B e C" (sem vírgulas: cada nome é um áudio, com uma pausa natural entre eles). */
 const partesNomes = (nomes: string[]): Parte[] => (nomes.length <= 1 ? nomes.map(parteNome) : [...nomes.slice(0, -1).map(parteNome), fixa('e'), parteNome(nomes[nomes.length - 1])]);
@@ -66,14 +66,24 @@ export function partesResposta(q: Pergunta, vencedores: string[]): Parte[] {
   return vencedores.length ? [certa] : [certa, fixa('ninguem-chutou')];
 }
 
+/** Frase inteira num áudio só (sem emenda): "Fim de jogo! Vitória de Victor," e "Victor entrou!" para os nomes gravados. */
+export const textoVitoria = (nome: string, acabaram: boolean) => `${acabaram ? 'Acabaram as perguntas! ' : ''}Fim de jogo! Vitória de ${nome},`;
+export const textoEntrou = (nome: string) => `${nome} entrou!`;
+
 export function partesFim(nomes: string[], pontos: number, acabaram = false): Parte[] {
   const ini = [...(acabaram ? [fixa('acabaram')] : []), fixa('fim-de-jogo')];
   if (!nomes.length) return [...ini, fixa('ninguem-pontuou')];
+  if (!nomes.every((n) => nomeGravado(n))) return ini; // nome sem áudio gravado: não fala nada com nomes (nunca usa a voz do aparelho)
   if (nomes.length > 1) return [...ini, fixa('empate-entre'), ...partesNomes(nomes), pontosParte(pontos, true)];
-  return [...ini, fixa('vitoria-de'), parteNome(nomes[0]), pontosParte(pontos, false)];
+  const g = nomeGravado(nomes[0])!;
+  return [{ t: textoVitoria(g, acabaram), clip: `vit${acabaram ? 'a' : ''}-${slugNome(g)}` }, pontosParte(pontos, false)];
 }
 
-export const partesEntrou = (nomes: string[]): Parte[] => [...partesNomes(nomes), fixa(nomes.length === 1 ? 'entrou' : 'entraram')];
+export function partesEntrou(nomes: string[]): Parte[] {
+  if (!nomes.length || !nomes.every((n) => nomeGravado(n))) return []; // nome sem áudio gravado: sem fala nenhuma
+  if (nomes.length === 1) { const g = nomeGravado(nomes[0])!; return [{ t: textoEntrou(g), clip: `entrou-${slugNome(g)}` }]; }
+  return [...partesNomes(nomes), fixa('entraram')];
+}
 export const textoDasPartes = (ps: Parte[]) => ps.map((p) => p.t).join(' ');
 
 /**
