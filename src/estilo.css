@@ -121,8 +121,8 @@ a.cta { text-decoration: none; color: inherit; }
 .visor { flex: none; background: var(--card); border: 3px solid var(--ac); border-radius: 16px; text-align: center; font-family: var(--titulo); font-size: clamp(32px, 9vw, 46px); line-height: 1.2; padding: 6px 10px; min-height: 64px; overflow: hidden; white-space: nowrap; }
 .visor .vazio { color: var(--mut); font-size: 22px; font-weight: 600; }
 .visor.trav { border-color: var(--bord); }
-.teclas { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 8px; }
-.k { background: var(--card); border: 2px solid var(--bord); border-radius: 16px; box-shadow: 0 3px 0 var(--bord); font-family: var(--titulo); font-size: clamp(28px, 8vw, 40px); display: grid; place-items: center; min-height: 52px; }
+.teclas { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, minmax(0, 1fr)); gap: 8px; }
+.k { background: var(--card); border: 2px solid var(--bord); border-radius: 16px; box-shadow: 0 3px 0 var(--bord); font-family: var(--titulo); font-size: clamp(28px, 8vw, 40px); display: grid; place-items: center; min-height: 0; padding: 0; }
 .k:active:not(:disabled) { background: var(--bord); transform: translateY(2px); box-shadow: 0 1px 0 var(--bord); }
 .k:disabled { opacity: .4; }
 .k.ap { color: var(--mut); }
@@ -217,4 +217,14 @@ a.cta { text-decoration: none; color: inherit; }
   .opc { flex-direction: row; align-items: center; }
   .opc small { flex: none; width: 90px; }
   .linkrow input { padding: 6px 10px; }
+}
+
+/* Celular em pé com pouca altura (ex.: Safari com barras): encolhe pergunta e visor para o teclado ficar com teclas grandes. */
+@media (max-height: 720px) and (max-aspect-ratio: 5/4) {
+  .card { padding: 8px 12px; }
+  .card .cat { margin-bottom: 2px; font-size: 11px; }
+  .card .q { font-size: clamp(17px, 4.8vw, 22px); }
+  .card .un { margin-top: 4px; font-size: 13px; }
+  .visor { min-height: 48px; font-size: clamp(28px, 8vw, 36px); padding: 2px 10px; }
+  .cta.big { min-height: 56px; }
 }
