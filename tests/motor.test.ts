@@ -123,15 +123,15 @@ describe('narrador (modo TV)', () => {
     expect(textoDasPartes(partesFim(['Victor'], 8))).toBe('Fim de jogo! Vitória de Victor, com 8 pontos. Parabéns!');
     expect(partesFim(['Victor'], 8).map((p) => p.clip)).toEqual(['vit-victor', 'pts-8']);
     expect(partesFim(['Victor'], 8, true)[0].t).toBe('Acabaram as perguntas! Fim de jogo! Vitória de Victor,');
-    expect(partesFim(['Ana'], 8).map((p) => p.clip)).toEqual(['fim-de-jogo']); // sem nome gravado: nada de nome nem de pontos
-    expect(partesFim(['Victor', 'Ana'], 8, true).map((p) => p.clip)).toEqual(['acabaram', 'fim-de-jogo']);
+    expect(partesFim(['Xandão'], 8).map((p) => p.clip)).toEqual(['fim-de-jogo']); // sem nome gravado: nada de nome nem de pontos
+    expect(partesFim(['Victor', 'Xandão'], 8, true).map((p) => p.clip)).toEqual(['acabaram', 'fim-de-jogo']);
     expect(partesFim(['Carla', 'Andressa', 'Samuel'], 1).map((p) => p.clip)).toEqual(['fim-de-jogo', 'empate-entre', 'nome-carla', 'nome-andressa', 'e', 'nome-samuel', 'ptsc-1']);
     expect(textoDasPartes(partesFim([], 0, true))).toBe('Acabaram as perguntas! Fim de jogo! Ninguém pontuou.');
     expect(partesFim(['Victor'], 301)[1].clip).toBeUndefined();
     expect(partesEntrou(['Edinho']).map((p) => p.clip)).toEqual(['entrou-edinho']);
-    expect(partesEntrou(['Ana'])).toEqual([]);
+    expect(partesEntrou(['Xandão'])).toEqual([]);
     expect(partesEntrou(['Victor', 'Léo'])).toEqual([]);
-    expect(partesEntrou(['Ana', 'Léo'])).toEqual([]);
+    expect(partesEntrou(['Xandão', 'Léo'])).toEqual([]);
     expect(partesEntrou(['Zeca', 'Maurício']).map((p) => p.clip)).toEqual(['nome-zeca', 'e', 'nome-mauricio', 'entraram']);
   });
   it('prefere a voz neural do Edge em português do Brasil', () => {

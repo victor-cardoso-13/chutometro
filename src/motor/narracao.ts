@@ -25,7 +25,19 @@ export const TEXTOS_FIXOS: Record<string, string> = {
   'ninguem-pontuou': 'Ninguém pontuou.',
 };
 /** Nomes gravados na voz do Antonio (frases com esses nomes saem 100% gravadas). Outro nome: voz do aparelho só nele. */
-export const NOMES_GRAVADOS = ['Samuel', 'Celinha', 'Victor', 'Carla', 'Giovanna', 'Andressa', 'Edinho', 'Camila', 'Paula', 'Gustavo', 'Rita', 'Zezinha', 'Zeca', 'Eliane', 'Maurício', 'Karol', 'Karoline'];
+export const NOMES_GRAVADOS = [
+  'Samuel', 'Celinha', 'Victor', 'Carla', 'Giovanna', 'Andressa', 'Edinho', 'Camila', 'Paula', 'Gustavo', 'Rita',
+  'Zezinha', 'Zeca', 'Eliane', 'Maurício', 'Karol', 'Karoline', 'Matheus', 'Raphael', 'João', 'Pedro', 'Lucas',
+  'Gabriel', 'Rafael', 'Felipe', 'Bruno', 'Rodrigo', 'Thiago', 'Diego', 'Leonardo', 'Daniel', 'Fernando', 'Marcelo',
+  'Ricardo', 'Eduardo', 'André', 'Carlos', 'José', 'Paulo', 'Marcos', 'Luiz', 'Antônio', 'Francisco', 'Alexandre',
+  'Fábio', 'Henrique', 'Vinícius', 'Guilherme', 'Leandro', 'Renato', 'Sérgio', 'Márcio', 'Roberto', 'Anderson',
+  'Alan', 'Caio', 'Igor', 'Murilo', 'Miguel', 'Arthur', 'Davi', 'Enzo', 'Bernardo', 'Heitor', 'Nicolas', 'Otávio',
+  'Wellington', 'Jorge', 'Wagner', 'Maria', 'Ana', 'Juliana', 'Fernanda', 'Patrícia', 'Aline', 'Mariana', 'Beatriz',
+  'Larissa', 'Amanda', 'Bruna', 'Letícia', 'Jéssica', 'Vanessa', 'Renata', 'Cláudia', 'Adriana', 'Luciana', 'Sandra',
+  'Simone', 'Débora', 'Tatiana', 'Priscila', 'Carolina', 'Natália', 'Gabriela', 'Isabela', 'Rafaela', 'Luiza',
+  'Helena', 'Laura', 'Sofia', 'Alice', 'Valentina', 'Manuela', 'Cristina', 'Roberta', 'Raquel', 'Daniela', 'Márcia',
+  'Sônia', 'Regina', 'Lúcia', 'Ângela', 'Marta', 'Elaine', 'Viviane', 'Kátia', 'Joana', 'Marina',
+];
 /** "com N ponto(s)." (um vencedor) e "com N pontos cada." (empate), gravados de 0 até aqui. */
 export const MAX_PONTOS_GRAVADO = 300;
 export const textoPontos = (n: number) => `com ${n} ponto${n === 1 ? '' : 's'}. Parabéns!`;
