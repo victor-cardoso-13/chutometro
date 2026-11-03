@@ -11,10 +11,10 @@ body.modo-tv #app { padding: 0; display: block; }
 .t-pill { background: var(--card); border: .15cqw solid var(--bord); border-radius: 2cqw; padding: .5cqw 1.4cqw; }
 .t-tela { position: absolute; inset: 0; display: flex; padding: 7cqw 4cqw 14cqh; gap: 3cqw; }
 .t-nar { position: absolute; left: 4cqw; right: 4cqw; bottom: 1.6cqh; height: 10.5cqh; background: var(--card); border: .15cqw solid var(--bord); border-radius: 2cqw; display: flex; align-items: center; gap: 1.6cqw; padding: 0 2cqw; font-size: 1.85cqw; z-index: 2; }
+.t-tela.sem-barra { padding-bottom: 4cqh; }
 .t-nar .ic { font-size: 2.6cqw; }
 .t-nar .tx { flex: 1; line-height: 1.2; min-width: 0; }
 .t-nar .tx span { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.t-nar small { display: block; margin-top: .3cqh; font-size: 1.05cqw; opacity: .55; font-weight: 600; }
 .t-onda { display: flex; gap: .3cqw; align-items: center; height: 3cqw; opacity: .35; }
 .t-onda.on { opacity: 1; }
 .t-onda i { width: .4cqw; background: var(--ac); border-radius: 1cqw; height: 30%; }
