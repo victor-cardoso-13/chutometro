@@ -1,12 +1,28 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
-  aplicarTecla, classificar, comentario, erroRelativo, estaInativo, formatar, formatarDigitado, ganhadoresDaPartida, lerChute, notaSolo,
+  aplicarTecla, casasDaResposta, classificar, comentario, distancia, erroRelativo, estaInativo, formatar, formatarDigitado, ganhadoresDaPartida, lerChute, notaSolo,
   resultadoRodada, sortearPergunta, type Pergunta,
 } from '../src/motor/motor.ts';
 import { escolherVoz, partesBoasVindas, partesEntrou, partesFim, partesPergunta, partesResposta, partesTempoEsgotado, textoDasPartes } from '../src/motor/narracao.ts';
 
 const P = (id: string, r: number, u = 'm', cat = 'a'): Pergunta => ({ id, q: id, u, r, cat, d: 1 });
+
+describe('casas decimais', () => {
+  it('chute com mais casas que a resposta é arredondado (pi = 3,14)', () => {
+    expect(casasDaResposta(3.14)).toBe(2);
+    expect(casasDaResposta(88)).toBe(0);
+    expect(distancia(3.14, 3.141)).toBe(0);
+    expect(distancia(3.14, 3.1415)).toBe(0);
+    expect(distancia(3.14, 3.1)).toBe(0.04);
+    expect(distancia(4.54, 4.5)).toBe(0.04);
+    expect(distancia(88, 88.4)).toBe(0.4); // resposta inteira: sem arredondar
+    const r = resultadoRodada(3.14, { a: 3.141, b: 3.14, c: 3.1 });
+    expect(r.vencedores.sort()).toEqual(['a', 'b']);
+    expect(r.pontos.a).toBe(3);
+    expect(resultadoRodada(4.5, { a: 4.54, b: 4 }).pontos).toEqual({ a: 3, b: 0 });
+  });
+});
 
 describe('rodada', () => {
   it('mais perto vence: resposta 10, chutes 5 e 12 → 12', () => {

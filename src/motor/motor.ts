@@ -6,8 +6,20 @@ export interface Pergunta { id: string; q: string; u: string; r: number; cat: st
 
 const arred = (n: number, casas = 6) => Math.round(n * 10 ** casas) / 10 ** casas;
 
-/** Quanto o chute passou da resposta (sempre ≥ 0). */
-export const distancia = (resposta: number, chute: number) => arred(Math.abs(resposta - chute));
+/** Quantas casas decimais tem a resposta (4,54 → 2; 88 → 0). */
+export const casasDaResposta = (resposta: number) => Math.min(6, (String(arred(resposta)).split('.')[1] ?? '').length);
+
+/**
+ * O chute é arredondado para as casas da resposta antes de comparar: resposta 3,14 → chutes 3,141 e 3,1415 valem 3,14 (cravam).
+ * Resposta inteira: o chute fica como está.
+ */
+export function chuteNaPrecisao(resposta: number, chute: number): number {
+  const c = casasDaResposta(resposta);
+  return c ? arred(chute, c) : chute;
+}
+
+/** Quanto o chute passou da resposta (sempre ≥ 0), olhando só as casas que a resposta tem. */
+export const distancia = (resposta: number, chute: number) => arred(Math.abs(resposta - chuteNaPrecisao(resposta, chute)));
 
 /**
  * Erro relativo (0 = cravou, 1 = errou feio). Para anos mede em relação a "quantos anos atrás foi"
@@ -30,7 +42,7 @@ export const erroMedioPct = (erros: number[]) => (erros.length ? Math.round((err
 export interface ResultadoRodada { vencedores: string[]; pontos: Record<string, number>; dist: Record<string, number | null> }
 /**
  * Quem chegou mais perto. `chutes`: id → número (ou ausente/null = não chutou).
- * Empate de distância: vence o chute MAIS BAIXO; chutes iguais vencem juntos. Cravar vale 3, vencer vale 1.
+ * Empate de distância: vence o chute MAIS BAIXO; chutes iguais (já arredondados às casas da resposta) vencem juntos. Cravar vale 3, vencer vale 1.
  */
 export function resultadoRodada(resposta: number, chutes: Record<string, number | null | undefined>): ResultadoRodada {
   const ids = Object.keys(chutes);
@@ -45,8 +57,9 @@ export function resultadoRodada(resposta: number, chutes: Record<string, number 
   if (!validos.length) return { vencedores: [], pontos, dist };
   const menor = Math.min(...validos.map((id) => dist[id]!));
   const empatados = validos.filter((id) => dist[id] === menor);
-  const melhorChute = Math.min(...empatados.map((id) => chutes[id] as number));
-  const vencedores = empatados.filter((id) => chutes[id] === melhorChute);
+  const efetivo = (id: string) => chuteNaPrecisao(resposta, chutes[id] as number);
+  const melhorChute = Math.min(...empatados.map(efetivo));
+  const vencedores = empatados.filter((id) => efetivo(id) === melhorChute);
   for (const id of vencedores) pontos[id] = menor === 0 ? PONTOS.cravou : PONTOS.perto;
   return { vencedores, pontos, dist };
 }
